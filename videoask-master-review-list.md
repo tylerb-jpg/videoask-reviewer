@@ -1,6 +1,6 @@
 # VideoAsk Master Review List
 
-**Generated:** 2026-03-30 22:00 MST
+**Generated:** 2026-03-30 22:10 MST
 **Source:** VideoAsk API transcripts + BigQuery teacher records
 **Status:** Deep review complete — all 231 backlog candidates evaluated with full transcript analysis
 
@@ -282,9 +282,9 @@
 Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** Unknown
-**Location:** Georgia (inferred from phone area code)
+**Location:** Georgia
 
-**Summary:** Could not assess Eila's experience — transcript may be missing or garbled. Only answered 0/5 questions — limited data to evaluate.
+**Summary:** Eila only answered 0/5 content questions — not enough data to properly evaluate.
 
 **🚩 Red Flags:**
 - Only 0/5 questions answered
@@ -299,9 +299,9 @@ Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Eila Nambiar
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience details not available.
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
@@ -310,10 +310,10 @@ Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 📧 olin5100@yahoo.com | 📱 (816) 777-7011 | 📍 Georgia
 Questions: 3/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — Boys & Girls Club (counselor)
+**Location:** Georgia
 
-**Summary:** Nikkia has formal childcare experience (boys and girls club). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nikkia needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -334,22 +334,22 @@ Questions: 3/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Nikkia jackson
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). boys and girls club experience.
+> 03/30 Intro Call Passed. Georgia. Boys & Girls Club experience.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #3 — ✅ APPROVE (MEDIUM) — Jazmine Toy *(posted to Slack)*
 
-📧 toyjazmine@gmail.com | 📱 (404) 683-8858 | 📍 Georgia
+📧 toyjazmine@gmail.com | 📱 (404) 683-8858 | 📍 Atlanta Georgia and I'm willing to travel to 15 to 20 miles for any job
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 
-**Experience:** Mixed
-**Location:** I live in Atlanta Georgia and I'm willing to travel to 15 to 20 miles for any job.
-**Schedule:** I am looking for part-time jobs and I'm available Monday through Friday.
+**Experience:** Mixed (babysitter). Ages: infants, preschool-age
+**Location:** Atlanta Georgia and I'm willing to travel to 15 to 20 miles for any job, 15-20 miles
+**Schedule:** part-time
 
-**Summary:** Jazmine has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jazmine has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -370,20 +370,20 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 🔗 **App Account:** 🟢 Jazmine  Toy
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta Georgia and I'm willing to travel to 15 to 20 miles for any job., 15-20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia and I'm willing to travel to 15 to 20 miles for any job, 15-20 miles. babysitter. Worked with infants, preschool-age. Looking for part-time.
 
 ---
 
 ### #4 — ✅ APPROVE (HIGH) — Oyanioye Eke *(posted to Slack)*
 
-📧 eke292@gmail.com | 📱 (404) 441-8433 | 📍 Georgia
+📧 eke292@gmail.com | 📱 (404) 441-8433 | 📍 Jonesboro Georgia, Clayton County
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (14yr)
-**Location:** I am located in Jonesboro Georgia, Clayton County.
-**Schedule:** I am interested in full-time opportunities.
+**Experience:** Formal — daycare, 14+ years. Ages: preschool-age, teens
+**Location:** Jonesboro Georgia, Clayton County
+**Schedule:** full-time
 
-**Summary:** Oyanioye has formal childcare experience with 14+ years (daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Oyanioye is a strong candidate — daycare experience with 14+ years. Has worked with preschool-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -396,7 +396,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I am interested in full-time opportunities.
 
-**Q6 — Conflict Resolution:** The way I would handle the situation usually is I obviously separate the children that are in the conflict and I would listen to each of them just to see their point of view is because I believe listening to Children makes them feel heard and also it makes you understand what is going on. And obviously I do not pick sides. So I will try to reassure the make sure that hate this is not right? This i...
+**Q6 — Conflict Resolution:** The way I would handle the situation usually is I obviously separate the children that are in the conflict and I would listen to each of them just to see their point of view is because I believe listening to Children makes them feel heard and also it makes you understand what is going on. And obviously I do not pick sides. So I will try to reassure the make sure that hate this is not right? This is not good but y'all need to apologize to each other or
+ Hey, let's come to an agreement. You know, just a in the middle ground situation for this particular thing.
 
 **Q7 — Why Great:** I believe, I will make a great teacher because of my background, my skills and also my upbringing, like I said I did grow up in the daycare for most of my life up until 15 years old. So I have the knowledge of the ins and outs of running and also being a part of a day care.
 
@@ -405,20 +406,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Oyanioye Eke
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Jonesboro Georgia, Clayton County.. 14+ years daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Jonesboro Georgia, Clayton County. 14+ years daycare experience. Worked with preschool-age, teens. Looking for full-time.
 
 ---
 
 ### #5 — ✅ APPROVE (HIGH) — Amber botts *(posted to Slack)*
 
-📧 amber_botts@icloud.com | 📱 (839) 866-1144 | 📍 Georgia
+📧 amber_botts@icloud.com | 📱 (839) 866-1144 | 📍 I'm located in the Augusta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (35yr)
-**Location:** I'm located in the Augusta. Georgia area.
-**Schedule:** I'm looking for full-time work. I'm available any day at any time, I do not have any prior engagement.
+**Experience:** Formal — daycare, 35+ years. Ages: toddlers
+**Location:** I'm located in the Augusta
+**Schedule:** full-time
 
-**Summary:** Amber has formal childcare experience with 35+ years (daycare). Good fit for Georgia's moderate experience requirements.
+**Summary:** Amber is a strong candidate — daycare experience with 35+ years. Has worked with toddlers. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **Red Flags:** None
 
@@ -433,14 +434,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** I've dealt with children that hate each other. I tell them Hands Are Not For Hitting, they are for helping, I try to redirect them, let them know what they did. Is not a good thing. Explain to them, that we're not supposed to hit each other and then have them Apollo to have the child apologize and be there for them if they need it. Furthermore,
 
-**Q7 — Why Great:** I would be a great teacher for children because I myself, I love learning. I love being able to teach them the things that I've been in steeled and that I have learned. And I love seeing the progress, they make, while learning being them being so happy and cheerful and just guiding them in the most positive and encouraging ways, and making sure that they know that there's some their words and that...
+**Q7 — Why Great:** I would be a great teacher for children because I myself, I love learning. I love being able to teach them the things that I've been in steeled and that I have learned. And I love seeing the progress, they make, while learning being them being so happy and cheerful and just guiding them in the most positive and encouraging ways, and making sure that they know that there's some their words and that they they are somebody
 
 </details>
 
 🔗 **App Account:** 🟢 Amber Botts
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in the Augusta. Georgia area.. 35+ years daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. I'm located in the Augusta. 35+ years daycare experience. Worked with toddlers. Looking for full-time.
 
 ---
 
@@ -450,9 +451,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** Unclear
-**Location:** Georgia (inferred from phone area code)
+**Location:** Georgia
 
-**Summary:** Angel mentions experience with children but the specifics are unclear from the transcript. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Angel only answered 1/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -461,28 +462,27 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Angel Mills. I do not currently have any previous childcare experience but I have had some health care training in the past, such as medical administrative, assisting and nurse's aid training, I also have food service experience. This would be a great asset in working in a childcare environment. The reason why I would like to pursue a job in the childcare field is because I would like to
- Contribute to being a positive influence for children. The reason why I'm specifically interested in this particular position with up kid is because of the flexible schedule and the opportun...
+ Contribute to being a positive influence for children. The reason why I'm specifically interested in this particular position with up kid is because of the flexible schedule and the opportunity to gain new experience in childcare.
 
 </details>
 
 🔗 **App Account:** 🟢 Angel Mills
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience with children (specifics unclear from interview).
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview).
 
 ---
 
 ### #7 — ✅ APPROVE (MEDIUM) — Kenya *(posted to Slack)*
 
-📧 kenyamccord9@gmail.com | 📱 (803) 761-4923 | 📍 Georgia
+📧 kenyamccord9@gmail.com | 📱 (803) 761-4923 | 📍 the small town of Aiken, South Carolina area code will be to 9801
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Mixed
-**Location:** I am located in the small town of Aiken, South Carolina area code will be to 9801. Yeah.
-**Schedule:** So I am looking for pretty much both. I would say and I'm looking for something.
- Early. Like first shift preference.
+**Location:** the small town of Aiken, South Carolina area code will be to 9801
+**Schedule:** flexible
 
-**Summary:** Kenya has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kenya has a mix of formal and informal childcare experience.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=kenyamccord9@gmail.com APP=kenyamccord10@gmail.com
@@ -513,21 +513,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=kenyamccord9@gmail.com APP=kenyamccord10@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in the small town of Aiken, South Carolina area code will be to 9801. Yeah.. Mix of formal and informal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. the small town of Aiken, South Carolina area code will be to 9801. Mix of formal and informal childcare experience. Looking for flexible.
 
 ---
 
 ### #8 — ✅ APPROVE (MEDIUM) — Zaria Strozier *(posted to Slack)*
 
-📧 zarianstrozier@gmail.com | 📱 (470) 585-9327 | 📍 Georgia
+📧 zarianstrozier@gmail.com | 📱 (470) 585-9327 | 📍 Atlanta Georgia specifically the West Midtown area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (21yr)
-**Location:** I live in Atlanta Georgia specifically the West Midtown area. I'm willing to travel 25 miles to any ships.
-**Schedule:** I'm currently working part time now, but I would like to find a full-time job.
- I had my availability. I might have online classes, so I'm free pretty much Monday through Friday, and I also, I'm in another program. So, Saturdays are unavailable, but ...
+**Experience:** Mixed — camp counselor (nanny), 21+ years. Ages: teens
+**Location:** Atlanta Georgia specifically the West Midtown area, 25 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Zaria has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Zaria has a mix of formal (camp counselor) and informal (nanny) experience. Currently studying education/child development, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -542,30 +541,30 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm currently working part time now, but I would like to find a full-time job.
  I had my availability. I might have online classes, so I'm free pretty much Monday through Friday, and I also, I'm in another program. So, Saturdays are unavailable, but Monday through Friday and Sundays are free for me.
 
-**Q6 — Conflict Resolution:** I deal with conflict pretty calmly. If a situation, if a situation arises where I need to raise my voice, I will. It just depends on the situation if a child hits another. I'll immediately check on the child that got hit. I asked what happened and I do, what needs to be done in this situation, whether that being that means, send the child that hit the other child to the office or, and I talked to ...
+**Q6 — Conflict Resolution:** I deal with conflict pretty calmly. If a situation, if a situation arises where I need to raise my voice, I will. It just depends on the situation if a child hits another. I'll immediately check on the child that got hit. I asked what happened and I do, what needs to be done in this situation, whether that being that means, send the child that hit the other child to the office or, and I talked to them and they, I make sure that the other apologizes
+ and I just restate the rules, it just depends
 
-**Q7 — Why Great:** For starters, I plan to go into education and work with children but also because I have this time and I have the patience to deal with any type of child. Whether that be a child, who needs a little more patience or little more time. I do a childhood children who are high energy and sometimes need a high-energy teacher and just I can fit into any situation with any child and I think that'll make m...
+**Q7 — Why Great:** For starters, I plan to go into education and work with children but also because I have this time and I have the patience to deal with any type of child. Whether that be a child, who needs a little more patience or little more time. I do a childhood children who are high energy and sometimes need a high-energy teacher and just I can fit into any situation with any child and I think that'll make me a great up kid teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Zaria  Strozier
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta Georgia specifically the West Midtown area. I'm willing to travel 25 miles to any ships., 25 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia specifically the West Midtown area, 25 miles. 21+ years camp counselor experience. Worked with teens. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #9 — ✅ APPROVE (HIGH) — Keyonna Anthony *(posted to Slack)*
 
-📧 keyonnaanthony2001@gmail.com | 📱 (470) 535-8621 | 📍 Georgia
+📧 keyonnaanthony2001@gmail.com | 📱 (470) 535-8621 | 📍 I'm located in Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in Atlanta, Georgia, my zip code is 30 349 and I'm willing to for about 10 to 15 miles per hour, shifts.
-**Schedule:** I'm looking.
- For like part-time and full-time. Is that makes sense like I'm in school. So having flexibility is very important to me. And I am available like as needed because I am in school, but if I'm able to see the shifts like that are being off...
+**Experience:** Formal — daycare, preschool, elementary school. Ages: infants, preschool-age, school-age
+**Location:** I'm located in Atlanta, 10-15 miles
+**Schedule:** full-time, part-time (school schedule, afternoons)
 
-**Summary:** Keyonna has formal childcare experience (early childhood, preschool, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Keyonna is a strong candidate — daycare, preschool, elementary school experience. Has worked with infants, preschool-age, school-age. Currently studying education/child development. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -578,32 +577,32 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I'm looking.
  For like part-time and full-time. Is that makes sense like I'm in school. So having flexibility is very important to me. And I am available like as needed because I am in school, but if I'm able to see the shifts like that are being offered, then
- Yeah, I can go based off of that, but ...
+ Yeah, I can go based off of that, but so far, I know for sure I'm available on Mondays. Wednesdays, Thursdays and Fridays. Well, Thursday, afternoons and products Tuesday, does not work for me at all at the moment.
 
 **Q6 — Conflict Resolution:** So, in my experience, Whenever two children have conflict, I always separate them and I kind of keep an eye out, you know, I make sure there's pretty much separated throughout the whole day, you know, based on the severity of the conflict, but overall, just try to keep them separated and I keep an eye out on both of them.
 
 **Q7 — Why Great:** I will make a great teacher at up kid because I absolutely love working with children. Like I mentioned before, I am in college to get my elementary education degree. So this will actually help in both ways like me working and also still been able to be in a school setting. I also love working with kids that is that our early childhood actually
- And I know that will help as well. You know, because...
+ And I know that will help as well. You know, because once Early Childhood transitions to Elementary education, I get to see both ends of the stick.
 
 </details>
 
 🔗 **App Account:** 🟢 Keyonna Anthony
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia, my zip code is 30 349 and I'm willing to for about 10 to 15 miles per hour, shifts., 10-15 miles. early childhood, preschool, daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta, 10-15 miles. daycare, preschool, elementary school experience. Worked with infants, preschool-age, school-age. Currently studying education/child development. Looking for full-time, part-time (school schedule, afternoons).
 
 ---
 
 ### #10 — ✅ APPROVE (LOW) — Aiyanna *(posted to Slack)*
 
-📧 aiyannamartin11@gmail.com | 📱 (404) 916-6277 | 📍 Georgia
+📧 aiyannamartin11@gmail.com | 📱 (404) 916-6277 | 📍 Hi. I am looking in
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** Hi. I am looking in, McDonough, Georgia, and I'm willing to travel anywhere with the McDonough Georgia because it's close enough. And convenient for me to be there on time or for anything like to be o...
-**Schedule:** Hi, I can work part-time and I can work Monday through Friday. We could do a flexible schedule. Just anything ASAP.
+**Location:** Hi. I am looking in, anywhere
+**Schedule:** part-time (wants to start ASAP)
 
-**Summary:** Aiyanna mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Aiyanna mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -625,7 +624,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Aiyanna Martin
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi. I am looking in, McDonough, Georgia, and I'm willing to travel anywhere with the McDonough Georgia because it's close enough. And convenient for m. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Hi. I am looking in, anywhere. Childcare experience (details in interview). Looking for part-time (wants to start ASAP).
 
 ---
 
@@ -634,10 +633,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 niyannaherd75@gmail.com | 📱 (470) 854-5246 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Unclear (21yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Unclear, 21+ years. Ages: infants
+**Location:** Georgia
 
-**Summary:** Niyanna mentions experience with children but the specifics are unclear from the transcript. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Niyanna only answered 1/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -647,27 +646,28 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Q3 — Experience:** Hi. My name is Diana heard and I'm 21 years old. So I don't really have background Spirits with child care but I do have experience with helping family and friends with their kids. They were infants through 10 years old so I definitely you know have experience working with you know babies through 10 years old but they were definitely fun to take care of though. Helping kids is like it's an amazing amazing experience since it's also like a lesson
  For me like since I don't have my own kids like it just it teaches me things. I didn't know that should not that, I can. I know now um,
- Bringing lik...
+ Bringing like you're bringing smiles to their faces and like, happiness, and to them is, is incredible. Like, kids being kids, just being playful joyful and like having nothing to worry about it. Just like, that's what I want to know. Teach kids like don't worry about anything right now. Just having joy and smiles on your faces. Like, that's it, that's all. So, yeah, so I just and I love seeing kids being moved by like
+ The littlest things different things that didn't know. Like you just teach them about different things like oh, wow, stuff like that. Um, yeah, like knowing that, you know, by the end of the day that they will be joyful, that it will have Smiles on their faces. Yeah. Like they will help you go home worry about anything. So yes,
 
 </details>
 
 🔗 **App Account:** 🟢 Niyanna Herd
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience with children (specifics unclear from interview).
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview). Worked with infants.
 
 ---
 
 ### #12 — ✅ APPROVE (HIGH) — Joanna Oshida
 
-📧 joannaoshida@gmail.com | 📱 (408) 634-2119 | 📍 Utah
+📧 joannaoshida@gmail.com | 📱 (408) 634-2119 | 📍 Provo Utah, and I'm willing to travel up to 30 miles
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Formal
-**Location:** I live in Provo Utah, and I'm willing to travel up to 30 miles.
-**Schedule:** I'm looking for part-time shifts and I'm available in the morning and early afternoons.
+**Location:** Provo Utah, and I'm willing to travel up to 30 miles, 30 miles
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Joanna has formal childcare experience in a professional setting. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Joanna has solid formal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -689,20 +689,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Joanna Oshida
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Provo Utah, and I'm willing to travel up to 30 miles. Formal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Provo Utah, and I'm willing to travel up to 30 miles, 30 miles. Childcare experience (details in interview). Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #13 — ✅ APPROVE (MEDIUM) — Savannah Pettigrew
 
-📧 vannyelyse2@gmail.com | 📱 (478) 318-5051 | 📍 Georgia
+📧 vannyelyse2@gmail.com | 📱 (478) 318-5051 | 📍 Atlanta, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm in Atlanta, Georgia. I'm willing to travel about 10 to 15 miles from Georgia State campus. Depending on the shift in timing, I'll be using Uber. So I want to make sure I am reliable in on time for...
-**Schedule:** I'm looking for a part-time opportunities but I do have the availability to take on more hours and work closer to full time. I'm available most weekdays during the day and I have flexibility with my schedule. I'm also open to picking up chips as need...
+**Experience:** Mixed (babysitter). Ages: infants, school-age
+**Location:** Atlanta, Georgia, 10-15 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Savannah has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Savannah has a mix of formal and informal childcare experience. Currently college student, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -710,35 +710,37 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Savannah Pettigrew. I'm currently a college student studying business. I am a very responsible patient and dependable person and I really enjoy working with children. I've had experience caring for kids, through babysitting and helping with children in my family, also, youth mentoring over the summer at camps, working with different age. Groups from infants to school-aged Children. I'm comfortable helping with things like playtime, basic routines and making sure
- your children feel safe and supported. I enjoy working with children because I like creating a positive and fun envir...
+ your children feel safe and supported. I enjoy working with children because I like creating a positive and fun environment where they can learn grow and feel comfortable. I'm also very attentive and make sure I'm always focused on their safety and ease. I'm interested in working with up kid because I like the flexibility and the opportunity to gain more hands-on experience in different childcare settings while also supporting centers and families. Overall, on reliable easy to work with and I
+ I'm excited for the opportunity to be a part of your team.
 
 **Q4 — Location:** I'm in Atlanta, Georgia. I'm willing to travel about 10 to 15 miles from Georgia State campus. Depending on the shift in timing, I'll be using Uber. So I want to make sure I am reliable in on time for every shift.
 
 **Q5 — Schedule:** I'm looking for a part-time opportunities but I do have the availability to take on more hours and work closer to full time. I'm available most weekdays during the day and I have flexibility with my schedule. I'm also open to picking up chips as needed especially when I'm available.
 
-**Q6 — Conflict Resolution:** When I deal with conflict between two children, I stayed calm and make sure everyone is safe. First. I listened to both children so I can understand what happened. And I make sure each child feels heard then I help them understand what they did wrong in a calm and respectful way. And I guide them toward a better way to handle the situation like using their words or taking turns I focus on solving ...
+**Q6 — Conflict Resolution:** When I deal with conflict between two children, I stayed calm and make sure everyone is safe. First. I listened to both children so I can understand what happened. And I make sure each child feels heard then I help them understand what they did wrong in a calm and respectful way. And I guide them toward a better way to handle the situation like using their words or taking turns I focus on solving the problem and helping them learn rather rather than just punishing them.
 
-**Q7 — Why Great:** I believe I would make a great up kid teacher, because I'm responsible dependable, and I genuinely enjoy working with children. I am very patient and intensive. And I always made sure. Children feel safe supported and engaged. I also have experience caring for kids, through babysitting and mentoring. So I understand how to manage different personalities and create positive environments. I'm a quic...
+**Q7 — Why Great:** I believe I would make a great up kid teacher, because I'm responsible dependable, and I genuinely enjoy working with children. I am very patient and intensive. And I always made sure. Children feel safe supported and engaged. I also have experience caring for kids, through babysitting and mentoring. So I understand how to manage different personalities and create positive environments. I'm a quick learner. I follow directions well and I'm always willing to step in and help whenever I'm
+ Eat it overall, I bring a positive attitude, strong work ethic, and I am committed to providing the best care possible.
 
 </details>
 
 🔗 **App Account:** 🟢 Savannah Pettigrew
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm in Atlanta, Georgia. I'm willing to travel about 10 to 15 miles from Georgia State campus. Depending on the shift in timing, I'll be using Uber. S, 10-15 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta, Georgia, 10-15 miles. babysitter. Worked with infants, school-age. Currently college student. Looking for full-time, part-time.
 
 ---
 
 ### #14 — ✅ APPROVE (HIGH) — Makiya Meredith
 
-📧 makiyacmeredith@gmail.com | 📱 (770) 371-6914 | 📍 Georgia
+📧 makiyacmeredith@gmail.com | 📱 (770) 371-6914 | 📍 Conyers Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I stay in Conyers Georgia, which is near Lithonia and the Stonecrest area and I willing to travel no more than 45 minutes, I'll keep it 45 minutes.
-**Schedule:** I do prefer a full-time position, and I have open availability, including the weekends after school hours as well.
+**Experience:** Formal — daycare, elementary school (floater). Ages: infants, preschool-age, school-age
+**Location:** Conyers Georgia, 45 miles
+**Schedule:** full-time (school schedule, weekends available)
 
-**Summary:** Makiya has formal childcare experience (teacher, daycare). Good fit for Georgia's moderate experience requirements.
+**Summary:** Makiya is a strong candidate — daycare, elementary school experience. Has worked with infants, preschool-age, school-age. Currently studying education/child development. ⚠️ Conflict resolution answer has concerning language — Erica should review. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -746,37 +748,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Micaiah Meredith and I have four years experience with early childcare. I work with to daycares in the past one day care of words for about a year and a half. While in school for elementary education, I did come back to Atlanta and I worked at Pride and Joy daycare for two years and some change. Maybe two years, and three months.
- Months I worked at Pride and Joy daycare where I was a floater primarily working with infants and two year old classroom, but I would go through a lot of the classroom, mostly all of them and flow and replace teachers are they need to you know go step ...
+ Months I worked at Pride and Joy daycare where I was a floater primarily working with infants and two year old classroom, but I would go through a lot of the classroom, mostly all of them and flow and replace teachers are they need to you know go step to the restroom take a lunch or whatever needs to be done. I am in school pursuing my bachelor's degree in elementary education.
+ Where I hope to be a elementary school teacher. I'm still figuring out the age range that I would like to teach but I think right now, I'm thinking about third grade, I love kids, I love watching them, grow, learn new things, catch on to things, that may have been challenging before and just seeing their overall progress and knowing that I was a helping hand to help them get from
+ Point A to point B is one of the reasons why I love teaching and is why I'm getting my degree in elementary education as well as to make it a career.
 
 **Q4 — Location:** I stay in Conyers Georgia, which is near Lithonia and the Stonecrest area and I willing to travel no more than 45 minutes, I'll keep it 45 minutes.
 
 **Q5 — Schedule:** I do prefer a full-time position, and I have open availability, including the weekends after school hours as well.
 
 **Q6 — Conflict Resolution:** With me personally, especially being in the two-year-old classroom. It's pretty early on if two kids were ticket to fighting, which it has happened in the past when hits another, or I've had a fighter and my class before I would use it as a learning experience, I would break it down to that student, and let them know that it's not nice and their friends. That's not
- With friends, you know, would d...
+ With friends, you know, would do two other friends, teach them empathy, teach them to say, I'm sorry and hug it out at the end. That's how I've done it before. It seems to work for me. You know, as long as you break it down clearly and say hey this is your friend, you would not do this to your friend. It's not nice. It's not something that you want to do to a friend or anyone else, a sorry. Give a hug and then
+ Go from there.
 
 **Q7 — Why Great:** I think I'll be a great fit because I could buy and working with children. My experience as well as committed to being a educator. Also I have four years of daycare experience and my current studies and Elementary education. I think I understand how to manage the classroom settings, keep students engaged, and create a positive structure environment.
- I'm also Dependable. I'm quick to adapt to new ...
+ I'm also Dependable. I'm quick to adapt to new things and new environments. I'm confident stepping into the classroom and making sure that the teachers as well as the students feel supported.
 
 </details>
 
 🔗 **App Account:** 🟢 Makiya Meredith
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I stay in Conyers Georgia, which is near Lithonia and the Stonecrest area and I willing to travel no more than 45 minutes, I'll keep it 45 minutes., 45 miles. teacher, daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Conyers Georgia, 45 miles. daycare, elementary school experience. Worked with infants, preschool-age, school-age. Currently studying education/child development. Looking for full-time (school schedule, weekends available).
 
 ---
 
 ### #15 — ✅ APPROVE (HIGH) — Makenna Fletcher
 
-📧 makennabfletcher@gmail.com | 📱 (385) 450-8851 | 📍 Utah
+📧 makennabfletcher@gmail.com | 📱 (385) 450-8851 | 📍 the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (45mo)
-**Location:** Currently I live in the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah and I'm willing to drive all the way up to Salt Lake. If needed to find shifts, I am more than happy to driv...
-**Schedule:** I would prefer part-time work, I'll be a student as well as working. And so, afternoon to evening, would be best from two to overly is needed. So that would work, that would be preferable.
+**Experience:** Formal — church childcare, kindergarten, middle school, 45 months. Ages: school-age, teens
+**Location:** the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah
+**Schedule:** part-time (school schedule, afternoons/evenings)
 
-**Summary:** Makenna has formal childcare experience with 45 months (kindergarten). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Makenna is a strong candidate — church childcare, kindergarten, middle school experience. Has worked with school-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -784,35 +789,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is McKenna Fletcher. I worked as a rhesus aid for two years at the John Hancock. Charter School in Eagle Mountain. I loved it there. I worked with kids in kindergarten all the way up to middle school and it was such a neat experience to be able to work with them and to help them learn and grow and to just feel appreciated and loved as they came. And as I got to work with them, it was such a needy opportunity for me.
- I also served a mission for the Church of Jesus Christ of Latter-day, Saints, and 45 months to that mission. I served as adaptive. Need Seminary aid for youth ages, 14...
+ I also served a mission for the Church of Jesus Christ of Latter-day, Saints, and 45 months to that mission. I served as adaptive. Need Seminary aid for youth ages, 14 to 22, and it was really neat to be able to help them understand the gospel in such a different way than I would teach any others. And it was really neat to be able to
+ To help them grow and to teach them all those things that they needed to learn. I've always loved working with children. They've always brought me so much joy and it's just amazing knowing that I get to have an impact and that these kids lives and help them become better versions of themselves as well.
 
 **Q4 — Location:** Currently I live in the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah and I'm willing to drive all the way up to Salt Lake. If needed to find shifts, I am more than happy to drive and I have no problem with that.
 
 **Q5 — Schedule:** I would prefer part-time work, I'll be a student as well as working. And so, afternoon to evening, would be best from two to overly is needed. So that would work, that would be preferable.
 
-**Q6 — Conflict Resolution:** I always like to figure out what started the argument in the first place and I've met some students. Don't always know why the argument started but getting kind of a general idea of what what they were feeling at the time. But then also trying to teach them, the importance of communication and talking with one another or talking with the teacher rather than getting upset with one another and getti...
+**Q6 — Conflict Resolution:** I always like to figure out what started the argument in the first place and I've met some students. Don't always know why the argument started but getting kind of a general idea of what what they were feeling at the time. But then also trying to teach them, the importance of communication and talking with one another or talking with the teacher rather than getting upset with one another and getting angry.
+ To just calmly, explain what it is that they, they need. And of course, I always believe in, in apologizing, on both sides, whoever with fault was because it just teaches the kids, the importance of humility, and being able to communicate with one another,
 
-**Q7 — Why Great:** Working with kids, has always been a passion of mine. And I've always had a great love for for kids, and for Youth and just being able to teach them. So, I think I'd make a great up, kid teacher because I, I love the kids so much whether I just met them or not. I've learned to be able to help them feel that love and that appreciation. I'm also a very hard worker and very diligent in everything tha...
+**Q7 — Why Great:** Working with kids, has always been a passion of mine. And I've always had a great love for for kids, and for Youth and just being able to teach them. So, I think I'd make a great up, kid teacher because I, I love the kids so much whether I just met them or not. I've learned to be able to help them feel that love and that appreciation. I'm also a very hard worker and very diligent in everything that I do. And I try my best to exemplify a good role model for those.
+ Those around me.
 
 </details>
 
 🔗 **App Account:** 🟢 Makenna Fletcher
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Currently I live in the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah and I'm willing to drive all the way up to Salt Lake. If n. kindergarten experience. Looking for part-time.
+> 03/30 Intro Call Passed. the Eagle Mountain Utah area but I'll be moving shortly up to Orem Utah. 45 months church childcare, kindergarten, middle school experience. Worked with school-age, teens. Looking for part-time (school schedule, afternoons/evenings).
 
 ---
 
 ### #16 — 🟡 FLAG (MEDIUM) — Breanna McGee
 
-📧 bre.mcgee98@gmail.com | 📱 (470) 494-9464 | 📍 Georgia
+📧 bre.mcgee98@gmail.com | 📱 (470) 494-9464 | 📍 Lithonia Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I am currently located in Lithonia Georgia. It's about 25 minutes outside of Atlanta and I'm willing to drive, up to 45 minutes, depending on the shift.
-**Schedule:** I currently I'm looking for part-time work. Just well, I'm going to school and I was raising my son. So I'm just looking to pick up some shows here. And there, my availability is very flexible and I can work most days out of the week, it really just ...
+**Experience:** Informal (babysitter). Ages: infants
+**Location:** Lithonia Georgia, 25 miles
+**Schedule:** part-time (school schedule)
 
-**Summary:** Breanna's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica.
+**Summary:** Breanna's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -828,7 +836,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I currently I'm looking for part-time work. Just well, I'm going to school and I was raising my son. So I'm just looking to pick up some shows here. And there, my availability is very flexible and I can work most days out of the week, it really just depends on the week.
 
-**Q6 — Conflict Resolution:** So if a child had another child in their classroom, one of the easiest ways to deal with that, is really just to set both children down depending on the age, obviously. And mostly just redirect and be like, hey, we use soft hands. We don't hit our friends and just redirect them into like other tasks and stuff like that. That seems to work the best in my opinion as far as breaking up, especially wi...
+**Q6 — Conflict Resolution:** So if a child had another child in their classroom, one of the easiest ways to deal with that, is really just to set both children down depending on the age, obviously. And mostly just redirect and be like, hey, we use soft hands. We don't hit our friends and just redirect them into like other tasks and stuff like that. That seems to work the best in my opinion as far as breaking up, especially with the littler kids were just like, oh, that Mom.
+ We go play over here instead. The kind of just like, oh, okay, cool. And I kind of forget what they were. They were fighting about
 
 **Q7 — Why Great:** I think it would make a great up kid teacher just because I love children. Like I said, previously, I'm looking to go into Pediatrics. I have a son of my own help, raise my niece and like, said, many years of nannying and babysitting experience, and I just like that, I just love kids and I think I'd make a great employee. I'm just doing my passion there,
 
@@ -837,22 +846,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Breanna McGee
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am currently located in Lithonia Georgia. It's about 25 minutes outside of Atlanta and I'm willing to drive, up to 45 minutes, depending on the shif, 25 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Lithonia Georgia, 25 miles. babysitter. Worked with infants. Currently studying nursing/medical. Looking for part-time (school schedule).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am currently located in Lithonia Georgia. It's about 25 minutes outside of Atlanta and I'm willing to drive, up to 45 minutes, depending on the shif. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Lithonia Georgia. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #17 — ✅ APPROVE (HIGH) — Brian Long
 
-📧 blong4267@gmail.com | 📱 (706) 469-8586 | 📍 Georgia
+📧 blong4267@gmail.com | 📱 (706) 469-8586 | 📍 I currently reside here in Augusta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I currently reside here in Augusta Georgia, and really, I can travel wherever wherever you guys can place me.
-**Schedule:** I'm currently looking for full-time work and my availability is open to any so whatever whatever you guys can fit for me.
+**Experience:** Formal — Head Start (floater). Ages: preschool-age
+**Location:** I currently reside here in Augusta Georgia, anywhere
+**Schedule:** full-time
 
-**Summary:** Brian has formal childcare experience (head start). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Brian is a strong candidate — Head Start experience. Has worked with preschool-age. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **Red Flags:** None
 
@@ -867,31 +876,31 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm currently looking for full-time work and my availability is open to any so whatever whatever you guys can fit for me.
 
 **Q6 — Conflict Resolution:** Wow. When I work for Head Start school before here in Augusta Georgia, there was a conflict. I have to deal with with an autistic child versus a regular child.
- The regular child didn't quite understand why the artistic baby was doing what he was doing, and I had to explain to him that he's normal, but he's not like him. So he has some type. He have some kind of mental ability to where he may not,...
+ The regular child didn't quite understand why the artistic baby was doing what he was doing, and I had to explain to him that he's normal, but he's not like him. So he has some type. He have some kind of mental ability to where he may not, can adjust himself more than him. And so I had to teach the kids that
+ They're different than you but they're not different to you if they make sense.
 
 **Q7 — Why Great:** I feel that I would make a great up kid teacher because like I said, I have a passion for kids. I've always had a passion for children, like I said, just just watching them grow and learn each day day today, just really knows my heart and I feel that some kids need that that teacher but parent role as well because maybe they're not getting what they need at home. So maybe they can
- Get it at the s...
+ Get it at the school. So I'm all about helping the kids, wherever teeny up at, where they wherever they lack at. And so that's my main goal is just to get them where they need to be.
 
 </details>
 
 🔗 **App Account:** 🟢 Brian Long
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently reside here in Augusta Georgia, and really, I can travel wherever wherever you guys can place me.. head start experience. Looking for full-time.
+> 03/30 Intro Call Passed. I currently reside here in Augusta Georgia, anywhere. Head Start experience. Worked with preschool-age. Looking for full-time.
 
 ---
 
 ### #18 — 🟡 FLAG (MEDIUM) — Alexus Sterling
 
-📧 sterlingalexus23@gmail.com | 📱 (470) 696-5568 | 📍 Georgia
+📧 sterlingalexus23@gmail.com | 📱 (470) 696-5568 | 📍 I am currently in Riverdale
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (26yr)
-**Location:** I am currently in Riverdale, Georgia also located by Giants burrow in the Clayton County area. I'm also a prostitute College Park.
- I am willing to travel between 5 to 30 miles.
-**Schedule:** I am looking for a part-time and full-time work. My schedule can start as early as 8 and and as late as 6 p.m. what could actually start as early as 6 a.m. actually
+**Experience:** Informal (babysitter), 26+ years. Ages: infants, preschool-age
+**Location:** I am currently in Riverdale, 5-30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Alexus's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Alexus's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -918,11 +927,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Alexus Sterling
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am currently in Riverdale, Georgia also located by Giants burrow in the Clayton County area. I'm also a prostitute College Park.
- I am willing to tr, 5-30 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I am currently in Riverdale, 5-30 miles. 26+ years as babysitter. Worked with infants, preschool-age. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am currently in Riverdale, Georgia also located by Giants burrow in the Clayton County area. I'm also a prostitute College Park.
- I am willing to tr. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. I am currently in Riverdale. Only informal experience — Georgia prefers formal.
 
 ---
 
@@ -931,10 +938,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 charita.pennbestmomclub@outlook.com | 📱 (678) 532-2558 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal (39yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal, 39+ years. Ages: preschool-age, teens
+**Location:** Georgia
 
-**Summary:** Charita has formal childcare experience with 39+ years in a professional setting. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Charita only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: Peter. Hello, my name is cherisa pin. I have over 25 years of childcare experience, I have been work...
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -947,7 +954,7 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Q3 — Experience:** Peter. Hello, my name is cherisa pin. I have over 25 years of childcare experience, I have been working with children. Since I was 13 years old. I am 39 years old. I love working with children. I have the ability to teach and I have the ability to potty train.
  I can work with all ages of children. I love working with children. Children are my world and childcare is my favorite thing to do. I worked in the school system. I retire from the school system from nutrition. I can cook. I can clean. I really have the ability.
- I'm working with the ability of working with children, with all eight of a...
+ I'm working with the ability of working with children, with all eight of all ages. Could you please give me a call if you need me to help you at your Center or at your school? Could you please give me a call? Thank you.
 
 </details>
 
@@ -955,9 +962,9 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 ⚠️ email: VA=charita.pennbestmomclub@outlook.com APP=charita.penn@outlook.com
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). 39+ years Formal childcare experience.
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview). Worked with preschool-age, teens.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
@@ -966,10 +973,10 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 📧 popelizabeth2007@gmail.com | 📱 (770) 500-7086 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal (13yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — daycare, Sunday school, church childcare, 13+ years. Ages: preschool-age, school-age, teens
+**Location:** Georgia
 
-**Summary:** Anca has formal childcare experience with 13+ years (teacher). Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Anca only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: Hi, my name is Uncle. I have a little bit of experience for over about two and a half years, 13 year...
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -980,29 +987,29 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Uncle. I have a little bit of experience for over about two and a half years, 13 years by becoming a Sunday school teacher at my church. So I feel like it is very close to working day care or very similar to working. In a school. I have worked with the ages of 6 to 13, so it gives me a little bit of more.
- Comfortability between those ages. Why I love working with kids is to know that parents know that there is other people who can support their kids as well. I know that they're not alone and it allows me to build my scales in the Department's of better. Communication, a friendl...
+ Comfortability between those ages. Why I love working with kids is to know that parents know that there is other people who can support their kids as well. I know that they're not alone and it allows me to build my scales in the Department's of better. Communication, a friendly, you know, making decisions me being in charge so I feel like I would be a great fit for it.
 
 </details>
 
 🔗 **App Account:** 🟢 Anca Pop
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). 13+ years teacher experience.
+> 03/30 Intro Call Passed. Georgia. 13+ years daycare, Sunday school, church childcare experience. Worked with preschool-age, school-age, teens.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #21 — ✅ APPROVE (MEDIUM) — Mackenzie Fenelon
 
-📧 smileykenzie16@gmail.com | 📱 (603) 241-6012 | 📍 Arizona
+📧 smileykenzie16@gmail.com | 📱 (603) 241-6012 | 📍 Gilbert Arizona basically, on the line of like miso and Gilbert
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I live in Gilbert Arizona basically, on the line of like miso and Gilbert. But I am willing to drive between 30 to 45 minutes if needed.
-**Schedule:** I'm open to doing part time or full time and looking to just work Monday through Friday and have my Saturdays and Sundays called. But during the week, it is open availability.
+**Experience:** Mixed (nanny). Ages: infants, preschool-age, teens
+**Location:** Gilbert Arizona basically, on the line of like miso and Gilbert, 30-45 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Mackenzie has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Mackenzie has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -1010,7 +1017,11 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Mackenzie. I have a bunch of experience with all ages kids. A lot of them were younger like newborns up to maybe like three, but I do have experienced up til I preteens. I worked for a nanny agency or every day, I would go to a different house. So I had to learn different like, parenting techniques because I've obviously every parent has different things that they like to do. So I got to Langley
- Learn how to kind of adapt a different techniques that every parent had I would watch between one to three kids, when I would go to their houses and it was a different house almost ever...
+ Learn how to kind of adapt a different techniques that every parent had I would watch between one to three kids, when I would go to their houses and it was a different house almost every day. Sometimes it would be the same at times depending on if they need like multiple days. I also helped raise my two nieces from newborn, so I got to, you know, have them. And I'll get them potty-trained. Got them used to.
+ you know, like solid foods
+ And everything like that. So that was good to be able to do. I also would watch all of my friends kids
+ and one of them was autistic. So at got to learn how to handle a child that is autistic on the autism spectrum, like learning which some scent like sensory things that they liked and what like would set them to go and to you know, just one of the victim would think that they would sometimes have. But so that was good to also be able to learn that. I've always loved working with kids ever since I was younger just because it was
+ Is like a passion that I just love to be able to, you know, make sure the kids are safe. Make sure they're having fun. But yeah, so I've always just would love to have, always loved working with children.
 
 **Q4 — Location:** I live in Gilbert Arizona basically, on the line of like miso and Gilbert. But I am willing to drive between 30 to 45 minutes if needed.
 
@@ -1018,30 +1029,28 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** First, I would immediately step in, to separate the two, the two kids, and then make sure that the one that got hit is okay. And then I would go over to the child that did hit on and just get down on eye level and be firm. But also kind is let them know that this is not allowed. You can't hit other kids who can't hurt anybody, because that just hurts and it's just not allowed.
 
-**Q7 — Why Great:** I think I'd be a great up kid teacher because I'm highly adaptable music, jumping into new situations and being helpful right away. Because I do have a lot of experience with all ages. It would be, I'd be able to pick up any shift that really needed it. I needed like that reliability and that support for the day, but the main thing too, is just making sure that all the kids have a fun and safe day...
+**Q7 — Why Great:** I think I'd be a great up kid teacher because I'm highly adaptable music, jumping into new situations and being helpful right away. Because I do have a lot of experience with all ages. It would be, I'd be able to pick up any shift that really needed it. I needed like that reliability and that support for the day, but the main thing too, is just making sure that all the kids have a fun and safe day, even if like, you know, their normal teacher might be our if they need just
+ Did someone just to jump in for that day?
 
 </details>
 
 🔗 **App Account:** 🟢 Mackenzie  Fenelon
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Gilbert Arizona basically, on the line of like miso and Gilbert. But I am willing to drive between 30 to 45 minutes if needed., 30-45 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Gilbert Arizona basically, on the line of like miso and Gilbert, 30-45 miles. nanny. Worked with infants, preschool-age, teens. Looking for full-time, part-time.
 
 ---
 
 ### #22 — ✅ APPROVE (HIGH) — Khadayjah hester
 
-📧 hesterkhadayjah@gmail.com | 📱 (470) 783-8355 | 📍 Georgia
+📧 hesterkhadayjah@gmail.com | 📱 (470) 783-8355 | 📍 I'm currently located in Forest Park Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm currently located in Forest Park Georgia, 3029 saving I'm willing to do traveling it really, I wouldn't say that it really do matter but if I am able to I mean, I would at least say about
- Within ...
-**Schedule:** Honestly could use a full-time job right now.
- I'm currently working another job Monday through Friday, but if this job goes good, and if I do get the job, I I would definitely want to work full time for you guys.
- My schedule would be flexible and i...
+**Experience:** Formal — daycare. Ages: infants
+**Location:** I'm currently located in Forest Park Georgia, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Khadayjah has formal childcare experience (daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Khadayjah is a strong candidate — daycare experience. Has worked with infants. Currently studying education/child development.
 
 **Red Flags:** None
 
@@ -1049,40 +1058,48 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Khadijah Hester. I currently don't have any experience in child care. I'm currently in school right now in college for early, childhood education being that I want to own my own daycare one day. Um, I've honestly love kids all any, any little kids. I love
- Kids, I've Loved kids since I was a little girl, I always said that I wanted to grow up and deliver babies. I want it to actually be a pediatrician, but I mean, any filled with working with children? I understand we think will be a great fit for me. I love to see them happy. I love to see them smiling, and I love to see them l...
+ Kids, I've Loved kids since I was a little girl, I always said that I wanted to grow up and deliver babies. I want it to actually be a pediatrician, but I mean, any filled with working with children? I understand we think will be a great fit for me. I love to see them happy. I love to see them smiling, and I love to see them learn new things as children. They their minds are like little sponges. So,
+ It's easy to teach you know, it's easy for them to learn and I just I think this would be a great fit for me being that. I want to own my own daycare, so me getting in the field of experiencing what it could possibly be. Like when I definitely do get my own daycare, I would love to
+ Geez, you know, basically learn any information that I need.
 
 **Q4 — Location:** I'm currently located in Forest Park Georgia, 3029 saving I'm willing to do traveling it really, I wouldn't say that it really do matter but if I am able to I mean, I would at least say about
- Within 30 miles, maybe 2030. If that's fine. If you if you guys have any positions that clothes or you know...
+ Within 30 miles, maybe 2030. If that's fine. If you if you guys have any positions that clothes or you know, I'm willing to work with anything that I have.
 
 **Q5 — Schedule:** Honestly could use a full-time job right now.
  I'm currently working another job Monday through Friday, but if this job goes good, and if I do get the job, I I would definitely want to work full time for you guys.
- My schedule would be flexible and it's time anytime you guys need me. So yeah, that r...
+ My schedule would be flexible and it's time anytime you guys need me. So yeah, that really doesn't matter. It's far as my availability. I will be available for you guys full-time. If I can get the full time but if part-time
+ I can be available whenever you guys need me to be available and slee. I could be available whenever you need to
 
 **Q6 — Conflict Resolution:** Okay. If there are two children that are having conflict, I will first and foremost, understand the situation. I need to figure out what the situation is. Why are the two bickering, or whatever? The case may be, I will separate them off into their different situations.
- And if it's a situation where a student has put their hands on another student, I will basically separate them and explain to one...
+ And if it's a situation where a student has put their hands on another student, I will basically separate them and explain to one another day's. Not nice to past leaks, or it's not nice to raise your voice, or whatever the case may be, I will just explain that to them and let them know that that's not right. I will have them apologize.
+ As the correct thing to do.
+ And I will have them sit in timeout for a little sick. It's just just to think about what they're done. What they where they've done, I'm sorry.
+ Yeah, I did this. That's basically how I would go about, handling the situation like that.
 
 **Q7 — Why Great:** I honestly think I would be a great feat, 44 a teacher, because I'm very understanding when it comes to kids. I know kids they bicker and they foot was saying, you know, they hear the intentions and stuff, but I'm very calm with kids. I feel like he's understand me. They love me actually, all I don't know the kid, They Don't Love Me.
- Yeah, I just love. I would really really love the experience of...
+ Yeah, I just love. I would really really love the experience of being a teacher. Honestly I've haven't had the experience and I understood love children like I say I have I wanted to be a pediatrician since a little girl so with this position is very much helping me in the long run because I would be getting more experience of how it would actually be too.
+ All my own daycare, like I would know, you know, certain things, certain situations how to handle certain things. So I very much would love to experience like I think I would be a great fit. I'm very professional, very calm. Yeah I'm very understanding like I said like yeah I love kids. I really do love kids. Say it's just brightens up my day when they're happy and they're smiling.
+ When I get to learn new things and yes I just really want to experience that. That would be a great fit for me. So I feel like I would be a great fit and this would be a great also, be a great learning experience for me. Also
 
 </details>
 
 🔗 **App Account:** 🟢 Khadayjah Hester
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in Forest Park Georgia, 3029 saving I'm willing to do traveling it really, I wouldn't say that it really do matter but if I am a, 30 miles. daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm currently located in Forest Park Georgia, 30 miles. daycare experience. Worked with infants. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #23 — ✅ APPROVE (HIGH) — Kyla Harris
 
-📧 kykyharris02@yahoo.com | 📱 (706) 302-6729 | 📍 Georgia
+📧 kykyharris02@yahoo.com | 📱 (706) 302-6729 | 📍 Hi, I'm located in Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (4yr)
-**Location:** Hi, I'm located in Atlanta. Georgia I am willing to drive about 15 to 20 miles from where I resided.
-**Schedule:** I'm looking for both, I would say on Mondays. I am free until 5:30 on Tuesdays. I am free all day Wednesday's. I'm free until 1:00 Thursdays. I am free in till 4:00 and Fridays and on the weekends, I am free all day.
+**Experience:** Formal — summer camp, elementary school, 4+ years. Ages: infants, preschool-age, school-age
+**Location:** Hi, I'm located in Atlanta, 15-20 miles
+**Schedule:** flexible (weekends available)
 
-**Summary:** Kyla has formal childcare experience with 4+ years (summer camp). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kyla is a strong candidate — summer camp, elementary school experience with 4+ years. Has worked with infants, preschool-age, school-age. Currently college student. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=kykyharris02@yahoo.com APP=kykygarris02@yahoo.com
@@ -1098,9 +1115,13 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm looking for both, I would say on Mondays. I am free until 5:30 on Tuesdays. I am free all day Wednesday's. I'm free until 1:00 Thursdays. I am free in till 4:00 and Fridays and on the weekends, I am free all day.
 
 **Q6 — Conflict Resolution:** When conflict happens, my first priority is safety. If one child hits another, I come and step in right away, separate them, and make sure the child who was hurt. It's okay. Then I address the behavior with the child who hidden who hits in a calm. But firm way, letting them know what. That hidden is not okay, I tried to stay.
- Supportive. So they can learn from the situation where they feel ashame...
+ Supportive. So they can learn from the situation where they feel ashamed at the I'll talk with both children about what happened and give them a chance to express their feelings. I can also help if you don't words and guide them toward better ways to handle the situation like asking for a turn or getting help.
+ I also encourage them to repair the situation like apologizing or checking on the other child. My overall focus is teaching positive communication and helping children, learn how to manage their emotions and resolve conflicts in a healthy way. Whether then,
+ in a violent or
+ uncontrollable way.
 
-**Q7 — Why Great:** I believe I'd be a great up kid teacher because I'm reliable adaptable and Julie, enjoy working with children about comfortable, stepping into a new environment. And quickly building positive relationships with both students and staff. I have a strong understanding of how to create a safe engage in a structured environment while still being flexible to me that you the needs of each child. I also f...
+**Q7 — Why Great:** I believe I'd be a great up kid teacher because I'm reliable adaptable and Julie, enjoy working with children about comfortable, stepping into a new environment. And quickly building positive relationships with both students and staff. I have a strong understanding of how to create a safe engage in a structured environment while still being flexible to me that you the needs of each child. I also focused a lot on communication whether
+ that's helping children Express themselves or keeping staff informed, and supported. By most importantly, I bring a positive attitude and patients into every classroom. I enjoy meaningful connections with kids and helping them feel supported and confident. I think those qualities along with my flexibility. Make a strong fit for up kid.
 
 </details>
 
@@ -1108,20 +1129,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=kykyharris02@yahoo.com APP=kykygarris02@yahoo.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi, I'm located in Atlanta. Georgia I am willing to drive about 15 to 20 miles from where I resided., 15-20 miles. 4+ years summer camp experience. Looking for available.
+> 03/30 Intro Call Passed. Hi, I'm located in Atlanta, 15-20 miles. 4+ years summer camp, elementary school experience. Worked with infants, preschool-age, school-age. Currently college student. Looking for flexible (weekends available).
 
 ---
 
 ### #24 — ✅ APPROVE (HIGH) — Wuraola Sanyaolu
 
-📧 victoriasanyaolu1@gmail.com | 📱 (678) 663-9767 | 📍 Georgia
+📧 victoriasanyaolu1@gmail.com | 📱 (678) 663-9767 | 📍 Okay, I'm located in Jonesboro Georgia 30 to 38
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Okay, I'm located in Jonesboro Georgia 30 to 38. I'm willing to commute like 30 minutes maximum away from my current location.
-**Schedule:** I'm looking for a full-time position, but I also could do part-time, but mostly full time and I'm available. I want I'm available every day. I don't mind Monday through Friday and then I'm off Saturday Sunday, whichever is suitable. I can make it wor...
+**Experience:** Formal (tutor)
+**Location:** Okay, I'm located in Jonesboro Georgia 30 to 38, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Wuraola has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Wuraola is a strong candidate with experience as a tutor. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -1129,37 +1150,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Morales Angelou. I am a college student with experience in tutoring. My peers and help individuals learn new Concepts through my tutoring. The customer service experience I've developed strong, communication patients, and problem solving skills. I enjoy working with people and children adapting to their needs and helping them succeed.
- While I haven't worked for Emily with children in a professional setting, I have tutor Pairs and younger students in math and subject like math reading, which has given me experience adapting, explanation to different learning levels. I enjoy h...
+ While I haven't worked for Emily with children in a professional setting, I have tutor Pairs and younger students in math and subject like math reading, which has given me experience adapting, explanation to different learning levels. I enjoy helping others understand New Concepts and seeing their progress. I found it rewarding to guide Learners through challenges, celebrate their successes and make learning engaging approachable. I'm excited to bring patient encouragement.
+ And creative creativity to teaching children.
 
 **Q4 — Location:** Okay, I'm located in Jonesboro Georgia 30 to 38. I'm willing to commute like 30 minutes maximum away from my current location.
 
 **Q5 — Schedule:** I'm looking for a full-time position, but I also could do part-time, but mostly full time and I'm available. I want I'm available every day. I don't mind Monday through Friday and then I'm off Saturday Sunday, whichever is suitable. I can make it work.
 
 **Q6 — Conflict Resolution:** Okay, so if I saw one child hit another, I will first ensure that both children are safe and separate them if needed. Then I will calmly address the child who hit the other child and let them know that that behavior is not acceptable and also just have more conversation of what occurred and to just get
- both sides. And then I would guide them to express and apologize and discuss alternative way to...
+ both sides. And then I would guide them to express and apologize and discuss alternative way to and do frustration. So my focus is to maintain a safe and respectful environment while helping the children, learn from the experience.
 
 **Q7 — Why Great:** Okay, so I would make a great uncle teacher because I enjoy helping others and I have a, an experience into doing my peers, and guiding individuals through New Concept with my brown, my background and experience in customer service is customer service. I have strength in my communication skills, patient, and problem solving skills, which I think are essential for tea.
- Teaching. I'm also very adap...
+ Teaching. I'm also very adaptable enthusiastic and committed to creating creating a supportive and engaging learning environment for students of all ages.
 
 </details>
 
 🔗 **App Account:** 🟢 Wuraola Sanyaolu
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Okay, I'm located in Jonesboro Georgia 30 to 38. I'm willing to commute like 30 minutes maximum away from my current location., 30 miles. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Okay, I'm located in Jonesboro Georgia 30 to 38, 30 miles. tutor. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #25 — ✅ APPROVE (HIGH) — John Dye
 
-📧 coachdye1993@gmail.com | 📱 (256) 651-0701 | 📍 Georgia
+📧 coachdye1993@gmail.com | 📱 (256) 651-0701 | 📍 Winder, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (11yr)
-**Location:** I am located in Winder, Georgia.
-**Schedule:** I'm interested in part time shift.
+**Experience:** Formal — kindergarten, 11+ years. Ages: preschool-age, school-age
+**Location:** Winder, Georgia
+**Schedule:** part-time
 
-**Summary:** John has formal childcare experience with 11+ years (kindergarten). Good fit for Georgia's moderate experience requirements.
+**Summary:** John is a strong candidate — kindergarten experience with 11+ years. Has worked with preschool-age, school-age. Currently studying education/child development. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -1182,20 +1204,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 John Dye
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Winder, Georgia.. 11+ years kindergarten experience. Looking for part-time.
+> 03/30 Intro Call Passed. Winder, Georgia. 11+ years kindergarten experience. Worked with preschool-age, school-age. Currently studying education/child development. Looking for part-time.
 
 ---
 
 ### #26 — ✅ APPROVE (HIGH) — Talina Benn
 
-📧 talina.benn@yahoo.com | 📱 (310) 343-3539 | 📍 Georgia
+📧 talina.benn@yahoo.com | 📱 (310) 343-3539 | 📍 For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (15yr)
-**Location:** For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area. I'm willing to travel up to 20 minutes for work. It's about, I believe, 10 miles 10, 15 miles for work, but that can be flexible in...
-**Schedule:** I'm looking for part-time, please.
+**Experience:** Formal — daycare, afterschool program, 15+ years. Ages: infants, teens
+**Location:** For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area, 20 miles
+**Schedule:** part-time
 
-**Summary:** Talina has formal childcare experience with 15+ years (after school, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Talina is a strong candidate — daycare, afterschool program experience with 15+ years. Has worked with infants, teens.
 
 **Red Flags:** None
 
@@ -1203,39 +1225,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Good morning. My name is Celine. Been I have been working in childcare for the past 15 years. My mom, she owned her own home daycare. So I've helped her with that. I've also worked in private care and public school from infants, all the way up to after school. My favorites are infants, but I love working with children of all ages because you can make such a big difference in their day, just by being kind.
- And you can also change the future by changing children. So for being a good influence to children when they have those questions and when they have those hard days, you can be that beam of ...
+ And you can also change the future by changing children. So for being a good influence to children when they have those questions and when they have those hard days, you can be that beam of light to help make a difference and not just their day, but the future
 
 **Q4 — Location:** For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area. I'm willing to travel up to 20 minutes for work. It's about, I believe, 10 miles 10, 15 miles for work, but that can be flexible in the next coming months.
 
 **Q5 — Schedule:** I'm looking for part-time, please.
 
 **Q6 — Conflict Resolution:** Well you always deal with Conflict by first being kind first trying to figure out what happened in the situation in this case when you know child didn't want to share the ball. So I had to First separate the two children and explain to them why the behavior is either acceptable or unacceptable. And then also teach them what it means to be kind and to be friendly and that goes
- For many different l...
+ For many different levels even in after school you know, children have disagreements and they raise their voice and they get upset and then you just have to explain to them why the behavior there.
+ Showing is either kind or unkind and just direct them in the right direction.
 
 **Q7 — Why Great:** I know I make a great teacher because I have a significant amount of experience and I have a heart for kids. I have a heart for making a difference in a positive way and we just love to share my talents in time in a way that's going to make the future better place. And yeah and I'm kind of fun too. I can be I can get down to their to their level and and make sure that they understand and
- and hope...
+ and hopefully that they can continue to have a great day.
 
 </details>
 
 🔗 **App Account:** 🟢 Talina Benn
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area. I'm willing to travel up to 20 minutes for work. It's about, I believe, 10 miles , 20 miles. 15+ years after school, daycare experience. Looking for part-time.
+> 03/30 Intro Call Passed. For right now, I live in Alpharetta, Georgia, Alfred, Hamilton area, 20 miles. 15+ years daycare, afterschool program experience. Worked with infants, teens. Looking for part-time.
 
 ---
 
 ### #27 — ✅ APPROVE (HIGH) — Sade Smith
 
-📧 sadesmith708@gmail.com | 📱 (470) 636-8535 | 📍 Georgia
+📧 sadesmith708@gmail.com | 📱 (470) 636-8535 | 📍 the Atlanta area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I am located in the Atlanta area.
- Like the Atlanta downtown area.
-**Schedule:** I'm available for part-time or full-time work. I have open availability so I can work anytime anywhere I can travel.
- And I'm available now.
+**Experience:** Formal — daycare, preschool. Ages: toddlers, preschool-age
+**Location:** the Atlanta area
+**Schedule:** full-time, part-time
 
-**Summary:** Sade has formal childcare experience (preschool, teacher, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Sade is a strong candidate — daycare, preschool experience. Has worked with toddlers, preschool-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=sadesmith708@gmail.com APP=
@@ -1253,10 +1274,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  And I'm available now.
 
 **Q6 — Conflict Resolution:** Well.
- When one child has the other, the most effective approach for me is to remain calm immediately separate the children and prioritize safety. And the goal is to say it firm boundaries while coaching emotional regulation, and ensuring the her child is comforted, and the aggressor is guided toward better communication and I will step in calmly to break up the conflict modeling, emotional contro...
+ When one child has the other, the most effective approach for me is to remain calm immediately separate the children and prioritize safety. And the goal is to say it firm boundaries while coaching emotional regulation, and ensuring the her child is comforted, and the aggressor is guided toward better communication and I will step in calmly to break up the conflict modeling, emotional control rather than
+ Reacting with anger and mainly tend to the child who was hit to check for injuries, providing comfort and empathy and then I'll clearly and firmly state the rule Without Shame.
+ I cannot let you hurt anyone or hands down means no hitting and once calm act as a mediator and I'll also allow each other each child, to tell their side without interrupting to ensure. They feel heard, help the child, who hit understand their frustration. You know, I would like to know you were angry because they took your toy or and teach them alternative action, you know? Let them to be able to use
+ Words.
+ Help the child, who hit understand their frustration.
+ And repair and can reconnect.
+ Instead of forcing a shallow apology, focusing repairing the field trip for young children. This my means, you know, separating them a little bit while for older children and means discussing how to make things right.
 
 **Q7 — Why Great:** I will make a gray up kid teacher because I provide a safe nurturing environment for that Fosters early childhood development. I have a lot of patience, creativity and Junior love for kids.
- I have the adaptability to me. The verse need, strong communication with families and the ability to manage behaviors and behaviors positively. I can also stay calm during Tantrums or repeated questions. Provi...
+ I have the adaptability to me. The verse need, strong communication with families and the ability to manage behaviors and behaviors positively. I can also stay calm during Tantrums or repeated questions. Providing a secure safe space for kids. And I'm also, he's, I'm also eager to turn everyday moments into learning opportunities, through engaging activities, songs store,
+ Series games, feeding children's, Natural Curiosity, I can affect the articulate, listen and connect with both children and parents, keeping families, informed and involved. I'm well-organized. I create a structured yet flexible environment that helps children Thrive through
+And I also understand that early childhood development and focus on nurturing social, emotional, physical, and cognitive growth rather than just food provides them.
+ I use gentle guidance, clear, expectations, and positive reinforcement, to manage behaviors teacher self-control rather than resorting to punishment.
+ and with the skills that I have their essential for building, a trusting, high-quality care setting with children can Thrive and learn
 
 </details>
 
@@ -1264,21 +1295,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=sadesmith708@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in the Atlanta area.
- Like the Atlanta downtown area.. preschool, teacher, daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. the Atlanta area. daycare, preschool experience. Worked with toddlers, preschool-age. Looking for full-time, part-time.
 
 ---
 
 ### #28 — ✅ APPROVE (MEDIUM) — Rayelle Cook
 
-📧 rcsamiya@icloud.com | 📱 (470) 652-1731 | 📍 Georgia
+📧 rcsamiya@icloud.com | 📱 (470) 652-1731 | 📍 So I live in Dacula Georgia, by Lawrenceville by Dacula High School
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** So I live in Dacula Georgia, by Lawrenceville by Dacula High School. I have a car, the distance for me really doesn't matter, you know, can be up to 30 miles, 40 miles, you know? It really doesn't, I ...
-**Schedule:** So I am looking for full-time, but if part-timers available I'll take that. So yeah, I'm available anytime to be anywhere. Yeah.
+**Experience:** Mixed — daycare. Ages: teens
+**Location:** So I live in Dacula Georgia, by Lawrenceville by Dacula High School, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Rayelle has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Rayelle has experience in daycare plus informal childcare. Currently CPR/First Aid, which shows commitment.
 
 **Red Flags:** None
 
@@ -1286,35 +1316,44 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name's rail cook, I'm 18. I graduated high school and 2025. I've worked with kids or animals since I was 14. My grandma owns the daycare. So I've always did voluntary work like without getting paid for her because it's my grandma and didn't I didn't really do it for the money and ever since. Then I've kind of always been drawn to working with kids and animals.
- Cuz it's like a different level of working with different people and different animals because like, you understand like you, you know, you get connected with one of the on a deeper level especially kids like you get to see them like...
+ Cuz it's like a different level of working with different people and different animals because like, you understand like you, you know, you get connected with one of the on a deeper level especially kids like you get to see them like develop and, you know, Express their feelings. Like you get to really get close with kids, especially young kids like, and then, you know, a lot of people say they can't work with kids because, you know, there, they'll say they're nasty or they're bad. When you know, a lot of the like, they're just kids and I really do love
+ That like it's something new everyday working with kids like weather is bad or good. I generally enjoyed it. You know, kept me busy. It kept me alerted like I couldn't really get distracted because I had to engage with the kids and I have a bunch of siblings so I feel like that's why I was so strong with working with kids and you know I got CPR certified in high school but I've always always been around kids, whether it was professional or
+ Unprofessional. Like whether it was like business-wise or just for my own sake, you know, just to be around kids like I'm always volunteering to watch my uncle's kids or somebody's kids in the family. So I'm very good with kids and very on my toes with kids because they're always touching something or doing something. So I'm very alerted with kids. I'm a very patient, you know, I don't really get agitated with kids so fast, it really at all. It takes me a minute, but I'm very strongly kids. Like this is something I can do.
 
-**Q4 — Location:** So I live in Dacula Georgia, by Lawrenceville by Dacula High School. I have a car, the distance for me really doesn't matter, you know, can be up to 30 miles, 40 miles, you know? It really doesn't, I don't have a limit, you know. I'm really I'm willing to drive anywhere Michael work anytime because ...
+**Q4 — Location:** So I live in Dacula Georgia, by Lawrenceville by Dacula High School. I have a car, the distance for me really doesn't matter, you know, can be up to 30 miles, 40 miles, you know? It really doesn't, I don't have a limit, you know. I'm really I'm willing to drive anywhere Michael work anytime because I really want to turn this into something. I do full-time, not just part-time, you know, a lot of jobs aren't really hiring for daycares.
+ So yeah.
 
 **Q5 — Schedule:** So I am looking for full-time, but if part-timers available I'll take that. So yeah, I'm available anytime to be anywhere. Yeah.
 
-**Q6 — Conflict Resolution:** This actually just happened to me last weekend, working at my grandma's daycare. A girl hit a boy and he was very upset about it. I don't know why she hit him. She really didn't have a reason. She just hit him. Maybe she had a little crush but she hit him and he didn't like it, he was mad. He came and told me and he said that his mom told him not to hit girls and I said you are so right. Thank you...
+**Q6 — Conflict Resolution:** This actually just happened to me last weekend, working at my grandma's daycare. A girl hit a boy and he was very upset about it. I don't know why she hit him. She really didn't have a reason. She just hit him. Maybe she had a little crush but she hit him and he didn't like it, he was mad. He came and told me and he said that his mom told him not to hit girls and I said you are so right. Thank you for not hitting her so me and him went to her and I ice at them both down.
+ And I said, why did you hit him? She was like, I don't know, I don't know. I don't like you know, just being, you know, a little girl and he was like I did like that you hate me. I do like that. You hit me. So I kind of said, hey guys we're not gonna argue. We're going to talk about this and they both got quiet and I was like, can you just apologize to him? He did not like that. And you can, he hurt you hurt his feelings? And you don't want nobody to hurt your feelings, okay? Because if somebody hurts your feelings, you want an apology and she was like, I don't want to
+ I said, well, you have the I, well, I didn't tell her she had to, I just kind of broke it down to her. Like, I really got into detail about somebody hurting your feelings. I told her like, you know, I got like I gave her a kid scenario, like her friend named was a Maya and she always plays in - I said, say a my doesn't want to sit with you anymore. How would you feel? So I'll be sad. I said you want Maya to apologize if you're sad right? And she was like yeah so after a while she apologized to him and she gave him a hug and I could I didn't really good. I think she just probably had a little crush on him.
+ But yeah, it's some some kids just play differently and other kids on like how other kids play. So you know, just just a little policies. No need for them to argue. Plus they're young. They don't even know what they're arguing about.
 
-**Q7 — Why Great:** I will make a great up kid teacher because my personality, I have a very, very strong personality. My energy is very, very positive. I'm very, I'm always making a joke and it's definitely my energy. I would say, like, I'm going to put it all on my energy. I'm going to blame it all on my energy because I have so much energy in the mornings very, and it's off. No coffee. I'm it's just, I think I'm a...
+**Q7 — Why Great:** I will make a great up kid teacher because my personality, I have a very, very strong personality. My energy is very, very positive. I'm very, I'm always making a joke and it's definitely my energy. I would say, like, I'm going to put it all on my energy. I'm going to blame it all on my energy because I have so much energy in the mornings very, and it's off. No coffee. I'm it's just, I think I'm a morning person but I play with kids all the time. I
+ I do the stupid things that they access to do, like I'm with you, I'm with it all like I will if they tell me to fake sip the tea, I'm going to sit the teeth. They tell me to think gossip with them, gonna fake gossip with them. Like I'm always playing because I'm a little sister, it's his game. They'd all be playing as call Roblox me and her every day 7:00 before she has to go to bed Roblox. Like I'm really even if it's older kids I have I have like a I have a 13-0 sister having love
+ Real cousin. Like I'm even I'm good with older kids, like, I'm just, I'm with, I'm down to do whatever they want me to do as long as it's, you know, appropriate and respectful and stuff like that, but it's definitely like I'm always smiling. I feel like a lot of kids clean more on to those people who have good energy and lose. Not just good morning, you know. I feel like they claim because I as a kid I've always cleaned on to those teachers who like good morning did everybody enjoy their weekend like those type of teachers and I'm that type of teacher, you know, growing up around those type of teachers. It kind of
+ Had an effect on me. I love teachers like that and I seen how kids love teachers who do that? You know them teachers are always high positive energy. Don't have a positive outlook on things. Kids love those teachers and I could say that's definitely me.
 
 </details>
 
 🔗 **App Account:** 🟢 Rayelle Cook
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I live in Dacula Georgia, by Lawrenceville by Dacula High School. I have a car, the distance for me really doesn't matter, you know, can be up to 3, 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So I live in Dacula Georgia, by Lawrenceville by Dacula High School, 30 miles. daycare experience. Worked with teens. Currently CPR/First Aid. Looking for full-time, part-time.
 
 ---
 
 ### #29 — ✅ APPROVE (HIGH) — Adreinne Askew
 
-📧 adreinne79@gmail.com | 📱 (219) 276-0902 | 📍 Georgia
+📧 adreinne79@gmail.com | 📱 (219) 276-0902 | 📍 I'm currently located in South Fulton, Georgia, I'm here
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm currently located in South Fulton, Georgia, I'm here. My mom just had a baby. So I'll be here for a while. So I'm just trying to, you know, kind of move my substituting stuff to here. So I can mee...
-**Schedule:** I'm currently looking for part-time work.
+**Experience:** Formal — kindergarten (substitute teacher). Ages: school-age, teens
+**Location:** I'm currently located in South Fulton, Georgia, I'm here
+**Schedule:** part-time
 
-**Summary:** Adreinne has formal childcare experience (substitute teacher, kindergarten). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Adreinne is a strong candidate — kindergarten experience. Has worked with school-age, teens. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -1322,13 +1361,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Adrian, ask you, I am from Chicago, Illinois. I currently live in Alabama. I graduated from Tuskegee University with my undergraduate degree in chemistry. I have a lot of experience working with kids. I'm currently getting my master's degree in secondary mathematics education. I'm also a substitute teacher right now, so I stopped for well, I've slept for grades kindergarten.
- Turn on up to high school so far and so I have a lot of experience with kids and I also like working with kids. I like seeing those at home, aha moments when I help them with work. I like just seeing their ...
+ Turn on up to high school so far and so I have a lot of experience with kids and I also like working with kids. I like seeing those at home, aha moments when I help them with work. I like just seeing their faces light up when you see when they could tell that you actually care about them. So you have a lot of experience working with children.
 
 **Q4 — Location:** I'm currently located in South Fulton, Georgia, I'm here. My mom just had a baby. So I'll be here for a while. So I'm just trying to, you know, kind of move my substituting stuff to here. So I can meet up have more flexible and yeah.
 
 **Q5 — Schedule:** I'm currently looking for part-time work.
 
-**Q6 — Conflict Resolution:** So I recently had a situation like this. So first, I just analyze the situation, I've tried to make sure I knew exactly what was going on before involve the children because you know, that gets a little sticky sometimes. So I noticed what was going on. I tried to redirect the situation. I couldn't redirect the situation, so I tried to get one students to come with the one that was, you know, a lit...
+**Q6 — Conflict Resolution:** So I recently had a situation like this. So first, I just analyze the situation, I've tried to make sure I knew exactly what was going on before involve the children because you know, that gets a little sticky sometimes. So I noticed what was going on. I tried to redirect the situation. I couldn't redirect the situation, so I tried to get one students to come with the one that was, you know, a little hyper. I tried to get her to calm down. She wouldn't 52nd contact it.
+ Admin, which, you know, I was trying to avoid, I just tried to deescalate in myself, but I couldn't get the student to calm down, but the other student, I was able to get her to calm down and be able to talk to me a little bit and, you know, I will allowed admin handle it because it was like a bigger situation, but that's how I handle conflict. I just try to get everyone to come to a conclusion. I try to redirect the situation and if that doesn't work, then I do look for higher authority to come in and help.
 
 **Q7 — Why Great:** I feel like I will be a great up kids teacher because I am patient. I have a love for children and I honestly just want all of them to be successful and watch them grow. And I just believe that I will be in a great addition to you all's company.
 
@@ -1337,20 +1377,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Adreinne Askew
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in South Fulton, Georgia, I'm here. My mom just had a baby. So I'll be here for a while. So I'm just trying to, you know, kind o. substitute teacher, kindergarten experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm currently located in South Fulton, Georgia, I'm here. kindergarten experience. Worked with school-age, teens. Currently studying education/child development. Looking for part-time.
 
 ---
 
 ### #30 — ✅ APPROVE (MEDIUM) — YOLANDA MCKENZIE
 
-📧 water0242@yahoo.com | 📱 (470) 921-6434 | 📍 Georgia
+📧 water0242@yahoo.com | 📱 (470) 921-6434 | 📍 Hello, my name is Yolanda Mackenzie
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** Hello, my name is Yolanda Mackenzie. I'm in located in Fairburn, Georgia, close to Atlanta, Georgia and willing to travel up to 20 miles. Thank you.
-**Schedule:** Hello, my name is Yolanda Mackenzie at the moment, I'm looking for part-time.
+**Experience:** Mixed — daycare (babysitter). Ages: infants, toddlers
+**Location:** Hello, my name is Yolanda Mackenzie, 20 miles
+**Schedule:** part-time
 
-**Summary:** YOLANDA has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** YOLANDA has a mix of formal (daycare) and informal (babysitter) experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -1358,14 +1398,15 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Yolanda. Mackenzie I am retired as of April 20, 25, I do not have experience working in a daycare facility, but I have the experience of raising my own kids and babysitting, family, and friends. I also worked a few hours a week. My sister used on the daycare in Louisiana. So I will go in and help her, they were toddlers, which was very fun too.
- Be around, it was Finding also. I won the 2019 philanthropy award working with women and children, also working with women and children in shelters. So I don't have the experience in the facility, but I feel I have the experience but ...
+ Be around, it was Finding also. I won the 2019 philanthropy award working with women and children, also working with women and children in shelters. So I don't have the experience in the facility, but I feel I have the experience but some of the foundations that I work with in this is where my experience is this.
 
 **Q4 — Location:** Hello, my name is Yolanda Mackenzie. I'm in located in Fairburn, Georgia, close to Atlanta, Georgia and willing to travel up to 20 miles. Thank you.
 
 **Q5 — Schedule:** Hello, my name is Yolanda Mackenzie at the moment, I'm looking for part-time.
 
 **Q6 — Conflict Resolution:** Hello, my name is Yolanda Mackenzie, how would you with two kids that have a disagreement word leads to one hidden another? I will have both get have both kids, talk to the both of them and explain to them that hitting is not allowed and talk to the kid. That did the hitting explain to him to help him understand that you can have disagreements a month each other. But the Heat
- Thing is not allowed...
+ Thing is not allowed. And then, I also will try to get the two to understand that communicating with each other and to help each other understand the issues that they have in with, with each other, without doing the hitting that they can, can, they can agree to disagree in their terms and trying to get them to understand that without doing the hitting
+ Thank you in that. I think that's the best thing to do with the two kids. It's to get them to see that they can communicate talk disagree but don't have to hit.
 
 **Q7 — Why Great:** What would make me a great opportunity teacher? I definitely am a team player. I will be there to assist the teacher in the daily operations that is needed. But also help meet the requirements for the teacher in creating a pleasant work space.
  Also, I am a nurturing also. I am, I love to motivate and educate the young adults.
@@ -1375,22 +1416,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Yolanda McKenzie
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hello, my name is Yolanda Mackenzie. I'm in located in Fairburn, Georgia, close to Atlanta, Georgia and willing to travel up to 20 miles. Thank you., 20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Hello, my name is Yolanda Mackenzie, 20 miles. daycare experience. Worked with infants, toddlers. Looking for part-time.
 
 ---
 
 ### #31 — ✅ APPROVE (LOW) — Aleeyah Hill
 
-📧 hill.aleeyah@yahoo.com | 📱 (678) 851-7270 | 📍 Georgia
+📧 hill.aleeyah@yahoo.com | 📱 (678) 851-7270 | 📍 Bethlehem Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (27yr)
-**Location:** I live in Bethlehem Georgia.
- 306 20 and I am willing to drive 30 miles or more because I have my own transportation.
-**Schedule:** I'm work looking for part-time or full-time, and I am willing to work in the mornings.
- and a little bit at night,
+**Experience:** Unclear, 27+ years. Ages: preschool-age
+**Location:** Bethlehem Georgia, 30 miles
+**Schedule:** full-time, part-time (mornings)
 
-**Summary:** Aleeyah mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Aleeyah mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=hill.aleeyah@yahoo.com APP=leeyah2@icloud.com
@@ -1418,21 +1457,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=hill.aleeyah@yahoo.com APP=leeyah2@icloud.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Bethlehem Georgia.
- 306 20 and I am willing to drive 30 miles or more because I have my own transportation., 30 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Bethlehem Georgia, 30 miles. Childcare experience (details in interview). Worked with preschool-age. Looking for full-time, part-time (mornings).
 
 ---
 
 ### #32 — ✅ APPROVE (HIGH) — Makayla
 
-📧 keyonak1999@gmail.com | 📱 (470) 990-4057 | 📍 Georgia
+📧 keyonak1999@gmail.com | 📱 (470) 990-4057 | 📍 Yes, I am located on
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (26yr)
-**Location:** Yes, I am located on. Oh, that's area around a bit of a gray area, bring me area, County area, Temple area and bout it. And also Carrollton. I am available to travel and so yes.
-**Schedule:** Hi, I'm looking for either or I like the full time and I also like a part-time, whatever. You know is available. I will take
+**Experience:** Formal — daycare, 26+ years. Ages: infants
+**Location:** Yes, I am located on
+**Schedule:** full-time, part-time
 
-**Summary:** Makayla has formal childcare experience with 26+ years (daycare). Good fit for Georgia's moderate experience requirements.
+**Summary:** Makayla is a strong candidate — daycare experience with 26+ years. Has worked with infants.
 
 **Red Flags:** None
 
@@ -1440,35 +1478,36 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Michaela Steve has? I am 26 years old? My background were kids. I used to work at a daycare so I'm familiar with newborns one-year-old into Euros. The reason why I'm interested in getting into it because I just love the environment of being around kids watching them grow and learn. I also love a newborn face learning and learning and learning them and learn two things there do. I also have a 10
- Oh boy. So I am very familiar with the one and two year olds. I would love for you all to give me a chance to work with y'all and the applicant, make your very proud and this great oppor...
+ Oh boy. So I am very familiar with the one and two year olds. I would love for you all to give me a chance to work with y'all and the applicant, make your very proud and this great opportunity and it was also very good with my schedule around the boys. And so I'm able to spend more time with them and also be able to work at the same
 
 **Q4 — Location:** Yes, I am located on. Oh, that's area around a bit of a gray area, bring me area, County area, Temple area and bout it. And also Carrollton. I am available to travel and so yes.
 
 **Q5 — Schedule:** Hi, I'm looking for either or I like the full time and I also like a part-time, whatever. You know is available. I will take
 
-**Q6 — Conflict Resolution:** Hi, when it comes to the younger kids I don't really have like compensation. Does it go like to infants? But when it comes to it, I wanted to roles during the conflict. I'll pull them to the side, you know, and have them explain to me what's going on. And if you can resolve the issue and tell them, it's a partnership as if anything hurts my feelings, hug it out, you know, and continue to go on and...
+**Q6 — Conflict Resolution:** Hi, when it comes to the younger kids I don't really have like compensation. Does it go like to infants? But when it comes to it, I wanted to roles during the conflict. I'll pull them to the side, you know, and have them explain to me what's going on. And if you can resolve the issue and tell them, it's a partnership as if anything hurts my feelings, hug it out, you know, and continue to go on and play. You know, kids are gonna be kids.
 
-**Q7 — Why Great:** Hi, I feel like my spirit is a little bit and the childcare, you know, gives me a great fit for this. And also I have a one and two-year-old dad's gave me plenty, plenty, plenty of practice when it comes to like, you know, the newborn say the one and two Heroes day, the toddler stage, how to deal with them when they fussing and fighting you know, and I feel like this would be a great opportunity f...
+**Q7 — Why Great:** Hi, I feel like my spirit is a little bit and the childcare, you know, gives me a great fit for this. And also I have a one and two-year-old dad's gave me plenty, plenty, plenty of practice when it comes to like, you know, the newborn say the one and two Heroes day, the toddler stage, how to deal with them when they fussing and fighting you know, and I feel like this would be a great opportunity for me to, you know get some free time to go do something. I like to do personally. And yes, I hope you all give me an opportunity.
+ Thank you.
 
 </details>
 
 🔗 **App Account:** 🟢 Makayla  Stephens
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I am located on. Oh, that's area around a bit of a gray area, bring me area, County area, Temple area and bout it. And also Carrollton. I am avai. 26+ years daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Yes, I am located on. 26+ years daycare experience. Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #33 — ✅ APPROVE (MEDIUM) — Analiyah Smith
 
-📧 analiyahsmith08@gmail.com | 📱 (678) 698-6258 | 📍 Georgia
+📧 analiyahsmith08@gmail.com | 📱 (678) 698-6258 | 📍 I'm currently located in this another area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm currently located in this another area. So, any areas around here, like look at Dale, Grayson little brown. Lawrenceville Stone Mountain pose are all good areas for me but I am located in Snellvil...
-**Schedule:** I currently am looking for full-time shifts if possible, but I don't have a problem working part-time if that's the only shift available and my availability is anytime, I can work any day any time.
+**Experience:** Mixed — daycare (babysitter). Ages: infants
+**Location:** I'm currently located in this another area
+**Schedule:** full-time, part-time
 
-**Summary:** Analiyah has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Analiyah has a mix of formal (daycare) and informal (babysitter) experience.
 
 **Red Flags:** None
 
@@ -1476,7 +1515,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Emily Smith. I am I too old and I wanted to tell you guys about my stuff and the reason I'm looking to, you know, the daycare business and things. I first wanted to let you guys know that I am a compassionate and dedicated individual. And I'm very eager to start my career working with children's. While also be keeping my own Journey as mother. I do not have any
- Professional day care experience. Although I do have valuable children, skill sets like babysitting, I think City for my family all the time and my friends and I just develop a love for kids. Wow hand me my own kid on th...
+ Professional day care experience. Although I do have valuable children, skill sets like babysitting, I think City for my family all the time and my friends and I just develop a love for kids. Wow hand me my own kid on the way, I just think that this will be dirty for me as mother and opening my mind to, you know,
+ Kid kid things and you know just getting mad mother feeling game. Just started my journey in general and I'm also very patient and very dependable. I'm committed to providing a safe and supportive nurturing environment for every children I come across or in general.
+ And yeah that's all I have for right now. My also put on the thing that I will graduate are graduated into me, 24 and yeah.
 
 **Q4 — Location:** I'm currently located in this another area. So, any areas around here, like look at Dale, Grayson little brown. Lawrenceville Stone Mountain pose are all good areas for me but I am located in Snellville.
 
@@ -1491,20 +1532,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Analiyah Smith
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in this another area. So, any areas around here, like look at Dale, Grayson little brown. Lawrenceville Stone Mountain pose are . Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm currently located in this another area. daycare experience. Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #34 — ✅ APPROVE (LOW) — Londyn Hamptom
 
-📧 laniahlondyn002@gmail.com | 📱 (860) 610-8858 | 📍 Georgia
+📧 laniahlondyn002@gmail.com | 📱 (860) 610-8858 | 📍 I am currently relocating to Georgia and I'll be available for shifts very soon
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** I am currently relocating to Georgia and I'll be available for shifts very soon. I am flexible and ready to start as soon as I arrive
-**Schedule:** I'm open to both full and part-time opportunities. I'm currently relocating to Georgia and will be available to start. As soon as I arrive with a flexible schedule.
+**Location:** I am currently relocating to Georgia and I'll be available for shifts very soon
+**Schedule:** part-time
 
-**Summary:** Londyn mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Londyn mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+18606108858 APP=+18609958462
@@ -1521,7 +1562,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** I will stay calm and make sure that everyone is listening to both sides and safe. At the same time I would also help them communicate and solve the problem in a positive way.
 
-**Q7 — Why Great:** I believe that would be a group of kids teacher because I genuinely care about helping children, go and feel safe. I'm patient, attentive, and I'm able to communicate clearly with both kids and parents. I enjoy creating fun Hands-On activities, that make learning exciting while also teaching important social skills, like sharing cooperation and problem. Solving, I stayed calm and challenging situa...
+**Q7 — Why Great:** I believe that would be a group of kids teacher because I genuinely care about helping children, go and feel safe. I'm patient, attentive, and I'm able to communicate clearly with both kids and parents. I enjoy creating fun Hands-On activities, that make learning exciting while also teaching important social skills, like sharing cooperation and problem. Solving, I stayed calm and challenging situations. I adapt to each child's needs and I work well apart as a team.
+ I am most importantly, am passionate about supporting others, like each child's development and helping them build their confidence everyday.
 
 </details>
 
@@ -1529,20 +1571,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+18606108858 APP=+18609958462
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am currently relocating to Georgia and I'll be available for shifts very soon. I am flexible and ready to start as soon as I arrive. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. I am currently relocating to Georgia and I'll be available for shifts very soon. Childcare experience (details in interview). Looking for part-time.
 
 ---
 
 ### #35 — ✅ APPROVE (LOW) — Jimyria West
 
-📧 myria.west@yahoo.com | 📱 (470) 902-7344 | 📍 Georgia
+📧 myria.west@yahoo.com | 📱 (470) 902-7344 | 📍 Gwinnett
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** I am located in Gwinnett, County Snellville Georgia and I will travel up to 45 minutes for a chef.
-**Schedule:** Full time or part time is fine with me and between the hours of 7, 32 5 or 5:30. Depending on how far I have to drive to my destination.
+**Experience:** Unclear. Ages: infants, teens
+**Location:** Gwinnett, 45 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Jimyria mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jimyria mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -1557,7 +1599,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** I would separate the kids and make sure the child who was hit is okay, then I will try
  To reinforce positive behaviors but just gently calmly, talking to them and tell them that telling them that heating is not okay. You should always be nice to each other and if I feel like they need a little break from from playing with each other, just give them like different activities to do.
- Until just unt...
+ Until just until they calm down.
+ And we'll see how they interact with each other after.
 
 **Q7 — Why Great:** I will make a great up a great up, kid teacher because I'm patient, I'm reliable. And honestly, I just really love genuinely working with children. Like I'm not to stay calm. Keep a positive environment and I can handle different behaviors. I'm also very attentive or an organized.
  I just really loved working with kids.
@@ -1567,20 +1610,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jimyria  West
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Gwinnett, County Snellville Georgia and I will travel up to 45 minutes for a chef., 45 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Gwinnett, 45 miles. Childcare experience (details in interview). Worked with infants, teens. Looking for full-time, part-time.
 
 ---
 
 ### #36 — ✅ APPROVE (HIGH) — Yasmin Creswell
 
-📧 yasmincreswell2004@gmail.com | 📱 (470) 519-5895 | 📍 Georgia
+📧 yasmincreswell2004@gmail.com | 📱 (470) 519-5895 | 📍 So I am actually located in Lithonia Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** So I am actually located in Lithonia Georgia. I'm willing to travel but no further than 10 miles. There's a lot of daycares near me now. Eventually if I do switch locations, then yes, I would absolute...
-**Schedule:** I'm open to do full time shifts. I do have another work schedule, but I am trying to be flexible with adding another work schedule into this schedule, that I have now. So the days that I am available, I will definitely be open to doing a full-time sh...
+**Experience:** Formal (assistant teacher). Ages: preschool-age
+**Location:** So I am actually located in Lithonia Georgia, 10 miles
+**Schedule:** full-time
 
-**Summary:** Yasmin has formal childcare experience (assistant teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** Yasmin is a strong candidate with experience as a assistant teacher. Has worked with preschool-age.
 
 **Red Flags:** None
 
@@ -1588,9 +1631,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Yasmin Chris well I've been working with kids for a year and a half going on two years. I first started working with one and two year olds but they move me up into a more advanced classroom to three or four year olds which I was assistant teacher in. It gave me an opportunity to connect with myself and if
- Four ways is in also children so that they have a better understanding one communication and learning skills or just development. Overall, I love dramatic play and fun, and I also allow children to use their imagination. So me, working weekends has also has always been very fun fo...
+ Four ways is in also children so that they have a better understanding one communication and learning skills or just development. Overall, I love dramatic play and fun, and I also allow children to use their imagination. So me, working weekends has also has always been very fun for me. And I want to continue to do it as something for my
+ a free time to do and it's our upcoming generation. So I would love to help in any way possible.
 
-**Q4 — Location:** So I am actually located in Lithonia Georgia. I'm willing to travel but no further than 10 miles. There's a lot of daycares near me now. Eventually if I do switch locations, then yes, I would absolutely be open to trying different locations but for now I'm actually staying in the area of lot, don't ...
+**Q4 — Location:** So I am actually located in Lithonia Georgia. I'm willing to travel but no further than 10 miles. There's a lot of daycares near me now. Eventually if I do switch locations, then yes, I would absolutely be open to trying different locations but for now I'm actually staying in the area of lot, don't you?
 
 **Q5 — Schedule:** I'm open to do full time shifts. I do have another work schedule, but I am trying to be flexible with adding another work schedule into this schedule, that I have now. So the days that I am available, I will definitely be open to doing a full-time shit.
 
@@ -1598,14 +1642,15 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  They would have to discipline them more at home.
 
 **Q7 — Why Great:** So again, I'm very active with children. Kids can relate to me a lot because I allow them to express themselves, and, however, they need, I just relate on a different level. I also try to
- Get to their level. So I don't baby children, but sometimes you have to talk to them with Grace and not screaming and yelling, so that they do feel comfortable and they're able to talk to you in a manner of expr...
+ Get to their level. So I don't baby children, but sometimes you have to talk to them with Grace and not screaming and yelling, so that they do feel comfortable and they're able to talk to you in a manner of expressing themselves versus crying or yelling or Screaming. Yeah. And then also, I just love teaching, kids, whatever that I can teach them in, I learn something new. That would be great for me to share.
+ Share my knowledge to them, and they're also sharing their knowledge to me.
 
 </details>
 
 🔗 **App Account:** 🟢 Yasmin  Creswell
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I am actually located in Lithonia Georgia. I'm willing to travel but no further than 10 miles. There's a lot of daycares near me now. Eventually if, 10 miles. assistant teacher experience. Looking for full-time.
+> 03/30 Intro Call Passed. So I am actually located in Lithonia Georgia, 10 miles. assistant teacher. Worked with preschool-age. Looking for full-time.
 
 ---
 
@@ -1614,10 +1659,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 shamiyahcurry5@gmail.com | 📱 (706) 921-9344 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — daycare
+**Location:** Georgia
 
-**Summary:** Shamiyah has formal childcare experience (daycare). Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Shamiyah only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: Hi, my name is Jeremiah Kerry. I spent the past five years working as an in-home daycare provider ca...
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -1628,29 +1673,29 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Jeremiah Kerry. I spent the past five years working as an in-home daycare provider caring for children of different ages. I really enjoy creating a safe space, safe and fun space where kids can explore Play and Learn at their own pace. But I love most about working with young children and seeing them grow gain confidence and discover new things. I like being a part of those little moments, helping them solve problems and encouraging, and curiosity, while making The Learning Experience just as
- Adorable. I'm excited about the chance to bring my experience and energy to your class...
+ Adorable. I'm excited about the chance to bring my experience and energy to your classroom and support kids and having a positive learning experience.
 
 </details>
 
 🔗 **App Account:** 🟢 Shamiyah Curry
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). daycare experience.
+> 03/30 Intro Call Passed. Georgia. daycare experience.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #38 — ✅ APPROVE (LOW) — Viengknam
 
-📧 viengknamc@gmail.com | 📱 (943) 234-6064 | 📍 Georgia
+📧 viengknamc@gmail.com | 📱 (943) 234-6064 | 📍 Yes, I am currently living in Cartersville Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (37yr)
-**Location:** Yes, I am currently living in Cartersville Georgia. We will be relocating to the Sandy Springs Georgia area. So I would say anywhere from the Metro Atlanta area to the Northwest area and as my schedul...
-**Schedule:** I am open to part-time and full-time. Whatever is available?
+**Experience:** Unclear, 37+ years. Ages: infants
+**Location:** Yes, I am currently living in Cartersville Georgia, anywhere
+**Schedule:** full-time, part-time
 
-**Summary:** Viengknam mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Viengknam mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -1658,37 +1703,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Bianca and Charlie. I am 37 years old. I have to kiddos 16 year old daughter in a 11 year old son. My previous background experience I worked as a doula and a newborn care specialist. The baby boy that I was working with him with his family. He was a premature baby. I was able to support with his mother who had
- postpartum depression and was able to educate with breastfeeding and newborn education and Etc. I've also had previous experience in working with immigration working with families, from different countries, that were coming here to America from the ages of newborn all...
+ postpartum depression and was able to educate with breastfeeding and newborn education and Etc. I've also had previous experience in working with immigration working with families, from different countries, that were coming here to America from the ages of newborn all the way into 80. Something years old, I worked with children with disabilities, with mental health, disabilities, with disorders, as such as autism.
+ Mm and Etc. So if I worked without kids with different personalities and different age ranges as well, the reason why I'm interested in this position is because there's a lot of flexibility along with working with children and being able to bring in the compassion and the passion that I have working alongside with families and children.
 
-**Q4 — Location:** Yes, I am currently living in Cartersville Georgia. We will be relocating to the Sandy Springs Georgia area. So I would say anywhere from the Metro Atlanta area to the Northwest area and as my schedule changes as we are, while we're relocating, I will go ahead and update along with the new address a...
+**Q4 — Location:** Yes, I am currently living in Cartersville Georgia. We will be relocating to the Sandy Springs Georgia area. So I would say anywhere from the Metro Atlanta area to the Northwest area and as my schedule changes as we are, while we're relocating, I will go ahead and update along with the new address and Etc. So that way.
+ I can actually be exact the location. That will be closest to me or if if needed, then I can also Drive long distance as well.
 
 **Q5 — Schedule:** I am open to part-time and full-time. Whatever is available?
 
 **Q6 — Conflict Resolution:** I'm so the contact with two younger church for, and it's very common to kind of see that in the very young age group, the best way to approach. It is to separate the two children and speak to them one-on-one, speaking to them. And just understanding, you know, what the situation is being a good listener and then being able to
- cancel and give them just a positive positive feedback, so that they wi...
+ cancel and give them just a positive positive feedback, so that they will be able to know how to approach it and just letting them know that physically hitting or emotionally saying things that hurt
 
 **Q7 — Why Great:** I believe I would make a great up kid teacher because I do have a lot of experiences. I went to college and major in Psychology. So I do understand the human behavior with the young adolescents and also teenager to adult life. I have experiences working with trauma-informed, clients and patients, I worked in a mental health hospital system. I've
- I've done Outreach with Foster youth burn. Trauma h...
+ I've done Outreach with Foster youth burn. Trauma human trafficking survivors, domestic survivors, and also immigration I've worked with children with different cultures, backgrounds, and different disabilities. So I'm very aware of the child behavior and the way to encourage and uplift a child and adults as well. So again,
+ Again, I do come with a lot of background and I think this was going to just be just just a great opportunity for me to use my compassion and my experiences to help different child care centers.
 
 </details>
 
 🔗 **App Account:** 🟢 VIENGKNAM CHHALY
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I am currently living in Cartersville Georgia. We will be relocating to the Sandy Springs Georgia area. So I would say anywhere from the Metro At. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Yes, I am currently living in Cartersville Georgia, anywhere. Childcare experience (details in interview). Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #39 — ✅ APPROVE (MEDIUM) — Kamareiona
 
-📧 its.nanaaa18@gmail.com | 📱 (404) 272-0251 | 📍 Georgia
+📧 its.nanaaa18@gmail.com | 📱 (404) 272-0251 | 📍 Hi. I am located in Georgia. Duluth area. I'm not really try
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (15yr)
-**Location:** Hi. I am located in Georgia. Duluth area. I'm not really trying to travel that far. Just something that's kind of close to me.
-**Schedule:** Hi. I am looking for both depend on how far it is part-time. If it's further out full time. If it's close to my house and I'm looking for a morning or mid Schiff.
+**Experience:** Mixed (babysitter), 15+ years. Ages: infants, toddlers, teens
+**Location:** Hi. I am located in Georgia. Duluth area. I'm not really try
+**Schedule:** full-time, part-time (mornings)
 
-**Summary:** Kamareiona has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kamareiona has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -1703,7 +1751,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** Hi. I am looking for both depend on how far it is part-time. If it's further out full time. If it's close to my house and I'm looking for a morning or mid Schiff.
 
 **Q6 — Conflict Resolution:** Most most, excuse me, sorry. For that most conflicts, that I have dealt with between two children, younger children, mainly talking it out and just trying to get them off of that subject and changing it. Like hey, let's start coloring or let's start doing something else. Productive between older kids talking them through the conflict like where could this get you guys
- Moving further, if you guys ...
+ Moving further, if you guys were to continue this conflict or like, what could job be doing, positive, how could you talk this out? Moving forward?
 
 **Q7 — Why Great:** I will make a great up kid teacher, because I'm good at resolving issues. I'm good at working with kids and keeping them calm. I'm good at teaching them things that they need to learn.
  I just have good energy when it comes to kids and just like a good experience.
@@ -1713,20 +1761,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Kamareiona  Lockridge
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi. I am located in Georgia. Duluth area. I'm not really trying to travel that far. Just something that's kind of close to me.. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Hi. I am located in Georgia. Duluth area. I'm not really try. 15+ years as babysitter. Worked with infants, toddlers, teens. Looking for full-time, part-time (mornings).
 
 ---
 
 ### #40 — ✅ APPROVE (MEDIUM) — Lily Yocca
 
-📧 lily.yocca@gmail.com | 📱 (404) 626-9108 | 📍 Georgia
+📧 lily.yocca@gmail.com | 📱 (404) 626-9108 | 📍 I'm currently located in Smyrna
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm currently located in Smyrna, Georgia, I am willing to travel up to 40 minutes. Even an hour, I'm really flexible with trips just as whatever it's available, whatever is available. Obviously would ...
-**Schedule:** I'm looking for part-time work. So as of right now, I would really only be available on Fridays but starting at the end of April, I would be free every weekday until the end of August. So that is my break from school so that's what that would be. My ...
+**Experience:** Mixed — preschool, Boys & Girls Club, kindergarten (nanny). Ages: preschool-age, school-age, teens
+**Location:** I'm currently located in Smyrna, 40 miles
+**Schedule:** part-time (school schedule)
 
-**Summary:** Lily has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lily has a mix of formal (preschool, Boys & Girls Club) and informal (nanny) experience. Currently college student, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -1734,35 +1782,42 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Lily akka. I have quite a bit of experience working with kids. I was a student teacher for two years in high school. That's where it all started working with kindergarten and first grade and then I have worked at the Boys and Girls Club of linear and Buford and I work primarily with the third graders, I, it was a summer program but I was the third grade teacher and so I had 20 students by
- Myself and but it was preschool through fifth grade and we kind of all work together to take care of all the kids but the third graders were primarily just me. And then I have worked at Aqua t...
+ Myself and but it was preschool through fifth grade and we kind of all work together to take care of all the kids but the third graders were primarily just me. And then I have worked at Aqua taught Swim School as the front desk. So that was more connection with parents but there was connection with the children as well. And I was also a nanny for almost a year. It's been kind of
+ Like this flexible schedule because it has more flexibility with school, but yeah, I was only able to Nanny for a year, but I was with two second graders, going into third grade and I loved that and the reason why I love working with children. So I have a degree in Psychology with a minor in child advocacy and I am now in going into social work, I'm in my master's program for social work, and I went into the field because I love working with children.
+ Aaron. And I think that is really important to give children a voice in situations because I feel like we mostly look at parents to speak for them. So I always want to give a child a chance to speak for themselves and give them the best opportunity to have self-determination.
 
-**Q4 — Location:** I'm currently located in Smyrna, Georgia, I am willing to travel up to 40 minutes. Even an hour, I'm really flexible with trips just as whatever it's available, whatever is available. Obviously would prefer to be as close as possible but I really don't mind the distance but I probably wouldn't go ov...
+**Q4 — Location:** I'm currently located in Smyrna, Georgia, I am willing to travel up to 40 minutes. Even an hour, I'm really flexible with trips just as whatever it's available, whatever is available. Obviously would prefer to be as close as possible but I really don't mind the distance but I probably wouldn't go over an hour but living near Atlanta even with a close distance, it could end up being an hour. So a, I really don't mind the
+ Travel and yeah, I'm in Smyrna, Georgia.
 
 **Q5 — Schedule:** I'm looking for part-time work. So as of right now, I would really only be available on Fridays but starting at the end of April, I would be free every weekday until the end of August. So that is my break from school so that's what that would be. My availability for it now.
 
-**Q6 — Conflict Resolution:** In the past, when there has been conflict between two children, I always talk to both of them individually to get both sides and then once it's kind of cool down, I'll have them talk to each other with me kind of mediating the situation. And yeah, that's how I kind of have dealt with in the past. I've never had a situation where I've had a child, hit another child so I would have to see in that si...
+**Q6 — Conflict Resolution:** In the past, when there has been conflict between two children, I always talk to both of them individually to get both sides and then once it's kind of cool down, I'll have them talk to each other with me kind of mediating the situation. And yeah, that's how I kind of have dealt with in the past. I've never had a situation where I've had a child, hit another child so I would have to see in that situation how it would feel I should respond to it, but
+ I would try with what I know and have talked to them individually and then have them talk to each other and see if that works and then if not I would need to brainstorm another way to kind of ease the tension but I think that hearing both of them and kind of getting them to calm down separately at first is good for them to then come together and come up with the solution themselves.
 
-**Q7 — Why Great:** I think what would make me a good up kid? Teacher is my experience and my education? I have various experience working with children with different circumstances and different life experiences. So I have worked with many different types of kids and I love them all. And I think that my education has really had helped me have a deeper understanding of how they work and that if they're behaving poorl...
+**Q7 — Why Great:** I think what would make me a good up kid? Teacher is my experience and my education? I have various experience working with children with different circumstances and different life experiences. So I have worked with many different types of kids and I love them all. And I think that my education has really had helped me have a deeper understanding of how they work and that if they're behaving poorly or
+ They have bad behavior, then it's always caused by something. They are, there's no bad kid and I really like to listen to what they have to say their opinions on a situation and really take their opinions into account. And I feel like not a lot of people do that and I feel like I just thrive in that kind of environment and I like to, you know, build the best rapport with the children and I have lots of education on.
+ human development and just how
+ To best interact with that. Hopefully, that makes sense.
 
 </details>
 
 🔗 **App Account:** 🟢 Lily Yocca
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in Smyrna, Georgia, I am willing to travel up to 40 minutes. Even an hour, I'm really flexible with trips just as whatever it's , 40 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm currently located in Smyrna, 40 miles. preschool, Boys & Girls Club, kindergarten experience. Worked with preschool-age, school-age, teens. Currently college student. Looking for part-time (school schedule).
 
 ---
 
 ### #41 — ✅ APPROVE (MEDIUM) — Piper Black
 
-📧 piperblack2@icloud.com | 📱 (801) 455-1942 | 📍 Utah
+📧 piperblack2@icloud.com | 📱 (801) 455-1942 | 📍 Kaysville Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (19yr)
-**Location:** I live in Kaysville Utah and I'd say willing to travel maybe like 20 to 25 minutes per ships.
-**Schedule:** I'm definitely looking for part-time and my schedules kind of sporadic. So I think this is why be this would be a good fit for me, because I kind of just want to pick up shifts when I can, because I am pretty busy. But yeah, it probably would be twic...
+**Experience:** Mixed, 19+ years. Ages: infants, preschool-age, school-age
+**Location:** Kaysville Utah, 20-25 miles
+**Schedule:** part-time
 
-**Summary:** Piper has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Piper has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -1774,9 +1829,11 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q4 — Location:** I live in Kaysville Utah and I'd say willing to travel maybe like 20 to 25 minutes per ships.
 
-**Q5 — Schedule:** I'm definitely looking for part-time and my schedules kind of sporadic. So I think this is why be this would be a good fit for me, because I kind of just want to pick up shifts when I can, because I am pretty busy. But yeah, it probably would be twice a week, but I don't know exactly. Which days wee...
+**Q5 — Schedule:** I'm definitely looking for part-time and my schedules kind of sporadic. So I think this is why be this would be a good fit for me, because I kind of just want to pick up shifts when I can, because I am pretty busy. But yeah, it probably would be twice a week, but I don't know exactly. Which days weekdays are probably better for me like Monday Tuesday. I think was, when I
+ could typically, look,
 
-**Q6 — Conflict Resolution:** I think it definitely depends on how. Well, I know the children for example, if it's my nephew's in my hand, a little differently than the kids that I was teaching in Costa Rica hours, I don't know them as well and also didn't speak the language. But I would just if that happened in my classroom, I would just separate the kids that explain to them. That, that was not. Okay. And then yeah, make hav...
+**Q6 — Conflict Resolution:** I think it definitely depends on how. Well, I know the children for example, if it's my nephew's in my hand, a little differently than the kids that I was teaching in Costa Rica hours, I don't know them as well and also didn't speak the language. But I would just if that happened in my classroom, I would just separate the kids that explain to them. That, that was not. Okay. And then yeah, make have the one that hit another kid apologize and I just explained to them.
+ That is not okay, Behavior.
 
 **Q7 — Why Great:** I feel like I have a very even temper. I don't get upset too easily and I but I also like I'm able to have fun with them and I've been in around kids a lot. So I think that
  Yeah, I don't know. I feel like I would be good at handling those situations. And yeah, I just love being around kids.
@@ -1786,20 +1843,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Piper Black
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Kaysville Utah and I'd say willing to travel maybe like 20 to 25 minutes per ships., 20-25 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Kaysville Utah, 20-25 miles. Mix of formal and informal childcare experience. Worked with infants, preschool-age, school-age. Looking for part-time.
 
 ---
 
 ### #42 — ✅ APPROVE (HIGH) — Kendra Michelle jones
 
-📧 mrskendra33@gmail.com | 📱 (470) 406-0072 | 📍 Georgia
+📧 mrskendra33@gmail.com | 📱 (470) 406-0072 | 📍 Lawrenceville Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (14yr)
-**Location:** I live in Lawrenceville Georgia, but I travel back and forth between one and two, Georgia, and I'm Gus to Georgia, and I'm willing to try her two to three hours for shifts.
-**Schedule:** I have open availability for all four shifts either, part-time or full-time. I am okay with it because I will start working overnight at the hospital which will not interfere with my shelves.
+**Experience:** Formal, 14+ years. Ages: infants, toddlers, preschool-age, teens
+**Location:** Lawrenceville Georgia
+**Schedule:** full-time, part-time
 
-**Summary:** Kendra has formal childcare experience with 14+ years (early childhood). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kendra has solid formal childcare experience. Has worked with infants, toddlers, preschool-age, teens. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=mrskendra33@gmail.com APP=kendramichellejones00@gmail.com
@@ -1808,15 +1865,18 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Also, I've been doing 10 years of child, early childhood education in the medical field, 14 years off and on ivory with ages group from infants, eat sweets, all the way to 12 year old right now, I am going team coordinator with the boys and girls clothes, a Metro Atlanta here in Lawrenceville Georgia. I just believe in giving back to our youth, from the time, they are born to the time, they are adults.
- And still just giving it to community itself and I believe are you like they are our future and as a mother of six and also having a special needs daughter. They is I love the I love early chil...
+ And still just giving it to community itself and I believe are you like they are our future and as a mother of six and also having a special needs daughter. They is I love the I love early childhood education and currently I am right now pursuing my associates degree in early childhood education with special needs.
 
 **Q4 — Location:** I live in Lawrenceville Georgia, but I travel back and forth between one and two, Georgia, and I'm Gus to Georgia, and I'm willing to try her two to three hours for shifts.
 
 **Q5 — Schedule:** I have open availability for all four shifts either, part-time or full-time. I am okay with it because I will start working overnight at the hospital which will not interfere with my shelves.
 
-**Q6 — Conflict Resolution:** I have been in a classroom where I've seen other kids, he other kids, and immediately you want to do a escalate. The situation was like, no gentle hands. We don't hit our friends. That wasn't nice. Let's say sorry. And when they try to explain you, listen, you don't write the child, no matter the age. And like okay, let's hug it out. We're good now because kids are kids, they're going hit, they're...
+**Q6 — Conflict Resolution:** I have been in a classroom where I've seen other kids, he other kids, and immediately you want to do a escalate. The situation was like, no gentle hands. We don't hit our friends. That wasn't nice. Let's say sorry. And when they try to explain you, listen, you don't write the child, no matter the age. And like okay, let's hug it out. We're good now because kids are kids, they're going hit, they're going to hit each other everything else, but it's always good.
+ good to talk them, let them understand what is right and what is wrong and we come to bed together Kumbaya
+ But if it's more than one teacher that's in the classroom, your back should never be turned away from a child want to always provide safety that way. It's never it never gets to that.
 
-**Q7 — Why Great:** I feel like I will make a great teacher because it's simple Fat. Like I said before, is great to give back to you and get them on the right path, you always want to start like with engaging and just helping them along the way. So, and it up cupcake dust with my schedule, and I can do more and Advocate more, when it comes to helping the youth, learn, or just like being there for the parents. Like, ...
+**Q7 — Why Great:** I feel like I will make a great teacher because it's simple Fat. Like I said before, is great to give back to you and get them on the right path, you always want to start like with engaging and just helping them along the way. So, and it up cupcake dust with my schedule, and I can do more and Advocate more, when it comes to helping the youth, learn, or just like being there for the parents. Like, when it comes the room, feel
+ Uncomfortable enough for their child to be in my care. So, yes, I feel like I will make a great teacher.
 
 </details>
 
@@ -1824,21 +1884,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=mrskendra33@gmail.com APP=kendramichellejones00@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Lawrenceville Georgia, but I travel back and forth between one and two, Georgia, and I'm Gus to Georgia, and I'm willing to try her two to t. 14+ years early childhood experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Lawrenceville Georgia. Childcare experience (details in interview). Worked with infants, toddlers, preschool-age, teens. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #43 — ✅ APPROVE (HIGH) — Amiracle Nixon
 
-📧 amiracle.nixon@gmail.com | 📱 (678) 396-7238 | 📍 Georgia
+📧 amiracle.nixon@gmail.com | 📱 (678) 396-7238 | 📍 I'm located in Stone Mountain, Georgia, 200 acre
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in Stone Mountain, Georgia, 200 acre.
-**Schedule:** I'm leaving part-time or full-time.
- I can take up as well.
+**Experience:** Formal. Ages: preschool-age
+**Location:** I'm located in Stone Mountain, Georgia, 200 acre
+**Schedule:** full-time, part-time
 
-**Summary:** Amiracle has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Amiracle has solid formal childcare experience. Has worked with preschool-age.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+16783967238 APP=+16783685597
@@ -1863,20 +1922,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+16783967238 APP=+16783685597
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Stone Mountain, Georgia, 200 acre.. teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Stone Mountain, Georgia, 200 acre. Childcare experience (details in interview). Worked with preschool-age. Looking for full-time, part-time.
 
 ---
 
 ### #44 — ✅ APPROVE (HIGH) — Tiffany
 
-📧 tswaby12s@gmail.com | 📱 (404) 783-0237 | 📍 Georgia
+📧 tswaby12s@gmail.com | 📱 (404) 783-0237 | 📍 I currently stay in Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (45yr)
-**Location:** I currently stay in Georgia, I live in Loganville, Georgia out here in Gwinnett County. I'm willing to travel to four shifts all the way out to maybe 20 miles or so could be a little bit more dependin...
-**Schedule:** I'm currently looking for part-time work Mondays. Tuesdays and Fridays, just part-time for now and eventually I would turn it into full-time right now. I don't have a vehicle, so I'm working with the days that I can, which is Monday Tuesdays and Frid...
+**Experience:** Formal — daycare, camp counselor (substitute teacher), 45+ years. Ages: infants, preschool-age
+**Location:** I currently stay in Georgia, 20 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Tiffany has formal childcare experience with 45+ years (substitute teacher, camp counselor, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tiffany is a strong candidate — daycare, camp counselor experience with 45+ years. Has worked with infants, preschool-age. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -1884,40 +1943,45 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** I have experience working with kids, I have background in working with them or for 25 years. I have worked as a camp counselor from ages 4 to 12. I have also worked at daycare from infants all the way up to 4 years old. I have a four-year-old myself, I really enjoy hanging out with them and working and working closely with them. I have a four-year-old that's being
- I'm homeschooled right now that I'm home schooling and I enjoy working with them. I've been doing it for five plus years, I have a substitute teacher training, I have been through substitute teacher training and I have a certificati...
+ I'm homeschooled right now that I'm home schooling and I enjoy working with them. I've been doing it for five plus years, I have a substitute teacher training, I have been through substitute teacher training and I have a certification and substitute and I also have worked with special needs and autistic kids as well. I really just enjoy working with them hanging out with them getting to know them.
+ them learning from them is they learning from me and going from them and say going for me and it's a beautiful experience that I have had working with kids for over 45 years and
+ I just enjoy it from a really hard space and I enjoy the creativity that they all did and sometimes it be challenges, but it's nothing that I ever occurred that it can be handled that you don't have full support for in the working space. So I really I really have a big heart for kids.
 
 **Q4 — Location:** I currently stay in Georgia, I live in Loganville, Georgia out here in Gwinnett County. I'm willing to travel to four shifts all the way out to maybe 20 miles or so could be a little bit more depending on the shift. But I thought he is so mellow and are eco-cities like,
- like that. Don't you Stone M...
+ like that. Don't you Stone Mountain? Duluth is not that far for me either. So any of those areas would be great to have a shift in, or do a shift in and in my current location which is Loganville in Gwinnett in Lawrenceville which is also close to me as well.
 
 **Q5 — Schedule:** I'm currently looking for part-time work Mondays. Tuesdays and Fridays, just part-time for now and eventually I would turn it into full-time right now. I don't have a vehicle, so I'm working with the days that I can, which is Monday Tuesdays and Fridays and
  This shifts can range from.
- 8:00 a.m. to...
+ 8:00 a.m. to 6 p.m. I'm I'm also open to after-school programs. Like if you guys need people to for after school stuff, I'm definitely open to that. But anywhere from eight to six, I am three on Mondays, Tuesdays and Fridays. And I can do after school as well.
 
 **Q6 — Conflict Resolution:** I have dealt with conflict before with two kids say one kid bites, the other kid, looking at two year old classroom. You will, you would make sure that other kids, okay? And make sure the bite is not too much or too deep and to make sure they're okay. We will talk to the other kid. How biting is not? Okay, during class and how that can
- Hurt and harm your classmates and really give the kid a good ...
+ Hurt and harm your classmates and really give the kid a good talking to the kid continues to do. So you want to put the kid inside for a second. Make them play by themselves or just sit with the kid, just talk to them and play with them and just, you know, explain to them. Our body is not okay. In a classroom setting before they go back to interacting with the other kids and you also informed the parents when they come about
+ Biting and or the heating or whatever, displayed or conflict they had during their school day. Always want to tell parents with going on during classroom. Settings is very important and also the kid who got been also want to let our guy head or whatever, you also want to let it from the parent about that and let them know what occurred during the conflict. I'm talking to both kids. It's very very
+ Important and letting the parents don't very important.
 
 **Q7 — Why Great:** I will make a grade of kid teacher because I'm consistence I'm creative. I love listening to other Little People's, I love learning from them going with them.
- All around. I have always enjoyed really truly from our space working with little peoples. As I said in the first, the first I think audio but it has always been a joy of Mines truly and I'm honored to have a gift to work with them because ...
+ All around. I have always enjoyed really truly from our space working with little peoples. As I said in the first, the first I think audio but it has always been a joy of Mines truly and I'm honored to have a gift to work with them because it does take patience and it just take listening and understanding and understanding where they're at and and all of the things that
+ you really need to work with kids and I have a lot of patience because I have a four year old and she has taught me a lot of more patients and working with them. I've had experience working with them but having my own I have grew another level of patience. So yeah, I think I would make a great up kid teacher to be able to assist with the other kids.
 
 </details>
 
 🔗 **App Account:** 🟢 Tiffany Swaby
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently stay in Georgia, I live in Loganville, Georgia out here in Gwinnett County. I'm willing to travel to four shifts all the way out to maybe , 20 miles. 45+ years substitute teacher, camp counselor, daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I currently stay in Georgia, 20 miles. 45+ years daycare, camp counselor experience. Worked with infants, preschool-age. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #45 — 🟡 FLAG (MEDIUM) — Aiana
 
-📧 aianawilkes17@icloud.com | 📱 (706) 588-3369 | 📍 Georgia
+📧 aianawilkes17@icloud.com | 📱 (706) 588-3369 | 📍 I am a festival Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (18yr)
-**Location:** I am a festival Georgia.
-**Schedule:** I am available to do both, but I am also most comfortable with doing part-time.
+**Experience:** Informal, 18+ years. Ages: teens
+**Location:** I am a festival Georgia
+**Schedule:** part-time
 
-**Summary:** Aiana's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica.
+**Summary:** Aiana's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -1935,29 +1999,29 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** If anything like a fight broke out between the kids, I will break them up and sit them down and have them express what they are feeling tomato and I want to hurt one another. And then from there, we'll find the root of the problem. See how to resolve this.
 
 **Q7 — Why Great:** I feel like I would make a good teacher because I am very patient with the children and I can't understand them. I feel on a deeper level like I kind of sent them then. It's just more than just being a kid. It's just more than you're just mad. And you're just adding up because they do things for a reason kids, don't do anything for no reason. I feel like a lot of them just don't have.
- Anybody to ...
+ Anybody to express and I feel like me being there, would be a good opportunity for them to get something off their chest.
 
 </details>
 
 🔗 **App Account:** 🟢 Aiana Wilkes
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am a festival Georgia.. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. I am a festival Georgia. Informal childcare experience (babysitting/family). Worked with teens. Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am a festival Georgia.. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. I am a festival Georgia. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #46 — ✅ APPROVE (HIGH) — Gabrielle Johnston
 
-📧 gabriellejohnston128@gmail.com | 📱 (480) 622-3630 | 📍 Arizona
+📧 gabriellejohnston128@gmail.com | 📱 (480) 622-3630 | 📍 So I am currently located in Gilbert Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (20yr)
-**Location:** So I am currently located in Gilbert Arizona. I am from the Chandler-Gilbert area originally when we first moved to Arizona, and I'm willing to travel probably around 10 to 15 miles. I'm perfectly fin...
-**Schedule:** So I am currently looking for part-time just because with my college scheduled a little wonky sometimes, and the semesters, which is therefore my schedule switches, which is pretty interesting to manage, but it's been super fun. And so, I am looking ...
+**Experience:** Formal — preschool, elementary school, 20+ years. Ages: infants, preschool-age, school-age, teens
+**Location:** So I am currently located in Gilbert Arizona, 10-15 miles
+**Schedule:** part-time (school schedule, mornings/afternoons)
 
-**Summary:** Gabrielle has formal childcare experience with 20+ years (early childhood, preschool). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Gabrielle is a strong candidate — preschool, elementary school experience with 20+ years. Has worked with infants, preschool-age, school-age, teens. Currently studying education/child development. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -1965,36 +2029,39 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Gabrielle Johnston and I'm super excited to be on the up kit app. My experience is a lot but also kind of slim. I am pretty young. I'm only 20 years old, I am a student at Chandler-Gilbert Community College studying, Elementary education, I have babysat, a numerous amount of families ever since I was in 8th grade and high school, I actually did all four years of early childhood.
- Education. So I got to work in preschools and go to different centers, all throughout my college. I mean, sorry, my high school experience and all throughout College. I have been able to student teach i...
+ Education. So I got to work in preschools and go to different centers, all throughout my college. I mean, sorry, my high school experience and all throughout College. I have been able to student teach in classrooms. Last semester, I did 30 hours at an elementary school in a first grade classroom. And then next semester, I get to do the same exact thing, but only 20 hours, and this current semester, I'm going to different elementary schools in Reading to kids.
+ I have experience coaching numerous ages all the way from preschool and gymnastics to teenagers and cheerleading. So I've lots of experience working with kids, young adults, all the things and I just love all ages of kids.
 
-**Q4 — Location:** So I am currently located in Gilbert Arizona. I am from the Chandler-Gilbert area originally when we first moved to Arizona, and I'm willing to travel probably around 10 to 15 miles. I'm perfectly fine with being around Gilbert Chandler and Mesa all the things but yeah probably just around that 10 t...
+**Q4 — Location:** So I am currently located in Gilbert Arizona. I am from the Chandler-Gilbert area originally when we first moved to Arizona, and I'm willing to travel probably around 10 to 15 miles. I'm perfectly fine with being around Gilbert Chandler and Mesa all the things but yeah probably just around that 10 to 50 mile radius.
 
-**Q5 — Schedule:** So I am currently looking for part-time just because with my college scheduled a little wonky sometimes, and the semesters, which is therefore my schedule switches, which is pretty interesting to manage, but it's been super fun. And so, I am looking just for a part-time position, I'm available Monda...
+**Q5 — Schedule:** So I am currently looking for part-time just because with my college scheduled a little wonky sometimes, and the semesters, which is therefore my schedule switches, which is pretty interesting to manage, but it's been super fun. And so, I am looking just for a part-time position, I'm available Monday all day, Tuesday's, I'm not available due to my college classes, Wednesday, I am available in the early afternoon to late afternoon after
+ 10 a.m. I'm available Thursday morning some available. And then Friday, all day. I am available tube that is going to change once the semester is over, but all the way past summers when it's going to change because my college classes change. But that is currently my schedule.
 
 **Q6 — Conflict Resolution:** So, I actually have had a similar situation while I was student teaching. In my mentor, teacher actually handled the conflict between two kids, separating the two and having separate talks with them independently and then if an escalation or occurred or a situation like this, continue to happen between the two of them, then she ended up having to contact the parents and bringing in
- The principal ...
+ The principal to deal with it too and just kind of make sure everything was handled the correct and professional manner and I would probably do the same exact thing as she did just because I looked up to her so much for how she handled that situation but also just making sure that both to kids are heard and seen during the conflict and to just make sure that she has the whole story.
 
-**Q7 — Why Great:** I think I would be a good up K teacher because I have a lot of experience for how young I am. Like I said before, I have experienced babysitting coaching, I am e CE certified throughout high school and now studying to become a teacher, I think I could really use all my experience to adapt into a classroom and making sure that I'm really understanding of all these children and how they need to lear...
+**Q7 — Why Great:** I think I would be a good up K teacher because I have a lot of experience for how young I am. Like I said before, I have experienced babysitting coaching, I am e CE certified throughout high school and now studying to become a teacher, I think I could really use all my experience to adapt into a classroom and making sure that I'm really understanding of all these children and how they need to learn. I also am I do have my
+ fingerprint card, my Arizona fingerprint card and I am CPR certified. So I have all the things done just to make sure that everyone is safe in this classroom.
 
 </details>
 
 🔗 **App Account:** 🟢 gabrielle Johnston
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I am currently located in Gilbert Arizona. I am from the Chandler-Gilbert area originally when we first moved to Arizona, and I'm willing to travel, 10-15 miles. 20+ years early childhood, preschool experience. Looking for part-time.
+> 03/30 Intro Call Passed. So I am currently located in Gilbert Arizona, 10-15 miles. 20+ years preschool, elementary school experience. Worked with infants, preschool-age, school-age, teens. Currently studying education/child development. Looking for part-time (school schedule, mornings/afternoons).
 
 ---
 
 ### #47 — ✅ APPROVE (HIGH) — Bhuvana
 
-📧 bhuvaneswarisivasubramanian84@gmail.com | 📱 (801) 514-4317 | 📍 Utah
+📧 bhuvaneswarisivasubramanian84@gmail.com | 📱 (801) 514-4317 | 📍 South. Jordan
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in South. Jordan, Utah. I can travel around, like, 10 miles likes of Jordan. Sunday. River turn like this areas.
-**Schedule:** full-time 8 a.m. to 4 p.m.
+**Experience:** Formal — preschool. Ages: preschool-age
+**Location:** South. Jordan, 10 miles
+**Schedule:** full-time
 
-**Summary:** Bhuvana has formal childcare experience (preschool, teacher). Utah is lenient on experience — this should be straightforward.
+**Summary:** Bhuvana is a strong candidate — preschool experience. Has worked with preschool-age. Currently CPR/First Aid.
 
 **Red Flags:** None
 
@@ -2002,14 +2069,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is bhuvana. I currently work as a totally teacher and I have experience working with young children and they can setting. I really enjoy supporting children's development and creating a safe and engaging environment for them. In my current role. I work closely with tolerance preschooler. I help with daily routine. Like Circle. Time for it running. They'll sign up time. I am CPR certified.
- Complete a specialist training courses, my teaching style focus on patient engagement and building, strong relationship with to run and always my classes of class in a fun and creative way. I'm h...
+ Complete a specialist training courses, my teaching style focus on patient engagement and building, strong relationship with to run and always my classes of class in a fun and creative way. I'm happy person too.
 
 **Q4 — Location:** I live in South. Jordan, Utah. I can travel around, like, 10 miles likes of Jordan. Sunday. River turn like this areas.
 
 **Q5 — Schedule:** full-time 8 a.m. to 4 p.m.
 
 **Q6 — Conflict Resolution:** I will say to the kids hands to myself. We do not hurt her friends. See if you're holding of another friend, will go get heard and whole. He is emotion and he's crying. We do not do that because you have to shower, Gentle, Touch to your friends. After that, I will give baby to how to handle the baby, how to take care of the baby. Can you show your soft hands now, can I show the
- It'll touch to the...
+ It'll touch to the baby now. Like that, I will do.
 
 **Q7 — Why Great:** The key thing is the passion of mine. So always I'm happy to spend time with the kids why I choose to be teacher means because I can choose my own time. I can choose choose my day to work in as a flexible schedule.
 
@@ -2018,20 +2085,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Bhuvaneswari  Sivasubramanian
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in South. Jordan, Utah. I can travel around, like, 10 miles likes of Jordan. Sunday. River turn like this areas., 10 miles. preschool, teacher experience. Looking for full-time.
+> 03/30 Intro Call Passed. South. Jordan, 10 miles. preschool experience. Worked with preschool-age. Currently CPR/First Aid. Looking for full-time.
 
 ---
 
 ### #48 — 🟡 FLAG (MEDIUM) — Jaiden Aliff
 
-📧 jialiff2003@gmail.com | 📱 (678) 977-0733 | 📍 Georgia
+📧 jialiff2003@gmail.com | 📱 (678) 977-0733 | 📍 I'm located in the Peachtree Corners area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I'm located in the Peachtree Corners area and I'm willing to travel within the Johns Creek range, or Roswell. So probably like 20, 30 minutes away from Peachtree Corners, Norcross area. I'm really dow...
-**Schedule:** I'm interested in part-time or full-time. Honestly, I'm interested in anything maybe doing a couple like pick up shifts and then something long-term down the line, especially if I'm able to get my teaching certification. It be wonderful to have some ...
+**Experience:** Informal (nanny, babysitter). Ages: infants
+**Location:** I'm located in the Peachtree Corners area, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Jaiden's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jaiden's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -2049,29 +2116,29 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** I believe I would separate both of the kids and figure out what happened from both perspectives, and then we reconcile with both of the kids together after dealing with them apart. I think I would break them apart especially if there's any physical altercation. Just to make sure tensions are lowered and make sure everybody's okay before we come back together as a group to figure out what happened.
 
 **Q7 — Why Great:** I think I'd be a great teacher because I am just an open-minded person. I'm really great with kids and I'm patient but also Stern in a way where kids understand that I am the adult in the room and but we're going to have a good time and I'm just there to be a safe adult for them and provide a third space for them and the way that they're not home or they're not
- somewhere else. They're here to may...
+ somewhere else. They're here to maybe learn or take a break from their home life. Maybe it's not the best home life. You want to be a safe space for them.
 
 </details>
 
 🔗 **App Account:** 🟢 jaiden aliff
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I'm located in the Peachtree Corners area and I'm willing to travel within the Johns Creek range, or Roswell. So probably like 20, 30 minutes away fro, 30 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in the Peachtree Corners area, 30 miles. nanny, babysitter. Worked with infants. Currently studying education/child development. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I'm located in the Peachtree Corners area and I'm willing to travel within the Johns Creek range, or Roswell. So probably like 20, 30 minutes away fro. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. I'm located in the Peachtree Corners area. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #49 — ✅ APPROVE (LOW) — Jayda Harris
 
-📧 jaydaharris1907@gmail.com | 📱 (404) 680-1088 | 📍 Georgia
+📧 jaydaharris1907@gmail.com | 📱 (404) 680-1088 | 📍 Atlanta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (10yr)
-**Location:** I am located in Atlanta Georgia and I'm willing to travel about 20 to 30 minutes for shift depending on the locations. I'm flexible and open to going further if needed.
-**Schedule:** I am currently looking for part-time shifts and I am open to full-time as well. I am available on weekdays and weekends but I can adjust my schedule for different ships if needed.
+**Experience:** Unclear, 10+ years. Ages: infants
+**Location:** Atlanta Georgia, 20-30 miles
+**Schedule:** full-time, part-time (weekends available)
 
-**Summary:** Jayda mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jayda mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -2079,7 +2146,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Sarah Harris, and I'm very interested in working in childcare because I genuinely enjoy being around children and helping them learn to grow. I work with kids ranging from infants, to about 10 years old. So, I'm comfortable with different age, groups, and their needs. I enjoy working with children because I like creating a safe fun and positive environment for new things and seeing them build confidence and expressing themselves. I'm also very patient and caring
- and attentive, which I feel like our is important qualities. When working with children overall, I'm very excited for...
+ and attentive, which I feel like our is important qualities. When working with children overall, I'm very excited for the opportunity to support children and be a positive influence in their life.
 
 **Q4 — Location:** I am located in Atlanta Georgia and I'm willing to travel about 20 to 30 minutes for shift depending on the locations. I'm flexible and open to going further if needed.
 
@@ -2087,27 +2154,27 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** I was stuck in calmly, make sure both kids are safe and comfort. The child who was hurt and explain to the other child that hitting isn't okay. Then I'll gobble children to resolve the situation or positive way like apologizing and finding a better way to play together.
 
-**Q7 — Why Great:** I'll make a great up, kid teacher, because I'm patient Gary and I truly enjoy working with kids. I have experience with children from infants to 10 years old. So, I'm comfortable with different ages and personalities. I create a fun, safe and positive environment. And I'm reliable and attentive, I'm really looking forward to the opportunity to be a part of up kid and make a positive impact on the ...
+**Q7 — Why Great:** I'll make a great up, kid teacher, because I'm patient Gary and I truly enjoy working with kids. I have experience with children from infants to 10 years old. So, I'm comfortable with different ages and personalities. I create a fun, safe and positive environment. And I'm reliable and attentive, I'm really looking forward to the opportunity to be a part of up kid and make a positive impact on the kids.
 
 </details>
 
 🔗 **App Account:** 🟢 Jayda Harris
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Atlanta Georgia and I'm willing to travel about 20 to 30 minutes for shift depending on the locations. I'm flexible and open to going , 20-30 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia, 20-30 miles. Childcare experience (details in interview). Worked with infants. Looking for full-time, part-time (weekends available).
 
 ---
 
 ### #50 — ✅ APPROVE (HIGH) — Shuntrice
 
-📧 trice.cotton@yahoo.com | 📱 (470) 923-0616 | 📍 Georgia
+📧 trice.cotton@yahoo.com | 📱 (470) 923-0616 | 📍 Yes, I live in McDonough Georgia currently but I'm available
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Yes, I live in McDonough Georgia currently but I'm available Monday through Friday and I'm willing to travel in the range of 30 to 35 minutes from my area.
-**Schedule:** Yes, I would like to work Monday through Friday full-time and I also would like to work the early shift any early availability sixty to seventy three. Those are the shifts. I'm looking for
+**Experience:** Formal — daycare, elementary school. Ages: infants, school-age, teens
+**Location:** Yes, I live in McDonough Georgia currently but I'm available, 30-35 miles
+**Schedule:** full-time
 
-**Summary:** Shuntrice has formal childcare experience (early childhood, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Shuntrice is a strong candidate — daycare, elementary school experience. Has worked with infants, school-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2121,30 +2188,32 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** Yes, I would like to work Monday through Friday full-time and I also would like to work the early shift any early availability sixty to seventy three. Those are the shifts. I'm looking for
 
-**Q6 — Conflict Resolution:** Yes, when you're dealing with conflict between two children, I would say separate the two children and have a discussion with them, get both sides of the story. Listen to them, be even though they are kids, it's good to hear how they feel their emotions. So I would say move the kids, talk to them, separately, bring them both together, have discussion. If one kid is in the wrong, you tell them why ...
+**Q6 — Conflict Resolution:** Yes, when you're dealing with conflict between two children, I would say separate the two children and have a discussion with them, get both sides of the story. Listen to them, be even though they are kids, it's good to hear how they feel their emotions. So I would say move the kids, talk to them, separately, bring them both together, have discussion. If one kid is in the wrong, you tell them why they should not.
+ I do a certain thing and you also tell the other kid, if they also did something wrong, what not to do. And the proper way to handle the situation moving forward.
+ Let the makeup build a foundation between the two children and proceed from there.
 
 **Q7 — Why Great:** I would make a great teacher because I know how to handle various situations. I am Dependable, reliable, and kids are our future so it's great to see them move from one stage to the next. And in that process, you also grow with them. I've always had a love and respect for children. That has always been my passion. I want to further my career.
- In teaching I feel like teachers Make the World Go Rou...
+ In teaching I feel like teachers Make the World Go Round And I want to be a part of that community.
 
 </details>
 
 🔗 **App Account:** 🟢 Shuntrice  Cotton
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I live in McDonough Georgia currently but I'm available Monday through Friday and I'm willing to travel in the range of 30 to 35 minutes from my , 30-35 miles. early childhood, daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Yes, I live in McDonough Georgia currently but I'm available, 30-35 miles. daycare, elementary school experience. Worked with infants, school-age, teens. Looking for full-time.
 
 ---
 
 ### #51 — ✅ APPROVE (MEDIUM) — Kiara Parker
 
-📧 kekisvde@icloud.com | 📱 (254) 423-5920 | 📍 Georgia
+📧 kekisvde@icloud.com | 📱 (254) 423-5920 | 📍 McDonough Georgia, I'm willing to travel 25 minutes for sure
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (9yr)
-**Location:** I live in McDonough Georgia, I'm willing to travel 25 minutes for sure.
-**Schedule:** I have open availability for shifts. There are no days that I can't work. I'm looking for a full-time position.
+**Experience:** Mixed — daycare, 9+ years. Ages: infants
+**Location:** McDonough Georgia, I'm willing to travel 25 minutes for sure, 25 miles
+**Schedule:** full-time
 
-**Summary:** Kiara has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kiara has experience in daycare plus informal childcare.
 
 **Red Flags:** None
 
@@ -2152,37 +2221,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Kiera. I have been working with kids who for as long as I can remember, I'm actually an older sister. So I've always kind of Taken on that motherly role. I worked at a couple daycares in Atlanta I would say for about five years I would usually do ages from two to four was the oldest however my daughter has 20
- ins and they all range from newborn to 9 years old and there's been times where I had to watch them for hours at a time. So I'm definitely used to working with a lot of kids. I have a lot of patience. I love to teach I love to help. I like being someone for a child to remember...
+ ins and they all range from newborn to 9 years old and there's been times where I had to watch them for hours at a time. So I'm definitely used to working with a lot of kids. I have a lot of patience. I love to teach I love to help. I like being someone for a child to remember I guess leaving a lasting memory that will help them grow on and they help teach me as well. That is why I love working with kids.
 
 **Q4 — Location:** I live in McDonough Georgia, I'm willing to travel 25 minutes for sure.
 
 **Q5 — Schedule:** I have open availability for shifts. There are no days that I can't work. I'm looking for a full-time position.
 
-**Q6 — Conflict Resolution:** If I think two children fighting, I would get over there as soon as I could, if they're not, you know, within reach and separate them. I would go to one student get their side of the story. See, you know what happened? Make sure they're okay. Go to the other student do the exact same thing. Hopefully, you know, it's usually over like a crayon, or a toy or something, I usually get them together and...
+**Q6 — Conflict Resolution:** If I think two children fighting, I would get over there as soon as I could, if they're not, you know, within reach and separate them. I would go to one student get their side of the story. See, you know what happened? Make sure they're okay. Go to the other student do the exact same thing. Hopefully, you know, it's usually over like a crayon, or a toy or something, I usually get them together and, you know, explain how this made you feel, all right? Give the other person, the floor. How can we move on? How can we fix?
+ This, so this doesn't happen again. Yes, indeed and usually works every time
 
 **Q7 — Why Great:** I'd be perfect for a kid because I'm good at everything I do. I'm gonna everything I set my mind to, I like to be the best at everything I have in.
- Extreme amount of patience, it. Nothing can shake me out of my element or get me upset or, you know, make me have a bad work day. I like to be in control of my own feelings. I say positive upbeat. This usually shows and radiates to the children, and t...
+ Extreme amount of patience, it. Nothing can shake me out of my element or get me upset or, you know, make me have a bad work day. I like to be in control of my own feelings. I say positive upbeat. This usually shows and radiates to the children, and their positive, and they're upbeat, and we just always have a great time. I love working with the kids. I've been doing it for so long, every day is different and nothing is the same. I love building relationships and
+ and you know, just overall teaching, I know I would be a great day for up kid.
 
 </details>
 
 🔗 **App Account:** 🟢 Kiara Parker
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in McDonough Georgia, I'm willing to travel 25 minutes for sure., 25 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. McDonough Georgia, I'm willing to travel 25 minutes for sure, 25 miles. 9+ years daycare experience. Worked with infants. Looking for full-time.
 
 ---
 
 ### #52 — ✅ APPROVE (HIGH) — Makenze
 
-📧 kizzynyree18@gmail.com | 📱 (731) 332-3796 | 📍 Georgia
+📧 kizzynyree18@gmail.com | 📱 (731) 332-3796 | 📍 Yes, I am located in, Duluth Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (25yr)
-**Location:** Yes, I am located in, Duluth Georgia.
- And I can travel up to 20 minutes. 25 minutes
-**Schedule:** As of right now I am looking for part-time because I am expecting and I do have a one-year-old but he will be good. So part-time availability Monday through Friday?
+**Experience:** Formal — afterschool program, 25+ years. Ages: preschool-age
+**Location:** Yes, I am located in, Duluth Georgia, 20 miles
+**Schedule:** part-time
 
-**Summary:** Makenze has formal childcare experience with 25+ years (after school). Good fit for Georgia's moderate experience requirements.
+**Summary:** Makenze is a strong candidate — afterschool program experience with 25+ years. Has worked with preschool-age.
 
 **Red Flags:** None
 
@@ -2195,7 +2265,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  the one-year-old room and up. I've also worked with
  after school programs, with the older kids,
  And overall, I just really love it because I have children. So I love to look out for other children and make sure that their needs are met and
- Overall just really love child care. I really do. I love the experience. I love how you get to learn new things. Gain new thin...
+ Overall just really love child care. I really do. I love the experience. I love how you get to learn new things. Gain new things.
 
 **Q4 — Location:** Yes, I am located in, Duluth Georgia.
  And I can travel up to 20 minutes. 25 minutes
@@ -2215,21 +2285,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Makenze Mathis
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I am located in, Duluth Georgia.
- And I can travel up to 20 minutes. 25 minutes, 20 miles. 25+ years after school experience. Looking for part-time.
+> 03/30 Intro Call Passed. Yes, I am located in, Duluth Georgia, 20 miles. 25+ years afterschool program experience. Worked with preschool-age. Looking for part-time.
 
 ---
 
 ### #53 — ✅ APPROVE (MEDIUM) — Chelsea
 
-📧 chelseaveal19@gmail.com | 📱 (404) 644-1448 | 📍 Georgia
+📧 chelseaveal19@gmail.com | 📱 (404) 644-1448 | 📍 Conyers Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am currently located in Conyers Georgia. I would say as far as willing to travel about 20 miles for work.
-**Schedule:** I am currently a full-time teacher so I am only looking for part-time work. I would say, schedule a wise. I'm available anytime after three, but I'm also available whenever we have brakes brakes from school such as spring break or summer break. So I'...
+**Experience:** Mixed — elementary school (babysitter). Ages: infants, school-age
+**Location:** Conyers Georgia, 20 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Chelsea has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Chelsea has a mix of formal (elementary school) and informal (babysitter) experience. Currently studying education/child development, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -2237,35 +2306,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Chelsea view. I graduated with my degree in early childhood education in 2020, but then I also went back to school and receive my master's degree in 2023 for early childhood education. And now I'm currently in school to receive my specialist degree in early childhood education as well. And I'm expected to graduate next May
- I love working with kids, I have been in this profession for six years. I teach first grade and I have been teaching first grade my entire profession, I have educate, I have experience with teaching all elementary grade levels from my college experience. Howe...
+ I love working with kids, I have been in this profession for six years. I teach first grade and I have been teaching first grade my entire profession, I have educate, I have experience with teaching all elementary grade levels from my college experience. However, after graduating I started working with first grade and I fell in love with first grade. So I've just always been there ever since even before Kyle.
+ Liege. I was babysitting because I just enjoy being around kids, I love with, in this profession, being able to see how well they learn and continue to grow.
 
 **Q4 — Location:** I am currently located in Conyers Georgia. I would say as far as willing to travel about 20 miles for work.
 
 **Q5 — Schedule:** I am currently a full-time teacher so I am only looking for part-time work. I would say, schedule a wise. I'm available anytime after three, but I'm also available whenever we have brakes brakes from school such as spring break or summer break. So I'm also available during that time frame as well.
 
-**Q6 — Conflict Resolution:** Within my profession, I see this quite frequently therefore when that does happen it's addressed immediately. As soon as it's noticed, then I addressed it. As far as I go completely up to the student to have a conversation as to why it happened. So we can resolve the issue. So it does not happen. Again, I go through the steps of having them apologize to one another, but if it's not seen is still t...
+**Q6 — Conflict Resolution:** Within my profession, I see this quite frequently therefore when that does happen it's addressed immediately. As soon as it's noticed, then I addressed it. As far as I go completely up to the student to have a conversation as to why it happened. So we can resolve the issue. So it does not happen. Again, I go through the steps of having them apologize to one another, but if it's not seen is still the same concept is still addressed. So that way that I always
+ Tell the students, keep your hands and feet to yourself but it's always best when someone does something like that. You come tell the teacher immediately do not hit back because then that just stops starts an entire altercation. That I don't want students to get involved in. I prefer them to maintain safety at all times.
 
-**Q7 — Why Great:** I personally personally feel that teaching is my calling and I've been doing it for six years now and I feel like it just comes naturally to me so therefore I feel like I would make a great up kid teacher because of the fact that teaching is already who I am. It's what I do even when I'm off in the summertime, I'm not off. I generally teach summer school at my school is well so I just feel like it...
+**Q7 — Why Great:** I personally personally feel that teaching is my calling and I've been doing it for six years now and I feel like it just comes naturally to me so therefore I feel like I would make a great up kid teacher because of the fact that teaching is already who I am. It's what I do even when I'm off in the summertime, I'm not off. I generally teach summer school at my school is well so I just feel like it's a part of me and
+ I love kids, I love working with them. I love being able to help them, learn how to read, and write and understanding math. It's just my calling in a way. It's hard to explain. I just feel like it's who I am, it makes me who I am. It makes me a better person being able to watch students, learn and grow and being there to help them and Inspire their imagination to flourish.
 
 </details>
 
 🔗 **App Account:** 🟢 Chelsea Veal
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am currently located in Conyers Georgia. I would say as far as willing to travel about 20 miles for work., 20 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Conyers Georgia, 20 miles. elementary school experience. Worked with infants, school-age. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #54 — ✅ APPROVE (HIGH) — Yazmine Mojica
 
-📧 msmcintee.mojica@gmail.com | 📱 (912) 441-4093 | 📍 Georgia
+📧 msmcintee.mojica@gmail.com | 📱 (912) 441-4093 | 📍 Located in Savannah, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (23yr)
-**Location:** Located in Savannah, Georgia.
-**Schedule:** Maybe looking for a part-time during the week, possibly and maybe for the time on the weekends, I do also have a full-time job as well.
+**Experience:** Formal, 23+ years. Ages: infants, preschool-age, teens
+**Location:** Located in Savannah, Georgia
+**Schedule:** full-time, part-time (weekends available)
 
-**Summary:** Yazmine has formal childcare experience with 23+ years in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Yazmine has solid formal childcare experience. Has worked with infants, preschool-age, teens. Currently college student. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2273,37 +2345,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Jasmine. I am 23 years old. I am currently in treatment coordinator working with Foster. You I have been working with kids for the last eight years. I started in high school and I babysat kids all through high school and college as well. I have work with kids with mental health.
- Abilities. I work with kids on the Spectrum. I have also worked with juvenile kids at alternative school as well. Like, I previously said, I work with Foster youth kids and I love helping kids, and advocating for kids working with kids, has always been my passion and throughout my career, I want to w...
+ Abilities. I work with kids on the Spectrum. I have also worked with juvenile kids at alternative school as well. Like, I previously said, I work with Foster youth kids and I love helping kids, and advocating for kids working with kids, has always been my passion and throughout my career, I want to work with all kinds of kids, whether they have superpowers or whether they're just going through things, I
+ To be that Advocate. And be that person that actually sits in this attendees kids, I'm currently getting my master's degree in mental health and wellness and I should be graduating May 27. I also have my bachelor's degree in Psychology from North Carolina Central University.
 
 **Q4 — Location:** Located in Savannah, Georgia.
 
 **Q5 — Schedule:** Maybe looking for a part-time during the week, possibly and maybe for the time on the weekends, I do also have a full-time job as well.
 
 **Q6 — Conflict Resolution:** I don't deal with conflict between two kids on many different occasions, but how I go about it, is I try to separate them and ask each kid what happened, get both sides of the story and then try to come to a common ground with the children. As far as me working with kids on the Spectrum. Or like I said, kids who have superpowers, some kids are non-verbal, some kids are over
- Herbal. So it depends ...
+ Herbal. So it depends on the situation but most of the time redirection goes along with in my field of work. Now, as a foster youth treatment coordinator. If I do have conflict with other kids, I still get each side of the story. Come to a common ground. Talk to parents to see if this Behavior has happened before. What can we do to get these behaviors and check?
+ And come up with a system that will work for the Foster.
 
 **Q7 — Why Great:** Ake a great up, kid teacher, due to my experience alone. I feel like I have very good rapport with children, but it's always been. My passion has worked on kids and me being 23 years old. I feel like with kids and teens. I've been there so I can relate to them more. I feel as though most kids just want somebody to listen to me.
- And I could be the voice for them. Whether is a kid who is in a confl...
+ And I could be the voice for them. Whether is a kid who is in a conflict, with another child, a kid who is having the issue at home? Regardless of the matter, I feel like I can be that person to help them. I've also have experience working with babies, as well as well. Changing diapers, bottle-feeding medicine regimens all the experience. You can think of I have that off and I'm CPR certified and first
+ a certified and I am also certified in mental health as well.
 
 </details>
 
 🔗 **App Account:** 🟢 Yazmine  Mojica
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Located in Savannah, Georgia.. 23+ years Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Located in Savannah, Georgia. Childcare experience (details in interview). Worked with infants, preschool-age, teens. Currently college student. Looking for full-time, part-time (weekends available).
 
 ---
 
 ### #55 — 🟡 FLAG (MEDIUM) — Kristy Aguilar
 
-📧 aguilarkristy21@gmail.com | 📱 (602) 323-4803 | 📍 Arizona
+📧 aguilarkristy21@gmail.com | 📱 (602) 323-4803 | 📍 South Tucson, Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in South Tucson, Arizona. My address is 309 West, 44th Street Tucson, Arizona, 857. 13. I am willing to travel about 10 miles Max from my location. And yeah.
-**Schedule:** I would prefer a full-time job but I am open to a part-time job. My availability availability is absolutely open.
+**Experience:** Formal — preschool. Ages: infants, preschool-age, teens
+**Location:** South Tucson, Arizona, 10 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Kristy has formal childcare experience (preschool). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kristy explicitly states no childcare experience.
 
 **Red Flags:** None
 
@@ -2313,40 +2388,44 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Christie Aguilar. The only experience that I've ever had working with children. Was my senior year in high school and 2023. I took a children's education class. I learned how to take care of children from the ages, six months to about five to six years old, I learned from the babies, how to change diapers feeding snap times.
- And when I was working with preschoolers, I learned activities. We did a lot of reading, we had a lot of outside time. Nap time, snack, lunch things. I definitely enjoyed my time working with the children. It was so much fun and it was very exciting and it ...
+ And when I was working with preschoolers, I learned activities. We did a lot of reading, we had a lot of outside time. Nap time, snack, lunch things. I definitely enjoyed my time working with the children. It was so much fun and it was very exciting and it was such a wonderful experience to have. I don't have any further experience but the
+ this is definitely something that I would like to pursue.
 
 **Q4 — Location:** I live in South Tucson, Arizona. My address is 309 West, 44th Street Tucson, Arizona, 857. 13. I am willing to travel about 10 miles Max from my location. And yeah.
 
 **Q5 — Schedule:** I would prefer a full-time job but I am open to a part-time job. My availability availability is absolutely open.
 
 **Q6 — Conflict Resolution:** Personally, I've never had an experience. Were two children are having a disagreement of some sort. I feel that
- If there was something happening be to between two children, that was a negative experience for them, that they would need to be separated in some kind of way. I feel that having conversation with a child is different than an adult, they require different type of communication, I feel t...
+ If there was something happening be to between two children, that was a negative experience for them, that they would need to be separated in some kind of way. I feel that having conversation with a child is different than an adult, they require different type of communication, I feel that it is better to focus on what they need in that moment or what they are trying to do or what they want to do. You know, trying to understand if something is making them uncomfortable or if
+ Something, they feel, they don't feel safe or something of that sort. I would try to understand that before obviously jumping to conclusions. But definitely I feel that separating the two children who are having an issue with each other is the best option to start off with.
 
 **Q7 — Why Great:** I feel that I would make a good teacher, because one of my biggest aspects of me is I'm very patient. I think that it takes a lot for me to really get upset or irritated with things. I feel that I'm more patient with children because I know that they have a different understanding of things that I do or as an adult may. I think that
- Being around. Children isn't an issue for me. I like spending ti...
+ Being around. Children isn't an issue for me. I like spending time with kids. I think that they are a wonderful joy in life. I know that all they are is just curious and want to learn and want to know everything. I'm okay with answering questions for them. I am okay with working side-by-side by them, I am okay with them working alone, and if they need help that they could come to me, I feel that I like to give an open space for them.
+ I'm to feel comfortable. I believe that I have a very bubbly and kind personality that it's easy for me to connect with kids. And for kids to build that trust with me because I also give that back to them, you know. I definitely want them to know that they're safe and that they're comfortable and the space that were in together. And I feel that I just like working with kids or being around them as well.
 
 </details>
 
 🔗 **App Account:** 🟢 Kristy Aguilar
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in South Tucson, Arizona. My address is 309 West, 44th Street Tucson, Arizona, 857. 13. I am willing to travel about 10 miles Max from my locat, 10 miles. preschool experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. South Tucson, Arizona, 10 miles. preschool experience. Worked with infants, preschool-age, teens. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in South Tucson, Arizona. My address is 309 West, 44th Street Tucson, Arizona, 857. 13. I am willing to travel about 10 miles Max from my locat. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. South Tucson, Arizona. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #56 — 🟡 FLAG (LOW) — Chalika Oliver
 
-📧 chalikaoliver21@gmail.com | 📱 (678) 333-2380 | 📍 Georgia
+📧 chalikaoliver21@gmail.com | 📱 (678) 333-2380 | 📍 and,
+ I would like to travel 10 minutes and five minutes
 Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unknown
 **Location:** and,
- I would like to travel 10 minutes and five minutes.
-**Schedule:** Six hours or four hours.
+ I would like to travel 10 minutes and five minutes, 10 miles
+**Schedule:** flexible
 
-**Summary:** Could not assess Chalika's experience — transcript may be missing or garbled.
+**Summary:** Chalika needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -2370,23 +2449,23 @@ Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Zendesk Summary (if approved):**
 > 03/30 Intro Call Passed. and,
- I would like to travel 10 minutes and five minutes., 10 miles. Experience details not available. Looking for available.
+ I would like to travel 10 minutes and five minutes, 10 miles. Childcare experience (details in interview). Looking for flexible.
 **Zendesk Summary (if denied):**
 > 03/30 Not Hiring — Intro Call. and,
- I would like to travel 10 minutes and five minutes.. Could not evaluate — transcript issue.
+ I would like to travel 10 minutes and five minutes. Could not evaluate — transcript issue.
 
 ---
 
 ### #57 — 🟡 FLAG (MEDIUM) — Michelle
 
-📧 therheinfam@yahoo.com | 📱 (602) 694-4988 | 📍 Arizona
+📧 therheinfam@yahoo.com | 📱 (602) 694-4988 | 📍 Tucson Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I currently live in Tucson Arizona and I am currently willing to travel anywhere from locally to about 10 miles out. I'd say my zip code area is 857 12
-**Schedule:** As of right now, I'm open availability and will gladly accept anything full-time or part-time and it does not matter the day of the week.
+**Experience:** Formal — preschool, kindergarten, elementary school. Ages: toddlers, preschool-age, school-age
+**Location:** Tucson Arizona, 10 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Michelle has formal childcare experience (preschool, teacher, kindergarten). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Michelle needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -2396,14 +2475,15 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Michelle Moore. I have had the pleasure of working with toddlers And kindergarteners as well as elementary school children, but I especially specialize in toddlers. And kindergarteners. I've worked with the Blake Foundation that has worked with special needs children of the ages of two. And I've worked with elementary school children.
- As a general Aid and preschool teacher preschoolers as well as a general. A I love working with young children because it's very rewarding and that offers daily Joy seeing children's mind spark with curiosity and creativity. It makes work fun a...
+ As a general Aid and preschool teacher preschoolers as well as a general. A I love working with young children because it's very rewarding and that offers daily Joy seeing children's mind spark with curiosity and creativity. It makes work fun and exciting and new every day the meaningful impact on their lives, brings new purpose, and emotionally fulfilling rather than just a normal regular.
+ ER routine job waking up is a new day every day and although it brings its challenges. It's very rewarding to see the success at the end of the day.
 
 **Q4 — Location:** I currently live in Tucson Arizona and I am currently willing to travel anywhere from locally to about 10 miles out. I'd say my zip code area is 857 12
 
 **Q5 — Schedule:** As of right now, I'm open availability and will gladly accept anything full-time or part-time and it does not matter the day of the week.
 
 **Q6 — Conflict Resolution:** First is the listen and be calm and sitting at their level definitely helps help them explain to the other child, how they feel. And why do they get upset and hit the other child? And then have the other child explain, how that hurt their feelings or hurt them. And offering encourage them to find solutions to their conflicts, for an example, set a timer for toys, so they both get equal play time
- ...
+ And that they can both be happy and share.
 
 **Q7 — Why Great:** The flexibility that it offers being able to be a lifesaver in a situation that a teacher is needed and the company needs a substitute teacher. Not only to be the Lifesaver for that organization, but to the children as well, that need continued attention and creativity and structure.
 
@@ -2412,22 +2492,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Michelle More
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I currently live in Tucson Arizona and I am currently willing to travel anywhere from locally to about 10 miles out. I'd say my zip code area is 857 1, 10 miles. preschool, teacher, kindergarten experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Tucson Arizona, 10 miles. preschool, kindergarten, elementary school experience. Worked with toddlers, preschool-age, school-age. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I currently live in Tucson Arizona and I am currently willing to travel anywhere from locally to about 10 miles out. I'd say my zip code area is 857 1. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Tucson Arizona. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #58 — ✅ APPROVE (HIGH) — Michaela Lehmann
 
-📧 michaelal2504@gmail.com | 📱 (480) 599-9464 | 📍 Georgia
+📧 michaelal2504@gmail.com | 📱 (480) 599-9464 | 📍 I'm located in Marietta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (9yr)
-**Location:** I'm located in Marietta Georgia. I would be willing to travel up to 45 minutes, probably for a shift.
-**Schedule:** I'm looking for a part-time job. I would be available to work Fridays Saturdays and or Sundays
+**Experience:** Formal, 9+ years
+**Location:** I'm located in Marietta Georgia, 45 miles
+**Schedule:** part-time
 
-**Summary:** Michaela has formal childcare experience with 9+ years in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques. Phone area code suggests Arizona, not Georgia — worth verifying location.
+**Summary:** Michaela has solid formal childcare experience. Note: phone area code is Arizona, not Georgia — worth verifying actual location.
 
 **🚩 Red Flags:**
 - Phone area code suggests arizona but listed as georgia
@@ -2436,36 +2516,39 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Michaela Lehman my background. Working with children is that I worked in a language School. In Slovakia over the summer. I was working with ages five to nine. So we were doing language learning. So there was an educational element, doing developmentally, appropriate, learning activities, with those kids. There was also, you know, I had to individually work with some of the kids, because there was kind of this big there's a big developmental gap between
- In a five year old and a 9 year old. So we, we did also like play-based learning. We took them outside for activities. The reason w...
+ In a five year old and a 9 year old. So we, we did also like play-based learning. We took them outside for activities. The reason why I enjoy working with kids. So much is because I truly believe that children are the future. I think children are one of the most marginalized groups in the world and that we just need to respect them and treat them like people. I think that even adults have a lot to learn from
+ Being around children and working with them. So I really enjoy being able to do that.
 
 **Q4 — Location:** I'm located in Marietta Georgia. I would be willing to travel up to 45 minutes, probably for a shift.
 
 **Q5 — Schedule:** I'm looking for a part-time job. I would be available to work Fridays Saturdays and or Sundays
 
 **Q6 — Conflict Resolution:** There was a situation at my last job working with kids. There was a seven year old who is making fun of a five year old with a speech impediment.
- And the way that my coworker and idea escalated, the situation was that we separated the two girls explain to the older one. Why making fun of someone with a speech impediment is wrong? I told the younger girl that she does, we told them both that they ...
+ And the way that my coworker and idea escalated, the situation was that we separated the two girls explain to the older one. Why making fun of someone with a speech impediment is wrong? I told the younger girl that she does, we told them both that they don't have to play with each other, but that they have to be civil. I took the five year old to a different area in the playing Center and I just kind of entertained her.
+ Visually for a little bit with like coloring, you know, ask her how it made her feel so that she didn't feel like excluded from the playing environment. And we did have the older girl apologize to the younger girl. It resolved itself pretty naturally after that they did they ended up playing with each other without issue after that incident and then we inform both of the parents when they came to pick the kid up.
 
-**Q7 — Why Great:** Because I truly believe that adults have so much to learn from children and the children are a marginalized group that needs to be listened to. I think that that really gets through in my actions in the way that I interact with children and is able to foster, a really good connection between me and younger people where they feel respected and in turn, we're able to have very productive, meaningful...
+**Q7 — Why Great:** Because I truly believe that adults have so much to learn from children and the children are a marginalized group that needs to be listened to. I think that that really gets through in my actions in the way that I interact with children and is able to foster, a really good connection between me and younger people where they feel respected and in turn, we're able to have very productive, meaningful relationships and I think that's something like
+ That is really valuable in childcare.
 
 </details>
 
 🔗 **App Account:** 🟢 Michaela Lehmann
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Marietta Georgia. I would be willing to travel up to 45 minutes, probably for a shift., 45 miles. 9+ years Formal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Marietta Georgia, 45 miles. Childcare experience (details in interview). Looking for part-time.
 
 ---
 
 ### #59 — ✅ APPROVE (MEDIUM) — Aerial Waller
 
-📧 aerialwallerc@gmail.com | 📱 (917) 340-6622 | 📍 Georgia
+📧 aerialwallerc@gmail.com | 📱 (917) 340-6622 | 📍 I'm located in Atlanta, Georgia area, 30, 331, I am available to travel
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Atlanta, Georgia area, 30, 331, I am available to travel. I do have my own means of transportation.
-**Schedule:** I'm available to work both full-time and part-time schedules.
+**Experience:** Mixed (babysitter). Ages: infants
+**Location:** I'm located in Atlanta, Georgia area, 30, 331, I am available to travel
+**Schedule:** full-time, part-time
 
-**Summary:** Aerial has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Aerial has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2479,29 +2562,31 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I'm available to work both full-time and part-time schedules.
 
-**Q6 — Conflict Resolution:** When handling conflict between two children, I focus on staying calm neutral, and making sure both children felt her. I start by separating them. If their emotions are high, then I'll speak to each child individually to understand what happened from their perspective. Once everyone is calm, I bring them back together and got a conversation where they can express their feelings. Respectfully, I hel...
+**Q6 — Conflict Resolution:** When handling conflict between two children, I focus on staying calm neutral, and making sure both children felt her. I start by separating them. If their emotions are high, then I'll speak to each child individually to understand what happened from their perspective. Once everyone is calm, I bring them back together and got a conversation where they can express their feelings. Respectfully, I helped them identify the problem solved through, why the conflict happened and encourage them to come up with a solution together, whether that's taking turns
+ Turns apologizing or setting up player boundaries. I also reinforce positive behavior by acknowledging when they communicate well or resolve the issue combo, my goal is not just to solve the immediate problem but to help them build communication and problem-solving skills that they can use in the future.
 
-**Q7 — Why Great:** I will make a great up to teacher because I bring strong mix of patients. Communication skills and the ability to create a positive engaging environment for children. Understand that every child learns differently. So I can focus on being adaptable of meeting each student at their level while keeping them. Encouraging motivating. It my background in customer service and communication has helped me...
+**Q7 — Why Great:** I will make a great up to teacher because I bring strong mix of patients. Communication skills and the ability to create a positive engaging environment for children. Understand that every child learns differently. So I can focus on being adaptable of meeting each student at their level while keeping them. Encouraging motivating. It my background in customer service and communication has helped me develop strong listening skills and the ability to explain things clearly and simply I'm also very comfortable managing different personalities that
+ In calm, under pressure and turning challenging moments into learning opportunities. In addition, I'm reliable organized able to manage my time effectively in a remote setting. I take pride in being consistent and professional while still bringing energy and warmth. And so every interaction, my goal is always to create a space where children feel supported confident and excited to learn.
 
 </details>
 
 🔗 **App Account:** 🟢 Aerial Waller
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia area, 30, 331, I am available to travel. I do have my own means of transportation.. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia area, 30, 331, I am available to travel. babysitter. Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #60 — ✅ APPROVE (MEDIUM) — Lillian Thomason
 
-📧 lilyryelee@gmail.com | 📱 (470) 262-2042 | 📍 Georgia
+📧 lilyryelee@gmail.com | 📱 (470) 262-2042 | 📍 Fayetteville
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am located in Fayetteville. Georgia, I live kind of close to the square.
-**Schedule:** I'm looking for both part-time and full-time. Work to start off, I think that I will be working part-time just to get a feel for the job. But long term, I would like to work full time.
+**Experience:** Mixed. Ages: teens
+**Location:** Fayetteville
+**Schedule:** full-time, part-time
 
-**Summary:** Lillian has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lillian has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2509,37 +2594,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Lillian, Thomason, I'm 18. I am a high school graduate. I'm currently getting some college education. My major is child psychology. I am the oldest of four siblings and I grew up watching my siblings. I don't have any professional experience, taking care of kids, but that's why I'm on up kid. I would like to start
- Start taking care of kids start, stubbing my career. I want to work with kids. I love working with kids. I love being a part of the their fundamental development. I love being a part of their development tool stages of life. I love helping them. I love making their day, I...
+ Start taking care of kids start, stubbing my career. I want to work with kids. I love working with kids. I love being a part of the their fundamental development. I love being a part of their development tool stages of life. I love helping them. I love making their day, I love hearing their stories. I love hearing about their day. I just love working children,
 
 **Q4 — Location:** I am located in Fayetteville. Georgia, I live kind of close to the square.
 
 **Q5 — Schedule:** I'm looking for both part-time and full-time. Work to start off, I think that I will be working part-time just to get a feel for the job. But long term, I would like to work full time.
 
 **Q6 — Conflict Resolution:** I deal with conflict with children by first separating them both, and then getting both sides of their story and then bringing them back together. And the three of us or however, many kit children, there were we come to a resolution. We resolve the problem altogether, we all apologize. Hypothetically, if one kid, hit another, in my classroom,
- I would obviously separate them and then first talked ...
+ I would obviously separate them and then first talked to the kid that hit another one asked them, why they hit, ask them why they thought it was okay, to hit ask them, you know, maybe how could we handle that better moving forward? Then I would talk to the kid that was hit and ask them, you know, if they're okay, why they were hit.
+ And then obviously they would get an apology.
 
 **Q7 — Why Great:** I think I would make a great up kid teacher, because I go above and beyond to make sure that I have a bond with each child, specifically a bond, a friendship, a mentorship that fits their each individual needs, I would say I pay attention to each and every child very carefully and as they require. So and I think I would be a great
- Up kid teacher because of how dedicated I am to working with and h...
+ Up kid teacher because of how dedicated I am to working with and helping kids grow and evolve, mentally, physically and emotionally.
 
 </details>
 
 🔗 **App Account:** 🟢 Lillian  Thomason
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Fayetteville. Georgia, I live kind of close to the square.. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Fayetteville. Mix of formal and informal childcare experience. Worked with teens. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #61 — ✅ APPROVE (HIGH) — Cassidy Grayson
 
-📧 cassidygrayson1@gmail.com | 📱 (404) 964-7442 | 📍 Georgia
+📧 cassidygrayson1@gmail.com | 📱 (404) 964-7442 | 📍 I'm located in South West
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in South West, End of Atlanta, Georgia and I'm willing to travel up to 30 to 40 minutes up for work.
-**Schedule:** I'm pretty flexible. I am looking for full-time. I am looking for full-time but I'm also open to the part-time shifts that are available.
+**Experience:** Formal — afterschool program, kindergarten, elementary school. Ages: school-age
+**Location:** I'm located in South West, 30-40 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Cassidy has formal childcare experience (after school, kindergarten). Good fit for Georgia's moderate experience requirements.
+**Summary:** Cassidy is a strong candidate — afterschool program, kindergarten, elementary school experience. Has worked with school-age.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=cassidygrayson1@gmail.com APP=cassiecassy00@gmail.com
@@ -2557,7 +2643,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** Dealing with Arts education will between two children. I will make sure that both of them know that it is on no circumstances, okay? To put your hands on one another. And there are other ways to go about things, use your words and not your hands. Grab a teacher or trusted adult.
 
-**Q7 — Why Great:** I will make a good up kid teacher, because I generally enjoy working with children and help them grow, both academically and socially. I am patient, compassionate and attentive to each child's individual needs, which allows me to create a safe space and supportive learning environment. I have experienced guiding and supervising children, encouraging positive behavior and fostering, and created cre...
+**Q7 — Why Great:** I will make a good up kid teacher, because I generally enjoy working with children and help them grow, both academically and socially. I am patient, compassionate and attentive to each child's individual needs, which allows me to create a safe space and supportive learning environment. I have experienced guiding and supervising children, encouraging positive behavior and fostering, and created creativity and curiosity. Additionally, I am responsible organized and reliable, ensuring that all activities, run smoothly.
+ Lie lie, keeping the children engaged and happy.
 
 </details>
 
@@ -2565,20 +2652,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=cassidygrayson1@gmail.com APP=cassiecassy00@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in South West, End of Atlanta, Georgia and I'm willing to travel up to 30 to 40 minutes up for work., 30-40 miles. after school, kindergarten experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in South West, 30-40 miles. afterschool program, kindergarten, elementary school experience. Worked with school-age. Looking for full-time, part-time.
 
 ---
 
 ### #62 — ✅ APPROVE (MEDIUM) — Zanya Thornton
 
-📧 zanyabthornton1@gmail.com | 📱 (678) 557-7687 | 📍 Georgia
+📧 zanyabthornton1@gmail.com | 📱 (678) 557-7687 | 📍 Morrow, Georgia, which is also Clayton County and yeah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am currently located in Morrow, Georgia, which is also Clayton County and yeah.
-**Schedule:** So, right now, I'm looking for either or part-time or full-time. My availability is pretty much open. For the most part. I have classes at 6:30 p.m. to 9:30 p.m., but outside of that I could do anything part-time full-time half a day, which is part t...
+**Experience:** Mixed — summer camp (babysitter). Ages: infants, teens
+**Location:** Morrow, Georgia, which is also Clayton County and yeah
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Zanya has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Zanya has a mix of formal (summer camp) and informal (babysitter) experience. Currently college student, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -2587,36 +2674,37 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** My name is the Nia Thorne, seen a little bit about me. I am a senior health science major here at Clayton State University and as far as my experience with childcare and why I love the kids. So I've actually been watching kids since I was about 13, I started with my newborn cousin my family had babies and I was always the babysitter and 2023, I decided to just go work at a summer camp because I love being around kids so much
  And at summer camp with the city of Atlanta, I did ages.
- For up until they was up until the teens and I would but I love the baby. So I really do love the babies. And my...
+ For up until they was up until the teens and I would but I love the baby. So I really do love the babies. And my favorite thing about child care, honestly is every child has a different personality. So helping them Express and be confident who they are while continuing to help them grow learn and develop until smart young kids. Because our Generations need that different type of loving. But the structure and yeah,
 
 **Q4 — Location:** I am currently located in Morrow, Georgia, which is also Clayton County and yeah.
 
 **Q5 — Schedule:** So, right now, I'm looking for either or part-time or full-time. My availability is pretty much open. For the most part. I have classes at 6:30 p.m. to 9:30 p.m., but outside of that I could do anything part-time full-time half a day, which is part time. So yeah.
 
-**Q6 — Conflict Resolution:** So today, What conflict between kids, which happens more often than not as a camp, counselor, when I did it, I typically we're going to talk about it. We're going to separate you all, but we're going to talk about it and hopefully, we can move on from this situation and it won't happen again, but every child has a different background and different disabilities sometimes. So the best thing to do i...
+**Q6 — Conflict Resolution:** So today, What conflict between kids, which happens more often than not as a camp, counselor, when I did it, I typically we're going to talk about it. We're going to separate you all, but we're going to talk about it and hopefully, we can move on from this situation and it won't happen again, but every child has a different background and different disabilities sometimes. So the best thing to do is to approach the situation instead of anger, we're going to approach it with. Why are we doing this? Letting the child know?
+ That you're wrong and take some accountability for their actions. And we're going to talk about it as one because we don't want conflict to continue to arise, but for the day or the time being, we will separate them.
 
-**Q7 — Why Great:** I personally feel like I would make an outstanding up kid teacher, because I have a drive for helping develop our young youth, whether that's mentoring them, helping them grow, learn and develop, I have a drive a passion for it so we never know what kids are going through at home. So coming to school sometimes may be challenging especially with all the bullying and but I want to make sure that tha...
+**Q7 — Why Great:** I personally feel like I would make an outstanding up kid teacher, because I have a drive for helping develop our young youth, whether that's mentoring them, helping them grow, learn and develop, I have a drive a passion for it so we never know what kids are going through at home. So coming to school sometimes may be challenging especially with all the bullying and but I want to make sure that that child feels loved and an environment where they can save to continuously Thrive and learn but
+ But feel safe as well.
 
 </details>
 
 🔗 **App Account:** 🟢 Zanya Thornton
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am currently located in Morrow, Georgia, which is also Clayton County and yeah.. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Morrow, Georgia, which is also Clayton County and yeah. summer camp experience. Worked with infants, teens. Currently college student. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #63 — ✅ APPROVE (HIGH) — Marisa Sims
 
-📧 mgsims198@gmail.com | 📱 (470) 219-9727 | 📍 Georgia
+📧 mgsims198@gmail.com | 📱 (470) 219-9727 | 📍 So I am in the Douglasville area, obviously double
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** So I am in the Douglasville area, obviously double. So I'm going to try life. Hi room, Billerica ballast, which is involved in county and also Carole King, that's as well.
- And I'm available curtain. ...
-**Schedule:** I prefer full-time. But I'm also wanted to go above and beyond and stay later if needed.
+**Experience:** Formal — Boys & Girls Club, afterschool program. Ages: teens
+**Location:** So I am in the Douglasville area, obviously double
+**Schedule:** full-time
 
-**Summary:** Marisa has formal childcare experience (boys and girls club, after school). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Marisa is a strong candidate — Boys & Girls Club, afterschool program experience. Has worked with teens. Currently college student.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=mgsims198@gmail.com APP=marisasims.wrg@outlook.com
@@ -2627,7 +2715,13 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** So I love helping people such as especially special needs students. I have a passion for helping others and I love to mentor to 10, you know, watch them grow. This is what, as well. As adults. We wanted to have a positive uplifting experience, I like playing with them and keeping them entertained.
  Growing up in high school, I would volunteer for Best Buddies clubs which is Let's Help. Special needs children of various levels so that was kind of neat.
  I also got to watch kids after school and after-school program.
- I'm also Boys and Girls Club of America and all those things I would, they too...
+ I'm also Boys and Girls Club of America and all those things I would, they took my papers kids and have some experience watching them or their mother were so good night.
+ And sometimes during rainy days so she wouldn't have to find a childcare provider where I am take care that was kind of cool. I just really like working with everyone. I'm very flexible.
+ My schedule is open.
+ I would like to to school, got here, but right now, I'm pushing is this management Administration.
+ I love playing with kids, you don't keep them occupied.
+ With books and stuff. So it's all these fun.
+ Thank you for the opportunity.
 
 **Q4 — Location:** So I am in the Douglasville area, obviously double. So I'm going to try life. Hi room, Billerica ballast, which is involved in county and also Carole King, that's as well.
  And I'm available curtain. You should like I said in the introduction video. My beloved, it availability is very flexible.
@@ -2647,21 +2741,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=mgsims198@gmail.com APP=marisasims.wrg@outlook.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I am in the Douglasville area, obviously double. So I'm going to try life. Hi room, Billerica ballast, which is involved in county and also Carole . boys and girls club, after school experience. Looking for full-time.
+> 03/30 Intro Call Passed. So I am in the Douglasville area, obviously double. Boys & Girls Club, afterschool program experience. Worked with teens. Currently college student. Looking for full-time.
 
 ---
 
 ### #64 — ✅ APPROVE (MEDIUM) — Skylah
 
-📧 skylah.mcgriff@icloud.com | 📱 (229) 322-9753 | 📍 Georgia
+📧 skylah.mcgriff@icloud.com | 📱 (229) 322-9753 | 📍 Hi. So I live in Kennesaw Georgia.
+ Which is like Cobb County
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (20yr)
+**Experience:** Mixed — church childcare (babysitter), 20+ years. Ages: infants, preschool-age
 **Location:** Hi. So I live in Kennesaw Georgia.
- Which is like Cobb County and I'm willing to travel like, you know, 30 to 35 minutes away from Kennesaw. I don't mind traveling baby.
-**Schedule:** I am looking for full-time shifts.
+ Which is like Cobb County, 30-35 miles
+**Schedule:** full-time
 
-**Summary:** Skylah has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Skylah has a mix of formal (church childcare) and informal (babysitter) experience. Currently CPR/First Aid, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2669,7 +2764,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Skylar, McGriff. I'm 20 years old and I live in Kennesaw Georgia. I have worked with kids from ages 3 and up until 18. I was a dance teacher for four years and my hometown and I am currently a dance teacher at Dynamite dad's Factory here in Kennesaw Georgia. I have my CNA certification. I am cpr-certified, I am
- BLS certified and first aid certified as well. So I am very Hands-On with kids. I can take care of kids, um, I have done babysitting growing up. I've, I've always took care of kids. I also, as well, I have been the youth. Pastor for my church growing up as well. So I hav...
+ BLS certified and first aid certified as well. So I am very Hands-On with kids. I can take care of kids, um, I have done babysitting growing up. I've, I've always took care of kids. I also, as well, I have been the youth. Pastor for my church growing up as well. So I have a lot of experience with kids and taking care of kids and making sure that fly. I'm certified and everything. So,
+ Their safety will always be saved by biggest priority, is to reach a kid and also make sure they're safe, but make sure they have fun and they enjoyed their time with me as well.
 
 **Q4 — Location:** Hi. So I live in Kennesaw Georgia.
  Which is like Cobb County and I'm willing to travel like, you know, 30 to 35 minutes away from Kennesaw. I don't mind traveling baby.
@@ -2677,10 +2773,16 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am looking for full-time shifts.
 
 **Q6 — Conflict Resolution:** I have dealt with conflict between two children, many many scenarios that I've dealt with, with being a dance, teacher babysitter, and so forth. But one particular was recently, because I am the captain of my dance team here at Kennesaw State University.
- So it was some drama going on about a birthday, you know, it was just a lot of back and forth, but what I try to do, especially if hitting is in...
+ So it was some drama going on about a birthday, you know, it was just a lot of back and forth, but what I try to do, especially if hitting is involved, I try to one go to the person that hit the other and you know, let them know, discipline them and let them know that hitting isn't okay at all. No matter the situation, you do not put your hands on anyone else because it could get bigger. But I also listen to both sides.
+ Of the story because sometimes people are provoked. So we had to know the route in the cause, you know, because every action has a reaction. So you have to see what happened because, you know, it is possible for someone to hit someone unprovoked. But is also, there is situations and cases where, you know, someone's been promoted or is been prolonged thing of just bullying or someone getting on your nerves and you snap. So I always try to figure out. What's the really the root and
+ Cause of whatever is going on.
+ But yeah, other than that, of always try to communicate with both sides, efficiently and effectively and get them to other understand one another and where they're coming from in their boundaries. I'm real big on respecting people's boundaries and apologizing. So when I have conflict with two children, I have to teach kids accountability at a young age because you never know what could happen. And you never know who you're hitting or what that person might do or has gone through that, could trigger them to do something that
+ cause situation to be worse.
 
 **Q7 — Why Great:** I would make a great up kid teacher because what I am very fun. I am still kind of young myself so I'm able to reach kids on a certain level than many adults. There's older kid, not I'm very understanding, but I'm also stirred in a way that they will respect me and they can listen and everything will be accomplished for the day that we have on the lesson plan. But I am also
- I'm a very outgoing en...
+ I'm a very outgoing energetic person, and I'm all for having fun. I'm all for making learning fun. I was growing up in school and then there's, I was a very Hands-On person. I don't really love to just be bored and you're a teacher talk or not engaged. I'm very big on engaging with my students and getting to know them on a personal level. So I could create that safety and that boundary between us to where they feel like they can come for me. Come to me for anything. They could ask me whatever they can
+ Be able to be vulnerable. They show me their true selves and just enjoy the couple hours, they have with me before they return with their parents. I want them to feel safe and want to come to school or want to come to dance. I don't want them to be like, Mom. I don't want to go there because I want them to be excited to learn, excited to grow, excited to do new things. And I'm all for tweaking my lesson plans or whatever we're going to do to still help them learn but fit their growth in their learning as well. Because
+ One is not receptive, like me, everyone don't receive information like me, everyone isn't Hands-On. Everyone is it, you know, just sit there and learn, you know, it's different ways to reach a child and I feel like what you learned that child and you create that opening that safe environment for a child to be themselves, is easier to get to know them and it's easier to teach them in a way that they're going to learn and be ready to learn and it's going to be effective.
 
 </details>
 
@@ -2688,20 +2790,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Zendesk Summary:**
 > 03/30 Intro Call Passed. Hi. So I live in Kennesaw Georgia.
- Which is like Cobb County and I'm willing to travel like, you know, 30 to 35 minutes away from Kennesaw. I don't m, 30-35 miles. Mix of formal and informal childcare experience. Looking for full-time.
+ Which is like Cobb County, 30-35 miles. 20+ years church childcare experience. Worked with infants, preschool-age. Currently CPR/First Aid. Looking for full-time.
 
 ---
 
 ### #65 — 🟡 FLAG (MEDIUM) — imari robinson
 
-📧 robinsonimari04@gmail.com | 📱 (470) 710-3218 | 📍 Georgia
+📧 robinsonimari04@gmail.com | 📱 (470) 710-3218 | 📍 I'm currently located in Riverdale
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 
-**Experience:** Informal (21yr)
-**Location:** I'm currently located in Riverdale, Georgia and I'm willing to travel 35 minutes for a shift.
-**Schedule:** I'm looking for either part time or full time. Preferably part time right now, and my availabilities would be Monday through Friday. Anytime during the day will be fine.
+**Experience:** Informal, 21+ years. Ages: infants
+**Location:** I'm currently located in Riverdale, 35 miles
+**Schedule:** full-time, part-time
 
-**Summary:** imari's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** imari's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -2711,7 +2813,7 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Eva Maria Robinson and I am 21 years old. My experience with kids would be my cousins and siblings. I have helped raise many times over the years. I have made bottles change diapers and I've taught many of them growing up. I have babysat, my cousins and siblings many times over the years. Growing up, I have worked with newborns all the way up to teams. I enjoy working with kids because they bring light to my day. It feels good to know that.
- That I have made the day of someone that is way younger than me. It feels good to know that I'm able to teach and show a way of life to tho...
+ That I have made the day of someone that is way younger than me. It feels good to know that I'm able to teach and show a way of life to those that are younger than me and be a part of a growing life of a little one.
 
 **Q4 — Location:** I'm currently located in Riverdale, Georgia and I'm willing to travel 35 minutes for a shift.
 
@@ -2724,9 +2826,9 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 🔗 **App Account:** 🟢 imari robinson
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I'm currently located in Riverdale, Georgia and I'm willing to travel 35 minutes for a shift., 35 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm currently located in Riverdale, 35 miles. Informal childcare experience (babysitting/family). Worked with infants. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I'm currently located in Riverdale, Georgia and I'm willing to travel 35 minutes for a shift.. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. I'm currently located in Riverdale. Only informal experience — Georgia prefers formal.
 
 ---
 
@@ -2735,12 +2837,11 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 📧 marvilladiego.miv@gmail.com | 📱 (801) 259-9377 | 📍 Utah
 Questions: 4/5 — Q3 ✅ Q4 ❌ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (26yr)
-**Location:** Utah (inferred from phone area code)
-**Schedule:** I can do part-time or full-time.
- And I available Monday to Friday.
+**Experience:** Formal — daycare, 26+ years
+**Location:** Utah
+**Schedule:** full-time, part-time
 
-**Summary:** Mar has formal childcare experience with 26+ years (daycare). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Mar is a strong candidate — daycare experience with 26+ years. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2755,7 +2856,8 @@ Questions: 4/5 — Q3 ✅ Q4 ❌ Q5 ✅ Q6 ✅ Q7 ✅
  And I available Monday to Friday.
 
 **Q6 — Conflict Resolution:** When a child hits another child in the classroom, I will intervene immediately to make sure everyone is safety. My steps will be first. Sip sip, sip are the child, the children and then quickly check if any child is he
- hard and provide Comfort if needed, then ask each child to explain what happened and how they feel listening at active to understand the cause of the conflict, held, the child, who...
+ hard and provide Comfort if needed, then ask each child to explain what happened and how they feel listening at active to understand the cause of the conflict, held, the child, who heed to understand the other child feelings, and the impact of the
+ The action encourage the children to apologize and find a way to resolve the issues together and final use the moment as a teaching opportunity to demonstrate with respect to the other children.
 
 **Q7 — Why Great:** I'm going to be a great aapke teacher because I work it with kids from six months, to two years old, in a daycare city, which has taught me to be passionate, creative and emphatic. I love creating safe and fun environment where kids can explore and learn.
  I'm excited to bring my passion for education and experience to up kid to help kids grow and treif.
@@ -2765,20 +2867,20 @@ Questions: 4/5 — Q3 ✅ Q4 ❌ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Mar Villadiego
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Utah (from phone). 26+ years daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Utah. 26+ years daycare experience. Looking for full-time, part-time.
 
 ---
 
 ### #67 — 🟡 FLAG (MEDIUM) — Emma Brasfield
 
-📧 williamsemma2002@gmail.com | 📱 (678) 822-7461 | 📍 Georgia
+📧 williamsemma2002@gmail.com | 📱 (678) 822-7461 | 📍 Dallas Georgia but I am willing to travel
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I live in Dallas Georgia but I am willing to travel. I would say about 30 to 35 minutes outside of where I live. So I think mileage wise that would look about like 15 and 20 mi. So yeah, I live in Dal...
-**Schedule:** I am definitely looking for part-time and I would say part-time to full-time and I would say over the summer, I am very open during the day with flexibility and then in the fall, I will be student teaching. So I will only have flexibility for half da...
+**Experience:** Informal — church childcare, elementary school (babysitter). Ages: infants, school-age
+**Location:** Dallas Georgia but I am willing to travel, 30-35 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Emma's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Emma's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -2789,39 +2891,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Emma. I have worked with kids off and on in different capacities, since I was 16. So that would have started with me babysitting. And then I was actually children's intern at a church. So I worked with ages all through, like, all elementary ages. Yeah. And then of course.
  Babysitting again in college. So I've just worked in that area for a while and I enjoy it because I love watching kids learn and grow and the conversations you get to have. Kids are so honest and they know a lot more than people give him credit for it. And so getting to experience that and just be a
- part of f...
+ part of facilitating their ability.
+ Yeah, to learn new things is really incredible.
 
-**Q4 — Location:** I live in Dallas Georgia but I am willing to travel. I would say about 30 to 35 minutes outside of where I live. So I think mileage wise that would look about like 15 and 20 mi. So yeah, I live in Dallas but I'm definitely willing to drive further especially to bigger cities, can install, Acworth Ma...
+**Q4 — Location:** I live in Dallas Georgia but I am willing to travel. I would say about 30 to 35 minutes outside of where I live. So I think mileage wise that would look about like 15 and 20 mi. So yeah, I live in Dallas but I'm definitely willing to drive further especially to bigger cities, can install, Acworth Marietta, places like that.
 
 **Q5 — Schedule:** I am definitely looking for part-time and I would say part-time to full-time and I would say over the summer, I am very open during the day with flexibility and then in the fall, I will be student teaching. So I will only have flexibility for half days or Friday's all day.
 
 **Q6 — Conflict Resolution:** So, I actually used to babysit for a pair of siblings and I dealt with their conflict, a lot, my first kind of rule of thumb of especially when I saw that, it was going to start escalating or, you know, might get physical. Because one of them did have a tendency to get angry, pretty quickly. My first thing I like to do was kind of
- Move them from each other. So separate separate them as quickly as...
+ Move them from each other. So separate separate them as quickly as possible and they were pretty young. So, I also found that I could pretty easily redirect them. I know, obviously that looks different with different ages, but redirection. And then once everything is calm just explaining like, hey, why were you acting this way? And was that the right decision? What do you want to do differently next time? And even though they were pretty young
+ I was able to have those conversations on a very basic level of just like, hey why did you get so mad at her? What do you think, like what made you mad? What do you think that was about? And so I found that separation and then redirection and once everything is calm down going back in. Just yeah asking what was up explaining why we can't, you know, be mean and violent to people.
 
 **Q7 — Why Great:** I think I would make a great up kid teacher, honestly, for a lot of reasons, but one of them being the experience. I have worked with kids for a really long time and I really enjoy it. And then also, I am trying to go to school to get my masters in teaching. So I'm just really passionate as well about kids and making sure that they feel safe and valued, but also, like, have this really
- Awesome at...
+ Awesome atmosphere to learn and grow and like be a kitten and so I think that's what would make me a great teacher. Yeah, just experience and also passion and care for them.
 
 </details>
 
 🔗 **App Account:** 🟢 Emma Brasfield
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Dallas Georgia but I am willing to travel. I would say about 30 to 35 minutes outside of where I live. So I think mileage wise that would lo, 30-35 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Dallas Georgia but I am willing to travel, 30-35 miles. church childcare, elementary school experience. Worked with infants, school-age. Currently college student. Looking for full-time, part-time (school schedule).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Dallas Georgia but I am willing to travel. I would say about 30 to 35 minutes outside of where I live. So I think mileage wise that would lo. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Dallas Georgia but I am willing to travel. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #68 — ✅ APPROVE (MEDIUM) — Jailynn Hicks
 
-📧 jailynnhicks14@icloud.com | 📱 (470) 861-8476 | 📍 Georgia
+📧 jailynnhicks14@icloud.com | 📱 (470) 861-8476 | 📍 So I currently reside in Cumming Georgia 300 28 is a zip code
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (10yr, 2mo)
-**Location:** So I currently reside in Cumming Georgia 300 28 is a zip code and I'm willing to travel about 30 minutes outside the city.
-**Schedule:** So I am interested in part-time positions days. It does not matter. And I am available from about 1 p.m. to 9 p.m.
+**Experience:** Mixed — summer camp (babysitter), 10+ years. Ages: infants, teens
+**Location:** So I currently reside in Cumming Georgia 300 28 is a zip code, 30 miles
+**Schedule:** part-time
 
-**Summary:** Jailynn has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jailynn has a mix of formal (summer camp) and informal (babysitter) experience. Currently studying education/child development, which shows commitment.
 
 **Red Flags:** None
 
@@ -2845,20 +2949,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jailynn Hicks
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I currently reside in Cumming Georgia 300 28 is a zip code and I'm willing to travel about 30 minutes outside the city., 30 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. So I currently reside in Cumming Georgia 300 28 is a zip code, 30 miles. 10+ years summer camp experience. Worked with infants, teens. Currently studying education/child development. Looking for part-time.
 
 ---
 
 ### #69 — ✅ APPROVE (LOW) — Princess Jones
 
-📧 princessjones1704@gmail.com | 📱 (571) 580-3479 | 📍 Arizona
+📧 princessjones1704@gmail.com | 📱 (571) 580-3479 | 📍 Hi, I'm located in the Supplies, Peoria area, but
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** Hi, I'm located in the Supplies, Peoria area, but I would be willing to drive to Glendale and Phoenix for certain jobs, that would be no problem like at all.
-**Schedule:** Oh, my will be totally okay with part-time, but I am looking for like a full-time. So your position where I get like ours,
+**Location:** Hi, I'm located in the Supplies, Peoria area, but
+**Schedule:** full-time, part-time
 
-**Summary:** Princess mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Princess mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -2881,22 +2985,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Princess Jones
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi, I'm located in the Supplies, Peoria area, but I would be willing to drive to Glendale and Phoenix for certain jobs, that would be no problem like . Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Hi, I'm located in the Supplies, Peoria area, but. Childcare experience (details in interview). Looking for full-time, part-time.
 
 ---
 
 ### #70 — ✅ APPROVE (MEDIUM) — Alejandra Gallegos
 
-📧 gallegos83.alex@gmail.com | 📱 (801) 661-6180 | 📍 Utah
+📧 gallegos83.alex@gmail.com | 📱 (801) 661-6180 | 📍 the city of Provo in the state of Utah and I do want to stay close to home
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I live in the city of Provo in the state of Utah and I do want to stay close to home. So I would probably say 10 minute 10 to 15 minute drive at the most so surrounding areas, like Springville,
- Or.
- ...
-**Schedule:** I am definitely looking for a very flexible schedule since I do other volunteer work that I am currently doing right now. Therefore again, part-time and there are specific days of the week that I would prefer such as either Mondays or Wednesdays.
+**Experience:** Mixed — daycare, preschool (babysitter). Ages: infants, preschool-age
+**Location:** the city of Provo in the state of Utah and I do want to stay close to home, 10 miles
+**Schedule:** part-time
 
-**Summary:** Alejandra has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Alejandra has a mix of formal (daycare, preschool) and informal (babysitter) experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2905,7 +3007,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Alejandro Gallegos. I go by Alex. I do love working with children. I can't say that I've worked with Children And as far as getting paid for it, but I do babysit my friends kids quite often actually and I just love
  Of little kids in general, in my personal life. I, like, I mentioned, I babysit my friends. Kids, once in awhile, have them over, just to give parents a break. I like to have them over, not just for fun but I do like to print activities for them to color activities for them to learn like basic math and writing. And
- Like that. So yeah, I think it would be something t...
+ Like that. So yeah, I think it would be something that I really enjoy. I do have a son myself, I have sent him to daycare when he was young, he is older. Now he's 20 but so I know how important it is to have great teachers and a daycare / preschool setting. So I think about that as well. So yeah.
+ I think it would again be something that I would really enjoy.
 
 **Q4 — Location:** I live in the city of Provo in the state of Utah and I do want to stay close to home. So I would probably say 10 minute 10 to 15 minute drive at the most so surrounding areas, like Springville,
  Or.
@@ -2914,30 +3017,30 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am definitely looking for a very flexible schedule since I do other volunteer work that I am currently doing right now. Therefore again, part-time and there are specific days of the week that I would prefer such as either Mondays or Wednesdays.
 
 **Q6 — Conflict Resolution:** I would say it, definitely, it depends on the situation, but no matter how young the kids are, I do believe that listening to them both and making sure they feel heard is very important. And so I would just kind of take it from there. If it's something like disagreeing over a toy explaining that they can share, or
- Oh you know, just I guess it would just depend on the situation honestly but making...
+ Oh you know, just I guess it would just depend on the situation honestly but making sure they're heard and making sure that they understand the other little ones feelings is important to you, but obviously explaining things that is age appropriate.
 
 **Q7 — Why Great:** Honestly, I think the biggest thing is I am a lot of fun. I bring a lot of energy when I'm around little kids and I like to make them happy and I love their little personalities and their imagination. So I think it's something that I I really currently enjoy.
- Boy, again, with the young ones that are around me now, even when I mentioned to my friends that I was going to be doing this, she said it ...
+ Boy, again, with the young ones that are around me now, even when I mentioned to my friends that I was going to be doing this, she said it was going to be something something great for me because it's something that I'm good at. So yeah, I think I am super fun with the kids and I bring a lot of energy that will make them happy.
 
 </details>
 
 🔗 **App Account:** 🟢 Alejandra  Gallegos
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in the city of Provo in the state of Utah and I do want to stay close to home. So I would probably say 10 minute 10 to 15 minute drive at the m, 10 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. the city of Provo in the state of Utah and I do want to stay close to home, 10 miles. daycare, preschool experience. Worked with infants, preschool-age. Looking for part-time.
 
 ---
 
 ### #71 — 🟡 FLAG (HIGH) — Reegan Perez
 
-📧 reeganperez23@gmail.com | 📱 (760) 454-9818 | 📍 Arizona
+📧 reeganperez23@gmail.com | 📱 (760) 454-9818 | 📍 Phoenix Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (12yr)
-**Location:** Hi, I am located in Phoenix Arizona. I am willing to travel about 20 to 25 miles from where I am.
-**Schedule:** I am wanting to work part-time on Tuesdays and Thursdays, in the afternoon, after 12 p.m. and then on Fridays in the mornings. But also, since I do nanny for a ten-month-old in the mornings Monday through Thursday, whenever I don't work for them that...
+**Experience:** Informal (nanny), 12+ years. Ages: toddlers, preschool-age
+**Location:** Phoenix Arizona, 20-25 miles
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Reegan's experience is informal — babysitting, family care, or similar. Arizona requires 6 months formal childcare — informal only won't qualify. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Reegan's experience is all informal — babysitting and family care only. Arizona requires 6 months formal childcare, so this won't qualify without an exception.
 
 **Red Flags:** None
 
@@ -2947,37 +3050,42 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. I am Regan is lovely to meet whoever's on the other side of this. I have been in childcare for about four to five years. Now, I first started out as a swim coach. That was an absolute lovely experience. I worked with kids from three months old, to 12 years and older, it really allowed me to Teeter to each kids learning style and just myself learning all the different styles that kids could learn and especially ones that have troubles in some sections, it allowed me to really cater.
- To them individually and learn a lot within the span of all ages. This help me leaning into towards a nannyi...
+ To them individually and learn a lot within the span of all ages. This help me leaning into towards a nannying for about over a year. I may need for a nine and ten-year-old it was a lovely experience. They are more like siblings to me than anything but now I am working for a family that has a ten month old and she is absolutely adorable. So, the reason why I love being in childcare is because I think kids are an absolute blessing. I think God gave them to us.
+ For who they are and they make you realize things that you don't even realize about yourself. And I think that they are just amazing and they bring joy and Life to a world of not very pretty things. And I grew up in a big family myself. I had three brothers and so being the responsible one was always my thing and taking care of the little siblings or a little cousins that we had at Family parties. I was always the first one to be asked, and so from starting from really young caring for kids was always my thing. And girl,
+ Going up. I just learned to absolutely love it and make it a job for me. And so, yeah, so let me know if you guys are looking for someone like me and yeah, thank you so much for your time.
 
 **Q4 — Location:** Hi, I am located in Phoenix Arizona. I am willing to travel about 20 to 25 miles from where I am.
 
-**Q5 — Schedule:** I am wanting to work part-time on Tuesdays and Thursdays, in the afternoon, after 12 p.m. and then on Fridays in the mornings. But also, since I do nanny for a ten-month-old in the mornings Monday through Thursday, whenever I don't work for them that week. I'm looking to work my full hours during th...
+**Q5 — Schedule:** I am wanting to work part-time on Tuesdays and Thursdays, in the afternoon, after 12 p.m. and then on Fridays in the mornings. But also, since I do nanny for a ten-month-old in the mornings Monday through Thursday, whenever I don't work for them that week. I'm looking to work my full hours during those weeks. So kind of differs
 
-**Q6 — Conflict Resolution:** So the situation actually did happen when I was naming that nine and ten-year-old the sun which is the nine-year-old, end up hitting his sister, luckily the sister was more mature for her age so she did kept backing away instead of retaliating back but I the second thought he hit her. I got in the middle of them. I asked her to leave the room and then I sat him down and explain to him that it is n...
+**Q6 — Conflict Resolution:** So the situation actually did happen when I was naming that nine and ten-year-old the sun which is the nine-year-old, end up hitting his sister, luckily the sister was more mature for her age so she did kept backing away instead of retaliating back but I the second thought he hit her. I got in the middle of them. I asked her to leave the room and then I sat him down and explain to him that it is not okay to hit a girl and that is okay, too?
+ To be angry and it's ok to have emotions, but when you act on those emotions wrongly, that's where that's where the big No-No is, and that's where we get in trouble. So I just gave him that small schpeel. I had him sit down so he can calm down and think about what he did. And while he was doing that, I called Mom, I let her know what happened in the situation. I asked how she wanted me to handle it, and I did X Y and Z. And then once she had time at work till call him, she
+ she called him and gave him whatever she said to him and and then I just followed her instruction and we went from there.
 
-**Q7 — Why Great:** I think I would be a great up kid teacher due to my very wide range of experience and age groups. This allows me to be able to work with every age group that you guys throw at me and I absolutely love children. I think they're a blessing and from my experience and from the people that I've worked for, they've always loved my work in the way that I interact with their kids and I think I would just ...
+**Q7 — Why Great:** I think I would be a great up kid teacher due to my very wide range of experience and age groups. This allows me to be able to work with every age group that you guys throw at me and I absolutely love children. I think they're a blessing and from my experience and from the people that I've worked for, they've always loved my work in the way that I interact with their kids and I think I would just be a great fit.
+ It for you guys and I'm very flexible when it comes to my hours and working extra if you guys are needed in need of it and yeah, and so please let me know if I'll be a great fit. Thank you.
 
 </details>
 
 🔗 **App Account:** 🟢 Reegan Perez
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Hi, I am located in Phoenix Arizona. I am willing to travel about 20 to 25 miles from where I am., 20-25 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Phoenix Arizona, 20-25 miles. 12+ years as nanny. Worked with toddlers, preschool-age. Looking for part-time (mornings/afternoons).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Hi, I am located in Phoenix Arizona. I am willing to travel about 20 to 25 miles from where I am.. Only informal experience — Arizona requires formal.
+> 03/30 Not Hiring — Intro Call. Phoenix Arizona. Only informal experience — Arizona requires formal.
 
 ---
 
 ### #72 — ✅ APPROVE (HIGH) — Kitam Othman
 
-📧 kitoth1988@gmail.com | 📱 (480) 268-4611 | 📍 Arizona
+📧 kitoth1988@gmail.com | 📱 (480) 268-4611 | 📍 Scottsdale Arizona and I'm willing to commute to up to 25 minutes away
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (39yr)
-**Location:** I live in Scottsdale Arizona and I'm willing to commute to up to 25 minutes away.
-**Schedule:** I am looking for a part-time work. I'm able to work from 9 a.m. to 1:00 p.m. every weekday
+**Experience:** Formal, 39+ years. Ages: toddlers, preschool-age, school-age, teens
+**Location:** Scottsdale Arizona and I'm willing to commute to up to 25 minutes away, 25 miles
+**Schedule:** part-time
 
-**Summary:** Kitam has formal childcare experience with 39+ years (teacher). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kitam has solid formal childcare experience. Has worked with toddlers, preschool-age, school-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -2985,13 +3093,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Kita Mossman. I'm 39 years old and a little bit about me. I've Been Working for with kids for about eight years. I've taught kids that were from ages 5 to 12 but I've also done some caregiving as well and, you know, taking care of some kids that were approximately 3 years old to, I believe eight years old. So I do have some experience with toddlers And with
- Preteens as well. Why I like teaching kids is because kids are great, you know, I love talking with kiddos teaching kiddos, you know, it's a really crucial and important moment in their life and they really look up to their ...
+ Preteens as well. Why I like teaching kids is because kids are great, you know, I love talking with kiddos teaching kiddos, you know, it's a really crucial and important moment in their life and they really look up to their teachers that I've always had a passion for teaching kids.
 
 **Q4 — Location:** I live in Scottsdale Arizona and I'm willing to commute to up to 25 minutes away.
 
 **Q5 — Schedule:** I am looking for a part-time work. I'm able to work from 9 a.m. to 1:00 p.m. every weekday
 
-**Q6 — Conflict Resolution:** I would stay calm and I would separate the kids right away just to make sure that everyone is safe. I would likely talk to each child individually and try to understand what had happened. I'd explain why hitting is not okay and I'd help them Express their feelings in a better way and maybe I could guide them to apologize. Find a solution like taking turns or using their words instead of hitting I ...
+**Q6 — Conflict Resolution:** I would stay calm and I would separate the kids right away just to make sure that everyone is safe. I would likely talk to each child individually and try to understand what had happened. I'd explain why hitting is not okay and I'd help them Express their feelings in a better way and maybe I could guide them to apologize. Find a solution like taking turns or using their words instead of hitting I would try to resolve a conflict while also teaching them a better behave.
+ Fire or being kind to their classmates.
 
 **Q7 — Why Great:** I think I would be a good fit for up kid because some good qualities about me is that I'm patient and I'm supportive, I adopt, two different students and their learning styles as well. I can create a comfortable like environment, where students would feel confident asking questions. I make sure to stay organized as well and consistent to help students stay on track and improve.
 
@@ -3000,20 +3109,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Kitam Othman
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Scottsdale Arizona and I'm willing to commute to up to 25 minutes away., 25 miles. 39+ years teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. Scottsdale Arizona and I'm willing to commute to up to 25 minutes away, 25 miles. Childcare experience (details in interview). Worked with toddlers, preschool-age, school-age, teens. Looking for part-time.
 
 ---
 
 ### #73 — ✅ APPROVE (LOW) — Eniola Olorunfemi
 
-📧 eolorunfemi83@gmail.com | 📱 (470) 461-2275 | 📍 Georgia
+📧 eolorunfemi83@gmail.com | 📱 (470) 461-2275 | 📍 I'm actually located within the Alpharetta area at all
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** I'm actually located within the Alpharetta area at all, so slow sometimes located in Roswell and because I go to school tennis arm also located there, sometimes as well.
-**Schedule:** I'm actually open to pretty much everything, part-time and full-time. Since I am a full-time college student as well. I would have to see what days. I can really focus on work. Typically Mondays and Wednesdays. I'm always at school Tuesdays. Every ot...
+**Location:** I'm actually located within the Alpharetta area at all
+**Schedule:** full-time, part-time (school schedule, afternoons)
 
-**Summary:** Eniola mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Eniola mentions experience with children but the specifics are vague in the transcript. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -3024,9 +3133,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q4 — Location:** I'm actually located within the Alpharetta area at all, so slow sometimes located in Roswell and because I go to school tennis arm also located there, sometimes as well.
 
-**Q5 — Schedule:** I'm actually open to pretty much everything, part-time and full-time. Since I am a full-time college student as well. I would have to see what days. I can really focus on work. Typically Mondays and Wednesdays. I'm always at school Tuesdays. Every other week I am at school and Fridays. I'm at school...
+**Q5 — Schedule:** I'm actually open to pretty much everything, part-time and full-time. Since I am a full-time college student as well. I would have to see what days. I can really focus on work. Typically Mondays and Wednesdays. I'm always at school Tuesdays. Every other week I am at school and Fridays. I'm at school but only in the afternoon every other day I'm not at school.
 
-**Q6 — Conflict Resolution:** This is actually a really perfect question because no coaching kids during soccer emotions, get built up a little bit. And when I do see things like that happening, I just, you know, make sure to remain calm and make sure both parties are being heard and their motions are being listened to as well. I take those moments as a learning moment, to kind of just sit with both of them and just let them k...
+**Q6 — Conflict Resolution:** This is actually a really perfect question because no coaching kids during soccer emotions, get built up a little bit. And when I do see things like that happening, I just, you know, make sure to remain calm and make sure both parties are being heard and their motions are being listened to as well. I take those moments as a learning moment, to kind of just sit with both of them and just let them know that. Hey, we are a team and we're both, you know, friends at the end of the day, right? So as long as I make sure boots
+ size of being heard and I can figure out the root cause of the situation. Everything's okay.
 
 **Q7 — Why Great:** I think I'll make a great up, good teacher because I have background in no coaching and understanding how kids move and how kids behave. But I think I'll also be a good. Okay, teacher, because I'm willing to learn and experience kids and different, you know, scenarios not only outside by inside classrooms because they have different behaviors in different scenarios.
 
@@ -3035,20 +3145,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Eniola Olorunfemi
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm actually located within the Alpharetta area at all, so slow sometimes located in Roswell and because I go to school tennis arm also located there,. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm actually located within the Alpharetta area at all. Childcare experience (details in interview). Currently college student. Looking for full-time, part-time (school schedule, afternoons).
 
 ---
 
 ### #74 — 🟡 FLAG (MEDIUM) — Christina villa
 
-📧 christinavilla0@gmail.com | 📱 (201) 370-9666 | 📍 Arizona
+📧 christinavilla0@gmail.com | 📱 (201) 370-9666 | 📍 So, I am located in Gilbert Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** So, I am located in Gilbert Arizona.
-**Schedule:** So I have open availability, I am looking for part-time or full-time or whatever is open.
+**Experience:** Formal (substitute teacher). Ages: preschool-age
+**Location:** So, I am located in Gilbert Arizona
+**Schedule:** full-time, part-time
 
-**Summary:** Christina has formal childcare experience (substitute teacher). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Christina needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -3072,22 +3182,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Christina Villa
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. So, I am located in Gilbert Arizona.. substitute teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So, I am located in Gilbert Arizona. substitute teacher. Worked with preschool-age. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. So, I am located in Gilbert Arizona.. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. So, I am located in Gilbert Arizona. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #75 — ✅ APPROVE (LOW) — Janaviea Benjamin
 
-📧 janaviea831@gmail.com | 📱 (762) 218-9235 | 📍 Georgia
+📧 janaviea831@gmail.com | 📱 (762) 218-9235 | 📍 Grovetown Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (15yr)
-**Location:** I currently live in Grovetown Georgia, I'm willing to travel 30 minutes a day from Augusta, the appellee to Georgia anywhere between those.
-**Schedule:** I'm available part time. I can pick up around anytime, after to Monday through Friday, and I'm also available weekends and holidays every weekend and holiday. I am available in my school days.
+**Experience:** Unclear, 15+ years. Ages: infants, teens
+**Location:** Grovetown Georgia, 30 miles
+**Schedule:** part-time (school schedule, weekends available)
 
-**Summary:** Janaviea mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Janaviea mentions experience with children but the specifics are vague in the transcript. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -3102,7 +3212,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm available part time. I can pick up around anytime, after to Monday through Friday, and I'm also available weekends and holidays every weekend and holiday. I am available in my school days.
 
 **Q6 — Conflict Resolution:** I'm going to accomplish very well. I would in the scenario that one child gets another child. I would
- Deal with the situation by telling the child that that is not. Okay. I will cover the other child. No, also later both of the kids know what happened, how it happened, and how we're going to fix it. And I will also let someone above me know that they were true. Probably have a child or student, a...
+ Deal with the situation by telling the child that that is not. Okay. I will cover the other child. No, also later both of the kids know what happened, how it happened, and how we're going to fix it. And I will also let someone above me know that they were true. Probably have a child or student, another child or student and that's how it is.
 
 **Q7 — Why Great:** I will make a great update to pay because I am very positive and I have a open personality and I love all children and I would do what we would be willing to help the students grow and learn all aspects.
 
@@ -3111,24 +3221,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Janaviea  Benjamin
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Grovetown Georgia, I'm willing to travel 30 minutes a day from Augusta, the appellee to Georgia anywhere between those., 30 miles. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Grovetown Georgia, 30 miles. Childcare experience (details in interview). Worked with infants, teens. Looking for part-time (school schedule, weekends available).
 
 ---
 
 ### #76 — ✅ APPROVE (HIGH) — Koya Alexander
 
-📧 alexanderkoya@gmail.com | 📱 (678) 933-1415 | 📍 Georgia
+📧 alexanderkoya@gmail.com | 📱 (678) 933-1415 | 📍 So I'm located in Fairburn, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (20yr)
-**Location:** So I'm located in Fairburn, Georgia. That's in the South part of Atlanta.
- So, the southern part of the Metro Atlanta area. Hey, I'm willing to travel
- 25 30 miles out for job.
-**Schedule:** I'm hoping to either full time or part time. I'm very flexible with the my hours and the days that I'm available to work, I would definitely be
- pleased with hours somewhere between 8 and 291 any of those.
- Different types of hours, would be fine wit...
+**Experience:** Formal — kindergarten (substitute teacher), 20+ years. Ages: infants, preschool-age, school-age
+**Location:** So I'm located in Fairburn, Georgia, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Koya has formal childcare experience with 20+ years (child development, substitute teacher, kindergarten). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Koya is a strong candidate — kindergarten experience with 20+ years. Has worked with infants, preschool-age, school-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -3136,7 +3242,11 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Korea. Alexander, I have over 10 years of experience with working with kids, most recently, I was employed as a substitute teacher with East Coast Easter, seal Child Development Centers. I work with ages from infants all the way up until Pre-K. I've been volunteering at the local schools in my neighborhood which includes Fulton County Schools.
- I volunteered with them for about five years. I've also volunteered as a parent with the Sheltering Arms Child Development Center. I've did some volunteer time with Clayton, County Board of Education, which was over 20 years ago, I was employ...
+ I volunteered with them for about five years. I've also volunteered as a parent with the Sheltering Arms Child Development Center. I've did some volunteer time with Clayton, County Board of Education, which was over 20 years ago, I was employed.
+ In 2010, as a substitute teacher also with the Fayette County Board of Education that was with. I was mostly dealing with fourth and fifth graders, but my volunteer time and the local schools have been from ages.
+ From kindergarten up until fourth grade.
+ I enjoy working with kids because they are a breath of fresh air. They each have their own
+ identity attitudes and I get gratification when they learn something new, when they are meeting their milestones and I like to be a part of that growth with their individual story and I enjoy when the parents feel safe, leaving their kids with me, once we have built a good relationship,
 
 **Q4 — Location:** So I'm located in Fairburn, Georgia. That's in the South part of Atlanta.
  So, the southern part of the Metro Atlanta area. Hey, I'm willing to travel
@@ -3151,31 +3261,36 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  And I have experience.
  Fights hitting, but I have learned that.
  Is best to separate the aggressor and try to get them to come down. I have also noticed that it if you're speaking to them in a calm tone, if your
- Initiate breathing activities with them or accounting activities with them, they're more likely to come down in those d...
+ Initiate breathing activities with them or accounting activities with them, they're more likely to come down in those different types of situations and make sure that you also acknowledge the other kid who may not have been the aggressor or who maybe not him. Defend it and said, what was on the receiving end of the head?
+ Make sure you let them know that that behavior is not something that they will have to be worrying about.
 
 **Q7 — Why Great:** I will make a great up, kid teacher, because I have experience with different age, groups, different behaviors. And I also have an interest in studying behaviors also,
  I am a welcoming person, I have a welcoming personality. The staff that I have worked with the directors to the teachers, the parents. They all feel comfortable with me. They all are
- Comfortable with leaving their kids, going the ...
+ Comfortable with leaving their kids, going the other that their kid will be in good hands. And they're also learning.
+ And I enjoy teaching kids.
+ I like to see them grow. I like to help them meet their Milestones. I'm just as excited as a parent would be, when kids are hitting their mouth Stones. I like to share those achievements with the parents and they have been very receptive of the updates that I give them on their kids while they are in my care.
+ Which is not something that is.
+ Required is just something that I do.
+ Because parents are not always able to sit in the class volunteer in the class. So I just feel like giving parents to update all what's going on, how their kids are progressing, the interacting with kids,
+ it's something that they enjoy receded.
 
 </details>
 
 🔗 **App Account:** 🟢 Koya Alexander
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I'm located in Fairburn, Georgia. That's in the South part of Atlanta.
- So, the southern part of the Metro Atlanta area. Hey, I'm willing to travel, 30 miles. 20+ years child development, substitute teacher, kindergarten experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So I'm located in Fairburn, Georgia, 30 miles. 20+ years kindergarten experience. Worked with infants, preschool-age, school-age. Looking for full-time, part-time.
 
 ---
 
 ### #77 — ✅ APPROVE (MEDIUM) — Rose Tapia
 
-📧 rosetapia121817@gmail.com | 📱 (602) 616-1361 | 📍 Arizona
+📧 rosetapia121817@gmail.com | 📱 (602) 616-1361 | 📍 I am located Avenue Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am located Avenue Arizona and I willing to travel to any facility that is 30 minutes.
- Under.
-**Schedule:** I'm looking for part-time or full-time, and my abilities to work will be early in the mornings till afternoon.
+**Experience:** Mixed (babysitter). Ages: infants
+**Location:** I am located Avenue Arizona, 30 miles
+**Schedule:** full-time, part-time (mornings/afternoons)
 
 **Summary:** Rose has a mix of formal and informal childcare experience.
 
@@ -3202,21 +3317,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Rose Gutierrez-Tapia
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located Avenue Arizona and I willing to travel to any facility that is 30 minutes.
- Under., 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I am located Avenue Arizona, 30 miles. babysitter. Worked with infants. Looking for full-time, part-time (mornings/afternoons).
 
 ---
 
 ### #78 — ✅ APPROVE (LOW) — Olivia Beckstrand
 
-📧 longlivedracomalfoy11@gmail.com | 📱 (385) 888-3601 | 📍 Utah
+📧 longlivedracomalfoy11@gmail.com | 📱 (385) 888-3601 | 📍 Centerville
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** I am located in Centerville, Utah, Davis County and I am willing to relocate between Farmington and Bountiful.
-**Schedule:** I am looking for part-time and my availability is Monday Wednesday and Thursday from 7 a.m. to 4 p.m.
+**Experience:** Unclear. Ages: infants, teens
+**Location:** Centerville
+**Schedule:** part-time
 
-**Summary:** Olivia mentions experience with children but the specifics are unclear from the transcript. Utah is lenient on experience — this should be straightforward.
+**Summary:** Olivia mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -3232,7 +3346,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am looking for part-time and my availability is Monday Wednesday and Thursday from 7 a.m. to 4 p.m.
 
 **Q6 — Conflict Resolution:** There was a time. When I first started babysitting, I was working out of my mom's daycare and preschool that she had. The time I was probably 14 and there were a couple of kids who were arguing arguing over a toy and we're very upset with each other and one of the kids had pushed the other kid down and
- And I handled this situation by pulling the child aside and explaining to them. Why pushing is ...
+ And I handled this situation by pulling the child aside and explaining to them. Why pushing is not okay and help them, come to an agreement with the toy and they ended up playing with the toy together.
 
 **Q7 — Why Great:** I think I would make a great up kid teacher, because
  helping kids learn and grow can help them. Not only learn how to get along in their environment, with others, their age, but to grow and understand the people around them, and I just want to be able to help and teach these kids.
@@ -3243,20 +3357,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Olivia Beckstrand
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Centerville, Utah, Davis County and I am willing to relocate between Farmington and Bountiful.. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Centerville. Childcare experience (details in interview). Worked with infants, teens. Looking for part-time.
 
 ---
 
 ### #79 — ✅ APPROVE (LOW) — darryn
 
-📧 allenlucy910@gmail.com | 📱 (762) 453-3020 | 📍 Georgia
+📧 allenlucy910@gmail.com | 📱 (762) 453-3020 | 📍 I'm located in Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** I'm located in Atlanta, Georgia on Fulton County to be pacific but I drive so the distance wouldn't matter as long as it's not an hour and 23 hours away.
-**Schedule:** I'm looking for a full-time and part-time work. My schedule is open Monday through Sunday every week.
+**Location:** I'm located in Atlanta
+**Schedule:** full-time, part-time
 
-**Summary:** darryn mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** darryn mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -3278,21 +3392,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 darryn butler
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia on Fulton County to be pacific but I drive so the distance wouldn't matter as long as it's not an hour and 23 hours aw. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta. Childcare experience (details in interview). Looking for full-time, part-time.
 
 ---
 
 ### #80 — 🟡 FLAG (LOW) — Natovia Jones
 
-📧 jonesnatovia40@yahoo.com | 📱 (762) 328-7106 | 📍 Georgia
+📧 jonesnatovia40@yahoo.com | 📱 (762) 328-7106 | 📍 Augusta, Georgia, and I'm willing to travel about
+ 20 minutes for work
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 
 **Experience:** None
-**Location:** I live in Augusta, Georgia, and I'm willing to travel about
- 20 minutes for work.
-**Schedule:** A part-time. I would take that to and my availability is open.
+**Location:** Augusta, Georgia, and I'm willing to travel about
+ 20 minutes for work, 20 miles
+**Schedule:** part-time
 
-**Summary:** Natovia does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market.
+**Summary:** Natovia needs Erica's review — no childcare experience detected in transcript. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **Red Flags:** None
 
@@ -3315,24 +3430,24 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 🔗 **App Account:** 🟢 Natovia Jones
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Augusta, Georgia, and I'm willing to travel about
- 20 minutes for work., 20 miles. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. Augusta, Georgia, and I'm willing to travel about
+ 20 minutes for work, 20 miles. Childcare experience (details in interview). Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Augusta, Georgia, and I'm willing to travel about
- 20 minutes for work.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Augusta, Georgia, and I'm willing to travel about
+ 20 minutes for work. No childcare experience detected in transcript.
 
 ---
 
 ### #81 — ✅ APPROVE (HIGH) — Alyssa Robinson
 
-📧 robinsonalyssa0917@gmail.com | 📱 (478) 305-2629 | 📍 Georgia
+📧 robinsonalyssa0917@gmail.com | 📱 (478) 305-2629 | 📍 Kennesaw, Georgia and I am willing to travel our Or List out
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (20yr)
-**Location:** I am located in Kennesaw, Georgia and I am willing to travel our Or List out.
-**Schedule:** I am currently looking for really anything not specifically full-time or part-time but I am pretty much open the only days I'm not is Monday and Wednesday. I do have class on Sunday sometimes on those two days.
+**Experience:** Formal — preschool, kindergarten (assistant teacher), 20+ years. Ages: preschool-age, school-age
+**Location:** Kennesaw, Georgia and I am willing to travel our Or List out
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Alyssa has formal childcare experience with 20+ years (preschool, teacher, kindergarten). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Alyssa is a strong candidate — preschool, kindergarten experience with 20+ years. Has worked with preschool-age, school-age. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -3340,7 +3455,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Alyssa Robinson. I am 20 years old and I currently go to Kennesaw State University. My major right now is Integrated Health Science trying to pursue nursing. I've always been around kids, everyone in my family is a teacher. I've worked at a preschool previously and pretty much just volunteered not really anymore so teaching but
- Emotional over like the kindergarteners pre-k's Pepin with snacks, helping with little activities, they wanted to do kind of being more self a teacher assistant. And I've always loved being around children. I love to play with children interact and I ...
+ Emotional over like the kindergarteners pre-k's Pepin with snacks, helping with little activities, they wanted to do kind of being more self a teacher assistant. And I've always loved being around children. I love to play with children interact and I just love the little kids.
 
 **Q4 — Location:** I am located in Kennesaw, Georgia and I am willing to travel our Or List out.
 
@@ -3355,20 +3470,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Alyssa Robinson
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Kennesaw, Georgia and I am willing to travel our Or List out.. 20+ years preschool, teacher, kindergarten experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Kennesaw, Georgia and I am willing to travel our Or List out. 20+ years preschool, kindergarten experience. Worked with preschool-age, school-age. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #82 — ✅ APPROVE (HIGH) — J Trezvant
 
-📧 aleciagotnext@gmail.com | 📱 (404) 896-6393 | 📍 Georgia
+📧 aleciagotnext@gmail.com | 📱 (404) 896-6393 | 📍 Atlanta, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Atlanta, Georgia.
-**Schedule:** I'm looking for a full-time in. My availability is anytime that you guys need me.
+**Experience:** Formal. Ages: preschool-age, teens
+**Location:** Atlanta, Georgia
+**Schedule:** full-time
 
-**Summary:** J has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** J has solid formal childcare experience. Has worked with preschool-age, teens. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -3390,20 +3505,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jay Trezvant
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta, Georgia.. Formal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Atlanta, Georgia. Childcare experience (details in interview). Worked with preschool-age, teens. Looking for full-time.
 
 ---
 
 ### #83 — ✅ APPROVE (HIGH) — Nahila Louis-Charles
 
-📧 nahilaalc@gmail.com | 📱 (678) 862-6532 | 📍 Georgia
+📧 nahilaalc@gmail.com | 📱 (678) 862-6532 | 📍 I was gonna say is on Georgia which is a suburb of the Metro Atlanta area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I was gonna say is on Georgia which is a suburb of the Metro Atlanta area. I'm willing to travel up to an hour for troops.
-**Schedule:** I'm generally interested in both my availability. Kent on you is between hours of a day and then to see him, however, that can be that can be extended depending on the Christian and the hours of the facility that reached out.
+**Experience:** Formal — preschool, afterschool program, elementary school. Ages: preschool-age, school-age, teens
+**Location:** I was gonna say is on Georgia which is a suburb of the Metro Atlanta area
+**Schedule:** flexible
 
-**Summary:** Nahila has formal childcare experience (preschool, after school). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nahila is a strong candidate — preschool, afterschool program, elementary school experience. Has worked with preschool-age, school-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=nahilaalc@gmail.com APP=lcworksmatters@gmail.com
@@ -3412,17 +3527,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Natalie. La Rose to applied Behavior. Analysis therapy working with your own papers needs. Special needs to get that burning the reviews of work with children. All the weight as young as preschool. All of them still in high school.
- A certain so many different capacities. Whether it's after school programs, elementary school, programs, going riding and longer ones and homes. I think the thing that I love most about working with children, because being this leader development, knowing that I can contribute to a fucking the morning, things of the common challenges, create these me...
+ A certain so many different capacities. Whether it's after school programs, elementary school, programs, going riding and longer ones and homes. I think the thing that I love most about working with children, because being this leader development, knowing that I can contribute to a fucking the morning, things of the common challenges, create these meaningful experiences, whether it's been structured environment or
+ I play bass item and I definitely love to go relationships with the families and staff have been working with is trying to create a space. That is safe for nurturing. On the little kids, they really want my heart to see a child grow and
+ Entertainment.
 
 **Q4 — Location:** I was gonna say is on Georgia which is a suburb of the Metro Atlanta area. I'm willing to travel up to an hour for troops.
 
 **Q5 — Schedule:** I'm generally interested in both my availability. Kent on you is between hours of a day and then to see him, however, that can be that can be extended depending on the Christian and the hours of the facility that reached out.
 
 **Q6 — Conflict Resolution:** Yes, I have experience, handling conflict between children and coaching settings, usually, if one child hits another. I respond immediately by separating the children, and I want to ensure that safety is the top priority from the classroom, calmly address the behavior. Helping your child understand that hitting this is not, okay? And just trying to do some digging to find out your
- What? Why? This...
+ What? Why? This is record? I support. Both children by making sure that they are expressing your feelings appropriately and trying to reinforce positive behavior. Of course, I definitely would report communicate with everyone who's involved as far as parents go. Wasn't any staff just to make sure that everyone is informed on but I would just continue.
+ In you to model and teach emotional regulation and problem-solving to so that it can be a safe environment for all children.
 
 **Q7 — Why Great:** I think I would stand out as an up kids future because of Mexicans with teaching on my various settings. And my experience with behavioral support, the definitely think that being able to manage weekly workers, people who is engaged in different activities and having that I into supporting different kind of Corners well be meaningful to do on the client on, okay? I would like to take
- Give myself ...
+ Give myself as a liable really adaptable, and just really think that I'm fiction and I genuinely enjoy working with children, but allow me to be supportive, from Clinical, education, Behavior or all. Those who are involved.
 
 </details>
 
@@ -3430,20 +3548,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=nahilaalc@gmail.com APP=lcworksmatters@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I was gonna say is on Georgia which is a suburb of the Metro Atlanta area. I'm willing to travel up to an hour for troops.. preschool, after school experience. Looking for available.
+> 03/30 Intro Call Passed. I was gonna say is on Georgia which is a suburb of the Metro Atlanta area. preschool, afterschool program, elementary school experience. Worked with preschool-age, school-age, teens. Looking for flexible.
 
 ---
 
 ### #84 — ✅ APPROVE (HIGH) — Angelica Barriere
 
-📧 angelicabarriere@gmail.com | 📱 (470) 399-4408 | 📍 Georgia
+📧 angelicabarriere@gmail.com | 📱 (470) 399-4408 | 📍 Yeah, I'm in Atlanta closer to the Greenbrier area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (15yr)
-**Location:** Yeah, I'm in Atlanta closer to the Greenbrier area. I'm willing to travel within 20 miles of my location.
-**Schedule:** I can do full-time or part-time the best hours to fit my children schedule will be a 23 around seven. Yeah, seven eight, two three will be perfect. But if I had to do eight to four, I could manage
+**Experience:** Formal, 15+ years. Ages: infants, teens
+**Location:** Yeah, I'm in Atlanta closer to the Greenbrier area, 20 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Angelica has formal childcare experience with 15+ years in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Angelica has solid formal childcare experience. Has worked with infants, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -3466,21 +3584,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Angelica Barriere
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yeah, I'm in Atlanta closer to the Greenbrier area. I'm willing to travel within 20 miles of my location., 20 miles. 15+ years Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Yeah, I'm in Atlanta closer to the Greenbrier area, 20 miles. Childcare experience (details in interview). Worked with infants, teens. Looking for full-time, part-time.
 
 ---
 
 ### #85 — ✅ APPROVE (MEDIUM) — Tiana Eady
 
-📧 tiana.eady06@gmail.com | 📱 (708) 228-4080 | 📍 Georgia
+📧 tiana.eady06@gmail.com | 📱 (708) 228-4080 | 📍 So now I stay in are still area of Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (19yr)
-**Location:** So now I stay in are still area of Georgia, you know, I'm willing to travel, you know, any 30 minutes away from me to see how things go because I'm not used, I'm not from this area, but I'm just like ...
-**Schedule:** So right now, I have pretty much open availability, you know?
- Accepts on Tuesday evenings, I probably would need that time to myself for religious things and like a Sunday morning if anything. But other than that open availability, you know.
+**Experience:** Mixed, 19+ years
+**Location:** So now I stay in are still area of Georgia, 30 miles
+**Schedule:** flexible (mornings/evenings)
 
-**Summary:** Tiana has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tiana has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -3488,37 +3605,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Tiana ET. I'm 19 years old. And, you know, growing up it's like oh you know, I want to be a teacher on me that I just want to, you know, get different experience because like, you know, wildlife and thinking I'm either going to be a teacher, I'm going to go into the medical field. So I had the opportunity to, you know, work in the medical field and there it was It was kind of fun but also want experience to work with like little kids and see if I like it, you know.
- I've always, you know, grown up being the older sibling, whatever. So I would watch my little siblings watch, y...
+ I've always, you know, grown up being the older sibling, whatever. So I would watch my little siblings watch, you know, family simply, you know, you know how the whole thing goes, just going out on watching different people's kids and stuff. And so I actually like, working with kids, I like watching them grow and you know, go through all their, you know, development stages and stuff like that. I think it's I think it's fun in general or
+ not only fun is like educating to me as well. Seeing how different kids act at different ages and stuff. So yeah that's pretty much it.
 
 **Q4 — Location:** So now I stay in are still area of Georgia, you know, I'm willing to travel, you know, any 30 minutes away from me to see how things go because I'm not used, I'm not from this area, but I'm just like learning better but area. So 30 minutes right now, she's pretty good.
 
 **Q5 — Schedule:** So right now, I have pretty much open availability, you know?
  Accepts on Tuesday evenings, I probably would need that time to myself for religious things and like a Sunday morning if anything. But other than that open availability, you know.
 
-**Q6 — Conflict Resolution:** So, when dealing with small children, especially, you know, you have to feel like you have to really empathize with their feelings because like they're trying to understand their feelings themselves. So if they get in to something like another kid hits, another kid. First you want to stay away happy? Why are you getting so angry that you felt you needed somebody, you know, and then, you know, you ...
+**Q6 — Conflict Resolution:** So, when dealing with small children, especially, you know, you have to feel like you have to really empathize with their feelings because like they're trying to understand their feelings themselves. So if they get in to something like another kid hits, another kid. First you want to stay away happy? Why are you getting so angry that you felt you needed somebody, you know, and then, you know, you also have to make it aware to them, like, you cannot do this. You can't hit
+ Someone else. You know, that's not that, we're not going to tolerate that. So, with the kids that got angry, you know, you want to also be there for kid that got hit as well because, like, you know, some kids, you know, they don't take well to that, you know. So look out for that kids emotions as well, but for the kid that hit, you might have to, like separate. You might have to separate that kid and be like, you know, you can come back when you're ready to be friendly with everyone else, but you have to understand, like you can't go around, you know, each other.
+ Kids, you know, and just explain it to him. I feel like that's one thing you can do as well. Like, hey, you wouldn't want anyone hitting you, you know, so you got to empathize with, you have to teach the other kid how to empathize with the other kid that they hit as well.
 
 **Q7 — Why Great:** Honestly, I think I'll be a great kid teacher primarily because I'm I've always done well socially. So working with different age groups, whether young and old which is also a reason I was like I'm leaving a real teacher or go into the medical field because you have to have that amazing social skills for that. And I also think I'm good at problem solving. So when it comes to situations,
- Ation bet...
+ Ation between children and stuff. You know, I've had my fair share of like
+ experience working with like young kids and how they, you know, things could get so escalated from like little small things. And I think I'll do pretty well with working with kids, especially when they're under different emotions of anger and all these other things. So yeah.
 
 </details>
 
 🔗 **App Account:** 🟢 Tiana Eady
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So now I stay in are still area of Georgia, you know, I'm willing to travel, you know, any 30 minutes away from me to see how things go because I'm no, 30 miles. Mix of formal and informal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. So now I stay in are still area of Georgia, 30 miles. Mix of formal and informal childcare experience. Looking for flexible (mornings/evenings).
 
 ---
 
 ### #86 — ✅ APPROVE (MEDIUM) — Trinity Andrade
 
-📧 elitenailsbymercedes@gmail.com | 📱 (404) 502-5708 | 📍 Georgia
+📧 elitenailsbymercedes@gmail.com | 📱 (404) 502-5708 | 📍 I currently, I currently reside in Stone Mountain, Georgia 3008
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
-**Experience:** Mixed (20yr)
-**Location:** I currently, I currently reside in Stone Mountain, Georgia 3008. I am willing to fart. I mean, I am willing to travel however, far. I need to, to possibly subject to our be there for any day care or A...
-**Schedule:** I prefer part-time the bay availability that I do have is morning, time afternoon and night. I am available to work any day from Monday to Friday.
+**Experience:** Mixed — daycare, preschool (assistant teacher, babysitter), 20+ years. Ages: infants, preschool-age
+**Location:** I currently, I currently reside in Stone Mountain, Georgia 3008
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Trinity has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Trinity has a mix of formal (daycare, preschool) and informal (babysitter) experience.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=elitenailsbymercedes@gmail.com APP=tanaealexiss@gmail.com
@@ -3527,7 +3648,8 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Trinity and I'm 20 years old. I'm from the Boston, Massachusetts, but I live in the state of Georgia. I've been working with children since I was very young. I started babysitting at a very young age and at the age of 16 I got my very first job at the daycare. I was working with one and two year old kids specializing in helping the teacher and basically being the assistant teacher. I am familiar.
- Earlier with the age group of three, and four preschool, I am especially comfortable with preschoolers. I personally love working with kids because they bring so much laughter curiosit...
+ Earlier with the age group of three, and four preschool, I am especially comfortable with preschoolers. I personally love working with kids because they bring so much laughter curiosity, and joy into the world and also very much light. Every time I'm around them, every day. I just forget about all my problems and they just brighten up my day. So this is why
+ I am applying for up kids.
 
 **Q4 — Location:** I currently, I currently reside in Stone Mountain, Georgia 3008. I am willing to fart. I mean, I am willing to travel however, far. I need to, to possibly subject to our be there for any day care or Academy that needs me.
 
@@ -3539,20 +3661,20 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 ⚠️ email: VA=elitenailsbymercedes@gmail.com APP=tanaealexiss@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently, I currently reside in Stone Mountain, Georgia 3008. I am willing to fart. I mean, I am willing to travel however, far. I need to, to poss. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I currently, I currently reside in Stone Mountain, Georgia 3008. 20+ years daycare, preschool experience. Worked with infants, preschool-age. Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #87 — ✅ APPROVE (MEDIUM) — Sade Major
 
-📧 slmajor03@gmail.com | 📱 (678) 656-2374 | 📍 Georgia
+📧 slmajor03@gmail.com | 📱 (678) 656-2374 | 📍 I'm located in Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Atlanta, Georgia, I'm super close to the Marriott Marietta Smyrna area, and I'm honestly willing to travel about 25 to 30 miles anywhere between like the 32 1 hour, mark, once it gets a...
-**Schedule:** As of right now I'm looking for part-time because I do have another job but hopefully by the time the summer starts around, I will be looking for full-time positions.
+**Experience:** Mixed (babysitter). Ages: infants
+**Location:** I'm located in Atlanta, 25-30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Sade has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Sade has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment.
 
 **Red Flags:** None
 
@@ -3560,22 +3682,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. I'm shot a major. I am a recent graduate from Kennesaw State. I have a Bachelors in marketing and I actually have no experience in child care other than obviously babysitting family and stuff like that. But I would love love to experience working with children and kind of gaining The Experience because I'd love to go into teaching myself. I love working with kids, I think they're eye-openers, they teach you a lot about things that you really didn't even know. Even though
- Just kids, they have such a great imagination, is in a different world that they live in compared to us as adults. That...
+ Just kids, they have such a great imagination, is in a different world that they live in compared to us as adults. That I just love to experience. It would love to be a part of
 
 **Q4 — Location:** I'm located in Atlanta, Georgia, I'm super close to the Marriott Marietta Smyrna area, and I'm honestly willing to travel about 25 to 30 miles anywhere between like the 32 1 hour, mark, once it gets an hour, that's kind of rice, I stop.
 
 **Q5 — Schedule:** As of right now I'm looking for part-time because I do have another job but hopefully by the time the summer starts around, I will be looking for full-time positions.
 
-**Q6 — Conflict Resolution:** As I mentioned, I've never been in a classroom setting, but I do have a lot of younger cousins and family members that I have experienced fight and watched by, in many situations to deal with it. I normally would tell them obviously to stop, I would ask what the issue is get a little bit more information about the situation and then move on for the, they're obviously in the end, I would promote. I...
+**Q6 — Conflict Resolution:** As I mentioned, I've never been in a classroom setting, but I do have a lot of younger cousins and family members that I have experienced fight and watched by, in many situations to deal with it. I normally would tell them obviously to stop, I would ask what the issue is get a little bit more information about the situation and then move on for the, they're obviously in the end, I would promote. I would make both children, apologize and hopefully resolve the situation and that way.
 
-**Q7 — Why Great:** I believe I'd make a great up kid teacher because I'm super passionate about exploring this new generation that's coming in and teaching them, more about what the world is really about. I'd love to experience getting to know children and and making relationships with them and creating relationships with them to where they believe that I'm a mentor. Or I'm someone that they can look up to. That's a...
+**Q7 — Why Great:** I believe I'd make a great up kid teacher because I'm super passionate about exploring this new generation that's coming in and teaching them, more about what the world is really about. I'd love to experience getting to know children and and making relationships with them and creating relationships with them to where they believe that I'm a mentor. Or I'm someone that they can look up to. That's always a goal of mine, to make sure that the younger generation has somebody in people to look up to in their later years.
 
 </details>
 
 🔗 **App Account:** 🟢 Sade Major
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia, I'm super close to the Marriott Marietta Smyrna area, and I'm honestly willing to travel about 25 to 30 miles anywher, 25-30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta, 25-30 miles. babysitter. Worked with infants. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
@@ -3584,10 +3706,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 gttesa@yahoo.com | 📱 (678) 449-7842 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal (37yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — Head Start, afterschool program, 37+ years
+**Location:** Georgia
 
-**Summary:** Terri has formal childcare experience with 37+ years (child development, early childhood, teacher, head start). Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Terri only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: My name is Terry Abrams, I have over 37 years experience, working with children. I am a parent. Also...
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -3598,30 +3720,30 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Terry Abrams, I have over 37 years experience, working with children. I am a parent. Also I worked as a center director for Head Start program and Early Head Start program. I've worked at an after-school coordinator. I've worked in the classroom prior to becoming a center director, which I've done for about twenty, odd years. I sometimes assist in the classroom.
- When I couldn't find a replacement sub, I became that teacher for the day so I have a vast amount of experience working with children. I am a Early Childhood educator, of course, I have my degree in special education and ch...
+ When I couldn't find a replacement sub, I became that teacher for the day so I have a vast amount of experience working with children. I am a Early Childhood educator, of course, I have my degree in special education and child development.
+ I am familiar with the classroom, environments working in the classroom in and out of the classroom on the management side, on the classroom side. So I believe I have a wide variety, a wide array of experience.
 
 </details>
 
 🔗 **App Account:** 🟢 Terri Abrams
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). 37+ years child development, early childhood, teacher, head start experience.
+> 03/30 Intro Call Passed. Georgia. 37+ years Head Start, afterschool program experience. Currently studying education/child development.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #89 — 🟡 FLAG (MEDIUM) — Ashley Soto
 
-📧 ashleysotoruiz7@gmail.com | 📱 (623) 900-8333 | 📍 Arizona
+📧 ashleysotoruiz7@gmail.com | 📱 (623) 900-8333 | 📍 Phoenix
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Phoenix, Arizona around like 51st and in canto, and I'm willing to go about like 20 minutes before my shift 20, maybe even 30, 20 to 30.
-**Schedule:** Right now I'm currently looking for part-time because I go to school Tuesdays and Thursdays. But I am available Monday, Wednesday and Friday.
- And then, once I'm done with this semester, I am, like starting may. I will be able to do full time. I'll b...
+**Experience:** Formal — elementary school. Ages: school-age
+**Location:** Phoenix, 20 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Ashley has formal childcare experience (teacher). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Ashley needs Erica's review — arizona requires 6mo formal — duration unclear from transcript. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -3639,33 +3761,35 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  And then, once I'm done with this semester, I am, like starting may. I will be able to do full time. I'll be available each day.
 
 **Q6 — Conflict Resolution:** Yes, I've had some experience on my internships, where this one time, there was two kids and there were like arguing back and forth because one of them, the, like table leader had to like pass out papers had to pass out the papers and he didn't, and he got really, really upset because they're in first grade, he got really upset, so I have to go over.
- I had to go over and just like tell him that i...
+ I had to go over and just like tell him that it was okay that next time you got there would be able to like he would be able to pass them out but
+ Usually what I do is like, just go over, talk to them here, both sides and then like come to an agreement, with both of them saying like oh this isn't okay, because whatever like is going on but just like talking to them and being really patient with them.
 
 **Q7 — Why Great:** I would be a great of kid teacher because I feel like I'm really patient with kids and I really enjoy working with kids. I mean, like, my major is Elementary education. I want to become a teacher one day and I feel like this would be great experience for me. And I'm also really flexible. I like how School Tuesdays and Thursdays but like I can work Mondays, Wednesdays and Fridays.
- He's perfectly f...
+ He's perfectly fine. And yeah, I feel like this would be a great fit for me.
 
 </details>
 
 🔗 **App Account:** 🟢 Ashley Soto
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Phoenix, Arizona around like 51st and in canto, and I'm willing to go about like 20 minutes before my shift 20, maybe even 30, 20 to 30., 20 miles. teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Phoenix, 20 miles. elementary school experience. Worked with school-age. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Phoenix, Arizona around like 51st and in canto, and I'm willing to go about like 20 minutes before my shift 20, maybe even 30, 20 to 30.. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Phoenix. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #90 — ✅ APPROVE (MEDIUM) — Jabryia Hoskins
 
-📧 jabryiazm@icloud.com | 📱 (404) 951-5350 | 📍 Georgia
+📧 jabryiazm@icloud.com | 📱 (404) 951-5350 | 📍 Stone Mountain Georgia, and I willing to travel
+ About 10, 15 miles for work
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (10yr)
-**Location:** I live in Stone Mountain Georgia, and I willing to travel
- About 10, 15 miles for work.
-**Schedule:** I am looking for part-time work and I'm available every day, except Wednesday and Sunday. I will prefer to work an earlier shift, like, in the morning. But I'm willing to work any shift throughout the day
+**Experience:** Mixed — daycare, afterschool program (babysitter, tutor), 10+ years. Ages: infants, preschool-age
+**Location:** Stone Mountain Georgia, and I willing to travel
+ About 10, 15 miles for work, 15 miles
+**Schedule:** part-time (mornings)
 
-**Summary:** Jabryia has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jabryia has a mix of formal (daycare, afterschool program) and informal (babysitter) experience.
 
 **Red Flags:** None
 
@@ -3681,18 +3805,18 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am looking for part-time work and I'm available every day, except Wednesday and Sunday. I will prefer to work an earlier shift, like, in the morning. But I'm willing to work any shift throughout the day
 
 **Q6 — Conflict Resolution:** Conflict can be difficult especially working with a younger age ranges but I try my best to hear both sides of the story and let them explain their sides separately and then we'll sit down together and discuss know what lettuce or them to that point. Both sides will apologize. What they feel like they're wrong or not.
- AG is important in working with conflict and then just working on a resolution ...
+ AG is important in working with conflict and then just working on a resolution so that it doesn't happen again.
 
 **Q7 — Why Great:** I would make a great update teacher because I'm very patient and understanding and reasonable. I love children of all ages. I love being able to help with problems in like the childcare, please. I love teaching children and problem solving and
- making different activities so you help them learn through whatever may be difficult or if it's not difficult if they just love learning and their love bei...
+ making different activities so you help them learn through whatever may be difficult or if it's not difficult if they just love learning and their love being in tune things, I love creating projects and like arts and crafts so they're able to do an Express themselves.
 
 </details>
 
 🔗 **App Account:** 🟢 Jabryia  Hoskins
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Stone Mountain Georgia, and I willing to travel
- About 10, 15 miles for work., 15 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Stone Mountain Georgia, and I willing to travel
+ About 10, 15 miles for work, 15 miles. 10+ years daycare, afterschool program experience. Worked with infants, preschool-age. Looking for part-time (mornings).
 
 ---
 
@@ -3702,9 +3826,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** Unknown
-**Location:** Georgia (inferred from phone area code)
+**Location:** Georgia
 
-**Summary:** Could not assess Diane's experience — transcript may be missing or garbled. Only answered 0/5 questions — limited data to evaluate.
+**Summary:** Diane only answered 0/5 content questions — not enough data to properly evaluate.
 
 **🚩 Red Flags:**
 - Only 0/5 questions answered
@@ -3721,22 +3845,22 @@ Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 ⚠️ email: VA=dianehayes938@gmail.com APP=
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience details not available.
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #92 — ✅ APPROVE (HIGH) — Brodie McInnis
 
-📧 brodiemcinnis@gmail.com | 📱 (727) 473-5422 | 📍 Arizona
+📧 brodiemcinnis@gmail.com | 📱 (727) 473-5422 | 📍 Apache
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (12yr)
-**Location:** I am located in Apache, Junction, Arizona, and I am willing to commute up to 30 miles for shifts.
-**Schedule:** I am looking for part-time work to start out and I have open availability.
+**Experience:** Formal, 12+ years. Ages: infants, toddlers, preschool-age
+**Location:** Apache, 30 miles
+**Schedule:** part-time
 
-**Summary:** Brodie has formal childcare experience with 12+ years (teacher). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Brodie has solid formal childcare experience. Has worked with infants, toddlers, preschool-age.
 
 **Red Flags:** None
 
@@ -3759,21 +3883,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Brodie McInnis
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Apache, Junction, Arizona, and I am willing to commute up to 30 miles for shifts., 30 miles. 12+ years teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. Apache, 30 miles. Childcare experience (details in interview). Worked with infants, toddlers, preschool-age. Looking for part-time.
 
 ---
 
 ### #93 — ✅ APPROVE (LOW) — sammy
 
-📧 sammymarquezwashere@icloud.com | 📱 (385) 518-4785 | 📍 Utah
+📧 sammymarquezwashere@icloud.com | 📱 (385) 518-4785 | 📍 Central Utah and I would prefer something maybe more local
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (4yr)
-**Location:** I live in Central Utah and I would prefer something maybe more local, you know, maybe like, 5 10 minutes away. Yeah.
-**Schedule:** I'm kind of leaning towards for full-time and part-time. My schedule becomes busy and then it becomes free. So honestly, I'm open to literally anything. I
- I am very flexible schedule which is really nice so I can totally work around.
+**Experience:** Unclear, 4+ years. Ages: preschool-age
+**Location:** Central Utah and I would prefer something maybe more local, 10 miles
+**Schedule:** full-time, part-time
 
-**Summary:** sammy mentions experience with children but the specifics are unclear from the transcript. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** sammy mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -3797,20 +3920,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Sammy Marquez
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Central Utah and I would prefer something maybe more local, you know, maybe like, 5 10 minutes away. Yeah., 10 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Central Utah and I would prefer something maybe more local, 10 miles. Childcare experience (details in interview). Worked with preschool-age. Looking for full-time, part-time.
 
 ---
 
 ### #94 — 🟡 FLAG (MEDIUM) — Denetric Williams
 
-📧 denetric_w@yahoo.com | 📱 (678) 227-1088 | 📍 Georgia
+📧 denetric_w@yahoo.com | 📱 (678) 227-1088 | 📍 Rockdale County and I am willing to travel 30
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I am in Rockdale County and I am willing to travel 30. No more than 40 minutes or miles outside of the area. Gwinnett County Newton County, Rockdale County, Walton County, any of the surrounding areas...
-**Schedule:** I am retired government employee of 37 years. I am available Monday through Friday. 8 a.m. 7 a.m. to 7 p.m. in the evenings Monday through Friday.
+**Experience:** Informal. Ages: preschool-age
+**Location:** Rockdale County and I am willing to travel 30, 40 miles
+**Schedule:** flexible (evenings)
 
-**Summary:** Denetric's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Denetric's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -3821,7 +3944,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, I'm Ginny trick Williams. I'm a mother too. And I grandmother to, and along with being a mother and a grandmother, I've always invited and always had kids at my house. My son was involved in a lot of sports. So at the sport after the activities, the kids always came to my house. So I've always had a nursing house.
  That we love kids and spending time with kids and helping and mentoring kids. Now I'm a behavior AIDS where I go and mentor and work with kids with behavioral issues. I've been doing that for three years now. I'm also a with the kaska in Rockdale County case advocate for kids.
- ...
+ And I also have a nonprofit that I'm involved with the community and supporting Youth and their families and this gives me a lot of experience with kids, emotional development and social needs. Like I said, it's always a positive atmosphere and and I just love trying to help kids
+ with issues that they have in their life and just help them to learn and grow and give them a secure environment.
 
 **Q4 — Location:** I am in Rockdale County and I am willing to travel 30. No more than 40 minutes or miles outside of the area. Gwinnett County Newton County, Rockdale County, Walton County, any of the surrounding areas, within 30 to 40 miles.
  We'll be okay.
@@ -3829,32 +3953,34 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am retired government employee of 37 years. I am available Monday through Friday. 8 a.m. 7 a.m. to 7 p.m. in the evenings Monday through Friday.
 
 **Q6 — Conflict Resolution:** I know, I need to make sure to deescalate things that the kids know that. It's okay. We calm down, breathe. It's okay. You staying for me and you staying here from me and we're going to talk about it. We're going to listen at what happened on your side, and I'm going to listen at what happened on your side, but we just need to know that it's not okay, to hit each other.
- Other and, and if we need ...
+ Other and, and if we need to share a toy, you get a turn and you get a time, we will all share but it's not okay to put your hands on anybody because it's not comfortable for anybody. So we just calm down. I know you probably frustrated but it's okay, it's okay, it's okay.
 
 **Q7 — Why Great:** oh my God, a good up kid teacher because I bring professional experience and genuine passion for kids experience with behavior AIDS and my ability to help and maintain and keep Kids Safe in a positive environment and before be
- Not even bit for my background. Just being a loving and nurturing caring mother and a grandmother kids are precious. All kids are precious and I strive to make them feel th...
+ Not even bit for my background. Just being a loving and nurturing caring mother and a grandmother kids are precious. All kids are precious and I strive to make them feel that they are special. And and that
+ They're special.
+ And I just would enjoy working with kids and and, and I do enjoy.
 
 </details>
 
 🔗 **App Account:** 🟢 Denetric  Williams
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am in Rockdale County and I am willing to travel 30. No more than 40 minutes or miles outside of the area. Gwinnett County Newton County, Rockdale C, 40 miles. Informal childcare experience (babysitting/family). Looking for available.
+> 03/30 Intro Call Passed. Rockdale County and I am willing to travel 30, 40 miles. Informal childcare experience (babysitting/family). Worked with preschool-age. Looking for flexible (evenings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am in Rockdale County and I am willing to travel 30. No more than 40 minutes or miles outside of the area. Gwinnett County Newton County, Rockdale C. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Rockdale County and I am willing to travel 30. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #95 — ✅ APPROVE (LOW) — Kea Marie Childress
 
-📧 kchildress1045@gmail.com | 📱 (678) 663-4606 | 📍 Georgia
+📧 kchildress1045@gmail.com | 📱 (678) 663-4606 | 📍 In Canton
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (20yr)
-**Location:** In Canton, Georgia and I willing to travel up to 40 miles outside of my address, right?
-**Schedule:** I am looking for both full-time and part-time days and I am available Monday through Friday.
+**Experience:** Unclear, 20+ years. Ages: toddlers
+**Location:** In Canton, 40 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Kea mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Kea mentions experience with children but the specifics are vague in the transcript.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=kchildress1045@gmail.com APP=
@@ -3871,7 +3997,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** Contact between children happens in a small setting. Normally what I do is here, both children out depending on the scenario, make a judgment call based off of what's going on in this scenario. I think children want to be heard and they want to be respected and those are two things that I made sure that I do.
 
 **Q7 — Why Great:** I make a good chakra teacher because of my career and also because I still have a passion to teach, I got into management because I wanted to help grow teachers. I know what it's like to in today's world is far as children and their different Dynamics. There could be a thousand of one's different personalities. In a classroom,
- And I know that there are some struggle, sometimes to reach each one o...
+ And I know that there are some struggle, sometimes to reach each one of them and be able to help kind of cycle through between the personalities. But I definitely have come up with some strategies over the years of just how to be able to reach children and what fits children and what works best.
 
 </details>
 
@@ -3879,20 +4005,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=kchildress1045@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. In Canton, Georgia and I willing to travel up to 40 miles outside of my address, right?, 40 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. In Canton, 40 miles. Childcare experience (details in interview). Worked with toddlers. Looking for full-time, part-time.
 
 ---
 
 ### #96 — ✅ APPROVE (MEDIUM) — Kiara Cross
 
-📧 kiaracross399@gmail.com | 📱 (470) 582-2848 | 📍 Georgia
+📧 kiaracross399@gmail.com | 📱 (470) 582-2848 | 📍 Riverdale, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (5yr)
-**Location:** I live in Riverdale, Georgia. I am willing to travel about maybe 10-15 miles. I said, like the surrounding areas of Riverdale,
-**Schedule:** I am looking for full-time but part-time is fine around my schedule. I would prefer early mornings and getting off around 2:00 or 3:00 but any times where it breaks for me?
+**Experience:** Mixed — afterschool program, church childcare, 5+ years. Ages: infants, school-age, teens
+**Location:** Riverdale, Georgia, 15 miles
+**Schedule:** full-time, part-time (mornings)
 
-**Summary:** Kiara has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Kiara has experience in afterschool program, church childcare plus informal childcare. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -3900,37 +4026,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Kiara cross. I have a lot of experience working with children. I have been working with them for about 5 years. And I started when I was 16, I'm 21. Now, I have worked with all ages from infant up until after school school age. So, like 13, maybe 14, I love working with children because I have a strong passion for helping them learn, helping them grow and feel supported throughout.
- My involvement and my youth ministry at church and helping take care of my siblings. I've gained a lot of experience guiding and in engaging with different kind of Ages. I enjoy finding creative ways...
+ My involvement and my youth ministry at church and helping take care of my siblings. I've gained a lot of experience guiding and in engaging with different kind of Ages. I enjoy finding creative ways to help children, understand what they're learning and making sure they stay engaged. It's rewarding to be a positive influence and create a safe space and encouraging environment for them so that they're able to thrive.
+ So that is little about me and why I love working with children. So yeah.
 
 **Q4 — Location:** I live in Riverdale, Georgia. I am willing to travel about maybe 10-15 miles. I said, like the surrounding areas of Riverdale,
 
 **Q5 — Schedule:** I am looking for full-time but part-time is fine around my schedule. I would prefer early mornings and getting off around 2:00 or 3:00 but any times where it breaks for me?
 
 **Q6 — Conflict Resolution:** If I have a conflict where I want student here at another, I will try to remove that student and ask them. What's wrong? Tell them that we have a no hitting policy. You know, we use our words to express how we feel kind of see what led up to the hitting and try to keep the both children in neutral corners or in different groups and see if they can
- guys to each other and just stay on two different...
+ guys to each other and just stay on two different sides.
 
 **Q7 — Why Great:** I would make a great of kid teacher because I genuinely care about children and their growth. I've developed a lot of patience, a lot of creativity, a lot of ability to engage with children and meaningful ways. I just love being around children. I love helping them. I love like understanding them, keeping them motivated, keeping them, encourage making sure they have positive.
- Attitude just being ...
+ Attitude just being a person that they're able to relate to. And yeah I just love helping them Thrive and learn
 
 </details>
 
 🔗 **App Account:** 🟢 Kiara Cross
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Riverdale, Georgia. I am willing to travel about maybe 10-15 miles. I said, like the surrounding areas of Riverdale,, 15 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Riverdale, Georgia, 15 miles. 5+ years afterschool program, church childcare experience. Worked with infants, school-age, teens. Looking for full-time, part-time (mornings).
 
 ---
 
 ### #97 — ✅ APPROVE (HIGH) — Jayalakshmi Viswanthan
 
-📧 jayavenkat86@gmail.com | 📱 (706) 908-9438 | 📍 Georgia
+📧 jayavenkat86@gmail.com | 📱 (706) 908-9438 | 📍 I would like to travel between 10 to 15 miles
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 
 **Experience:** Formal
-**Location:** I would like to travel between 10 to 15 miles. I lie exactly live in coming Forsyth County which, which called her the PIN code, three double zero for zero.
-**Schedule:** I'm okay with either full time or part time so I have a elementary school going kid also. So I would like to have a any any schedule that suits that. So I would be available anytime between 8 a.m. to 4 p.m. or Sundays. If it is if it needs a little m...
+**Location:** I would like to travel between 10 to 15 miles, 10-15 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Jayalakshmi has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements.
+**Summary:** Jayalakshmi has solid formal childcare experience. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=jayavenkat86@gmail.com APP=
@@ -3952,19 +4079,19 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 ⚠️ email: VA=jayavenkat86@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I would like to travel between 10 to 15 miles. I lie exactly live in coming Forsyth County which, which called her the PIN code, three double zero for, 10-15 miles. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I would like to travel between 10 to 15 miles, 10-15 miles. Childcare experience (details in interview). Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #98 — ✅ APPROVE (LOW) — Janiya Johnson
 
-📧 janiyajohnson2511@gmail.com | 📱 (470) 278-3378 | 📍 Georgia
+📧 janiyajohnson2511@gmail.com | 📱 (470) 278-3378 | 📍 Yes, I currently reside in Atlanta Georgia as far as commute
 Questions: 2/5 — Q3 ✅ Q4 ✅ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Mixed
-**Location:** Yes, I currently reside in Atlanta Georgia as far as commute and I don't mind commute into I believe Tucker, Georgia Lithonia, Georgia Decatur, Georgia anything. That's within maybe a 10, 15, mile rad...
+**Experience:** Mixed — elementary school. Ages: school-age
+**Location:** Yes, I currently reside in Atlanta Georgia as far as commute
 
-**Summary:** Janiya has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Only answered 2/5 questions — limited data to evaluate.
+**Summary:** Janiya only answered 2/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 2/5 questions answered
@@ -3974,7 +4101,7 @@ Questions: 2/5 — Q3 ✅ Q4 ✅ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Jeremiah Johnson a little about myself is I'm currently in school for elementary education. Getting my Bachelor's in that I love working with kids. I've been surrounded by kids ever since I was young, because I grew up with younger siblings and younger, family members that I watched after and help take care of. I've also worked at a learning center before I went off to university called stepping stone.
- Is Academy around the ages that attended were there between five and nine I believe. So yeah, besides my passion for childhood, education and kids. I also enjoy cooking. I love to ma...
+ Is Academy around the ages that attended were there between five and nine I believe. So yeah, besides my passion for childhood, education and kids. I also enjoy cooking. I love to make meals on Tick-Tock and share fun recipes.
 
 **Q4 — Location:** Yes, I currently reside in Atlanta Georgia as far as commute and I don't mind commute into I believe Tucker, Georgia Lithonia, Georgia Decatur, Georgia anything. That's within maybe a 10, 15, mile radius. I'm comfortable with
 
@@ -3984,20 +4111,20 @@ Questions: 2/5 — Q3 ✅ Q4 ✅ Q5 ❌ Q6 ❌ Q7 ❌
 ⚠️ email: VA=janiyajohnson2511@gmail.com APP=playaniya2@icloud.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I currently reside in Atlanta Georgia as far as commute and I don't mind commute into I believe Tucker, Georgia Lithonia, Georgia Decatur, Georgi. Mix of formal and informal childcare experience.
+> 03/30 Intro Call Passed. Yes, I currently reside in Atlanta Georgia as far as commute. elementary school experience. Worked with school-age. Currently studying education/child development.
 
 ---
 
 ### #99 — ✅ APPROVE (HIGH) — Kennedy Johnson
 
-📧 kennedyj01@icloud.com | 📱 (229) 347-0699 | 📍 Georgia
+📧 kennedyj01@icloud.com | 📱 (229) 347-0699 | 📍 I'm currently living in Kennesaw Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (24yr)
-**Location:** I'm currently living in Kennesaw Georgia. So that's what I base right now and I'm really excited to explore new opportunities here locally. Only to travel about 25 to 30 minutes for jobs.
-**Schedule:** I can do full-time and part-time shifts. I really have a lot of open availability.
+**Experience:** Formal — daycare, preschool, 24+ years. Ages: infants, preschool-age
+**Location:** I'm currently living in Kennesaw Georgia, 25-30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Kennedy has formal childcare experience with 24+ years (preschool, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kennedy is a strong candidate — daycare, preschool experience with 24+ years. Has worked with infants, preschool-age. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=kennedyj01@icloud.com APP=johnsonkennedy07@gmail.com
@@ -4012,7 +4139,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I can do full-time and part-time shifts. I really have a lot of open availability.
 
-**Q6 — Conflict Resolution:** I have pindell conflict between kids at the daycare. In fact, one time I had to preschoolers who are arguing over toward the toy, had become really popular in the class for some reason. So I stepped in calmly and got down to their level. I help them talk about their feelings and they took turns, and in the end, I got them through sharing the toy, I try to emphasize communication between the kids, ...
+**Q6 — Conflict Resolution:** I have pindell conflict between kids at the daycare. In fact, one time I had to preschoolers who are arguing over toward the toy, had become really popular in the class for some reason. So I stepped in calmly and got down to their level. I help them talk about their feelings and they took turns, and in the end, I got them through sharing the toy, I try to emphasize communication between the kids, so they won't have to
+ To always come title. Quote-unquote, the teacher, instead just figured out themselves and work it out.
 
 **Q7 — Why Great:** I think I'll make a great up, kid teacher, because I really dedicated to creating a supportive and engaging environment on patient and flexible. And I really strive to me. It's child where they are. I also bring that passion for learning, so I'm really excited to inspire curiosity and growth in all the children that I work with.
 
@@ -4022,20 +4150,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=kennedyj01@icloud.com APP=johnsonkennedy07@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently living in Kennesaw Georgia. So that's what I base right now and I'm really excited to explore new opportunities here locally. Only to tr, 25-30 miles. 24+ years preschool, daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm currently living in Kennesaw Georgia, 25-30 miles. 24+ years daycare, preschool experience. Worked with infants, preschool-age. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #100 — 🟡 FLAG (MEDIUM) — Denecia Barrett
 
-📧 deneciabarrett2004@gmail.com | 📱 (808) 481-1263 | 📍 Georgia
+📧 deneciabarrett2004@gmail.com | 📱 (808) 481-1263 | 📍 Grayson Georgia and the Gwinnett County area
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
-**Experience:** Informal (22yr)
-**Location:** I live in Grayson Georgia and the Gwinnett County area. I am able to commit to about an hour to work. I am very flexible and reliable on getting to work on time
-**Schedule:** I am interested in the part-time interest and the shift that I'm looking for is again, I'm flexible. Whatever shifts are available that I'm willing to work with
+**Experience:** Informal (babysitter), 22+ years. Ages: infants, toddlers, school-age
+**Location:** Grayson Georgia and the Gwinnett County area
+**Schedule:** part-time
 
-**Summary:** Denecia's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica.
+**Summary:** Denecia's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica.
 
 **Red Flags:** None
 
@@ -4045,7 +4173,8 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Denis super Shana Barrett. I am 22 years old. I am currently working at my associates degree in criminal justice, and my certification, a legal assistance. I love working with children because I enjoy working with children because I like helping them learn and feel supported. I'm patient and a caring person. I enjoy creating a safe positive environment where kids can grow and be themselves. I want thing about
- me is that I love children because I had a girl pretty fast. When I was 10 years old, I took care of my sister very well, and I became a babysitter, a little bit, a little bit...
+ me is that I love children because I had a girl pretty fast. When I was 10 years old, I took care of my sister very well, and I became a babysitter, a little bit, a little bit, two years after that, I helping people babysit their kids. And I'm also a leader in my dance ministry. I am a leader over the kids, from the age of 5 to 12, and I really enjoy it. I really loved it. Every kid I come in contact with
+ Is so wonderful amazing because you see they're beautiful light and I can't wait to like be able to experience that with kids in the field and able to grow my knowledge with them and especially help kids that shy and able to get them out of their show. And it's like, really positive. See when you see a kid come out there showing his like to me, that's so beautiful.
 
 **Q4 — Location:** I live in Grayson Georgia and the Gwinnett County area. I am able to commit to about an hour to work. I am very flexible and reliable on getting to work on time
 
@@ -4056,22 +4185,22 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Denecia Barrett
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Grayson Georgia and the Gwinnett County area. I am able to commit to about an hour to work. I am very flexible and reliable on getting to wo. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Grayson Georgia and the Gwinnett County area. 22+ years as babysitter. Worked with infants, toddlers, school-age. Currently college student. Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Grayson Georgia and the Gwinnett County area. I am able to commit to about an hour to work. I am very flexible and reliable on getting to wo. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Grayson Georgia and the Gwinnett County area. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #101 — ✅ APPROVE (HIGH) — Kamani Bethea
 
-📧 kamanibethea@gmail.com | 📱 (678) 629-2589 | 📍 Georgia
+📧 kamanibethea@gmail.com | 📱 (678) 629-2589 | 📍 Hampton, Georgia ZIP, code, 302 28
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (19yr)
-**Location:** I am located in Hampton, Georgia ZIP, code, 302 28. I'll be willing to travel about 20 miles out as far as ships are concerned. I can definitely get out about that far.
-**Schedule:** I am looking for full-time work. My little busy is anything from Monday to Friday at any time.
+**Experience:** Formal — elementary school (assistant teacher), 19+ years. Ages: school-age, teens
+**Location:** Hampton, Georgia ZIP, code, 302 28, 20 miles
+**Schedule:** full-time
 
-**Summary:** Kamani has formal childcare experience with 19+ years (assistant teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kamani is a strong candidate — elementary school experience with 19+ years. Has worked with school-age, teens. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4080,24 +4209,24 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Kamali with Mia. I am 19 years old. I was currently enrolled in Albany State University for Persona associate's. Degree in elementary education. I have worked with children ages about 14 to 19. I was assisting, a teacher in high school. I was an assistant teacher to some special.
  Asian students, you know, and also some regular students that helped out on the daily. I love children. I've always been around children, and I love to be a part of making everybody's educational Journey, fun, while, also learning things that they need to
- And I would just like to see what his opportun...
+ And I would just like to see what his opportunity takes me.
 
 **Q4 — Location:** I am located in Hampton, Georgia ZIP, code, 302 28. I'll be willing to travel about 20 miles out as far as ships are concerned. I can definitely get out about that far.
 
 **Q5 — Schedule:** I am looking for full-time work. My little busy is anything from Monday to Friday at any time.
 
 **Q6 — Conflict Resolution:** Now and I have definitely dealt with multiple situations like this before when I was assistant teaching of also witness situation like this and I feel like the best thing to do when there's conflict between two children is to, of course, separate them. I talk to each student separately.
- And so that I can ensure that both of them are calm and collected when I talk to each one of them and make sure...
+ And so that I can ensure that both of them are calm and collected when I talk to each one of them and make sure that they're okay to bring around each other again after that.
 
 **Q7 — Why Great:** I will make a amazing of kid teacher, because I have a lot of patients, have a lot of experience in dealing with children. I have a lot of experience in dealing with conflict and children. I am very good at the escalating situations. A lot of the time even before they made, you know, arise. But I am,
- I am very calm and collected and I'm very passionate about what I do, actually love kids. So that...
+ I am very calm and collected and I'm very passionate about what I do, actually love kids. So that's equality that, of course, every teacher should have is that I have a passion for teaching kids and making sure that they're on the right path and their education. And I want every student to thrive and I want every student to be great.
 
 </details>
 
 🔗 **App Account:** 🟢 Kamani Bethea
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Hampton, Georgia ZIP, code, 302 28. I'll be willing to travel about 20 miles out as far as ships are concerned. I can definitely get o, 20 miles. 19+ years assistant teacher experience. Looking for full-time.
+> 03/30 Intro Call Passed. Hampton, Georgia ZIP, code, 302 28, 20 miles. 19+ years elementary school experience. Worked with school-age, teens. Currently studying education/child development. Looking for full-time.
 
 ---
 
@@ -4106,10 +4235,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 cfcristina551@gmail.com | 📱 (678) 927-3076 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Unclear (5yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Unclear — church childcare, 5+ years
+**Location:** Georgia
 
-**Summary:** Cristina mentions experience with children but the specifics are unclear from the transcript. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Cristina only answered 1/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -4124,20 +4253,20 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Cristina Carlos
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience with children (specifics unclear from interview).
+> 03/30 Intro Call Passed. Georgia. 5+ years church childcare experience.
 
 ---
 
 ### #103 — ✅ APPROVE (HIGH) — Tamia
 
-📧 letamia96@gmail.com | 📱 (706) 373-5024 | 📍 Georgia
+📧 letamia96@gmail.com | 📱 (706) 373-5024 | 📍 I'm located in Augusta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in Augusta, Georgia and I'm willing to travel 15 or 20 miles for shift.
-**Schedule:** I'm looking for a part-time employment and my availability would be Wednesdays Thursdays and Fridays.
+**Experience:** Formal — elementary school (tutor). Ages: school-age
+**Location:** I'm located in Augusta, 20 miles
+**Schedule:** part-time
 
-**Summary:** Tamia has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tamia is a strong candidate — elementary school experience. Has worked with school-age. Currently college student. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+17063735024 APP=+17063735021
@@ -4161,22 +4290,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+17063735024 APP=+17063735021
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Augusta, Georgia and I'm willing to travel 15 or 20 miles for shift., 20 miles. Formal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Augusta, 20 miles. elementary school experience. Worked with school-age. Currently college student. Looking for part-time.
 
 ---
 
 ### #104 — ✅ APPROVE (HIGH) — Kambria Jordan
 
-📧 kambiwill@gmail.com | 📱 (602) 782-0162 | 📍 Arizona
+📧 kambiwill@gmail.com | 📱 (602) 782-0162 | 📍 Yeah, of course, I am located in Phoenix or Glendale I'm on the border
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (11yr)
-**Location:** Yeah, of course, I am located in Phoenix or Glendale I'm on the border and I'm willing to travel 15, 20 miles portion.
- And that is Phoenix, Arizona.
-**Schedule:** Currently, I am open to full-time. However, I do have plans to attend schooling for the summer and fall semester.
- But as of right now, I am open with full-time and open availability.
+**Experience:** Formal — daycare, afterschool program, 11+ years. Ages: infants, teens
+**Location:** Yeah, of course, I am located in Phoenix or Glendale I'm on the border, 20 miles
+**Schedule:** full-time (school schedule)
 
-**Summary:** Kambria has formal childcare experience with 11+ years (daycare). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kambria is a strong candidate — daycare, afterschool program experience with 11+ years. Has worked with infants, teens. Currently studying education/child development. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -4186,7 +4313,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** My name is Cambria Jordan I go back can be I started out in high school working with children. I work for a daycare then I moved on to college. While in college. I worked for an after-school program for ages.
  4316, depending on the grade level.
  and then, I could see you on my career working with Behavioral Health individuals and autism and those ages ranges from newborns to,
- 11 years old if I'm not mistaken and I love working with kids because every day you learn something differently, they teach you patience, they teach you understanding, they teach you how to be empathetic. They teach you...
+ 11 years old if I'm not mistaken and I love working with kids because every day you learn something differently, they teach you patience, they teach you understanding, they teach you how to be empathetic. They teach you how to navigate life with no worries and I love the feeling that I get when a child feels like they have failed at something and I'm able to help them and improve their
+ Is them and their confidence.
+ I also like learning with this, the kids teaching them new things, while they teach me new things as well.
 
 **Q4 — Location:** Yeah, of course, I am located in Phoenix or Glendale I'm on the border and I'm willing to travel 15, 20 miles portion.
  And that is Phoenix, Arizona.
@@ -4198,32 +4327,30 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  In one corner or one area and then the other one in the different area to calm them down and then speak with both of them in a calm like manner just to figure out kind of what happened and why are they in Conflict? Once we, I resolve the
 
 **Q7 — Why Great:** I'll make a great up, kid teacher because I'm patient I'm understanding and I love children, and I have the empathy and sympathy levels to deescalate conversation. Did escalate issues, understand kids where they are and I also have experience with autism. So my patient level is a little bit above the normal teaching level due to that experience as well. And I also know that
- In the future, I want ...
+ In the future, I want kids. I don't have the
+ I don't have a child now, but I grew up taking care of most of the kids in my family and with that experience along with my career experience, I feel that I can be
+ Of asset to the kids.
+ The kids will love me.
 
 </details>
 
 🔗 **App Account:** 🟢 Kambria Jordan
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yeah, of course, I am located in Phoenix or Glendale I'm on the border and I'm willing to travel 15, 20 miles portion.
- And that is Phoenix, Arizona., 20 miles. 11+ years daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Yeah, of course, I am located in Phoenix or Glendale I'm on the border, 20 miles. 11+ years daycare, afterschool program experience. Worked with infants, teens. Currently studying education/child development. Looking for full-time (school schedule).
 
 ---
 
 ### #105 — ✅ APPROVE (HIGH) — Lily
 
-📧 trixie1221516@icloud.com | 📱 (404) 547-3937 | 📍 Georgia
+📧 trixie1221516@icloud.com | 📱 (404) 547-3937 | 📍 I work in
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I work in. Well, I live in the
- Acworth area in Georgia.
-**Schedule:** Mainly part-time work. As of right now, I have an afternoon job from two to six.
- but the morning shift, stop and picking up there are about to reduce
- Immensely.
- Because we have new hires. So I'm looking for a morning shift for when I don't have my...
+**Experience:** Formal — Montessori (floater). Ages: toddlers
+**Location:** I work in
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Lily has formal childcare experience (montessori, teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lily is a strong candidate — Montessori experience. Has worked with toddlers.
 
 **Red Flags:** None
 
@@ -4245,7 +4372,12 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  Of working at a cafe.
 
 **Q6 — Conflict Resolution:** Whenever I'm in Mighty to classroom and one of my students is being aggressive which actually happened yesterday.
- I take both of the two kids. I sit down with them. I talk to both of them. I tell whichever child hit the other child to apologize and give a hug. I explain why it's wrong. And why we can't do that. I send them to take a break. Take a timeout, but we just call it taking a break. Let t...
+ I take both of the two kids. I sit down with them. I talk to both of them. I tell whichever child hit the other child to apologize and give a hug. I explain why it's wrong. And why we can't do that. I send them to take a break. Take a timeout, but we just call it taking a break. Let them catch their breath, if they start to cry, when they're in timeout. I just told them deep breaths and we take deep breaths together.
+ Other and I explain to them why they're in timeout again and why it's not okay to do those things and explain that they are going to be sitting here for a few minutes and whenever it's time to get up I go I get them I explain to them again. Why it's not okay to do that. Give them a hug. I tell them to go apologize again because most of the time, they're not ready to the first time.
+ And they give each other a hug and I say go be friends and go play and that's pretty much the end of it.
+ If I have a kid that is just too rambunctious and isn't having any of that. Usually, if I can't get him under control by stepping out of the room and talking to him or her.
+ I will escort them up to the front office and have our
+ Administration talk to him and see if they can get through to him and then have him join our class again in a few minutes.
 
 **Q7 — Why Great:** I'm a punctual, reliable worker and all my coworkers.
  I try my best to get along with and engage with and get to know them.
@@ -4254,28 +4386,30 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  like dance parties and
  I bring a.
  different approach to school then other people might,
- I really believe that kids should figure stuff out before we intervene and if they're having a really, really ...
+ I really believe that kids should figure stuff out before we intervene and if they're having a really, really hard time and just cannot figure it out, then that's when you intervene.
+ And I believe that kids should be talked to like, they understand what's going on because I feel like they do understand what's going on and they can understand a lot more than we think they can.
+ but yeah, I just love to bring fun energy and
+ Creativity. Do everybody. I'm around.
 
 </details>
 
 🔗 **App Account:** 🟢 Lily Dougherty
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I work in. Well, I live in the
- Acworth area in Georgia.. montessori, teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. I work in. Montessori experience. Worked with toddlers. Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #106 — ✅ APPROVE (HIGH) — Yasmin Broady
 
-📧 yasminbroady@gmail.com | 📱 (912) 614-8921 | 📍 Georgia
+📧 yasminbroady@gmail.com | 📱 (912) 614-8921 | 📍 I'm located in - Georgia right outside of Augusta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in - Georgia right outside of Augusta. Georgia, I am willing to travel up to about 30 to 35 miles.
-**Schedule:** I am interested in either. I have pretty much open availability at the moment. I am currently just moving into the city so I am getting things in order and everything but like now pretty much I have open availability
+**Experience:** Formal — church childcare. Ages: infants
+**Location:** I'm located in - Georgia right outside of Augusta, 30-35 miles
+**Schedule:** flexible
 
-**Summary:** Yasmin has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Yasmin is a strong candidate — church childcare experience. Has worked with infants. Augusta is on the GA/SC border — confirm Upkid has active shifts there. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4283,13 +4417,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Jasmine, Brody, I have extensive experience, working with children. I work with in my church to help provide care services, during church. Also volunteer at group homes and recently word and a Juvenile Detention Facility. I've worked with children from ages, infant to 17 and I just honestly enjoy working with children because they keep me on my toes. I feel as if they really
- You keep me young. It's honestly, I never is never a dull moment with children. And I also love to know that I'm helping mode I future by God and loving them correctly. That's just really the biggest thing for ...
+ You keep me young. It's honestly, I never is never a dull moment with children. And I also love to know that I'm helping mode I future by God and loving them correctly. That's just really the biggest thing for me.
 
 **Q4 — Location:** I'm located in - Georgia right outside of Augusta. Georgia, I am willing to travel up to about 30 to 35 miles.
 
 **Q5 — Schedule:** I am interested in either. I have pretty much open availability at the moment. I am currently just moving into the city so I am getting things in order and everything but like now pretty much I have open availability
 
-**Q6 — Conflict Resolution:** When there's conflict between two children, the first thing we want to do is go ahead and separate the two. I'm once we get there to separated, we did and try to understand what happened and where the conflict came from. We are going to listen to both sides, both children, allow them to express themselves and being just try to guide them in a better path, like explaining to him. Why, you know what...
+**Q6 — Conflict Resolution:** When there's conflict between two children, the first thing we want to do is go ahead and separate the two. I'm once we get there to separated, we did and try to understand what happened and where the conflict came from. We are going to listen to both sides, both children, allow them to express themselves and being just try to guide them in a better path, like explaining to him. Why, you know what the
+ Done was wrong and how in the future? They can handle the situation. So it's not a bad outcome.
 
 **Q7 — Why Great:** I feel as if I will make a great update teacher because I actually enjoy children. I enjoy being around children. I enjoy helping children teaching children at the end of the day. I feel like it's mostly important, but I children are safe and our children are happy. So, with the mindset that I have towards children are just filled up teaching, gigs, a good kid.
  Boardman.
@@ -4299,20 +4434,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Yasmin Broady
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in - Georgia right outside of Augusta. Georgia, I am willing to travel up to about 30 to 35 miles., 30-35 miles. Formal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. I'm located in - Georgia right outside of Augusta, 30-35 miles. church childcare experience. Worked with infants. Looking for flexible.
 
 ---
 
 ### #107 — ✅ APPROVE (HIGH) — Kemoria Session
 
-📧 sessionkemoria@gmail.com | 📱 (404) 422-5463 | 📍 Georgia
+📧 sessionkemoria@gmail.com | 📱 (404) 422-5463 | 📍 Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Atlanta, Georgia, ZIP code, 303, 15,
-**Schedule:** I'm looking for a part-time work and I'm open for any of them being with you.
+**Experience:** Formal — elementary school, middle school (assistant teacher). Ages: school-age, teens
+**Location:** Atlanta
+**Schedule:** part-time
 
-**Summary:** Kemoria has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kemoria is a strong candidate — elementary school, middle school experience. Has worked with school-age, teens. Currently college student.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+14044225463 APP=None
@@ -4340,20 +4475,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+14044225463 APP=None
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta, Georgia, ZIP code, 303, 15,. teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. Atlanta. elementary school, middle school experience. Worked with school-age, teens. Currently college student. Looking for part-time.
 
 ---
 
 ### #108 — ✅ APPROVE (MEDIUM) — Caitlynn Lamb
 
-📧 mrscoolerthanu2@icloud.com | 📱 (385) 326-6418 | 📍 Utah
+📧 mrscoolerthanu2@icloud.com | 📱 (385) 326-6418 | 📍 Washington tears, / Ogden Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (20yr)
-**Location:** I am located in Washington tears, / Ogden Utah. I would be willing to drive about like 25 to 30 minutes for work and I'm down for any shift.
-**Schedule:** I'm looking for a part-time part-time since I do have another job that I work full time. I'm just kind of looking to get some experience out there with little kids and maybe make up some extra money. You know, save up for college. I am open to workin...
+**Experience:** Mixed — elementary school, 20+ years. Ages: school-age
+**Location:** Washington tears, / Ogden Utah, 25-30 miles
+**Schedule:** full-time, part-time (school schedule, mornings)
 
-**Summary:** Caitlynn has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Caitlynn has experience in elementary school plus informal childcare. Currently studying education/child development, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -4369,30 +4504,31 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm looking for a part-time part-time since I do have another job that I work full time. I'm just kind of looking to get some experience out there with little kids and maybe make up some extra money. You know, save up for college. I am open to working Monday through Friday morning or night.
 
 **Q6 — Conflict Resolution:** When two children under my responsibility, get into an argument or put hands on each other. I would, I just separate them both, let them both calm down a little bit and then I get on to their level and ask them what happened and why they felt that way. And then I just do my best to try and resolve the issue or remove the conflict if like, for example
- If somebody is playing with a toy and another ...
+ If somebody is playing with a toy and another kid comes up and tries to take that toy or they're having trouble sharing. I would take the toy. Let them both calm down. And then, yeah, I would go and talk to each kid individually and get their perspective and their side. And
+ Let them both calm down. Maybe leaves a toy way for a little bit. Pull it back down, maybe and then let the parents know when they come for pickup.
 
 **Q7 — Why Great:** I think I would make a great up, kid teacher, because I have a lot of experience around children and with their conflicts, and their needs and their pickiness. Sometimes I really do just love kids and I love watching them, be happy and I can't commit to a full schedule job right now with my other job. So I think it would be great to get
- some experience in and substitute for daycares, I think it w...
+ some experience in and substitute for daycares, I think it would be a great way to kind of get used to what I'm looking for, you know, with college and such I think it would be a great way to get some experience working with the younger kids before I start as a teacher,
 
 </details>
 
 🔗 **App Account:** 🟢 caitlynn lamb
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Washington tears, / Ogden Utah. I would be willing to drive about like 25 to 30 minutes for work and I'm down for any shift., 25-30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Washington tears, / Ogden Utah, 25-30 miles. 20+ years elementary school experience. Worked with school-age. Currently studying education/child development. Looking for full-time, part-time (school schedule, mornings).
 
 ---
 
 ### #109 — ✅ APPROVE (MEDIUM) — Cassidy Hope Merrell
 
-📧 cassidymer2405@gmail.com | 📱 (385) 216-6010 | 📍 Utah
+📧 cassidymer2405@gmail.com | 📱 (385) 216-6010 | 📍 Right now, I currently live in Herriman Utah, but I am looking to move out
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (20yr)
-**Location:** Right now, I currently live in Herriman Utah, but I am looking to move out. I think I would probably be moving to Sandy or Draper likely high. That kind of area. I'm willing to drive anywhere, probabl...
-**Schedule:** Right now, I'm open to either. I think it would probably be better if I was part-time but you know, the higher end of part time. So you know, 25 to 30 hours a week would be ideal, I am finishing up school still, the school will be over by the end of ...
+**Experience:** Mixed, 20+ years
+**Location:** Right now, I currently live in Herriman Utah, but I am looking to move out, 30 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Cassidy has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Cassidy has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -4400,37 +4536,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Cassidy. I'm 20 years old, and I'm currently enrolled at Snow College. I'm about to finish up my fourth semester and graduate with my associates degree in Psychology. I do not have any prior experience with working with kids, but I do think kids are great. I think they're so fun and they're so there's so many things that I feel, I can still learn from children. I also like to, you know, answer their questions and try to teach them and help them learn what those
- Those as I can. I don't have any prior experience. I do have a niece who just turned one years old and she's so so cut...
+ Those as I can. I don't have any prior experience. I do have a niece who just turned one years old and she's so so cute. I love working with Hershey's. Makes me laugh all the time. I would love to work with kids that I would love to gain more experience and figure out how I can work with them better and so I would love the opportunity to work here for you guys.
 
-**Q4 — Location:** Right now, I currently live in Herriman Utah, but I am looking to move out. I think I would probably be moving to Sandy or Draper likely high. That kind of area. I'm willing to drive anywhere, probably not farther than 20 or 30 minutes, but I do have a car. And transportation isn't really an issue f...
+**Q4 — Location:** Right now, I currently live in Herriman Utah, but I am looking to move out. I think I would probably be moving to Sandy or Draper likely high. That kind of area. I'm willing to drive anywhere, probably not farther than 20 or 30 minutes, but I do have a car. And transportation isn't really an issue for me. So I'm willing to go, you know, 20 to 30 minutes away.
+ Way, wherever that might be.
 
-**Q5 — Schedule:** Right now, I'm open to either. I think it would probably be better if I was part-time but you know, the higher end of part time. So you know, 25 to 30 hours a week would be ideal, I am finishing up school still, the school will be over by the end of next month and then I should be able to do full ti...
+**Q5 — Schedule:** Right now, I'm open to either. I think it would probably be better if I was part-time but you know, the higher end of part time. So you know, 25 to 30 hours a week would be ideal, I am finishing up school still, the school will be over by the end of next month and then I should be able to do full time over the summer. If required. Moving on to the fall though, I'm not entirely sure what I'm my school schedule looks like so
+ So, if I am still looking for work, it would probably be part-time in the fall.
 
-**Q6 — Conflict Resolution:** If I was in a situation where I witnessed one child hit another, I would probably go over and, you know, of course separate the two. And then I would ask the one who hit the other, what his reasoning was for that and try and understand his side of the story and what motives he had. And then I would ask the other child in the separate room. The same kind of question, you know. Do you not understand...
+**Q6 — Conflict Resolution:** If I was in a situation where I witnessed one child hit another, I would probably go over and, you know, of course separate the two. And then I would ask the one who hit the other, what his reasoning was for that and try and understand his side of the story and what motives he had. And then I would ask the other child in the separate room. The same kind of question, you know. Do you not understand why he might have done that? Was there anything that you might have said that made him, you know,
+ Feel like he needed to do that and then I might have them get together and try and talk it out between the two of them and just kind of be like a moderator so that they can understand clearly and then hopefully we could you get them to apologize and come to terms and understanding and you know be able to talk with each other and work. It. Work it through ideally.
 
 **Q7 — Why Great:** I think I would make a good of kids teacher because I think I am very good at being level-headed and open-minded, and trying to understand from both sides. I think I do a good job of trying to get everybody to communicate. So that everybody understands, you know, what kind of problem it is and where that problem is stemming from. So then everybody can come to an agreement on how we can make.
- Be a...
+ Be able to fix that problem. I think I get along with kids really well. I like to I would like to think that I am happy and outgoing and fun and I have energy and excitement, you know. I would like to hope that I can make people laugh and make them feel comfortable and again encourage, good behavior and growth. And so, I think those kinds of traits would be very useful in a teaching environment and I would hope that I could apply them.
+ Well, to benefit everybody in the situation.
 
 </details>
 
 🔗 **App Account:** 🟢 Cassidy Merrell
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Right now, I currently live in Herriman Utah, but I am looking to move out. I think I would probably be moving to Sandy or Draper likely high. That ki, 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Right now, I currently live in Herriman Utah, but I am looking to move out, 30 miles. Mix of formal and informal childcare experience. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #110 — 🟡 FLAG (HIGH) — Hermelind Aguilar
 
-📧 aguilar.hermelind@gmail.com | 📱 (602) 706-0121 | 📍 Arizona
+📧 aguilar.hermelind@gmail.com | 📱 (602) 706-0121 | 📍 Glendale Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (20yr)
-**Location:** I am located in Glendale Arizona. I would be willing to go farther than that.
- I would say as far as Buckeye like around that length all around.
-**Schedule:** I am available for part-time and my shifts. I would like mornings and then all days of the week are good.
+**Experience:** Informal, 20+ years
+**Location:** Glendale Arizona
+**Schedule:** part-time (mornings)
 
-**Summary:** Hermelind's experience is informal — babysitting, family care, or similar. Arizona requires 6 months formal childcare — informal only won't qualify. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Hermelind explicitly states no childcare experience.
 
 **Red Flags:** None
 
@@ -4447,7 +4586,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I am available for part-time and my shifts. I would like mornings and then all days of the week are good.
 
 **Q6 — Conflict Resolution:** I have dealt with lots of conflict with my daughter, with her at parks or play dates, especially with kids her age because, you know, they're still learning, they're still learning all these new emotions and don't know what to do with them. But her she has a friend and when one of them does so what the other one doesn't like, sometimes they can get a little bit physical.
- I just separate them, tel...
+ I just separate them, tell them it's not, okay? And then try to distract them out of with toys or snacks and until they're all good. Again
 
 **Q7 — Why Great:** I would be a good up kid teacher because I have a lots and lots and lots of patience. I like to say I'm super kind super nice and I love being around children. They just bring a lot of Happiness just makes you want to smile and I love playing with kids. I love just being around them, you know, teaching them things. And I have learned so many things for my daughter.
 
@@ -4456,24 +4595,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Hermelind  Aguilar
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am located in Glendale Arizona. I would be willing to go farther than that.
- I would say as far as Buckeye like around that length all around.. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Glendale Arizona. Informal childcare experience (babysitting/family). Looking for part-time (mornings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am located in Glendale Arizona. I would be willing to go farther than that.
- I would say as far as Buckeye like around that length all around.. Only informal experience — Arizona requires formal.
+> 03/30 Not Hiring — Intro Call. Glendale Arizona. Only informal experience — Arizona requires formal.
 
 ---
 
 ### #111 — ✅ APPROVE (HIGH) — Mariah Towns
 
-📧 mariahtowns6@gmail.com | 📱 (404) 386-0843 | 📍 Georgia
+📧 mariahtowns6@gmail.com | 📱 (404) 386-0843 | 📍 the East Point College Park
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I am currently located in the East Point College Park, area of Atlanta, Georgia, and I'm willing to travel. No more than 5 miles for work.
-**Schedule:** I am open for both full-time and part-time shifts and the earliest, I will be able to come in for a shift. It's between 8:00 and 8:30 a.m. and the latest I would prefer to get off is between 5:00 and 5:30 p.m.
+**Experience:** Formal — preschool, afterschool program. Ages: infants, toddlers, preschool-age, school-age
+**Location:** the East Point College Park, 5 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Mariah has formal childcare experience (preschool, after school). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Mariah is a strong candidate — preschool, afterschool program experience. Has worked with infants, toddlers, preschool-age, school-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4495,20 +4632,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Mariah  Towns
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am currently located in the East Point College Park, area of Atlanta, Georgia, and I'm willing to travel. No more than 5 miles for work., 5 miles. preschool, after school experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. the East Point College Park, 5 miles. preschool, afterschool program experience. Worked with infants, toddlers, preschool-age, school-age. Looking for full-time, part-time.
 
 ---
 
 ### #112 — 🟡 FLAG (LOW) — Keylyn
 
-📧 keylitamayo2@icloud.com | 📱 (470) 920-2091 | 📍 Georgia
+📧 keylitamayo2@icloud.com | 📱 (470) 920-2091 | 📍 Sandy Springs
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** None
-**Location:** I live in Sandy Springs, Georgia, Walton County, and I am willing to travel at these 15 to 25 miles every day.
-**Schedule:** I am looking for both part-time and full-time Jones.
+**Location:** Sandy Springs, 15-25 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Keylyn does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Keylyn needs Erica's review — no childcare experience detected in transcript.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+14709202091 APP=None
@@ -4535,22 +4672,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+14709202091 APP=None
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Sandy Springs, Georgia, Walton County, and I am willing to travel at these 15 to 25 miles every day., 15-25 miles. Experience details not available. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Sandy Springs, 15-25 miles. Childcare experience (details in interview). Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Sandy Springs, Georgia, Walton County, and I am willing to travel at these 15 to 25 miles every day.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Sandy Springs. No childcare experience detected in transcript.
 
 ---
 
 ### #113 — ✅ APPROVE (MEDIUM) — Stephanie Kirkwood
 
-📧 stephkirkwood@icloud.com | 📱 (801) 540-9042 | 📍 Utah
+📧 stephkirkwood@icloud.com | 📱 (801) 540-9042 | 📍 I'm located in Orem Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (22yr)
-**Location:** I'm located in Orem Utah and I'm willing to travel up to 40 or 50 miles for shifts. So really anywhere in Utah or Salt Lake County
-**Schedule:** Right. Now, I'm looking for some part-time work, I'm currently a freelancer and I'm just looking for some extra work to do in between jobs right now. I'm looking for shifts for like a few days a month, but my current contract for the job that I have ...
+**Experience:** Mixed — daycare (babysitter), 22+ years. Ages: infants, toddlers, teens
+**Location:** I'm located in Orem Utah, 50 miles
+**Schedule:** part-time
 
-**Summary:** Stephanie has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Stephanie has a mix of formal (daycare) and informal (babysitter) experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4561,18 +4698,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q4 — Location:** I'm located in Orem Utah and I'm willing to travel up to 40 or 50 miles for shifts. So really anywhere in Utah or Salt Lake County
 
-**Q5 — Schedule:** Right. Now, I'm looking for some part-time work, I'm currently a freelancer and I'm just looking for some extra work to do in between jobs right now. I'm looking for shifts for like a few days a month, but my current contract for the job that I have right now ends in April. And so, I will be looking...
+**Q5 — Schedule:** Right. Now, I'm looking for some part-time work, I'm currently a freelancer and I'm just looking for some extra work to do in between jobs right now. I'm looking for shifts for like a few days a month, but my current contract for the job that I have right now ends in April. And so, I will be looking for more shifts next month.
 
-**Q6 — Conflict Resolution:** Whenever I've had to deal with conflicts between two children, I always make sure that I hear both sides of the story and speak to both children in a calm voice when I worked at my high schools daycare. This happened frequently as preschoolers are learning how to share, and sometimes fights or arguments would come up. Whenever this happened, I would try and help each child understand why the other...
+**Q6 — Conflict Resolution:** Whenever I've had to deal with conflicts between two children, I always make sure that I hear both sides of the story and speak to both children in a calm voice when I worked at my high schools daycare. This happened frequently as preschoolers are learning how to share, and sometimes fights or arguments would come up. Whenever this happened, I would try and help each child understand why the other one is upset and what they can do to make it better. I always make sure to use language that is best suited for their age and use a firm, but kind voice. If both children are still upset,
+ Then I'll have them do activities away in separately from each other. To give them each a break.
 
-**Q7 — Why Great:** I would make a great up to teacher because I have great communication skills. I just graduated college with a degree in Communications and have also taken some relationship classes. So I know how to communicate clearly with children and adults. I also love kids and have a lot of little cousins and friends that have kids. I am very flexible and can learn very quickly, which would benefit me in this...
+**Q7 — Why Great:** I would make a great up to teacher because I have great communication skills. I just graduated college with a degree in Communications and have also taken some relationship classes. So I know how to communicate clearly with children and adults. I also love kids and have a lot of little cousins and friends that have kids. I am very flexible and can learn very quickly, which would benefit me in this job or flexibility and learning the systems of new daycares happens all the time. And with my current job contract, ending soon. I will be
+ Able to pick up shifts frequently.
 
 </details>
 
 🔗 **App Account:** 🟢 Stephanie Kirkwood
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Orem Utah and I'm willing to travel up to 40 or 50 miles for shifts. So really anywhere in Utah or Salt Lake County, 50 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Orem Utah, 50 miles. 22+ years daycare experience. Worked with infants, toddlers, teens. Looking for part-time.
 
 ---
 
@@ -4581,10 +4720,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 info@monajoventures.com | 📱 (470) 361-9339 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — Head Start (lead teacher, assistant teacher). Ages: infants
+**Location:** Georgia
 
-**Summary:** Michelle has formal childcare experience (child development, assistant teacher, head start). Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Michelle only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: Hi, my name is Michelle Smith and I have a ton of experience in the childcare field. I went to schoo...
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -4595,29 +4734,30 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Michelle Smith and I have a ton of experience in the childcare field. I went to school for her child development and I have interned at naeyc and part from the start childcare accredited centers. I've also worked in them as well as an assistant teacher Lead Teacher as well as being a child care director over my years. I enjoy working with children because I love to see their little faces.
- Has when you give them some information and learning something for the first time, they're little, aha moments are so cute and they can't wait to go home and tell Mommy and Daddy about what th...
+ Has when you give them some information and learning something for the first time, they're little, aha moments are so cute and they can't wait to go home and tell Mommy and Daddy about what they learned for that day. So, that's the best part of my day, working with children. I think up kid would be a great fit for me because at the current time, I don't want to be full-time working with children, but I do miss working with them. So this would get me back into the rooms especially since I worked in not only child care.
+ Centers but Head Starts. I've also worked in a private Christian Schools as well anywhere from newborn all the way to fifth grade. So I do think that I will be in excellent fit for up kid and a great representation of what it looks like to be a great quality childcare teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Michelle  Smith
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). child development, assistant teacher, head start experience.
+> 03/30 Intro Call Passed. Georgia. Head Start experience. Worked with infants.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #115 — ✅ APPROVE (HIGH) — Anaya Hunt
 
-📧 anayahunt03@gmail.com | 📱 (470) 920-3306 | 📍 Georgia
+📧 anayahunt03@gmail.com | 📱 (470) 920-3306 | 📍 Atlanta Georgia in South Fulton
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Atlanta Georgia in South Fulton. I'm willing to go about 30 miles out. I'm not really I have my own transportation so I'm not really strung up on how far it is.
-**Schedule:** I have open availability, able to work every day of the week for eight hours or however long Bishop needs.
+**Experience:** Formal — YMCA
+**Location:** Atlanta Georgia in South Fulton, 30 miles
+**Schedule:** flexible
 
-**Summary:** Anaya has formal childcare experience (ymca). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Anaya is a strong candidate — YMCA experience.
 
 **Red Flags:** None
 
@@ -4625,14 +4765,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Ania hunt. I would love to work with up kid because I love working with kids. I've always been around kids, I'm the oldest in a very big family. So I've always been to help. I've always been the one that my family brings the children to I've worked at the YMCA shelter arms. I've worked at show, just the ones and I've worked beside my father. My stepdad, who is the coach?
- Of Little League team as a team assistant. So I've been around kids of all ages, I feel like this will be a great opportunity for me to further my career and working with children and it being flexible and a...
+ Of Little League team as a team assistant. So I've been around kids of all ages, I feel like this will be a great opportunity for me to further my career and working with children and it being flexible and also being able to float around to different places is also a great opportunity to connect and help with further in my career. In in a sense
 
 **Q4 — Location:** I live in Atlanta Georgia in South Fulton. I'm willing to go about 30 miles out. I'm not really I have my own transportation so I'm not really strung up on how far it is.
 
 **Q5 — Schedule:** I have open availability, able to work every day of the week for eight hours or however long Bishop needs.
 
 **Q6 — Conflict Resolution:** Come to the other way to kids in a conflict. I would say the main thing is to get both of them to calm down, so we can solve the issue in my experience. I've in a situation where it's I guess violence involved or somebody has hit someone. I try to separate the 24-second get everyone to calm down and if we can bring it back together, then bring it back together and see what happened.
- And ask quest...
+ And ask questions between the two.
 
 **Q7 — Why Great:** I will be a great fit for but kids teacher position because I actually have the kids best interest at heart and I love to see them grow and experience new things.
 
@@ -4641,20 +4781,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Anaya  Hunt
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta Georgia in South Fulton. I'm willing to go about 30 miles out. I'm not really I have my own transportation so I'm not really strung , 30 miles. ymca experience. Looking for available.
+> 03/30 Intro Call Passed. Atlanta Georgia in South Fulton, 30 miles. YMCA experience. Looking for flexible.
 
 ---
 
 ### #116 — ✅ APPROVE (HIGH) — Elan Gayles
 
-📧 elangayles@gmail.com | 📱 (312) 218-7568 | 📍 Georgia
+📧 elangayles@gmail.com | 📱 (312) 218-7568 | 📍 Hello. I am located in Midtown of Atlanta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (5yr)
-**Location:** Hello. I am located in Midtown of Atlanta Georgia and I'm willing to travel up to 30 minutes or little a little more for my shifts. I really don't mind. I have modes of transportation and yeah.
-**Schedule:** Hello, I am looking for part-time shifts. I am currently in nursing school so that would be the most ideal right now. I can I'm free from Monday through Friday. Mostly in the mornings would be great, but if there are any afternoon shifts, I'm availab...
+**Experience:** Formal — Boys & Girls Club, 5+ years
+**Location:** Hello. I am located in Midtown of Atlanta Georgia, 30 miles
+**Schedule:** part-time (school schedule, mornings/afternoons)
 
-**Summary:** Elan has formal childcare experience with 5+ years (boys and girls club, teacher, learning center). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Elan is a strong candidate — Boys & Girls Club experience with 5+ years. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -4662,37 +4802,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Elon Gales. I am a current student at Emory School of Nursing and I recently graduated from Spelman College. I previously worked with children at the Loop Learning Center in Chicago. Was a teacher's aide where I assisting classroom activities for 3 to 5 year old basically helping with lesson plans and fostering Social Development trying to teach manners and positive behavior to young children. I also worked at the
- Boys and girls club with a little older kids, probably like seven to 12 and here I helped underdeveloped communities with homework help. Help some of the older stu...
+ Boys and girls club with a little older kids, probably like seven to 12 and here I helped underdeveloped communities with homework help. Help some of the older students. Apply to college and improved academic performance. And I also enhance Club engagement by providing different structure and new activities.
+ I also worked with children while Dental Assisting and we worked with a lot of kids from underdeveloped, countries and different immigrants, and that was definitely a different experience in the learning experience and I just love
+ Like having a children having new minds to cultivate and being able to provide guidance for kids that don't really have or won't always have the guidance that they need from people in their life. So I think being teaching is just very important and I enjoy it.
 
 **Q4 — Location:** Hello. I am located in Midtown of Atlanta Georgia and I'm willing to travel up to 30 minutes or little a little more for my shifts. I really don't mind. I have modes of transportation and yeah.
 
 **Q5 — Schedule:** Hello, I am looking for part-time shifts. I am currently in nursing school so that would be the most ideal right now. I can I'm free from Monday through Friday. Mostly in the mornings would be great, but if there are any afternoon shifts, I'm available for those two.
 
 **Q6 — Conflict Resolution:** Hello. I would stay calm and intervene I would remove the child as heading out of the situation by putting them in and share, maybe a little way from the child that was being hit first to comfort. The child, that was being hit shifting, their up my attention, to them, to show that negative actions. Don't get positive reinforcement and then I would
- Have to go back and talk to the kid that was doin...
+ Have to go back and talk to the kid that was doing a heading ask them, ask them why and ask them to redirect, their anger, or present, their anger in a different way if they're angry, because it's okay to show emotions and just set a clear boundary that hitting hurts and it's not, it's not tolerated. It shouldn't be tolerated in a learning environment like this but
+ After that if I resumed as normal, and if the hitting continues, I just remove them for a calm break, not a punishment, but just the time to regulate their emotions.
 
 **Q7 — Why Great:** I will make a great up kid teacher, because I am passionate about childcare and I bring structure and adaptability kids need structure and routines and consistency in a teaching and learning environment like this. And I'm very flexible and patient when things don't go as planned. I am very organized I think on my feet and I can handle chaos and I've been told I'm very nurturing
- Very kind person. ...
+ Very kind person. And I value communication. Emotional awareness especially in young kids and that's what makes them into the person they are. So yeah that's why I think I'll be a great up good teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Elan Gayles
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hello. I am located in Midtown of Atlanta Georgia and I'm willing to travel up to 30 minutes or little a little more for my shifts. I really don't min, 30 miles. 5+ years boys and girls club, teacher, learning center experience. Looking for part-time.
+> 03/30 Intro Call Passed. Hello. I am located in Midtown of Atlanta Georgia, 30 miles. 5+ years Boys & Girls Club experience. Currently studying education/child development. Looking for part-time (school schedule, mornings/afternoons).
 
 ---
 
 ### #117 — ✅ APPROVE (LOW) — Destiny
 
-📧 ashdestiny53@gmail.com | 📱 (770) 685-4029 | 📍 Georgia
+📧 ashdestiny53@gmail.com | 📱 (770) 685-4029 | 📍 I'm locating
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
 **Experience:** Unclear
-**Location:** I'm locating. Sneeze Bevan, Georgia.
-**Schedule:** I'm looking for a full-time job from Monday. Through Friday from 8:00 in the morning to at least two, three or two.
+**Location:** I'm locating
+**Schedule:** full-time (mornings)
 
-**Summary:** Destiny mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Destiny mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -4711,21 +4854,20 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Destiny Ash
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm locating. Sneeze Bevan, Georgia.. Experience with children (specifics unclear from interview). Looking for full-time.
+> 03/30 Intro Call Passed. I'm locating. Childcare experience (details in interview). Looking for full-time (mornings).
 
 ---
 
 ### #118 — ✅ APPROVE (LOW) — Allison Booth
 
-📧 ambooth55@gmail.com | 📱 (801) 888-2011 | 📍 Utah
+📧 ambooth55@gmail.com | 📱 (801) 888-2011 | 📍 Payson Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (44yr)
-**Location:** I live in Payson Utah.
- I could probably travel up to maybe 25 30 minutes away from my home and be that would be comfortable.
-**Schedule:** I'm looking for part-time and I would prefer early mornings, and daytime, just because my kids are gone at that time, and I'm available. But I could do till early evening as well.
+**Experience:** Unclear, 44+ years. Ages: preschool-age
+**Location:** Payson Utah, 30 miles
+**Schedule:** part-time (mornings/evenings)
 
-**Summary:** Allison mentions experience with children but the specifics are unclear from the transcript. Utah is lenient on experience — this should be straightforward.
+**Summary:** Allison mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -4735,7 +4877,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** Hello, my name is Allison Booth. I am 44 years old and I've been married for 26 years. I've got four kids of my own from 10 to 18. I'm one of nine kids and my family that I grew up with second to the oldest. So I've had lots of experience taking care of kids and being around kids and with our own, kids had all kinds of friends and family in and
  out of our home and
  I enjoy and like working with kids and I think I'm pretty good at it. I've had lots of experience experience and
- I know, sometimes it's a little stressful when they're not in their own home and with their own family, and hopefully...
+ I know, sometimes it's a little stressful when they're not in their own home and with their own family, and hopefully can help make those times fun and enjoyable and comfortable while they're there.
 
 **Q4 — Location:** I live in Payson Utah.
  I could probably travel up to maybe 25 30 minutes away from my home and be that would be comfortable.
@@ -4745,15 +4887,15 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** Conflict between kids is pretty common and you have to address what they did but I think it's as important to redirect and move them to something else quickly to not dwell on that as well but they can still learn. It was wrong. I apologize move on and focus on something else.
 
 **Q7 — Why Great:** I'm pretty calm and able to handle things that come up and
- Kids are just fun, I know they're all different, their personalities are different, and that's part of the fun. But I think that doing all of these different things that I've done through my life, has just shown me how much I do like kids and how it doesn't matter what the situation is. That there's always someone that needs some attentio...
+ Kids are just fun, I know they're all different, their personalities are different, and that's part of the fun. But I think that doing all of these different things that I've done through my life, has just shown me how much I do like kids and how it doesn't matter what the situation is. That there's always someone that needs some attention and I feel like I can pay attention to those details and be able to be a good caregiver for
+ them for the time.
 
 </details>
 
 🔗 **App Account:** 🟢 Allison Booth
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Payson Utah.
- I could probably travel up to maybe 25 30 minutes away from my home and be that would be comfortable., 30 miles. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Payson Utah, 30 miles. Childcare experience (details in interview). Worked with preschool-age. Looking for part-time (mornings/evenings).
 
 ---
 
@@ -4763,9 +4905,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** Unknown
-**Location:** Georgia (inferred from phone area code)
+**Location:** Georgia
 
-**Summary:** Could not assess Sinteria's experience — transcript may be missing or garbled. Only answered 0/5 questions — limited data to evaluate.
+**Summary:** Sinteria only answered 0/5 content questions — not enough data to properly evaluate.
 
 **🚩 Red Flags:**
 - Only 0/5 questions answered
@@ -4780,22 +4922,22 @@ Questions: 0/5 — Q3 ❌ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Sinteria Flanagan
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience details not available.
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #120 — ✅ APPROVE (MEDIUM) — Akkir Perdue
 
-📧 akkirperdue03@gmail.com | 📱 (678) 793-8159 | 📍 Georgia
+📧 akkirperdue03@gmail.com | 📱 (678) 793-8159 | 📍 the Decatur area and if I can work weekends
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (18yr)
-**Location:** I am located in the Decatur area and if I can work weekends, I'm sure I can make it around the Atlanta area locked on the area, but I'm mostly located in the Decatur area.
-**Schedule:** So for right now, I am looking for a part-time job to fit maybe on the weekends, maybe on the weekends, and possibly some days after school, on the weekdays, but part-time just to get familiarized with the job and to get familiarized with the kids an...
+**Experience:** Mixed — afterschool program, 18+ years. Ages: infants, preschool-age, teens
+**Location:** the Decatur area and if I can work weekends
+**Schedule:** part-time (school schedule, weekends available)
 
-**Summary:** Akkir has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** Akkir has experience in afterschool program plus informal childcare. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=akkirperdue03@gmail.com APP=akkirperdue03@gnail.com
@@ -4805,17 +4947,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Akia Purdue. I am 18 years old. I am a junior at Columbia High School and a little bit about myself. I do a lot at the school in SGA TSA men of Columbia, a couple of clubs after school. And I am the vice president or president at these jobs and the reason why I applied for the job work.
  And getting to get more complicated comfortable with the job is because it allows a great schedule for me. A lot of availability in a lot of flexibility and I've worked with kids, my nephew's and niece's for that matter. After school, they are around.
- Infant newborn to about four years old and ...
+ Infant newborn to about four years old and I've been working with them ever since they were born and I have a problem with them and my siblings also help out with them and I love working with kids because it just brings me closer to understanding and being around them. Just makes it make me able to learn how to do things when it's my turn.
+ To be an adult who takes care of kids.
 
 **Q4 — Location:** I am located in the Decatur area and if I can work weekends, I'm sure I can make it around the Atlanta area locked on the area, but I'm mostly located in the Decatur area.
 
-**Q5 — Schedule:** So for right now, I am looking for a part-time job to fit maybe on the weekends, maybe on the weekends, and possibly some days after school, on the weekdays, but part-time just to get familiarized with the job and to get familiarized with the kids and who, I'll be working with and how I'll be workin...
+**Q5 — Schedule:** So for right now, I am looking for a part-time job to fit maybe on the weekends, maybe on the weekends, and possibly some days after school, on the weekdays, but part-time just to get familiarized with the job and to get familiarized with the kids and who, I'll be working with and how I'll be working. So I can be comfortable with the job.
 
 **Q6 — Conflict Resolution:** So dealing with my nephew's, I've always had them argue or play around and fighting one hits, the other playfully in the other starts crying. And so what I would do is I go to my the one that gets the other child and tell them. That's not good, that's not okay to hit them. Usually, they would laugh it off or play or even give me a hug but I would let them know. Hey,
- No, no, don't hit your brother...
+ No, no, don't hit your brother. Don't hit your brother, or don't play around and throw stuff at them. And I would either take away the toy or sit them in timeout for maybe a couple of minutes just to tell them, hey, that's not okay, don't hit your brother and when they learn that, that's not okay, when they realize that that's not okay, I would give them a pop up a tree, the Popsicles or two,
+ Treat to let them know that. Okay. Good job. You did a great job. Don't you know you learn not to hit your sibling and that's that usually familiarize them with learning that. Okay, this is good and then this is bad.
 
 **Q7 — Why Great:** I've always wanted to be a great teacher. The reason why I think I'll be up keep a great up, kid teacher, excuse me, is because I love, I love teaching people. I love helping people and I love being there for people and and understanding them and as the company commander of my JROTC company at my school, I've always teach people and I always watch over people.
- And I think I should also take my pr...
+ And I think I should also take my practices teaching people and helping people, you know, elsewhere with smaller kids, younger impressionable kids, because I can also learn from an experienced day or two, and it'll teach me better with how to help and be better for my nephew's that I take care of and babysit while I am at home. And so, I think I'll be a great
+ It up kid teacher because it'll teach me. It'll give me more experience and more teachable lessons that I could teach my nephews.
 
 </details>
 
@@ -4823,20 +4968,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=akkirperdue03@gmail.com APP=akkirperdue03@gnail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in the Decatur area and if I can work weekends, I'm sure I can make it around the Atlanta area locked on the area, but I'm mostly located. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. the Decatur area and if I can work weekends. 18+ years afterschool program experience. Worked with infants, preschool-age, teens. Looking for part-time (school schedule, weekends available).
 
 ---
 
 ### #121 — ✅ APPROVE (HIGH) — Chloe Beck
 
-📧 chloebeck102607@gmail.com | 📱 (661) 315-3485 | 📍 Utah
+📧 chloebeck102607@gmail.com | 📱 (661) 315-3485 | 📍 Provo Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Provo Utah and I would be willing to travel up to 45 minutes for any shift and yeah.
-**Schedule:** I'm looking for kind of something that's a little bit in between. I am a college student but I don't have classes on Monday Wednesday or Friday and I do have another job right now, but that is a night job. So I work from eight to midnight. So I'm loo...
+**Experience:** Formal. Ages: infants, teens
+**Location:** Provo Utah, 45 miles
+**Schedule:** flexible (school schedule, mornings/afternoons)
 
-**Summary:** Chloe has formal childcare experience in a professional setting. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Chloe has solid formal childcare experience. Has worked with infants, teens. Currently studying education/child development. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -4844,36 +4989,42 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Chloe. I have worked with kids since I was about 12 or 13 and I'm not 18. So just around five years. I've nannied for several families, just family friends, or people in the community. And I've also babysat for so many different families. I've worked with kids as young as a few weeks old, and up to about 12 or 13 and I love working with kids, because
- Cuz it is just so fun and I love teaching them things. And watching them, learn new things and I just have a good time. Every time I work with kids and I enjoy it a lot and I love knowing that like I'm doing something that makes a ...
+ Cuz it is just so fun and I love teaching them things. And watching them, learn new things and I just have a good time. Every time I work with kids and I enjoy it a lot and I love knowing that like I'm doing something that makes a difference. You spending time with kids, helping them learn new things. It's really enjoyable to me. I'm currently in college. I'm going to on my second semester studying business management and
+ And yeah, that's a little bit about me.
 
 **Q4 — Location:** I live in Provo Utah and I would be willing to travel up to 45 minutes for any shift and yeah.
 
-**Q5 — Schedule:** I'm looking for kind of something that's a little bit in between. I am a college student but I don't have classes on Monday Wednesday or Friday and I do have another job right now, but that is a night job. So I work from eight to midnight. So I'm looking for something that I can do, kind of just thr...
+**Q5 — Schedule:** I'm looking for kind of something that's a little bit in between. I am a college student but I don't have classes on Monday Wednesday or Friday and I do have another job right now, but that is a night job. So I work from eight to midnight. So I'm looking for something that I can do, kind of just throughout the day, ideally, like in the mornings into the afternoons and whatnot. So I would say, probably looking for like 20 to 30 hours a week.
+ Week.
 
 **Q6 — Conflict Resolution:** I'm some ways that I've dealt with conflict between two children, I would say, most of the experience comes from look, just like watching siblings and having to deal with, you know, everything that comes with that. I feel like the most important thing is kind of to just separate them and give them a little bit of space from each other. And also to make sure that
- You don't get angry and reactive t...
+ You don't get angry and reactive to the children because they are just learning and it is obviously something that's not okay, like if say, one kid hits another, but it's also like, can't react and escalate a situation, you have to be patient. So, I would say my how I've handled in the in the past is I kind of separate them and let them breathe first a second from each other and I talked to each kid, you know, maybe.
+ It was provoked, maybe it wasn't and just trying to figure out, you know, what happened, and why they felt like they had to hit another kid and then explain to them that that's not okay and let them the parents know after as well and just also make sure that they're able to you know kind of learn that when conflict arises you do have to work it out. So something that I've done is just like gotten them to say sorry to each other or give you
+ Each other a hug not force them, but kind of explain to them that when something like that happens, that is what would be an appropriate response.
 
-**Q7 — Why Great:** I know I would make a great teacher because I have several years of experience working with kids of all ages, and also, working with kids who require a little more attention or may have special needs. And so, I've learned a lot of patience. I also grew up in a big family. I have five younger siblings, and for older. So I've dealt with a lot of, you know, conflict, especially, you know, just helpin...
+**Q7 — Why Great:** I know I would make a great teacher because I have several years of experience working with kids of all ages, and also, working with kids who require a little more attention or may have special needs. And so, I've learned a lot of patience. I also grew up in a big family. I have five younger siblings, and for older. So I've dealt with a lot of, you know, conflict, especially, you know, just helping parents, my parents out with their younger siblings and learning to be patient and what
+ Not, I also am lifeguard certified. So I spent last summer, basically, hang out with kids all day, watching them in the pool and also just learning how to remain calm in high-pressure situations. And that also has come with a CPR certification. So that
+ that helps, you know, being a teacher and no knowing how to what to do in those situations. And I just love working with kids and I think they're so fun and it has bad days but also has a lot of good days. So that's why I think I'd be a great teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Chloe Beck
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Provo Utah and I would be willing to travel up to 45 minutes for any shift and yeah., 45 miles. Formal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. Provo Utah, 45 miles. Childcare experience (details in interview). Worked with infants, teens. Currently studying education/child development. Looking for flexible (school schedule, mornings/afternoons).
 
 ---
 
 ### #122 — ✅ APPROVE (MEDIUM) — Natalee Riet
 
-📧 nataleeriet@gmail.com | 📱 (385) 787-3292 | 📍 Utah
+📧 nataleeriet@gmail.com | 📱 (385) 787-3292 | 📍 Sandy Utah, and I am willing to travel up to 15 miles per hour, shifts
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (34yr)
-**Location:** I am located in Sandy Utah, and I am willing to travel up to 15 miles per hour, shifts.
-**Schedule:** I'm looking for part-time work. I am available Mondays Wednesdays and Fridays after 11 a.m. Tuesday's after 1 p.m. and Thursday, Saturday and Sundays, any time of the day.
+**Experience:** Informal (babysitter), 34+ years. Ages: infants, toddlers, preschool-age
+**Location:** Sandy Utah, and I am willing to travel up to 15 miles per hour, shifts, 15 miles
+**Schedule:** part-time
 
-**Summary:** Natalee's experience is informal — babysitting, family care, or similar. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Natalee's experience is informal (babysitting/family) but Utah is lenient on this. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4889,7 +5040,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm looking for part-time work. I am available Mondays Wednesdays and Fridays after 11 a.m. Tuesday's after 1 p.m. and Thursday, Saturday and Sundays, any time of the day.
 
 **Q6 — Conflict Resolution:** When dealing with conflict between two children, I would first separate them if needed. And talk to each of the children calmly and let them explain. What happened and help them to know that I'm understanding of their situation and to also let them know that fighting is not okay and let them know that what they did is wrong, then help.
- Them both figure out a solution that they are both happy with...
+ Them both figure out a solution that they are both happy with. If they are still upset, redirecting them to something else and keeping an eye on them.
 
 **Q7 — Why Great:** I would make a great up kid teacher because I love working with children. I'm a patient, a good listener, responsible and I'm very positive and I am confident in my abilities to make a safe fun environment for children.
 
@@ -4898,20 +5049,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Natalee Riet
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Sandy Utah, and I am willing to travel up to 15 miles per hour, shifts., 15 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Sandy Utah, and I am willing to travel up to 15 miles per hour, shifts, 15 miles. 34+ years as babysitter. Worked with infants, toddlers, preschool-age. Looking for part-time.
 
 ---
 
 ### #123 — ✅ APPROVE (HIGH) — Jessica Sheranian
 
-📧 jessiemsher7@yahoo.com | 📱 (801) 500-4744 | 📍 Utah
+📧 jessiemsher7@yahoo.com | 📱 (801) 500-4744 | 📍 Okay, I am currently working in Spanish, Fork, Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Okay, I am currently working in Spanish, Fork, Utah. I'm willing to move probably trouble with in ideally within 15 to 20, possibly 30 minutes. But I'd like to keep it within that relative area. Like ...
-**Schedule:** I'm I would like to probably work. More part-time, I have certain weeks that I'm more flexible and I have a lot more availability and other weeks where I'm a little bit more busy. So kind of depend week to week but some weeks I can I can work pretty ...
+**Experience:** Formal — preschool (substitute teacher). Ages: preschool-age
+**Location:** Okay, I am currently working in Spanish, Fork, Utah, 30 miles
+**Schedule:** part-time
 
-**Summary:** Jessica has formal childcare experience (preschool). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jessica is a strong candidate — preschool experience. Has worked with preschool-age. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4919,37 +5070,43 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Jessica sherinian. I'm currently actually working as an aid in a local school in Spanish Fork, Utah. I've been working with children for years. I have seven children of my own and then has been working with children since I was in college and I've been back in the workforce for the past three years.
- Years and I've been substitute teaching and also is working in a preschool last year, for about a year. And then moved over to be an aid in this current school. That I'm at American Leadership Academy here in Spanish Fork Utah. I love working with children there. I just love their a...
+ Years and I've been substitute teaching and also is working in a preschool last year, for about a year. And then moved over to be an aid in this current school. That I'm at American Leadership Academy here in Spanish Fork Utah. I love working with children there. I just love their authenticity. I love the fun that they bring and the joy.
+ That they that they they Encompass and it's just always been a joy for me to be around children. And I would love to be able to continue to work with children over this summer. Is school, be letting up and I have more free time and would love to continue to work and be a part.
+ Of that community.
 
 **Q4 — Location:** Okay, I am currently working in Spanish, Fork, Utah. I'm willing to move probably trouble with in ideally within 15 to 20, possibly 30 minutes. But I'd like to keep it within that relative area. Like I said, I do live in Spanish Fork, Utah, so would love love for it, to be closer to where I live.
 
-**Q5 — Schedule:** I'm I would like to probably work. More part-time, I have certain weeks that I'm more flexible and I have a lot more availability and other weeks where I'm a little bit more busy. So kind of depend week to week but some weeks I can I can work pretty much most days and then other weeks that's going t...
+**Q5 — Schedule:** I'm I would like to probably work. More part-time, I have certain weeks that I'm more flexible and I have a lot more availability and other weeks where I'm a little bit more busy. So kind of depend week to week but some weeks I can I can work pretty much most days and then other weeks that's going to be a little bit more.
+ Rare like what, where I'm going to need some off week. So I just need a little bit more flexibility with that. But on the days that I'm available, I can work anywhere from eight to 10 hours.
 
 **Q6 — Conflict Resolution:** on the way that I've dealt with conflict is, I try to do a lot of
  Shifting of that, like the attention. So if there's especially when they're really little and sometimes they struggle with conflict resolution. I'll try to
- Well, I'll try to work through the challenge if there is a challenge and then also use other techniques of trying to get them interested in other activities, to change the shif...
+ Well, I'll try to work through the challenge if there is a challenge and then also use other techniques of trying to get them interested in other activities, to change the shift approach, the like attention on the challenge, and get them may be playing something different or get them involved in another game. So I use a lot of techniques where I tried to shift their attention and their energy to something more. Positive is typically how
+ I've dealt with it with younger children, when it's with older children I will or older teenagers I'll set them aside and like bring them out into a hallway or separate room where I can talk to them privately individually to kind of work through their challenges and then assess if there's like a necessary consequence that needs to take place, or if it's just a matter of meeting to resolve and communicate the challenge and and usually give them a
+ League before, before a major consequence. And so that's typically how I've dealt with that between the variety of Ages that I've worked with.
 
-**Q7 — Why Great:** I feel that I would make a great up kid teacher because I'm really great at flexibility. I've had seven children of my own that I that, I take care of. And I've also dealt with a variety of situations in employment where I've had to be flexible, especially with substitute teaching, and having to move around, from class to class. I've actually really enjoyed the change of substitute teaching. And s...
+**Q7 — Why Great:** I feel that I would make a great up kid teacher because I'm really great at flexibility. I've had seven children of my own that I that, I take care of. And I've also dealt with a variety of situations in employment where I've had to be flexible, especially with substitute teaching, and having to move around, from class to class. I've actually really enjoyed the change of substitute teaching. And so, I feel like this
+ Type of work would be really, really good for me because I'm really good at being flexible and being able to be workable and new situations also because I just really loved working with children a lot. And so it's kind of a natural thing for me to be able to work in that type of environment.
 
 </details>
 
 🔗 **App Account:** 🟢 Jessica  Sheranian
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Okay, I am currently working in Spanish, Fork, Utah. I'm willing to move probably trouble with in ideally within 15 to 20, possibly 30 minutes. But I', 30 miles. preschool experience. Looking for part-time.
+> 03/30 Intro Call Passed. Okay, I am currently working in Spanish, Fork, Utah, 30 miles. preschool experience. Worked with preschool-age. Currently studying education/child development. Looking for part-time.
 
 ---
 
 ### #124 — ✅ APPROVE (HIGH) — Hannah Peltz
 
-📧 hannahepeltz@gmail.com | 📱 (843) 304-0728 | 📍 Utah
+📧 hannahepeltz@gmail.com | 📱 (843) 304-0728 | 📍 Right now
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Right now, I am situated in American Fork, Utah, but I am willing to commute up to an hour away from my current location. So anywhere, in Salt Lake County or Utah County would be a possibility for me.
-**Schedule:** I am primarily interested in full-time positions, but I am happy to take part-time positions as needed. And my schedule is fairly flexible. I would like to work as much as possible and I'm available Monday through Friday.
+**Experience:** Formal — elementary school, middle school. Ages: school-age, teens
+**Location:** Right now, anywhere
+**Schedule:** full-time, part-time
 
-**Summary:** Hannah has formal childcare experience in a professional setting. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Hannah is a strong candidate — elementary school, middle school experience. Has worked with school-age, teens. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -4958,37 +5115,45 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hello. My name is Hannah Peltz and I am a recent graduate from Brigham Young University with a bachelor's degree in communication disorders. As such I have over a year of clinical and classroom experience as part of that degree in providing speech services to primarily Elementary age students. But additionally, some Middle School since graduation. I've also worked as a
  Speech-language technician in the state of Utah, which entails, providing speech services, and some Behavioral Services to Elementary age students at a charter school.
- Prior to receiving my degree. I actually studied English t...
+ Prior to receiving my degree. I actually studied English teaching for around two years and have one year of student teaching under my belt and that was in a first grade classroom. So in addition to having a background in speech, and behavior therapy, I know what it's like to manage a classroom, I know what it's like to prepare lessons.
+ Ins and adhere to all the necessary educational standards but I love teaching and I love working with children because it provides such a necessary vital service to the community while also allowing a setting to develop and Blossom these talents that I love. It's creative. Its innovative will also helping others and helping the community in a way that is so needed today.
 
 **Q4 — Location:** Right now, I am situated in American Fork, Utah, but I am willing to commute up to an hour away from my current location. So anywhere, in Salt Lake County or Utah County would be a possibility for me.
 
 **Q5 — Schedule:** I am primarily interested in full-time positions, but I am happy to take part-time positions as needed. And my schedule is fairly flexible. I would like to work as much as possible and I'm available Monday through Friday.
 
-**Q6 — Conflict Resolution:** When I encounter a conflict within the classroom, my number one priority is the immediate safety of all students within the classroom. So as such I would stop the behavior immediately and separate the two students, all while remaining calm and neutral and ensuring that they are allowed space to calm down, take some deep breaths and he's their tempers before continuing from there, I would speak wit...
+**Q6 — Conflict Resolution:** When I encounter a conflict within the classroom, my number one priority is the immediate safety of all students within the classroom. So as such I would stop the behavior immediately and separate the two students, all while remaining calm and neutral and ensuring that they are allowed space to calm down, take some deep breaths and he's their tempers before continuing from there, I would speak with
+ Each student individually and ask about the chain of events that led to the inappropriate action. All while acknowledging, the emotions that were felt, but also making it absolutely clear. That that behavior is not acceptable and is not to be tolerated within the classroom. After I feel, I have a good idea of what occurred and what actions were taken by the students. I would
+ follow the policy set in place by the school, whether that entails involving Administration whether that entails making a phone call home, I would follow that in place, but assuming that we are set to continue, I would bring the two students back together and I would facilitate a conversation of
+ Okay, this is what you feel, am I right in assuming you feel this way and you feel this way, how can we make this right? Can we brainstorm a solution of how we can handle this conflict and continue within the classroom? And if appropriate, I would hope to find a resolution and be able to separate those students if needed perhaps rearrange the task.
+ To better fit, whatever issues came up. But yes that is what I do.
 
 **Q7 — Why Great:** I believe I would make a great up kid teacher because I have the necessary skill set to help students feel supported engaged and to be successful. Within a classroom environment. I have a background in communication disorders, which gives me a unique perspective on child psychology, human development and the way that we as humans learn and adapt to the challenges were presented with
- I prioritize ...
+ I prioritize clear communication I'm confident that I can not only explain the subject material in a way that students can understand, but I can set clear expectations and build strong lasting relationships with both faculty Administration and the students that I work with. I value patience and empathy. I'm confident that I can
+ Recognize the way that different students learn, and the challenges that they face and provide the necessary academic and emotional support to them.
+ I'm dedicated to continuous growth. I learned quickly. And I thrive in a fast-paced environment, the requires me to think, quickly and problem-solve
+ Becoming a better more empathetic individual aligns perfectly with my long-term goals eventually. I do want to go into the educational field and this would provide amazing development and experience to be able to be an educational professional for the foreseeable future.
+ In whole, I feel all of these qualities help me to truly meet students, where they're at, and help them be motivated to learn.
 
 </details>
 
 🔗 **App Account:** 🟢 Hannah Peltz
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Right now, I am situated in American Fork, Utah, but I am willing to commute up to an hour away from my current location. So anywhere, in Salt Lake Co. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Right now, anywhere. elementary school, middle school experience. Worked with school-age, teens. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #125 — ✅ APPROVE (LOW) — Allison Winn
 
-📧 allywinn5@hotmail.com | 📱 (678) 886-9469 | 📍 Georgia
+📧 allywinn5@hotmail.com | 📱 (678) 886-9469 | 📍 the City of Norcross and the state of Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (10yr)
-**Location:** I live in the City of Norcross and the state of Georgia. I am willing to travel 15 miles from my location. Thank you.
-**Schedule:** Available for full time at any time.
- Thank you.
+**Experience:** Unclear, 10+ years. Ages: infants, toddlers, preschool-age
+**Location:** the City of Norcross and the state of Georgia, 15 miles
+**Schedule:** full-time
 
-**Summary:** Allison mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Allison mentions experience with children but the specifics are vague in the transcript.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=allywinn5@hotmail.com APP=
@@ -5014,20 +5179,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=allywinn5@hotmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in the City of Norcross and the state of Georgia. I am willing to travel 15 miles from my location. Thank you., 15 miles. Experience with children (specifics unclear from interview). Looking for full-time.
+> 03/30 Intro Call Passed. the City of Norcross and the state of Georgia, 15 miles. Childcare experience (details in interview). Worked with infants, toddlers, preschool-age. Looking for full-time.
 
 ---
 
 ### #126 — ✅ APPROVE (HIGH) — Na'ilah Fontes
 
-📧 nailahfontess1@gmail.com | 📱 (678) 392-8781 | 📍 Georgia
+📧 nailahfontess1@gmail.com | 📱 (678) 392-8781 | 📍 I'm located in the Atlanta metro area specifically Snellville
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in the Atlanta metro area specifically Snellville, Georgia and I'm willing to travel maybe up to 30 miles depending on pay.
-**Schedule:** I'm looking for full-time opportunities but I'm okay if you only have a part-time for right now I have open availability. So I'm willing to work any hours any days. Any time you guys need me. I'm available.
+**Experience:** Formal. Ages: toddlers
+**Location:** I'm located in the Atlanta metro area specifically Snellville, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Na'ilah has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Na'ilah has solid formal childcare experience. Has worked with toddlers.
 
 **Red Flags:** None
 
@@ -5045,27 +5210,27 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q7 — Why Great:** I would make a great up kid teacher because I have experience working with children. I've worked with a variety of Ages and learn how to keep kids engaged while helping them grow.
  I'm patient creative and able to connect with children in a way that builds trust and makes learning fun.
- I also have strong communication and Leadership skills. And my availability is open which allows me to be reliab...
+ I also have strong communication and Leadership skills. And my availability is open which allows me to be reliable, flexible for both the children and the team.
 
 </details>
 
 🔗 **App Account:** 🟢 Na'ilah Fontes
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in the Atlanta metro area specifically Snellville, Georgia and I'm willing to travel maybe up to 30 miles depending on pay., 30 miles. teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in the Atlanta metro area specifically Snellville, 30 miles. Childcare experience (details in interview). Worked with toddlers. Looking for full-time, part-time.
 
 ---
 
 ### #127 — ✅ APPROVE (HIGH) — Treasure Rahim
 
-📧 treasurerahim77@gmail.com | 📱 (943) 300-9590 | 📍 Georgia
+📧 treasurerahim77@gmail.com | 📱 (943) 300-9590 | 📍 Stone Mountain Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (23yr)
-**Location:** I reside in Stone Mountain Georgia, I'm willing to drive 30 miles Max away from Stone Mountain Georgia to any of my shifts. I am mobile so showing up being on time and traveling a bit far, is not a pr...
-**Schedule:** I have opened availability preferably from Thursday, excuse me, from Wednesday to Saturday, any time of the day. So I can work, especially Wednesday through Saturday from early a.m. until late in the evening or whenever the shift ends
+**Experience:** Formal — daycare, preschool, 23+ years. Ages: preschool-age, teens
+**Location:** Stone Mountain Georgia, 30 miles
+**Schedule:** flexible (evenings)
 
-**Summary:** Treasure has formal childcare experience with 23+ years (preschool, daycare). Good fit for Georgia's moderate experience requirements.
+**Summary:** Treasure is a strong candidate — daycare, preschool experience with 23+ years. Has worked with preschool-age, teens. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+19433009590 APP=+16786292444
@@ -5074,17 +5239,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, I'm Treasurer him. I'm 23 years old, and I have quite a bit of work experience. One of my first jobs was at 15 years old working at a daycare, and the daycare took care of children from age, ranges new born, too soon to be kindergartners. And I personally worked with the preschoolers after that. I've always worked in customer service representative positions with my most recent job position, being a
- A customer service lead for third-party company with Delta, I take pride in taking care of children, supporting children and being a part of a part of excuse, me, their bright future. I believ...
+ A customer service lead for third-party company with Delta, I take pride in taking care of children, supporting children and being a part of a part of excuse, me, their bright future. I believe that it does take a village to raise a child and I will always enjoy contributing to helping the next person and the child.
+ Become the best person that the child has to offer to themselves and the world.
 
 **Q4 — Location:** I reside in Stone Mountain Georgia, I'm willing to drive 30 miles Max away from Stone Mountain Georgia to any of my shifts. I am mobile so showing up being on time and traveling a bit far, is not a problem for me.
 
 **Q5 — Schedule:** I have opened availability preferably from Thursday, excuse me, from Wednesday to Saturday, any time of the day. So I can work, especially Wednesday through Saturday from early a.m. until late in the evening or whenever the shift ends
 
 **Q6 — Conflict Resolution:** From experience, I've dealt with conflict with two children, definitely, you know, being a little bit aggressive with each other especially outside during free time. So one situation, I can't recall ID escalated the situation simply by separating them. And I was quite experienced at the job and familiar with all the children and staff. So I was
- Definitely able to let them know platonically. Hey, ...
+ Definitely able to let them know platonically. Hey, that's not the right thing to do and you shouldn't hit another child afterwards. Um, I gave the situation to an overhead. I pretty much always dealt with
+ Situations, like conflict with an overhead just so I can have that supervision around and I can also have moral support on teaching, the child, what is right and what is wrong.
 
 **Q7 — Why Great:** I will make a great up kid teacher, because I understand The Importance of Being empathetic. I am an empath and it has always been one of my favorite bull character traits, and all of my work environment, especially with dealing with children, in my personal life, and work children. Need someone to understanding to relate to them and some most cases and support
- Them. And I feel like me being empa...
+ Them. And I feel like me being empathetic comes in handy because when a child feels like someone, hears them and understands their feelings, they are comfortable in their environment to learn to express themselves to to be free and childlike and
+ I know that I will be a great up kid teacher because I will be empathetic to my work environment to my colleagues and to the children. So that way the work environment can flow gracefully.
 
 </details>
 
@@ -5092,20 +5260,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+19433009590 APP=+16786292444
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I reside in Stone Mountain Georgia, I'm willing to drive 30 miles Max away from Stone Mountain Georgia to any of my shifts. I am mobile so showing up , 30 miles. 23+ years preschool, daycare experience. Looking for available.
+> 03/30 Intro Call Passed. Stone Mountain Georgia, 30 miles. 23+ years daycare, preschool experience. Worked with preschool-age, teens. Looking for flexible (evenings).
 
 ---
 
 ### #128 — 🟡 FLAG (LOW) — Mariah
 
-📧 mariuah@icloud.com | 📱 (470) 686-5971 | 📍 Georgia
+📧 mariuah@icloud.com | 📱 (470) 686-5971 | 📍 So I live in Atlanta
 Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unknown
-**Location:** So I live in Atlanta, Georgia and I am willing to travel all over them to Georgia and in and out of metro Atlanta, my main areas would be Union City and Grayson Georgia, but I am able to travel and I'...
-**Schedule:** Part-time or full-time would be either or an option for me, and as far as shifts, and right now, my availability is open and free. So, any day any time, any shift is pretty much open and available right now.
+**Location:** So I live in Atlanta
+**Schedule:** full-time, part-time
 
-**Summary:** Could not assess Mariah's experience — transcript may be missing or garbled. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Mariah needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -5118,31 +5286,33 @@ Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** Part-time or full-time would be either or an option for me, and as far as shifts, and right now, my availability is open and free. So, any day any time, any shift is pretty much open and available right now.
 
-**Q6 — Conflict Resolution:** So if two children are in a conflict and one child hits the other, I would first. Make sure both children are safe by calmly and quickly separating them. I would come for the child who was hurt and check on them while also addressing the child who hid in a calm. But firm manner, I would explain that hitting is not okay and help them understand their feelings by asking, what made them upset? Then, ...
+**Q6 — Conflict Resolution:** So if two children are in a conflict and one child hits the other, I would first. Make sure both children are safe by calmly and quickly separating them. I would come for the child who was hurt and check on them while also addressing the child who hid in a calm. But firm manner, I would explain that hitting is not okay and help them understand their feelings by asking, what made them upset? Then, I would guide both children through using their words to express how they feel and encourage problem-solving such as taking turns or
+ Finding a different activity. I would reinforce positive behavior, and remind them of the rules. Helping them learn better ways to handle conflict in the future while maintaining a supportive and respectful environment.
 
-**Q7 — Why Great:** I believe I will make a great up kids teacher because I'm patient nurturing and genuinely passionate about working with children with over 30 years of experience in daycare settings. I've learned how to create a safe structured and engaging environment where children feel comfortable and supported. I have strong communication skills which helped me build positive relationships with both children a...
+**Q7 — Why Great:** I believe I will make a great up kids teacher because I'm patient nurturing and genuinely passionate about working with children with over 30 years of experience in daycare settings. I've learned how to create a safe structured and engaging environment where children feel comfortable and supported. I have strong communication skills which helped me build positive relationships with both children and parents. I am able to stay calm and organized, even in busy situations, I also enjoy helping children
+ Children, learn and grow through play creativity and routine. And I'm committed to being a positive role model who encourages kindness respect and confidence in every child.
 
 </details>
 
 🔗 **App Account:** 🟢 Mariah Branch
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. So I live in Atlanta, Georgia and I am willing to travel all over them to Georgia and in and out of metro Atlanta, my main areas would be Union City a. Experience details not available. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So I live in Atlanta. Childcare experience (details in interview). Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. So I live in Atlanta, Georgia and I am willing to travel all over them to Georgia and in and out of metro Atlanta, my main areas would be Union City a. Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. So I live in Atlanta. Could not evaluate — transcript issue.
 
 ---
 
 ### #129 — ✅ APPROVE (MEDIUM) — Aspen Nielsen
 
-📧 aspenn3@byu.edu | 📱 (626) 660-4523 | 📍 Utah
+📧 aspenn3@byu.edu | 📱 (626) 660-4523 | 📍 Provo Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Mixed
-**Location:** I live in Provo Utah, and I'm willing to travel about 30 minutes outside of Provo City, but prefer to stay close to home.
-**Schedule:** I'm looking for a part-time opportunity and I am mostly available in the mornings or afternoons and it depends on the day of the week. But mainly Monday, Thursday and Friday are my most available days and then mornings on Tuesdays and Wednesdays.
+**Location:** Provo Utah, 30 miles
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Aspen has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Aspen has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -5156,7 +5326,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I'm looking for a part-time opportunity and I am mostly available in the mornings or afternoons and it depends on the day of the week. But mainly Monday, Thursday and Friday are my most available days and then mornings on Tuesdays and Wednesdays.
 
-**Q6 — Conflict Resolution:** With conflict between two children. I try and stay calm and normally I'll try and make it so that they don't end up physically hurting each other more than they already have. I'll calmly explained that physical like physically using a using our fists to express ourselves is not okay. And that words are what's going to help us understand and communicate what we need. Obviously I worded in a way tha...
+**Q6 — Conflict Resolution:** With conflict between two children. I try and stay calm and normally I'll try and make it so that they don't end up physically hurting each other more than they already have. I'll calmly explained that physical like physically using a using our fists to express ourselves is not okay. And that words are what's going to help us understand and communicate what we need. Obviously I worded in a way that they
+ I understand, but I would also try and understand both sides of what was going on and just try and call them both down.
 
 **Q7 — Why Great:** I think I'd be a great of kid teacher because I'm high energy and I'm really good at reading the room. And I also love working with kids and just playing and making sure that they have a good time while also still learning and growing. I feel like this time of their lives is super important developmentally and my job as a teacher, is to help guide them and make sure that they feel loved and safe.
 
@@ -5165,21 +5336,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Aspen Nielsen
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Provo Utah, and I'm willing to travel about 30 minutes outside of Provo City, but prefer to stay close to home., 30 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Provo Utah, 30 miles. Mix of formal and informal childcare experience. Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #130 — 🟡 FLAG (HIGH) — Kimberly Chambers
 
-📧 kc31452school@gmail.com | 📱 (480) 462-9475 | 📍 Arizona
+📧 kc31452school@gmail.com | 📱 (480) 462-9475 | 📍 Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I live in Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city.
-**Schedule:** Currently. Right now, I'm looking for a part-time job. I'm hoping to leave Sundays open for a religious activity and mornings of Wednesday and Thursday for a couple months open do too.
- Another job of mine.
+**Experience:** Informal — elementary school (babysitter). Ages: infants, school-age
+**Location:** Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city, 20 miles
+**Schedule:** part-time (mornings)
 
-**Summary:** Kimberly's experience is informal — babysitting, family care, or similar. Arizona requires 6 months formal childcare — informal only won't qualify. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kimberly's experience is all informal — babysitting and family care only. Arizona requires 6 months formal childcare, so this won't qualify without an exception.
 
 **Red Flags:** None
 
@@ -5197,32 +5367,36 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** In the event that a kid hits another. In the classroom, first thing I would normally do is first separate the children and then have a talk with the person who did the hitting, why did they do it? Are they feeling emotionally unstable? Are they currently, are they currently feeling targeted? Or if they have
  Special needs that need to be addressed.
- Afterwards. I would then after hearing the answe...
+ Afterwards. I would then after hearing the answer whether or not it was instigated or not, Aunt, I would then talk to the other student and try to relay my findings such as if they're feeling unstable. Try to give them some space or try.
+ To not blah.
+ Try to find what trigger exists and warn the other students ahead of time that this bothers this person
+ Please be mindful of the people around you.
 
 **Q7 — Why Great:** I believe that my biggest asset that I can bring to up kids as a teacher, would be my ability to communicate. I've communicated communicated a variety of techniques throughout my years as a babysitter. I've communicated with kids, with special needs with mental disorders and children, who are considered smart. The I have
- I have babies had kids with different ethnicities, mindsets and ideas. I've ...
+ I have babies had kids with different ethnicities, mindsets and ideas. I've also babysat kids at the same time for prolonged periods of time. And I think that that is important to being a teacher beyond my already established knowledge of having an Associates.
+ I hope you consider me for being an up kid teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Kimberly Chambers
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city., 20 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city, 20 miles. elementary school experience. Worked with infants, school-age. Currently studying education/child development. Looking for part-time (mornings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city.. Only informal experience — Arizona requires formal.
+> 03/30 Not Hiring — Intro Call. Queen Creek, Arizona, I'm willing to commute up to 20 miles outside of my city. Only informal experience — Arizona requires formal.
 
 ---
 
 ### #131 — ✅ APPROVE (HIGH) — Linda Arnold
 
-📧 linda.arnold2107@gmail.com | 📱 (217) 653-2107 | 📍 Utah
+📧 linda.arnold2107@gmail.com | 📱 (217) 653-2107 | 📍 Hi. I live in Spanish Fork
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (10yr)
-**Location:** Hi. I live in Spanish Fork, Utah. I would be willing to travel up to 10 20 30 minutes for a shift. Really not any further than that. I used to travel 30 miles one way actually 40 miles one way to go t...
-**Schedule:** Hi again, my name is Linda Arnold. I am only looking for part-time, I'm retired and I just want to be able to still get out there and do some things. So I am only looking for part-time hours, can be varied. Although I do need an afternoon to do piano...
+**Experience:** Formal — daycare, preschool, 10+ years. Ages: toddlers, preschool-age
+**Location:** Hi. I live in Spanish Fork, 30 miles
+**Schedule:** part-time (afternoons)
 
-**Summary:** Linda has formal childcare experience with 10+ years (preschool, teacher, daycare). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Linda is a strong candidate — daycare, preschool experience with 10+ years. Has worked with toddlers, preschool-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -5230,35 +5404,44 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Linda Arnold. I have had a lot of experience working with children. I worked in daycare for over 10 years and different aspects of that. I also have taught school. Second grade for three years. Third grade, fifth grade. I taught sixth grade in a migrant class in South Texas, 10 miles from Mexico, but I do not speak Spanish. I also, I've just always been drawn to work with kids. I enjoy there.
- Their, their, their energy and their life experiences, helping them get to know and learn new things. And the excitement that they have for recognizing new things and being able to explore...
+ Their, their, their energy and their life experiences, helping them get to know and learn new things. And the excitement that they have for recognizing new things and being able to explore. I enjoy working with all ages.
+ I've mostly worked with the two-year-olds and doing all the fun potty training, then I also have worked with three to five-year-olds quite a bit and that's always a lot of fun. So worked with families that were, you know, would have children birth to five as I did. Appearances, teachers training that is through st. Louis, where you visit the families in their home once a month and shared developmental information.
+ As well as different play activities. They can do as a family. Well, so did assessments on the children, the Denver screening, and sometimes we did ages and stages, mostly worked on the birth to to Denver screening and did ages and stages for the preschool teachers that they wanted to test the kids.
+ So I've would love to get back into that. Thank you.
 
-**Q4 — Location:** Hi. I live in Spanish Fork, Utah. I would be willing to travel up to 10 20 30 minutes for a shift. Really not any further than that. I used to travel 30 miles one way actually 40 miles one way to go to my the daycare I worked at in Hannibal Missouri. But I would prefer not to have to travel that far...
+**Q4 — Location:** Hi. I live in Spanish Fork, Utah. I would be willing to travel up to 10 20 30 minutes for a shift. Really not any further than that. I used to travel 30 miles one way actually 40 miles one way to go to my the daycare I worked at in Hannibal Missouri. But I would prefer not to have to travel that far any longer
 
-**Q5 — Schedule:** Hi again, my name is Linda Arnold. I am only looking for part-time, I'm retired and I just want to be able to still get out there and do some things. So I am only looking for part-time hours, can be varied. Although I do need an afternoon to do piano typically right now I have piano on Tuesday after...
+**Q5 — Schedule:** Hi again, my name is Linda Arnold. I am only looking for part-time, I'm retired and I just want to be able to still get out there and do some things. So I am only looking for part-time hours, can be varied. Although I do need an afternoon to do piano typically right now I have piano on Tuesday afternoon. I am taking lessons. I am not teaching and as far as that goes that's all I
+ I have Monday through Friday that would interrupt anything I do like to go to senior lunches on Mondays and Thursday that's at noon. But if a shift would interfere with it that's okay I just need to be able to let them know in time.
 
-**Q6 — Conflict Resolution:** If you are paying attention and you know your classroom well and you know, your students or your children, well enough, you can probably for see when there is going to be a conflict coming up, whether that's, you know, some new toy or new experience. You've put out or something new in the in the sensory box. So, if you're prepared and, you know, your kids well enough, you'll be able to foresee som...
+**Q6 — Conflict Resolution:** If you are paying attention and you know your classroom well and you know, your students or your children, well enough, you can probably for see when there is going to be a conflict coming up, whether that's, you know, some new toy or new experience. You've put out or something new in the in the sensory box. So, if you're prepared and, you know, your kids well enough, you'll be able to foresee something coming, but when a conflict does happen, the thing is to get down on their level 2.
+ To separate them if needed at least some space, so you can listen to the two of them and they can't reach each other as children. They're going to reach out and try to hurt the other child sometimes. So good getting down on their level. Trying to help them calm down, take a breath and be able to communicate what the problem was, and let them tell you what the problem was, instead of trying to interpret for yourself. So that's the
+ Way, I think to intervene or to help children in their conflicts and help them to have their own voice in saying, what was going on so that you can better understand and you don't jump in and and make pre-emptive conclusions without actually knowing the truth about what was going on. And then we talked about it and dependent on what the conflict is, whether they can share, whether they can take turns,
+ As whether they can do have the same thing but being different areas, whether it's a toy that can be split up, it depends on the situation and what can be done to alleviate the problem.
 
-**Q7 — Why Great:** I haven't looked into exactly how up kid works but I've worked in child care for so long and I think I'd make a great teacher because I have a positive attitude with two children. I enjoy working with children. I'm willing to learn new things. And I love the aspect of teaching children, and or showing children things they can learn and, and letting them learn on their own or learn through guided e...
+**Q7 — Why Great:** I haven't looked into exactly how up kid works but I've worked in child care for so long and I think I'd make a great teacher because I have a positive attitude with two children. I enjoy working with children. I'm willing to learn new things. And I love the aspect of teaching children, and or showing children things they can learn and, and letting them learn on their own or learn through guided experiences.
+ Like I said, I don't know the activities or the structure of up kid, but I'm used to making notes and Technical and Progressive notes on children. Documenting that, yes, I did see this child jump with his feet off the floor, or I saw this child, tried to write his name and just different things. He was able to stack three.
+ Blocks, he was able to make a bridge. So I think I could do a good thing with up kid. I'm used to being able to observe and not have to be right next to them but to observe and always walking around especially on the playground, you're always walking around, you're not standing in one place so that you can observe what is going on and and be aware and help keep the kids safe.
 
 </details>
 
 🔗 **App Account:** 🟢 Linda Arnold
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi. I live in Spanish Fork, Utah. I would be willing to travel up to 10 20 30 minutes for a shift. Really not any further than that. I used to travel , 30 miles. 10+ years preschool, teacher, daycare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Hi. I live in Spanish Fork, 30 miles. 10+ years daycare, preschool experience. Worked with toddlers, preschool-age. Looking for part-time (afternoons).
 
 ---
 
 ### #132 — ✅ APPROVE (HIGH) — Jennie Vestal
 
-📧 jenjack8008@gmail.com | 📱 (801) 450-8971 | 📍 Utah
+📧 jenjack8008@gmail.com | 📱 (801) 450-8971 | 📍 South, Jordan Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (11yr)
-**Location:** I live in South, Jordan Utah. And yes, I'm able to travel wherever
-**Schedule:** I'm available full-time or part-time and I have open availability.
+**Experience:** Formal — daycare, 11+ years
+**Location:** South, Jordan Utah, anywhere
+**Schedule:** full-time, part-time
 
-**Summary:** Jennie has formal childcare experience with 11+ years (daycare). Utah is lenient on experience — this should be straightforward.
+**Summary:** Jennie is a strong candidate — daycare experience with 11+ years.
 
 **Red Flags:** None
 
@@ -5281,20 +5464,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jennifer Vestal
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in South, Jordan Utah. And yes, I'm able to travel wherever. 11+ years daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. South, Jordan Utah, anywhere. 11+ years daycare experience. Looking for full-time, part-time.
 
 ---
 
 ### #133 — ✅ APPROVE (HIGH) — Shana Birchfield
 
-📧 shana.birchfield@gmail.com | 📱 (678) 522-2068 | 📍 Georgia
+📧 shana.birchfield@gmail.com | 📱 (678) 522-2068 | 📍 the Marietta Georgia and I'm interested in traveling
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (20yr)
-**Location:** I am located in the Marietta Georgia and I'm interested in traveling. Maybe up to about 30 miles or so. Also depending on the pay the Atlanta metro area and I would say within an hour timeframe of com...
-**Schedule:** I am looking for full-time employment. However, I would also be interested in part-time employment and employment overall. But full-time employment is what I am seeking. Thank you.
+**Experience:** Formal — elementary school (substitute teacher), 20+ years. Ages: school-age
+**Location:** the Marietta Georgia and I'm interested in traveling, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Shana has formal childcare experience with 20+ years (substitute teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Shana is a strong candidate — elementary school experience with 20+ years. Has worked with school-age. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -5302,36 +5485,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Good morning. My name is Shawna Burchfield and I am sitting in front of you with oh goodness 20 years of higher education experience and hmm about five years of experience and Elementary education. I have been a supply teacher in the Marietta City School District. And I am also a permanent substitute for one particular, Elementary School in the Marietta City School District. I absolutely
- Absolutely loved every minute of every day, I love coming into the building each day and have, it's been an awesome learning experience. I am interested in working with children because I do believe that chil...
+ Absolutely loved every minute of every day, I love coming into the building each day and have, it's been an awesome learning experience. I am interested in working with children because I do believe that children are our future. My love language is an act of service. And so I love, love, love to give. And I love to to give an education atmosphere, our children have taught me so much. I am a learning each and every day.
+ And this is an opportunity of course for me to tune in to the passion that I have. As this is a passion for me and a calling and not necessarily a job or a career. Do I see it as and I would like the opportunity of course to be able to have my own schedule and pick and choose and select on those days that I would like to work. And so I do truly appreciate you for this opportunity and giving me the
+ opportunity to do so and the opportunity to possibly teach and lead and Inspire other students as well. Thank you so much.
 
 **Q4 — Location:** I am located in the Marietta Georgia and I'm interested in traveling. Maybe up to about 30 miles or so. Also depending on the pay the Atlanta metro area and I would say within an hour timeframe of commute from Marietta Georgia. Thank you.
 
 **Q5 — Schedule:** I am looking for full-time employment. However, I would also be interested in part-time employment and employment overall. But full-time employment is what I am seeking. Thank you.
 
-**Q6 — Conflict Resolution:** With dealing with Conflict, by have two students who are not getting along or as the example stated. If one student has hit the other student. I number one, I'm always in line with the rules, in the responsibilities of each school that I am working at. And so I would, of course, reiterate those rules which are typically hands to ourselves, but I also like to speak with students on, you know, with ...
+**Q6 — Conflict Resolution:** With dealing with Conflict, by have two students who are not getting along or as the example stated. If one student has hit the other student. I number one, I'm always in line with the rules, in the responsibilities of each school that I am working at. And so I would, of course, reiterate those rules which are typically hands to ourselves, but I also like to speak with students on, you know, with a softer tone.
+ And talk with them about having empathy for others and how we make others feel and how others would make us feel if we were in the same situation and try to, of course, allows students to communicate with one another regarding that situation so that they are more comfortable in the future with communicating when they have conflict as well. So I attempt to allow the students to handle the
+ Licked if at all possible. However, with mediate the the time and also talk to them about, you know, their feelings and how they would feel if it were them in reiterating again the school's policy and procedures. Thank you.
 
 **Q7 — Why Great:** I think that I would make a great up kid teacher, because I have the passion, the love, and the care that it takes to show up each and every day and give 100%. I feel that this is truly a calling for me more so than a job or a career and I enjoy. What I actually get to learn each and every day from the students from the tenured staff, from the policies and procedures that are
- that are put in plac...
+ that are put in place by the governing bodies for each individual school district, and I absolutely enjoy it. I do wholeheartedly believe that our children are our future and that it takes a special person to show up each and every day to teach lead and Inspire them. And I have the heart to do. So I truly truly enjoy every minute of it and that's what would make me an awesome up. Kids teacher, thank you.
 
 </details>
 
 🔗 **App Account:** 🟢 Shana Birchfield
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in the Marietta Georgia and I'm interested in traveling. Maybe up to about 30 miles or so. Also depending on the pay the Atlanta metro ar, 30 miles. 20+ years substitute teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. the Marietta Georgia and I'm interested in traveling, 30 miles. 20+ years elementary school experience. Worked with school-age. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #134 — ✅ APPROVE (HIGH) — Aneica Morgan Beale
 
-📧 amo_amorgan@yahoo.com | 📱 (850) 533-2001 | 📍 Georgia
+📧 amo_amorgan@yahoo.com | 📱 (850) 533-2001 | 📍 the Augusta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (17yr)
-**Location:** I reside in the Augusta, Georgia area, I am willing to go up to 25, 30 miles to do any form of teaching. That's necessary.
-**Schedule:** I am looking for a part-time work, as I already have a full-time job, I'm willing to work from 7:30, so four o'clock. 3:30 that's fine with me a tour. Shifts nine-hour shifts, that's fine.
+**Experience:** Formal, 17+ years. Ages: preschool-age
+**Location:** the Augusta, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Aneica has formal childcare experience with 17+ years (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Aneica has solid formal childcare experience. Has worked with preschool-age. Currently studying education/child development. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=amo_amorgan@yahoo.com APP=morgananeica@gmail.com
@@ -5340,7 +5527,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is anneka Morgan BL. I love working with children because one, my mother was a teacher and I went to Teachers College. While I was living in Jamaica, I did this for four years. I worked in what you call the second grade, third grade, fourth grade. When I came to the states, I didn't go into teaching, I just went right into Walmart and here I am. Now in healthcare. However, I love children. I have to
- Ooh, I have a nine year old and a 17 year old enjoy teaching even as a dialysis tech. I am a receptor and I'm always teaching people when they come in. I have patience, I have love,...
+ Ooh, I have a nine year old and a 17 year old enjoy teaching even as a dialysis tech. I am a receptor and I'm always teaching people when they come in. I have patience, I have love, I have a fiction and that's why I enjoy working with children. They're willing to learn, they're able to learn and giving up is not an option. I understand that sometimes everybody, learns differently.
+ And as they're different learning styles, for whatever I love children.
 
 **Q4 — Location:** I reside in the Augusta, Georgia area, I am willing to go up to 25, 30 miles to do any form of teaching. That's necessary.
 
@@ -5348,7 +5536,8 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** If there is conflict between two children, I will separate them. You get each of them to tell their story, whoever is wrong, needs to apologize and the other person, forgive and move on shake hands and keep it going.
 
-**Q7 — Why Great:** I would make a wonderful of kid teacher because one, I have patience, I have the experience in the classroom. I have the experience at home with a different age groups and not to mention. I am a wonderful teacher and it's not just because it's me but because I know how to teach, I understand the learning styles, I understand that there's different techniques, that's necessary and I understand that...
+**Q7 — Why Great:** I would make a wonderful of kid teacher because one, I have patience, I have the experience in the classroom. I have the experience at home with a different age groups and not to mention. I am a wonderful teacher and it's not just because it's me but because I know how to teach, I understand the learning styles, I understand that there's different techniques, that's necessary and I understand that even
+ Even though they don't get it on the first goal, they might just get out of second and maybe the third. So definitely I am wonderful for this job.
 
 </details>
 
@@ -5356,20 +5545,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=amo_amorgan@yahoo.com APP=morgananeica@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I reside in the Augusta, Georgia area, I am willing to go up to 25, 30 miles to do any form of teaching. That's necessary., 30 miles. 17+ years teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. the Augusta, 30 miles. Childcare experience (details in interview). Worked with preschool-age. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #135 — ✅ APPROVE (HIGH) — Kristen Thomason
 
-📧 halledog47@gmail.com | 📱 (470) 565-5752 | 📍 Georgia
+📧 halledog47@gmail.com | 📱 (470) 565-5752 | 📍 I'm located in Cumming
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (20yr)
-**Location:** I'm located in Cumming, Georgia and I prefer not to travel over 20 minutes for shifts.
-**Schedule:** I'm looking for full-time work and my schedule. The week is wide open.
+**Experience:** Formal, 20+ years
+**Location:** I'm located in Cumming, 20 miles
+**Schedule:** full-time
 
-**Summary:** Kristen has formal childcare experience with 20+ years (early childhood, teacher). Good fit for Georgia's moderate experience requirements.
+**Summary:** Kristen has solid formal childcare experience. Currently studying education/child development.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+14705655752 APP=+16788367433
@@ -5396,20 +5585,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+14705655752 APP=+16788367433
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Cumming, Georgia and I prefer not to travel over 20 minutes for shifts., 20 miles. 20+ years early childhood, teacher experience. Looking for full-time.
+> 03/30 Intro Call Passed. I'm located in Cumming, 20 miles. Childcare experience (details in interview). Currently studying education/child development. Looking for full-time.
 
 ---
 
 ### #136 — ✅ APPROVE (LOW) — Sushma
 
-📧 sushmapatil01@gmail.com | 📱 (470) 886-9002 | 📍 Georgia
+📧 sushmapatil01@gmail.com | 📱 (470) 886-9002 | 📍 Alpharetta, Georgia Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** Hi, I am located in Alpharetta, Georgia Atlanta. My address is relevant to 08 Collingwood Lane.
-**Schedule:** Hello. Currently, I'm looking for part-time and full-time. Also, like mainly part, I'm looking for that, like, it's around 225 226 wheel works for me.
+**Experience:** Unclear. Ages: teens
+**Location:** Alpharetta, Georgia Atlanta
+**Schedule:** full-time, part-time
 
-**Summary:** Sushma mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Sushma mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -5419,7 +5608,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** Hello, this is sushma.
  I have completed my master's degree in the year of 2013 and now I'm looking for a job to help myself. I'm a caring and responsible person who enjoys working with children. I am someone who enjoys supporting children and learning Children's Learning and Development.
  I'm a patient. I'm Dependable individual with the strong interest in childcare.
- Kendall. And I also have experience taking care of children at home, which has helped me to develop patience and understanding. And I also have experience quality and at least experience, I have experience in manual testing. So ...
+ Kendall. And I also have experience taking care of children at home, which has helped me to develop patience and understanding. And I also have experience quality and at least experience, I have experience in manual testing. So I worked my last working year in testing role was 2017.
+ and,
+ That's it.
+ Thank you.
 
 **Q4 — Location:** Hi, I am located in Alpharetta, Georgia Atlanta. My address is relevant to 08 Collingwood Lane.
 
@@ -5436,20 +5628,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Sushma Aurade
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi, I am located in Alpharetta, Georgia Atlanta. My address is relevant to 08 Collingwood Lane.. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Alpharetta, Georgia Atlanta. Childcare experience (details in interview). Worked with teens. Currently college student. Looking for full-time, part-time.
 
 ---
 
 ### #137 — 🟡 FLAG (LOW) — Nicole Greene
 
-📧 hayzleemomma25@icloud.com | 📱 (385) 452-5471 | 📍 Utah
+📧 hayzleemomma25@icloud.com | 📱 (385) 452-5471 | 📍 Anywhere from 30 to 50 miles
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
-**Experience:** Formal
-**Location:** Anywhere from 30 to 50 miles.
-**Schedule:** Remember available mostly in the afternoon.
+**Experience:** Formal — daycare
+**Location:** Anywhere from 30 to 50 miles, 30-50 miles
+**Schedule:** flexible (afternoons)
 
-**Summary:** Nicole has formal childcare experience (daycare).
+**Summary:** Nicole needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -5470,22 +5662,22 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Nicole Greene
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Anywhere from 30 to 50 miles., 30-50 miles. daycare experience. Looking for available.
+> 03/30 Intro Call Passed. Anywhere from 30 to 50 miles, 30-50 miles. daycare experience. Looking for flexible (afternoons).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Anywhere from 30 to 50 miles.. Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Anywhere from 30 to 50 miles. Could not evaluate — transcript issue.
 
 ---
 
 ### #138 — ✅ APPROVE (HIGH) — Akhila Madichetty
 
-📧 amadichetty@gmail.com | 📱 (770) 315-4880 | 📍 Georgia
+📧 amadichetty@gmail.com | 📱 (770) 315-4880 | 📍 So I live in Alpharetta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (45yr)
-**Location:** So I live in Alpharetta Georgia. I'm willing to travel around 20 to 25 miles or around 30 minutes to 45 minutes away. Including areas like Roswell, Georgia, Dunwoody, Georgia, and coming.
-**Schedule:** I am looking for full-time work. However, part-time is totally okay with me. And I have a very flexible schedule as early to as late as possible as fine.
+**Experience:** Formal — middle school, 45+ years. Ages: infants, teens
+**Location:** So I live in Alpharetta Georgia, 20-25 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Akhila has formal childcare experience with 45+ years (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Akhila is a strong candidate — middle school experience with 45+ years. Has worked with infants, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -5499,30 +5691,31 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I am looking for full-time work. However, part-time is totally okay with me. And I have a very flexible schedule as early to as late as possible as fine.
 
-**Q6 — Conflict Resolution:** So in this situation, I usually calmly step in separate the children first, and then make sure that everyone's safe. Then I come for the child who was hurt first, make sure that they're okay. And then I would ask the child who hit them to understand that just talk to them and try to understand what led to the situation and then to the child, who hit the other child, I explain why it isn't okay to ...
+**Q6 — Conflict Resolution:** So in this situation, I usually calmly step in separate the children first, and then make sure that everyone's safe. Then I come for the child who was hurt first, make sure that they're okay. And then I would ask the child who hit them to understand that just talk to them and try to understand what led to the situation and then to the child, who hit the other child, I explain why it isn't okay to hit other people and help them understand. A better way to express.
+ Elves like asking for help or using their words, I also asked them to apologize and then I work through moving on from the situation with both children.
 
-**Q7 — Why Great:** I believe, I'm a great candidate to work for up kid because I'm really passionate about childcare and I find I understand how truly important it is and I just love working with children. I think that there's so much fun and I'm really great at working, through conflicts with children and with other people in general. And I also pretty hard working and I'm willing to give my best at every single jo...
+**Q7 — Why Great:** I believe, I'm a great candidate to work for up kid because I'm really passionate about childcare and I find I understand how truly important it is and I just love working with children. I think that there's so much fun and I'm really great at working, through conflicts with children and with other people in general. And I also pretty hard working and I'm willing to give my best at every single job that I do. And I also am very empathetic.
+ Attic. And I believe that that's so important in childcare and it's missing from so many child care facilities and I believe that I can help provide that because I'm a very aware of that.
 
 </details>
 
 🔗 **App Account:** 🟢 Akhila Madichetty
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I live in Alpharetta Georgia. I'm willing to travel around 20 to 25 miles or around 30 minutes to 45 minutes away. Including areas like Roswell, Ge, 20-25 miles. 45+ years teacher experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So I live in Alpharetta Georgia, 20-25 miles. 45+ years middle school experience. Worked with infants, teens. Looking for full-time, part-time.
 
 ---
 
 ### #139 — ✅ APPROVE (LOW) — Tam
 
-📧 tam25@myyahoo.com | 📱 (305) 963-5881 | 📍 Georgia
+📧 tam25@myyahoo.com | 📱 (305) 963-5881 | 📍 Atlanta Georgia, maybe, maybe 20 to 40
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** Atlanta Georgia, maybe, maybe 20 to 40.
- August is in Atlanta, Georgia.
-**Schedule:** Part time work.
+**Experience:** Unclear. Ages: infants
+**Location:** Atlanta Georgia, maybe, maybe 20 to 40
+**Schedule:** part-time
 
-**Summary:** Tam mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Tam mentions experience with children but the specifics are vague in the transcript.
 
 **🚩 Red Flags:**
 - Q5 response very short (15 chars)
@@ -5546,21 +5739,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Tamiria  Woods
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Atlanta Georgia, maybe, maybe 20 to 40.
- August is in Atlanta, Georgia.. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia, maybe, maybe 20 to 40. Childcare experience (details in interview). Worked with infants. Looking for part-time.
 
 ---
 
 ### #140 — ✅ APPROVE (HIGH) — Alena Dunnington
 
-📧 dunchappell@gmail.com | 📱 (762) 343-8421 | 📍 Georgia
+📧 dunchappell@gmail.com | 📱 (762) 343-8421 | 📍 Hi again, I am located in Evans
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Hi again, I am located in Evans. Georgia, ZIP code, three 08-09. I'd like to say pretty close to home. So about roughly 15 to 20 minute travel.
-**Schedule:** I am looking for full-time currently. My availability is pretty flexible Monday through Saturday, I just asked my Sunday's are free Monday through Saturday 6:00 a.m. to roughly 8 p.m.
+**Experience:** Formal — elementary school. Ages: preschool-age, school-age, teens
+**Location:** Hi again, I am located in Evans, 15-20 miles
+**Schedule:** full-time
 
-**Summary:** Alena has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements.
+**Summary:** Alena is a strong candidate — elementary school experience. Has worked with preschool-age, school-age, teens.
 
 **Red Flags:** None
 
@@ -5569,14 +5761,15 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hello, my name is Alina dunnington. I generally work with? Well, currently high schoolers, from freshman to seniors, specific, special education, prior to that, I do have experience with Littles Elementary School alternative in earning. So behavioral-based, I'm interested in creating the foundation that kiddos learn and work best in. I have worked
  at three schools prior looking for a, just a change of
- Passed a little bit to get more into what general education opposed to special and we'll academics. I should say I feel like I would be a good fit because I'm pretty dr. Bull two different stra...
+ Passed a little bit to get more into what general education opposed to special and we'll academics. I should say I feel like I would be a good fit because I'm pretty dr. Bull two different strategies and kiddos learning. So that's me.
 
 **Q4 — Location:** Hi again, I am located in Evans. Georgia, ZIP code, three 08-09. I'd like to say pretty close to home. So about roughly 15 to 20 minute travel.
 
 **Q5 — Schedule:** I am looking for full-time currently. My availability is pretty flexible Monday through Saturday, I just asked my Sunday's are free Monday through Saturday 6:00 a.m. to roughly 8 p.m.
 
 **Q6 — Conflict Resolution:** In my experience, I've found that when dealing with conflict between two peers or between two students, typically, I like to pull each one aside, get a feeling of what's going on, what's Happening? And I always advocate for them to advocate for themselves. So prior to bringing it to my attention, I meant them to have that conversation with their words, not their hands and asthma.
- Monitor it. I fe...
+ Monitor it. I feel like
+ that's what works best.
 
 **Q7 — Why Great:** I would make a good teacher because I'm confident in my ability to mold myself into whatever Advocate I need for student support. Meaning I'm willing to go, the extra mile to make sure that they have whatever tools and skills. They need to be successful in the future.
 
@@ -5585,20 +5778,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Alena Dunnington
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi again, I am located in Evans. Georgia, ZIP code, three 08-09. I'd like to say pretty close to home. So about roughly 15 to 20 minute travel., 15-20 miles. Formal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Hi again, I am located in Evans, 15-20 miles. elementary school experience. Worked with preschool-age, school-age, teens. Looking for full-time.
 
 ---
 
 ### #141 — 🟡 FLAG (LOW) — Keira Douglas
 
-📧 keirafaith004@gmail.com | 📱 (520) 405-7757 | 📍 Arizona
+📧 keirafaith004@gmail.com | 📱 (520) 405-7757 | 📍 Oro Valley Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** None (21yr)
-**Location:** I currently live in Oro Valley Arizona. However, I do go to school in Tucson Arizona and I am in the Tucson area frequently. So I am able to take shifts that are an oil Valley or Tucson. I wouldn't dr...
-**Schedule:** I am currently looking for part-time because I am in school. I can definitely for sure. You begin Friday. Saturday Sunday, I can do those days any day. I need any of those days, all day weekdays, I can do it. But it would have to be after 2 p.m. beca...
+**Experience:** None — elementary school, 21+ years. Ages: school-age
+**Location:** Oro Valley Arizona
+**Schedule:** part-time (school schedule, weekends available)
 
-**Summary:** Keira does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market.
+**Summary:** Keira needs Erica's review — no childcare experience detected in transcript. ⚠️ Conflict resolution answer has concerning language — Erica should review. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -5610,11 +5803,13 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** Hi, my name is Keira Douglas. I am currently 21 years old and I'm a junior at the University of Arizona for SUNY degree in elementary education from a very young age.
 
 **Q4 — Location:** I currently live in Oro Valley Arizona. However, I do go to school in Tucson Arizona and I am in the Tucson area frequently. So I am able to take shifts that are an oil Valley or Tucson. I wouldn't drive
- Like ridiculously far to take a shit but if there's something kind of by the university and I'm...
+ Like ridiculously far to take a shit but if there's something kind of by the university and I'm an oil Valley, I'll take something like that because I'm in the area and I know that I can do.
 
-**Q5 — Schedule:** I am currently looking for part-time because I am in school. I can definitely for sure. You begin Friday. Saturday Sunday, I can do those days any day. I need any of those days, all day weekdays, I can do it. But it would have to be after 2 p.m. because I am in school until 2:00 Monday through Thurs...
+**Q5 — Schedule:** I am currently looking for part-time because I am in school. I can definitely for sure. You begin Friday. Saturday Sunday, I can do those days any day. I need any of those days, all day weekdays, I can do it. But it would have to be after 2 p.m. because I am in school until 2:00 Monday through Thursday. So it would have to be weekend all day or week days after three those that would work perfectly.
 
-**Q6 — Conflict Resolution:** I have had a couple of experiences, an improper that will change in Iowa. Student teaching / phones and you can we actually did have an instance where a decade went up to a nonverbal and start heating the repeatedly and I was there for it. The teacher was also there so the teacher was we took care of it but there was another instance of that same kid with you ended up hitting another kid and I was...
+**Q6 — Conflict Resolution:** I have had a couple of experiences, an improper that will change in Iowa. Student teaching / phones and you can we actually did have an instance where a decade went up to a nonverbal and start heating the repeatedly and I was there for it. The teacher was also there so the teacher was we took care of it but there was another instance of that same kid with you ended up hitting another kid and I was there all by myself so I ended up pulling the kids away from each other.
+ and I told him no, and
+ To apologize to a specialized.
 
 **Q7 — Why Great:** I did not make a great up, kid teacher because I really do enjoy working with children. And I'm very patient children. I think children of all ages, I can be good with. I also really want the experience before they become a full-time teacher. I want to get as much experience under my belt.
 
@@ -5623,22 +5818,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Keira Douglas
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I currently live in Oro Valley Arizona. However, I do go to school in Tucson Arizona and I am in the Tucson area frequently. So I am able to take shif. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. Oro Valley Arizona. 21+ years elementary school experience. Worked with school-age. Currently studying education/child development. Looking for part-time (school schedule, weekends available).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I currently live in Oro Valley Arizona. However, I do go to school in Tucson Arizona and I am in the Tucson area frequently. So I am able to take shif. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Oro Valley Arizona. No childcare experience detected in transcript.
 
 ---
 
 ### #142 — ✅ APPROVE (MEDIUM) — Lila Ann Oreffice
 
-📧 laoref@gmail.com | 📱 (470) 983-5508 | 📍 Georgia
+📧 laoref@gmail.com | 📱 (470) 983-5508 | 📍 I am living right now in Cumming Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am living right now in Cumming Georgia, but I'm also very close to Alpharetta Roswell and Milton so I can go anywhere in between those.
-**Schedule:** I'm interested in part-time to full-time depending on the week. I'm graduated from high school now so I can work whenever
+**Experience:** Mixed (babysitter). Ages: infants
+**Location:** I am living right now in Cumming Georgia, anywhere
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Lila has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lila has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -5653,7 +5848,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm interested in part-time to full-time depending on the week. I'm graduated from high school now so I can work whenever
 
 **Q6 — Conflict Resolution:** Yeah, so first I would get the children separated. Usually, I would have another, in my case sibling, or teacher, take one of the children. Say, I have the one that hit the other child, you know, ask what happened, you know, tell reinforce that we don't hit that. That's not how we handle things in our society incident report, all of that and then make sure that
- That the other child is obviously, ...
+ That the other child is obviously, okay? And then we let parent now.
 
 **Q7 — Why Great:** I can get used to different environments very quickly. So I think it would be very easy for me to make myself a place in each different Center that I work in, as well as connect with the children there and the other adults there and just find our workflow for the day.
 
@@ -5662,20 +5857,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Lila Oreffice
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am living right now in Cumming Georgia, but I'm also very close to Alpharetta Roswell and Milton so I can go anywhere in between those.. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I am living right now in Cumming Georgia, anywhere. babysitter. Worked with infants. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #143 — ✅ APPROVE (MEDIUM) — Lila
 
-📧 lila.alouani116183@gmail.com | 📱 (321) 424-1087 | 📍 Utah
+📧 lila.alouani116183@gmail.com | 📱 (321) 424-1087 | 📍 the process of currently moving
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (24yr)
-**Location:** I'm in the process of currently moving. So I'm just preparing myself for the move. I will be there the third week of May, so I should be ready to start May 15th. I will be in Ogden Utah. I'm very exci...
-**Schedule:** Like I said, I'm an online school. So my availability is super flexible even holidays because I know some preschools are open all year long so I can work literally Monday through Friday opened closed. I would prefer full-time. The 40 hours would be a...
+**Experience:** Mixed — preschool, elementary school (substitute teacher, babysitter), 24+ years. Ages: infants, preschool-age, school-age, teens
+**Location:** the process of currently moving, 25 miles
+**Schedule:** full-time (school schedule)
 
-**Summary:** Lila has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lila has a mix of formal (preschool, elementary school) and informal (babysitter) experience. Currently studying education/child development, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -5683,35 +5878,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello. My name is lalwani. I am currently 24 years old. I am in school at WGU doing online, so it's very flexible. This is I'm going for my bachelor's and Elementary education, and special education. I was enrolled in a university in Elmhurst, which is in Chicago or Illinois, but I did have to move so that I had to restart basically. So, I do have credits for a bachelor's. I just didn't student teach, so it's a really complicated situation.
- There. But I do have an associate's. I do have my CPR my first day at and food handlers as well. I have been working in childcare since I was 16 babysitti...
+ There. But I do have an associate's. I do have my CPR my first day at and food handlers as well. I have been working in childcare since I was 16 babysitting, but specifically in education I was a preschool teacher currently still am but I will be moving states to Utah. So that is why I'm interested. I also have been doing Pre-K for about six months which I absolutely love. I never thought I would enjoy doing such a little age, but I absolutely love it. I also was a substitute teacher for about
+ Three years in a CPS school in Chicago. And I did that, I worked with ages from Early Childhood all the way up until 6th grade. And I absolutely love that as well, especially because I could make my own schedule there. So it's very similar concept just different age group. So, I worked with all the way from newborns all the way up until the age of 16 or 15. And I absolutely love working with kids because when I was a kid, I remember the specific teachers or even the substitutes
+ and I was like, I always want that to be me. This is exactly why I'm working in childcare. It's like my favorite thing ever.
 
-**Q4 — Location:** I'm in the process of currently moving. So I'm just preparing myself for the move. I will be there the third week of May, so I should be ready to start May 15th. I will be in Ogden Utah. I'm very excited for that. I'm willing to travel, 25 miles at most. I'm really flexible though. So, really it's u...
+**Q4 — Location:** I'm in the process of currently moving. So I'm just preparing myself for the move. I will be there the third week of May, so I should be ready to start May 15th. I will be in Ogden Utah. I'm very excited for that. I'm willing to travel, 25 miles at most. I'm really flexible though. So, really it's up to the borders of where the schools are. So, yeah, it's Ogden Utah.
 
 **Q5 — Schedule:** Like I said, I'm an online school. So my availability is super flexible even holidays because I know some preschools are open all year long so I can work literally Monday through Friday opened closed. I would prefer full-time. The 40 hours would be absolutely amazing if possible.
 
-**Q6 — Conflict Resolution:** If there are two top children fighting depending on the age group. But I'm going to say they're like three and four for this situation. If one child hits another or B another, I would first make sure you control the child that gets hurt. I make sure they're okay, get them boo blue eyes if needed Band-Aid. If another teacher needs to come in, I'll call them in depending on how severe the situation ...
+**Q6 — Conflict Resolution:** If there are two top children fighting depending on the age group. But I'm going to say they're like three and four for this situation. If one child hits another or B another, I would first make sure you control the child that gets hurt. I make sure they're okay, get them boo blue eyes if needed Band-Aid. If another teacher needs to come in, I'll call them in depending on how severe the situation is. And then after the escalating, the situation with the child that's hurt. Making sure they're okay. I will talk to the
+ a child saying was that a kind thing to do? What can we do next time? Instead of hitting we use our words and depending, if this is like an ongoing thing with this child, you know, there would be things set in place which the other teachers would definitely communicate. So it really depends on the situation, but definitely making sure the first child is. Okay, consoling, the child doing everything to make sure making sure the parents know if there's a mark and then with the other child, just making sure they're aware that their actions are hurting us and they're not making us feel.
+ All nice. There it's not a kind action and then so on build actions from there.
 
-**Q7 — Why Great:** I believe I would make a great up kid teacher, because I've been in a situation similar where I'm used to new environments, new people, new children, or they don't typically know who I am. So I'm really good at adapting to situations like that because I've done it previously, but with older children in elementary and absolutely loved it and I actually got hired there because of how much I was ther...
+**Q7 — Why Great:** I believe I would make a great up kid teacher, because I've been in a situation similar where I'm used to new environments, new people, new children, or they don't typically know who I am. So I'm really good at adapting to situations like that because I've done it previously, but with older children in elementary and absolutely loved it and I actually got hired there because of how much I was there all the time. But anyways, I believe that I'd be great candidate for up kid because of that factor of a new environment and all these things. And
+ The flexibility of the schedule, the last minute nasai can definitely handle as well as the children and the age group is really fun and also having the four years of experience. And so on is a great aspect and having my certifications and being a lead teacher which I was for pre-k, definitely helps with the situation and having my own classroom. Also
 
 </details>
 
 🔗 **App Account:** 🟢 Lila Alouani
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm in the process of currently moving. So I'm just preparing myself for the move. I will be there the third week of May, so I should be ready to star, 25 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. the process of currently moving, 25 miles. 24+ years preschool, elementary school experience. Worked with infants, preschool-age, school-age, teens. Currently studying education/child development. Looking for full-time (school schedule).
 
 ---
 
 ### #144 — ✅ APPROVE (HIGH) — Schantalyn Dickens
 
-📧 schantalyns@gmail.com | 📱 (404) 955-1666 | 📍 Georgia
+📧 schantalyns@gmail.com | 📱 (404) 955-1666 | 📍 Atlanta, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Formal
-**Location:** I am located in Atlanta, Georgia.
-**Schedule:** I am interested in part-time and full-time positions.
+**Location:** Atlanta, Georgia
+**Schedule:** full-time, part-time
 
-**Summary:** Schantalyn has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Schantalyn has solid formal childcare experience.
 
 **Red Flags:** None
 
@@ -5733,20 +5933,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Schantalyn  Dickens
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Atlanta, Georgia.. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta, Georgia. Childcare experience (details in interview). Looking for full-time, part-time.
 
 ---
 
 ### #145 — ✅ APPROVE (LOW) — Demetria Clark
 
-📧 demetriaclark00@gmail.com | 📱 (404) 723-2756 | 📍 Georgia
+📧 demetriaclark00@gmail.com | 📱 (404) 723-2756 | 📍 Atlanta Georgia Island to travel approximately 15 to 20 miles to work
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** I am in Atlanta Georgia Island to travel approximately 15 to 20 miles to work.
-**Schedule:** I am looking for both full-time and part-time shifts and I'm available from 8:30 to 3:30 p.m.
+**Experience:** Unclear. Ages: infants
+**Location:** Atlanta Georgia Island to travel approximately 15 to 20 miles to work, 15-20 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Demetria mentions experience with children but the specifics are unclear from the transcript.
+**Summary:** Demetria mentions experience with children but the specifics are vague in the transcript. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -5759,7 +5959,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I am looking for both full-time and part-time shifts and I'm available from 8:30 to 3:30 p.m.
 
-**Q6 — Conflict Resolution:** How I would deal with conflict between two children? I would address the situation first. If there is no hitting involved, I will give them a warning second. If there is hearing a while and there is the conflict between the children at the, I have addressed the situation. I would start by sending an email or calling home to the parent that caused the conflict and remove maturity from the classroom...
+**Q6 — Conflict Resolution:** How I would deal with conflict between two children? I would address the situation first. If there is no hitting involved, I will give them a warning second. If there is hearing a while and there is the conflict between the children at the, I have addressed the situation. I would start by sending an email or calling home to the parent that caused the conflict and remove maturity from the classroom to prevent them from disrupting the learning environment.
 
 **Q7 — Why Great:** I will make a good okay, teacher, because I really enjoyed working with young kids who don't mind learning. I also don't mind working with kids who are willing to put in the effort to meet their teacher. However you know, halfway 98% of the way. If they're willing to put in the work I'm willing to be the teacher to help him.
 
@@ -5768,20 +5968,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Demetria Clark
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am in Atlanta Georgia Island to travel approximately 15 to 20 miles to work., 15-20 miles. Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia Island to travel approximately 15 to 20 miles to work, 15-20 miles. Childcare experience (details in interview). Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #146 — ✅ APPROVE (MEDIUM) — Tiffani Reddick
 
-📧 rosereddick26@gmail.com | 📱 (770) 657-8433 | 📍 Georgia
+📧 rosereddick26@gmail.com | 📱 (770) 657-8433 | 📍 I am currently staying in Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am currently staying in Georgia. I am right now, I'm currently located in Powder Springs but I'm moving to Augusta Georgia. In a few days, I'm willing to travel at least like 20 minutes. Within my n...
-**Schedule:** I'm willing to work. Part-time shifts.
+**Experience:** Mixed (babysitter, tutor). Ages: infants, teens
+**Location:** I am currently staying in Georgia, 20 miles
+**Schedule:** part-time
 
-**Summary:** Tiffani has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Tiffani has a mix of formal and informal childcare experience. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -5789,13 +5989,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Tiffany, Reddick, and I used to do child. I used to do baby sitting in my old home in Powder Springs. Georgia, I'm currently staying in Augusta Georgia with my grandfather. I am finishing up, high school. I am a senior, the reason I have my background but childcare is I used to watch it just
- Tutor on to the eight years old, I used to Old like sometimes I would babysit them like, you know, I would they would sleep over at my house if their parents were either having, you know, night shifts and work or morning shifts, you know, I would make sure the kids would eat. I would provid...
+ Tutor on to the eight years old, I used to Old like sometimes I would babysit them like, you know, I would they would sleep over at my house if their parents were either having, you know, night shifts and work or morning shifts, you know, I would make sure the kids would eat. I would provide them with sandwiches, you know, cereal, you know, snack time. And then, you know, I would make sure that we will always go in my backyard and play basketball or you know.
+ You know, like outside activities.
 
 **Q4 — Location:** I am currently staying in Georgia. I am right now, I'm currently located in Powder Springs but I'm moving to Augusta Georgia. In a few days, I'm willing to travel at least like 20 minutes. Within my new location because know I'm willing to take any shifts if as long as this part time.
 
 **Q5 — Schedule:** I'm willing to work. Part-time shifts.
 
-**Q6 — Conflict Resolution:** I honestly always made them, hit hug it out. And then after afterwards, I would sit down with, you know, one of them at a time limit. No, no, hey, I'm telling you why, what you did was wrong and what you want, your actions, are you do it? When you have, when you do a bad action, there are consequences with that and, you know, I would, it's more so, like, a communication thing, like, you know, let ...
+**Q6 — Conflict Resolution:** I honestly always made them, hit hug it out. And then after afterwards, I would sit down with, you know, one of them at a time limit. No, no, hey, I'm telling you why, what you did was wrong and what you want, your actions, are you do it? When you have, when you do a bad action, there are consequences with that and, you know, I would, it's more so, like, a communication thing, like, you know, let kids know. Hey, what you did was wrong and you need to, you need to admit to it.
 
 **Q7 — Why Great:** I feel like I would make a great up kid teacher because I'm willing to teach kids new things that I don't know how to do, you know, it's good to give kids guidance so they can, you know, become greater in life.
 
@@ -5804,7 +6005,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Tiffani  Reddick
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am currently staying in Georgia. I am right now, I'm currently located in Powder Springs but I'm moving to Augusta Georgia. In a few days, I'm willi, 20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I am currently staying in Georgia, 20 miles. babysitter, tutor. Worked with infants, teens. Looking for part-time.
 
 ---
 
@@ -5813,11 +6014,11 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 jarrettjournie@gmail.com | 📱 (706) 273-0733 | 📍 Georgia
 Questions: 2/5 — Q3 ✅ Q4 ❌ Q5 ✅ Q6 ❌ Q7 ❌
 
-**Experience:** Unclear (11yr)
-**Location:** Georgia (inferred from phone area code)
-**Schedule:** I can work any day of the week, full-time or part-time.
+**Experience:** Unclear, 11+ years. Ages: infants
+**Location:** Georgia
+**Schedule:** full-time, part-time
 
-**Summary:** Journie mentions experience with children but the specifics are unclear from the transcript. Only answered 2/5 questions — limited data to evaluate.
+**Summary:** Journie only answered 2/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 2/5 questions answered
@@ -5835,22 +6036,20 @@ Questions: 2/5 — Q3 ✅ Q4 ❌ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Journie Jarrett
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Georgia (from phone). Experience with children (specifics unclear from interview). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Georgia. Childcare experience (details in interview). Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #148 — ✅ APPROVE (MEDIUM) — Chloe Flanary
 
-📧 chloeflanary22@gmail.com | 📱 (801) 616-2525 | 📍 Utah
+📧 chloeflanary22@gmail.com | 📱 (801) 616-2525 | 📍 I just moved to Herriman Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (19yr)
-**Location:** I just moved to Herriman Utah.
- And I'm willing to drive a 30 to 40 minutes away depending on where you need me. I do prefer closer but 30 minutes
- I drive 30 minutes to my other job so that's what re...
-**Schedule:** Honestly, I'm interested in part-time and full-time. So either or I am pretty available in the morning specifically which I believe is when most schools are open. So I'm pretty open to that and I don't think Friday's work for me. But I do have Monday...
+**Experience:** Mixed (substitute teacher, babysitter), 19+ years. Ages: infants, teens
+**Location:** I just moved to Herriman Utah, 30-40 miles
+**Schedule:** full-time, part-time (school schedule, mornings)
 
-**Summary:** Chloe has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Chloe has a mix of formal and informal childcare experience. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -5859,17 +6058,18 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Chloe Flannery, I'm the oldest daughter and grandchild. So I've had a lot of experience with the younger kids. I have 23 cousins on both sides of my family. So I've had anywhere from 0 to 19 years old, as far as I go. So I've
  Lot of lot of kids in my family. I am pretty much the designated babysitter and I used to, when I was like 12 or 13, I used to do babysitting around the neighborhood. I think kids have really cool ideas and I always love learning from them. And I always wanted to be a substitute teacher, because it's always sounds like fun and
- I know that I won't be like ...
+ I know that I won't be like an actual teacher, but substituting gives me a little bit of the experience if I ever thought of going that way. So yeah, that's a little bit about me.
 
 **Q4 — Location:** I just moved to Herriman Utah.
  And I'm willing to drive a 30 to 40 minutes away depending on where you need me. I do prefer closer but 30 minutes
  I drive 30 minutes to my other job so that's what really fine.
 
 **Q5 — Schedule:** Honestly, I'm interested in part-time and full-time. So either or I am pretty available in the morning specifically which I believe is when most schools are open. So I'm pretty open to that and I don't think Friday's work for me. But I do have Monday through Thursday and
- I'm down for full-time or p...
+ I'm down for full-time or part-time, whatever you guys need. So I'm just trying to
+ Figure out what my schedule is going to look like.
 
 **Q6 — Conflict Resolution:** My cousins do fight a lot. I have a younger sister and she always butts heads with one of her cousins, that is her age, and I always have to have them. Take a deep breath. And then we talked about how they're feeling and why they hit or why they said that rude thing to them. You know, and you always soup done, like go down to their level and make sure that they feel like they've been heard
- Heard ...
+ Heard and understood because most of the time when that happens, there something else going on?
 
 **Q7 — Why Great:** I think being a teacher would be so fun and I think I do really well with kids. I have a lot of experience specifically in my family, but my sister is actually a substitute teacher and she loves it and kind of inspired me to do this. So I think it's gonna be fun experience and I love new experiences. So,
  Yeah, I'm down for anything.
@@ -5879,23 +6079,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Chloe Flanary
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I just moved to Herriman Utah.
- And I'm willing to drive a 30 to 40 minutes away depending on where you need me. I do prefer closer but 30 minutes
- I , 30-40 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I just moved to Herriman Utah, 30-40 miles. 19+ years as substitute teacher, babysitter. Worked with infants, teens. Looking for full-time, part-time (school schedule, mornings).
 
 ---
 
 ### #149 — ✅ APPROVE (MEDIUM) — Yesenia Garza
 
-📧 yeseniagarza0707@gmail.com | 📱 (385) 270-4071 | 📍 Utah
+📧 yeseniagarza0707@gmail.com | 📱 (385) 270-4071 | 📍 I would just like to get the saw like area
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (17yr)
-**Location:** I would just like to get the saw like area which is like currents to your village Sugarhouse Mill Creek Magna. Well the commute to commute 30 minutes commute I believe that I'll be okay like to pick u...
-**Schedule:** I want to say a 38 in the morning, but of course, I can't because my boys could hop on the bus and or take them to school by night. So basically, it will be a part-time, which would be like from
- 11:00 a.m. until
+**Experience:** Mixed (substitute teacher, babysitter), 17+ years. Ages: infants, preschool-age
+**Location:** I would just like to get the saw like area, 30 miles
+**Schedule:** part-time (school schedule, mornings)
 
-**Summary:** Yesenia has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward.
+**Summary:** Yesenia has a mix of formal and informal childcare experience. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+13852704071 APP=None
@@ -5904,7 +6101,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Susan, Augusta. I am originally from Mexico. I was raised in Texas 17 years ago. I came to Salt Lake City. I love it. I have seven children. I have four boys and three girls. And I have three grandbabies also. I've been around children and mostly all my life, but I did start.
- My first job, when I was eight years old, I started babysitting Florida. I judge a judge has daughter was, my neighbor, was my mom's neighbor and I started babysitting for them and ever since I just loved it. I just loved her and her up with children, even though I was a child myself, but I can, you know, ...
+ My first job, when I was eight years old, I started babysitting Florida. I judge a judge has daughter was, my neighbor, was my mom's neighbor and I started babysitting for them and ever since I just loved it. I just loved her and her up with children, even though I was a child myself, but I can, you know, yes, you can see. I have some
+ Children's. I love children. I also have two children with autism and they have different kind of spectrums. Many different kind of spectrums. They're still in toileting. So I have experience on that. My, my boys are eight years old. The ones that have is autism. So I also went just so I can do a little bit better, my boys and how to interact with.
+ Am I also went to that you took military action and I was substitute there and I got to know a lot of kids with lots of different spectrums. Also at the Furnace School District, I was also working with special education and he was a very nice experience. As you can tell, I love the environment, I love to be around children, I don't have no problem and I
+ A lots of patients will.
 
 **Q4 — Location:** I would just like to get the saw like area which is like currents to your village Sugarhouse Mill Creek Magna. Well the commute to commute 30 minutes commute I believe that I'll be okay like to pick up shifts but if it's necessarily, I will
 
@@ -5922,20 +6122,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+13852704071 APP=None
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I would just like to get the saw like area which is like currents to your village Sugarhouse Mill Creek Magna. Well the commute to commute 30 minutes , 30 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I would just like to get the saw like area, 30 miles. 17+ years as substitute teacher, babysitter. Worked with infants, preschool-age. Looking for part-time (school schedule, mornings).
 
 ---
 
 ### #150 — ✅ APPROVE (HIGH) — Loren Reddick
 
-📧 lorenreddick146@gmail.com | 📱 (912) 656-5300 | 📍 Georgia
+📧 lorenreddick146@gmail.com | 📱 (912) 656-5300 | 📍 A stay in Atlanta, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** A stay in Atlanta, Georgia. I would love to travel within 10 to 15 miles in my district.
-**Schedule:** I'm looking for a full-time fixable with my knees are nice earnings.
+**Experience:** Formal — preschool. Ages: preschool-age
+**Location:** A stay in Atlanta, Georgia, 10-15 miles
+**Schedule:** full-time
 
-**Summary:** Loren has formal childcare experience (preschool). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Loren is a strong candidate — preschool experience. Has worked with preschool-age.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+19126565300 APP=+14708212263
@@ -5959,22 +6159,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+19126565300 APP=+14708212263
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. A stay in Atlanta, Georgia. I would love to travel within 10 to 15 miles in my district., 10-15 miles. preschool experience. Looking for full-time.
+> 03/30 Intro Call Passed. A stay in Atlanta, Georgia, 10-15 miles. preschool experience. Worked with preschool-age. Looking for full-time.
 
 ---
 
 ### #151 — ✅ APPROVE (LOW) — Trinity Moss
 
-📧 mtrinity408@gmail.com | 📱 (470) 433-6291 | 📍 Georgia
+📧 mtrinity408@gmail.com | 📱 (470) 433-6291 | 📍 I'm located in l
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear (16yr)
-**Location:** I'm located in l.a. with Georgia.
- I'm pretty much okay with traveling.
-**Schedule:** I'm looking for full-time work and I'm pretty much available.
- 732 6:30.
+**Experience:** Unclear, 16+ years
+**Location:** I'm located in l
+**Schedule:** full-time
 
-**Summary:** Trinity mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Trinity mentions experience with children but the specifics are vague in the transcript.
 
 **Red Flags:** None
 
@@ -6003,21 +6201,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Trinity  Moss
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in l.a. with Georgia.
- I'm pretty much okay with traveling.. Experience with children (specifics unclear from interview). Looking for full-time.
+> 03/30 Intro Call Passed. I'm located in l. Childcare experience (details in interview). Looking for full-time.
 
 ---
 
 ### #152 — ✅ APPROVE (MEDIUM) — Helena Mesquita
 
-📧 ladylenakay@gmail.com | 📱 (385) 294-6761 | 📍 Utah
+📧 ladylenakay@gmail.com | 📱 (385) 294-6761 | 📍 Midvale Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I currently live in Midvale Utah. My zip code is 840, 47. I'd be willing to travel up to 30 minutes to come cover any shifts. And my availability is very open.
-**Schedule:** Ideally, I would be looking for a full-time but I am very flexible. I can do part time as well wherever I'm needed. I'm happy to to oblige. My availability is completely open, I am getting married in the first week of June so that week I wouldn't be ...
+**Experience:** Mixed (nanny, babysitter). Ages: infants, teens
+**Location:** Midvale Utah, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Helena has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Helena has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -6025,35 +6222,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Alaina, Mesquita. I absolutely love children. I cannot wait to be a mom. I have taken quite a few early childhood development classes. Back in high school, I am the second oldest of six children so I did take care of my siblings. A lot growing up. I have done a lot of one time kind of babysitting and Nanny and gigs. I have worked kind of a nine-to-five office job the last few years.
- Ears and a lot in the service industry. I just needed a little bit more stable, finances than childcare typically offers, but I've been finding, I need to do something that's a little more rewarding...
+ Ears and a lot in the service industry. I just needed a little bit more stable, finances than childcare typically offers, but I've been finding, I need to do something that's a little more rewarding and being around children is absolutely that I love to sing. I love to draw and paint and I love being around children and how it brings out my creative side. And I love just listening to kids and being in touch with my emotions, is something that's very near and dear to my heart as
+ As well.
 
 **Q4 — Location:** I currently live in Midvale Utah. My zip code is 840, 47. I'd be willing to travel up to 30 minutes to come cover any shifts. And my availability is very open.
 
-**Q5 — Schedule:** Ideally, I would be looking for a full-time but I am very flexible. I can do part time as well wherever I'm needed. I'm happy to to oblige. My availability is completely open, I am getting married in the first week of June so that week I wouldn't be available. But outside of that, I'd be available. ...
+**Q5 — Schedule:** Ideally, I would be looking for a full-time but I am very flexible. I can do part time as well wherever I'm needed. I'm happy to to oblige. My availability is completely open, I am getting married in the first week of June so that week I wouldn't be available. But outside of that, I'd be available. Anytime starting as soon as possible.
 
-**Q6 — Conflict Resolution:** As far as conflict between two children, there are a few variables that would make a difference in how I would respond developmentally as far as if these children usually have behavioral issues. Or if this is kind of a one-off situation in the prompted said that a child hits another child. First of all, it's not safe for the other child to be around someone that is physically hurting them. So I wo...
+**Q6 — Conflict Resolution:** As far as conflict between two children, there are a few variables that would make a difference in how I would respond developmentally as far as if these children usually have behavioral issues. Or if this is kind of a one-off situation in the prompted said that a child hits another child. First of all, it's not safe for the other child to be around someone that is physically hurting them. So I would definitely remove them from the situation. Take them out of the room and give them some water.
+ One-on-one attention, ask maybe, what's been going on today. Again, depending on their age, and developmental skills, kind of discuss their emotions and kind of what has led us there, probably some time away from the class some time to think about what we've done and kind of talk about how hitting other people is not okay. We have to be in control of our own bodies and we can't use our bodies to her other people. If
+ It's something like they were both trying to share the same toy and they wanted the same thing. At the same time, you can find another option for them and I think distracting as well again, depending on their age, can be a good tool, just kind of redirect their attention to something else, and choose another activity that I think they might be interested in after kind of discussing their emotions and what may have led them to to do that.
 
-**Q7 — Why Great:** I would make a great up kid teacher because I absolutely love being around children. I love being creative. I'm very gentle with children, and I'm a good listener, but I do have a sense of authority. So, anytime I've been around children, they usually gravitate towards me. I love being silly. It's easy for me to be creative and sing with the kids or get on their level and kind of help them feel li...
+**Q7 — Why Great:** I would make a great up kid teacher because I absolutely love being around children. I love being creative. I'm very gentle with children, and I'm a good listener, but I do have a sense of authority. So, anytime I've been around children, they usually gravitate towards me. I love being silly. It's easy for me to be creative and sing with the kids or get on their level and kind of help them feel like they're heard, I absolutely love.
+ Spending time with kids and listening to them and there's a lot we can learn from kids and I just there an absolute joy and I would just love to be around them. That sounds so silly, but they're just such a joy to be around and really makes my day better when I get to be around kids and to work with them and listen to them, especially those that don't have a strong sense of family or leadership or connection at home when they can come to school.
+ School or their childcare and have somebody that's there and spending time with them one-on-one and giving them the emotional tension that they need is really rewarding for me.
 
 </details>
 
 🔗 **App Account:** 🟢 Helena Mesquita
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Midvale Utah. My zip code is 840, 47. I'd be willing to travel up to 30 minutes to come cover any shifts. And my availability is v, 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Midvale Utah, 30 miles. nanny, babysitter. Worked with infants, teens. Looking for full-time, part-time.
 
 ---
 
 ### #153 — ✅ APPROVE (MEDIUM) — Keyna C
 
-📧 krcampb1@icloud.com | 📱 (602) 400-9856 | 📍 Arizona
+📧 krcampb1@icloud.com | 📱 (602) 400-9856 | 📍 Arizona, Phoenix, Arizona, I am willing to travel any distance to work shifts
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (18yr)
-**Location:** I live in Arizona, Phoenix, Arizona, I am willing to travel any distance to work shifts.
-**Schedule:** I am looking for a full-time job.
+**Experience:** Mixed (babysitter), 18+ years. Ages: infants
+**Location:** Arizona, Phoenix, Arizona, I am willing to travel any distance to work shifts
+**Schedule:** full-time
 
-**Summary:** Keyna has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Keyna has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -6078,21 +6280,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Keyna campbell
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Arizona, Phoenix, Arizona, I am willing to travel any distance to work shifts.. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Arizona, Phoenix, Arizona, I am willing to travel any distance to work shifts. 18+ years as babysitter. Worked with infants. Looking for full-time.
 
 ---
 
 ### #154 — ✅ APPROVE (MEDIUM) — Bou Brinton
 
-📧 boubrinton@gmail.com | 📱 (801) 600-4549 | 📍 Utah
+📧 boubrinton@gmail.com | 📱 (801) 600-4549 | 📍 Syracuse Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I am located in Syracuse Utah. I'm willing to drive about 30 minutes any direction that involves Riverdale, South Ogden, South Weber Farmington Rowley Layton Clearfield Clinton Bountiful really anywhe...
-**Schedule:** Part-time would be perfect because I am a college student. I would also need to have Mondays off.
- But every other day, other than Monday's, I'm ready and willing to work.
+**Experience:** Informal (babysitter). Ages: infants
+**Location:** Syracuse Utah, 30 miles
+**Schedule:** part-time (school schedule)
 
-**Summary:** Bou's experience is informal — babysitting, family care, or similar. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Bou's experience is informal (babysitting/family) but Utah is lenient on this. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -6108,30 +6309,30 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  But every other day, other than Monday's, I'm ready and willing to work.
 
 **Q6 — Conflict Resolution:** first, I would separate them and then I would talk to each one individually one-on-one and ask them their side of the story, then properly evaluate the situation and discuss the punishments or how the child doing the hitting would need to apologize and
- Me personally I would also try to encourage them to express how they feel rather than just apologizing because I've noticed that that tends to dee...
+ Me personally I would also try to encourage them to express how they feel rather than just apologizing because I've noticed that that tends to deescalate situations a little better, especially when validating and making each child feel hurt.
 
 **Q7 — Why Great:** I think that I'm a very outgoing and fun person especially when it comes to kids. I tend to have these crazy earrings and fun outfits like Miss Frizzle from The Magic School Bus. But
- I've been told multiple times, I would make a good teacher, not only from peers, but from the kids, I babysit, I tend to keep them invested really well and keep them entertained and busy while still teaching and havi...
+ I've been told multiple times, I would make a good teacher, not only from peers, but from the kids, I babysit, I tend to keep them invested really well and keep them entertained and busy while still teaching and having them learn about different things. It depends on the subject.
 
 </details>
 
 🔗 **App Account:** 🟢 abbigail Brinton
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Syracuse Utah. I'm willing to drive about 30 minutes any direction that involves Riverdale, South Ogden, South Weber Farmington Rowley, 30 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Syracuse Utah, 30 miles. babysitter. Worked with infants. Looking for part-time (school schedule).
 
 ---
 
 ### #155 — ✅ APPROVE (LOW) — Victoria Oliver
 
-📧 voliver14@hotmail.com | 📱 (678) 368-8256 | 📍 Georgia
+📧 voliver14@hotmail.com | 📱 (678) 368-8256 | 📍 I'm currently located in Decatur Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** I'm currently located in Decatur Georgia, and I'm willing to travel up to about 10 miles for shifts. I prefer to stay within that range, so I can be reliable and on time, but I'm open to nearby areas ...
-**Schedule:** I'm currently looking for part-time opportunities. I'm available Monday through Friday from 7:30, a.m. to 1 p.m. and I'm looking for shifts that fit within that time frame. I'm consistent with my availability and always aim to be dependable. And on t...
+**Experience:** Unclear — church childcare, elementary school. Ages: infants, school-age
+**Location:** I'm currently located in Decatur Georgia, 10 miles
+**Schedule:** part-time
 
-**Summary:** Victoria mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Victoria mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -6140,35 +6341,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Victoria. I have Hands-On childcare experience both personally. And in community settings, I am a full-time caregiver to my child with special needs, which is given me a lot of experience with patients structure and being really attentive to individual needs. I'm very used to creating routines handling different behaviors and making sure children feel safe.
  If supported and understood, I've also helped in church childcare working with Children of different ages and group sitting so I'm comfortable supervising.
- Engaging kids in activities and keeping a positive environment. I'v...
+ Engaging kids in activities and keeping a positive environment. I've worked with children from newborn all the way up to Elementary age. So I'm pretty flexible and able to enjoy adjust based on different developmental stages. What I most enjoy about working with children is how fulfilling it is. I genuinely love being around kids, their energy, their personalities and watching them.
+ Learn and grow, our really enjoy being someone who can make them feel safe, cared for and happy even in a short amount of time. I take childcare seriously and I always try to show up with patience kindness and a positive attitude.
 
 **Q4 — Location:** I'm currently located in Decatur Georgia, and I'm willing to travel up to about 10 miles for shifts. I prefer to stay within that range, so I can be reliable and on time, but I'm open to nearby areas within that distance.
 
-**Q5 — Schedule:** I'm currently looking for part-time opportunities. I'm available Monday through Friday from 7:30, a.m. to 1 p.m. and I'm looking for shifts that fit within that time frame. I'm consistent with my availability and always aim to be dependable. And on time, I may have some flexibility with advance noti...
+**Q5 — Schedule:** I'm currently looking for part-time opportunities. I'm available Monday through Friday from 7:30, a.m. to 1 p.m. and I'm looking for shifts that fit within that time frame. I'm consistent with my availability and always aim to be dependable. And on time, I may have some flexibility with advance notice.
 
-**Q6 — Conflict Resolution:** If one child hits another, my first priority is making sure everyone is safe. I would calmly separate the children and check on the child who was hurt to make sure they're okay. Then I would have dressed the child who hit helping them understand that hitting isn't okay and guiding them to use their words or Express their feelings in a safer way. I also try to understand what caused the situation, ...
+**Q6 — Conflict Resolution:** If one child hits another, my first priority is making sure everyone is safe. I would calmly separate the children and check on the child who was hurt to make sure they're okay. Then I would have dressed the child who hit helping them understand that hitting isn't okay and guiding them to use their words or Express their feelings in a safer way. I also try to understand what caused the situation, so I can help prevent it in the future if appropriate I would encourage us.
+ Simple apology and help both children move forward in a positive way. I always aim to handle situations, calmly fairly and in a way that teaches children better ways to communicate.
 
-**Q7 — Why Great:** I believe I would make a great up kid teacher because I'm patient dependable and genuinely care about the well-being of every child, I work with as a full-time caregiver to my child with special needs. I've developed a strong ability to adapt to different personalities and needs, stay calm under pressure and create a structured, but nurturing environment, I understand how important it is for child...
+**Q7 — Why Great:** I believe I would make a great up kid teacher because I'm patient dependable and genuinely care about the well-being of every child, I work with as a full-time caregiver to my child with special needs. I've developed a strong ability to adapt to different personalities and needs, stay calm under pressure and create a structured, but nurturing environment, I understand how important it is for children of fuel.
+ A safe seen and supported, and I always do my best to bring a positive inattentive energy into any space Simon. I'm also reliable and take my responsibility, seriously, so programs, can trust that I'll show up ready to help and support them are do truly, enjoy working with children, and I'm excited for the opportunities to support, different classrooms, and make a positive impact.
 
 </details>
 
 🔗 **App Account:** 🟢 Victoria Oliver
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in Decatur Georgia, and I'm willing to travel up to about 10 miles for shifts. I prefer to stay within that range, so I can be r, 10 miles. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. I'm currently located in Decatur Georgia, 10 miles. church childcare, elementary school experience. Worked with infants, school-age. Looking for part-time.
 
 ---
 
 ### #156 — ✅ APPROVE (LOW) — ava duncan
 
-📧 avaduncan048@gmail.com | 📱 (470) 345-7648 | 📍 Georgia
+📧 avaduncan048@gmail.com | 📱 (470) 345-7648 | 📍 midtown Atlanta which is located in Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Unclear
-**Location:** I live in midtown Atlanta which is located in Georgia, and I'm willing to travel up to 25 miles to my place of work.
-**Schedule:** I'm mainly looking for part-time. I am available almost every day in the morning, so it wouldn't be a problem for me to wake up and take an earlier shift. I'm not super available in the evenings, it would be on, very particular days that I could pick...
+**Experience:** Unclear. Ages: infants
+**Location:** midtown Atlanta which is located in Georgia, 25 miles
+**Schedule:** part-time (mornings/evenings)
 
-**Summary:** ava mentions experience with children but the specifics are unclear from the transcript. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** ava mentions experience with children but the specifics are vague in the transcript. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=avaduncan048@gmail.com APP=aduncan75@gatech.edu
@@ -6181,12 +6385,13 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q4 — Location:** I live in midtown Atlanta which is located in Georgia, and I'm willing to travel up to 25 miles to my place of work.
 
-**Q5 — Schedule:** I'm mainly looking for part-time. I am available almost every day in the morning, so it wouldn't be a problem for me to wake up and take an earlier shift. I'm not super available in the evenings, it would be on, very particular days that I could pick up shifts on the, on the evenings. But early shif...
+**Q5 — Schedule:** I'm mainly looking for part-time. I am available almost every day in the morning, so it wouldn't be a problem for me to wake up and take an earlier shift. I'm not super available in the evenings, it would be on, very particular days that I could pick up shifts on the, on the evenings. But early shifts are ideal for me.
 
 **Q6 — Conflict Resolution:** I have doubt a child conflicts before the child with autism that I babysat before hand also had a little brother and there was actually a scenario where his little brother had hit him. So first, my first response was to respond calmly and to make sure that both of them were safe. I would I went to the child who was hit first and I comforted him and I would make sure that he was okay.
- Okay, and th...
+ Okay, and then I went to address the child who acted out and I helped him understand that his behavior was not appropriate. I encourage them both to express their feelings using words to guide them towards more positive ways to handle their frustration. My goal was to be was to reinforce kindness and respectable, helping both children feel supported and understood.
 
-**Q7 — Why Great:** I would make a great up kid teacher because I bring a strong combination of patients responsibility and just genuine care for children through my experience, babysitting a child with autism and volunteering for the, I can buy Gwinnett organization. I developed the ability to support children with diverse needs while creating a safe and encouraging environment. I'm attentive reliable and able to co...
+**Q7 — Why Great:** I would make a great up kid teacher because I bring a strong combination of patients responsibility and just genuine care for children through my experience, babysitting a child with autism and volunteering for the, I can buy Gwinnett organization. I developed the ability to support children with diverse needs while creating a safe and encouraging environment. I'm attentive reliable and able to communicate, effectively with both children and parents. Most importantly, I am passionate about helping children grow in confidence.
+ Feel supported and have a positive engaging experience.
 
 </details>
 
@@ -6194,20 +6399,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=avaduncan048@gmail.com APP=aduncan75@gatech.edu
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in midtown Atlanta which is located in Georgia, and I'm willing to travel up to 25 miles to my place of work., 25 miles. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. midtown Atlanta which is located in Georgia, 25 miles. Childcare experience (details in interview). Worked with infants. Looking for part-time (mornings/evenings).
 
 ---
 
 ### #157 — 🟡 FLAG (MEDIUM) — Tara Lake
 
-📧 taralake777@gmail.com | 📱 (623) 688-6771 | 📍 Arizona
+📧 taralake777@gmail.com | 📱 (623) 688-6771 | 📍 Phoenix, Arizona, ZIP code 850 53
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I currently live in Phoenix, Arizona, ZIP code 850 53. I'm also willing to travel to the north Phoenix area as well as North Glendale areas and I would be willing to travel. I would say up to five, ma...
-**Schedule:** I am looking for a part-time work. I currently work from 10:45 a.m. to 3:30 p.m. so I would be able to work any shifts around those times.
+**Experience:** Formal — kindergarten. Ages: preschool-age, school-age
+**Location:** Phoenix, Arizona, ZIP code 850 53
+**Schedule:** part-time
 
-**Summary:** Tara has formal childcare experience (kindergarten). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tara needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -6217,39 +6422,43 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Tara Lake. I have a few years of experience working with children. My most current position is with Deer Valley Unified School District. I am working in a pre-kindergarten program with four and five-year-olds. The goal of our program is to provide kindergarten Readiness for the kids and through basic lessons, we're learning ABCs numbers counting colors.
- Hers and my next job working with kids is I did work in a school cafeteria. I know that's gem-like not Hands-On with the kids but that is something I've done as well. Do you love interacting with the kids in that position? Was f...
+ Hers and my next job working with kids is I did work in a school cafeteria. I know that's gem-like not Hands-On with the kids but that is something I've done as well. Do you love interacting with the kids in that position? Was fun my next position working with children? I am back in 2020 and 2021 I was living in Flagstaff a worked at a
+ School at the time in a classroom is when we were doing distance learning, I was a monitor of a classroom of about 12 kids. Ranging from first grade to eighth grade, and I would help monitor the classroom. Assist, the kids with doing any of their schoolwork, any kind of help, they would need my final job. Working with kids is also with Deer Valley School District. I worked with them in their before and after
+ Care Program, from 2018 or 2019. We facilitated outdoor and indoor activities, I provided homework help. These kids were between the ages of kindergarten and eighth grade. And yeah, mostly focus on recreation activities and arts, and crafts, and just general enrichment for the kids. So, that's all my experience, very, very fun working with the kids.
 
 **Q4 — Location:** I currently live in Phoenix, Arizona, ZIP code 850 53. I'm also willing to travel to the north Phoenix area as well as North Glendale areas and I would be willing to travel. I would say up to five, maybe ten miles from my general location, just depending on where the facility is.
 
 **Q5 — Schedule:** I am looking for a part-time work. I currently work from 10:45 a.m. to 3:30 p.m. so I would be able to work any shifts around those times.
 
 **Q6 — Conflict Resolution:** My approach to conflict resolution between kids is to First remove them from the situation that's causing them to fight. Then I like to sit them both down and ask them to each tell their side of the story, one at a time. And from there I can gather understanding of the situation and then together with both me and the kids, we can come up with a fair solution for both and
- Terms of hitting sometime...
+ Terms of hitting sometimes they just need a separate, That's My Philosophy. If they can't get along the first couple times, then they will need to separate have some separate time, and then, usually, they're able to turn everything around and get along with their friends. Again, that's generally what I see in my preschool classroom. If a kid is being violent and hurting other children, I do believe they need to be separated from the group and kind of, you know, work on defusing there.
+ Havior. Whatever is upsetting them to kind of mitigate that behavior. Most of the time, I feel like it's easy to kind of guide. The kids towards a solution wilder than deciding for them. However, if it is a safety concern than I do, find it appropriate for the adult to make a decision if it's a safety concern. However, my goal is ultimately to teach the kids conflict resolution and kind of guide them into making their own decisions and learn
+ learning as well, that their behaviors can affect in her other people. So there's some emotional awareness in there as well.
 
 **Q7 — Why Great:** I believe I would be a good fit for up kid because I truly do have a passion for working with children every day. I go into my job with the preschool and I'm just so grateful that I get to be there and enrich those kids lives every day. And I feel like I have a lot of Sparkle that I can bring to other facilities as well. And just, you know, in be able to help kids, which is what I find most.
- Orto...
+ Orton and I love doing every day.
 
 </details>
 
 🔗 **App Account:** 🟢 Tara Lake
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I currently live in Phoenix, Arizona, ZIP code 850 53. I'm also willing to travel to the north Phoenix area as well as North Glendale areas and I woul. kindergarten experience. Looking for part-time.
+> 03/30 Intro Call Passed. Phoenix, Arizona, ZIP code 850 53. kindergarten experience. Worked with preschool-age, school-age. Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I currently live in Phoenix, Arizona, ZIP code 850 53. I'm also willing to travel to the north Phoenix area as well as North Glendale areas and I woul. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Phoenix, Arizona, ZIP code 850 53. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #158 — 🟡 FLAG (MEDIUM) — La’Laine Vandenburgh
 
-📧 lanibug01.01@gmail.com | 📱 (678) 850-7715 | 📍 Georgia
+📧 lanibug01.01@gmail.com | 📱 (678) 850-7715 | 📍 Senoia Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Informal
-**Location:** I live in Senoia Georgia and I'm willing to travel at least 25 minutes to 30 minutes to okay at 30 minutes or less to a job. Thank you.
-**Schedule:** I would like to work part-time because I am enrolled in GED classes at the moment and I go from eight in the morning to 12 p.m. from Monday through Friday. Well, Monday through Thursday, and then Friday Saturday and Sunday. I do not go to GED classes...
+**Location:** Senoia Georgia, 25 miles
+**Schedule:** part-time (school schedule, mornings)
 
-**Summary:** La’Laine's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** La’Laine explicitly states no childcare experience. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -6273,22 +6482,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 La'Laine Vandenburgh
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Senoia Georgia and I'm willing to travel at least 25 minutes to 30 minutes to okay at 30 minutes or less to a job. Thank you., 25 miles. Informal childcare experience (babysitting/family). Looking for part-time.
+> 03/30 Intro Call Passed. Senoia Georgia, 25 miles. Informal childcare experience (babysitting/family). Looking for part-time (school schedule, mornings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Senoia Georgia and I'm willing to travel at least 25 minutes to 30 minutes to okay at 30 minutes or less to a job. Thank you.. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Senoia Georgia. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #159 — ✅ APPROVE (MEDIUM) — Nariah Coley
 
-📧 coleynariah@gmail.com | 📱 (470) 912-7956 | 📍 Georgia
+📧 coleynariah@gmail.com | 📱 (470) 912-7956 | 📍 The city I stay in is Fayetteville the state is Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (20yr)
-**Location:** The city I stay in is Fayetteville the state is Georgia. The ZIP code is 30 to 15
-**Schedule:** My interest is full time but if you do have part-time options. That's alright too but my interest is definitely full time for any job honestly I have opened availability for any opportunity until I have a set job.
+**Experience:** Mixed (babysitter), 20+ years. Ages: infants, teens
+**Location:** The city I stay in is Fayetteville the state is Georgia
+**Schedule:** full-time, part-time
 
-**Summary:** Nariah has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nariah has a mix of formal and informal childcare experience. Currently college student, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -6296,36 +6505,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Mariah Coley and I enjoy working with kids. I've been babysitting since I could remember. Honestly, I will say I started at 7:00 when I had on my mom, had my sister and then my other little baby cousins will start getting born and then I'll be like, no eyes can come over my house and I'll watch them. Make sure that they potty, make sure that they eat. Make sure that they take their naps because naps are very
- Tania's babies are stubborn when it comes to naps but it works wonders. It feels so great. I did go to school and graduated from high school. I did go to Technical College for ...
+ Tania's babies are stubborn when it comes to naps but it works wonders. It feels so great. I did go to school and graduated from high school. I did go to Technical College for a pharmacy tech associate's degree, but I took a break on that because I lost my job and then I moved to a different area.
+ And now I'm going to school for welding. That's what I would like to do. And I'm just looking for a job, I'm 20 years old and that's all that I have.
 
 **Q4 — Location:** The city I stay in is Fayetteville the state is Georgia. The ZIP code is 30 to 15
 
 **Q5 — Schedule:** My interest is full time but if you do have part-time options. That's alright too but my interest is definitely full time for any job honestly I have opened availability for any opportunity until I have a set job.
 
-**Q6 — Conflict Resolution:** If two children were upset and started hitting each other, I would separate them and try to see why they were hitting each other. So I would separate them and talk to the first child and ask them what happened and what made them feel this way and why did they hit them? Then I will talk to the second child and see what happened with their part. So then whatever they're arguing over, we would resolv...
+**Q6 — Conflict Resolution:** If two children were upset and started hitting each other, I would separate them and try to see why they were hitting each other. So I would separate them and talk to the first child and ask them what happened and what made them feel this way and why did they hit them? Then I will talk to the second child and see what happened with their part. So then whatever they're arguing over, we would resolve the issue by either removing with they're arguing over or
+ just finding something else for them to cover their time and forget about why they were arguing. I also would have would have them apologize to each other. But in a way, we're not demanding, but understanding type of apology, like, you guys did not have to fight over that. We're going to leave this alone for a little bit. And then here, we can find something else to play with. Or we can go do something else or you guys can take a break from each other and go find some other people too.
+ Engage with. And then, when you guys are ready to talk to each other, again, you can either tell me or you can just go and play with each other.
 
 **Q7 — Why Great:** I feel it would make me a great, a great teacher at up, kid, is I have a good understanding of kids. And I understand that they are little babies and they see a lot of things and they are transparent processing things as they're learning. So for them it, I have patience with babies. I feel like I would be a great teacher because I have a balance of things. Oh, very good balance.
- Of when the time ...
+ Of when the time is to do things, when it's time to eat, when it's time to play. When it's time to nap. When people have conflict, I definitely know how to resolve that. And I know how to communicate with babies. You can't talk to babies, like, they're babies. You have to talk to them. Just like you would talk to a human because they are very understanding of words and emotions in different shift changes. So, you have to talk to them as if they know but not like
+ With big words or stuff like that. Just talk to them regularly, to where they won't understand. Not like a baby with those noises in the shortcuts of things. You have to talk to them. Like they're human because they are
 
 </details>
 
 🔗 **App Account:** 🟢 Nariah Coley
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. The city I stay in is Fayetteville the state is Georgia. The ZIP code is 30 to 15. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. The city I stay in is Fayetteville the state is Georgia. 20+ years as babysitter. Worked with infants, teens. Currently college student. Looking for full-time, part-time.
 
 ---
 
 ### #160 — ✅ APPROVE (LOW) — London ward
 
-📧 londonward64@gmail.com | 📱 (470) 960-9174 | 📍 Georgia
+📧 londonward64@gmail.com | 📱 (470) 960-9174 | 📍 Like I mentioned earlier, I'm originally from Atlanta and I still reside here
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unclear
-**Location:** Like I mentioned earlier, I'm originally from Atlanta and I still reside here.
-**Schedule:** I'm really interested in the flexible shifts that you guys offer. I also work part-time job outside of this side, Hustle.
+**Location:** Like I mentioned earlier, I'm originally from Atlanta and I still reside here
+**Schedule:** part-time
 
-**Summary:** London mentions experience with children but the specifics are unclear from the transcript. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** London mentions experience with children but the specifics are vague in the transcript. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+14709609174 APP=+16785315506
@@ -6349,20 +6562,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+14709609174 APP=+16785315506
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Like I mentioned earlier, I'm originally from Atlanta and I still reside here.. Experience with children (specifics unclear from interview). Looking for part-time.
+> 03/30 Intro Call Passed. Like I mentioned earlier, I'm originally from Atlanta and I still reside here. Childcare experience (details in interview). Looking for part-time.
 
 ---
 
 ### #161 — ✅ APPROVE (MEDIUM) — Michaela Ude-Lightfoot
 
-📧 michaelalightfoot@live.com | 📱 (302) 943-5826 | 📍 Georgia
+📧 michaelalightfoot@live.com | 📱 (302) 943-5826 | 📍 downtown, Atlanta Georgia and I don't mind traveling 30 to 40 minutes for shift
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am located in downtown, Atlanta Georgia and I don't mind traveling 30 to 40 minutes for shift.
-**Schedule:** I'm looking for part-time work. I have a full-time job that I work remotely. So I am able to adjust my schedule based on need, but I would like to work part-time.
+**Experience:** Mixed — camp counselor (babysitter). Ages: infants
+**Location:** downtown, Atlanta Georgia and I don't mind traveling 30 to 40 minutes for shift, 30-40 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Michaela has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Michaela has a mix of formal (camp counselor) and informal (babysitter) experience.
 
 **Red Flags:** None
 
@@ -6384,20 +6597,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Michaela Ude-Lightfoot
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in downtown, Atlanta Georgia and I don't mind traveling 30 to 40 minutes for shift., 30-40 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. downtown, Atlanta Georgia and I don't mind traveling 30 to 40 minutes for shift, 30-40 miles. camp counselor experience. Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #162 — ✅ APPROVE (MEDIUM) — Jakhiya Williams
 
-📧 khiya2708@gmail.com | 📱 (662) 415-5668 | 📍 Georgia
+📧 khiya2708@gmail.com | 📱 (662) 415-5668 | 📍 I'm located in Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Atlanta, Georgia, I'm around the Druid Hills area, it really doesn't. I really don't have a preference about traveling. I mean, all I go up to 30 or 40 minutes if I have to
-**Schedule:** I'm looking for a part-time work. Might have an open availability, which I can almost work anytime whenever I'm needed.
+**Experience:** Mixed — daycare, Boys & Girls Club, afterschool program (assistant teacher, babysitter). Ages: infants, toddlers
+**Location:** I'm located in Atlanta, 40 miles
+**Schedule:** part-time
 
-**Summary:** Jakhiya has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Jakhiya has a mix of formal (daycare, Boys & Girls Club) and informal (babysitter) experience. Currently college student, which shows commitment. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+16624155668 APP=None
@@ -6406,17 +6619,19 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Jessica Williams. I enjoy working with children because I was in college to becoming a teacher, but I ended up having a child of my own, so I haven't yet went back to college yet, but I am still interested in that. So before I do decide to go back with a one-year-old trying to work and provide
- I'd for him. I do want to get a little bit more experience with the Child Care Program with the schooling and everything. Before I decide, that's what I want to do with my career. Continuing in life, I have lots of experience as an after-school care day care. I have some assistant teacher exp...
+ I'd for him. I do want to get a little bit more experience with the Child Care Program with the schooling and everything. Before I decide, that's what I want to do with my career. Continuing in life, I have lots of experience as an after-school care day care. I have some assistant teacher experience. I've worked at a boys and girls club for after school.
+ I've babysitted kids for families individually. So I really have a little bit of experience with I'd say all ages, infants, toddlers, older kids, going up into teams. I also have experience with adults. I am a certified DSP, which means I am able to work with children with disabilities. Autism Down syndrome, all of the above, I am.
+ I'm certified with my CPR and my first aid as well.
 
 **Q4 — Location:** I'm located in Atlanta, Georgia, I'm around the Druid Hills area, it really doesn't. I really don't have a preference about traveling. I mean, all I go up to 30 or 40 minutes if I have to
 
 **Q5 — Schedule:** I'm looking for a part-time work. Might have an open availability, which I can almost work anytime whenever I'm needed.
 
 **Q6 — Conflict Resolution:** I always make sure I sit down with each child prior 101 and then I bring them together and tell them that is not good to fight or hit each other or be mean to each other. I always encourage them to be super nice to each other because they wouldn't want one another doing that to them prior to any incident that they have. And if they continue to do these incidents or continue to
- Use these actions w...
+ Use these actions with one another. Then I start taking away privileges, privileges. Sorry.
 
 **Q7 — Why Great:** I feel like I would make a great up kid teacher because every time a child comes up to me or I talk to a child, it's always smiles, it's nothing mean, it's nothing disrespectful and I really enjoy working with children. I feel like I can bring a lot to the table as a teacher. I can be someone that children trust to tell something that maybe they won't tell their parents or to
- tell something that ...
+ tell something that maybe they won't tell another teacher.
 
 </details>
 
@@ -6424,20 +6639,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+16624155668 APP=None
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta, Georgia, I'm around the Druid Hills area, it really doesn't. I really don't have a preference about traveling. I mean, all I g, 40 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta, 40 miles. daycare, Boys & Girls Club, afterschool program experience. Worked with infants, toddlers. Currently college student. Looking for part-time.
 
 ---
 
 ### #163 — ✅ APPROVE (HIGH) — Kameryn Scott
 
-📧 kamerynscott14@gmail.com | 📱 (470) 316-7415 | 📍 Georgia
+📧 kamerynscott14@gmail.com | 📱 (470) 316-7415 | 📍 I'm located in Colorado Springs, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in Colorado Springs, Georgia.
-**Schedule:** I'm looking for full-time shifts, and I'm available during the week from morning to afternoon.
+**Experience:** Formal. Ages: infants, toddlers, preschool-age, teens
+**Location:** I'm located in Colorado Springs, Georgia
+**Schedule:** full-time (mornings/afternoons)
 
-**Summary:** Kameryn has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** Kameryn has solid formal childcare experience. Has worked with infants, toddlers, preschool-age, teens. Currently studying education/child development.
 
 **Red Flags:** None
 
@@ -6450,7 +6665,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I'm looking for full-time shifts, and I'm available during the week from morning to afternoon.
 
-**Q6 — Conflict Resolution:** How I have dealt with conflict between two children was, for example, I had a one-year-old and a two-year-old in my classroom, and they were arguing about a toy and it exploded into a little fight. So I pull both of them to aside. Put them in time out and spoke to them one-on-one. And told them that it was not okay to be fighting over toys and that they can share. So then I'll soon put them back t...
+**Q6 — Conflict Resolution:** How I have dealt with conflict between two children was, for example, I had a one-year-old and a two-year-old in my classroom, and they were arguing about a toy and it exploded into a little fight. So I pull both of them to aside. Put them in time out and spoke to them one-on-one. And told them that it was not okay to be fighting over toys and that they can share. So then I'll soon put them back together, make them apologize and you know they ended up playing together.
 
 **Q7 — Why Great:** Why I should be a good teacher of kids because I love working with kids, no matter age. I just love working with kids, you know? It's a good experience, watching kids grow up and things like that.
 
@@ -6459,20 +6674,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Kameryn Scott
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Colorado Springs, Georgia.. Formal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. I'm located in Colorado Springs, Georgia. Childcare experience (details in interview). Worked with infants, toddlers, preschool-age, teens. Currently studying education/child development. Looking for full-time (mornings/afternoons).
 
 ---
 
 ### #164 — ✅ APPROVE (HIGH) — Mia Bland
 
-📧 m.mariemb777@gmail.com | 📱 (925) 788-8991 | 📍 Arizona
+📧 m.mariemb777@gmail.com | 📱 (925) 788-8991 | 📍 North Glendale and I'm willing to travel within like 25 mile distance
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (17yr, 18mo)
-**Location:** I am located in North Glendale and I'm willing to travel within like 25 mile distance.
-**Schedule:** My availability is pretty open. Although I'm looking for more of a flexible schedule, I'm open to part-time or full-time. I guess it depends on the availability of the sub jobs in my area.
+**Experience:** Formal, 17+ years. Ages: preschool-age, teens
+**Location:** North Glendale and I'm willing to travel within like 25 mile distance, 25 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Mia has formal childcare experience with 17+ years in a professional setting. Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Mia has solid formal childcare experience. Has worked with preschool-age, teens. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+19257888991 APP=+13417661404
@@ -6481,17 +6696,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Mia. Bland I'm from Berkeley California. I live in Glendale Arizona. I have over 8 years of experience with ABA therapy where I've been in behavioral technician working with kiddos from 18 months, to 17 years old, and clinic and home. And in the school setting, my also have about three years of experience working for the Contra Costa.
- County Office of Education where I was an instructional assistant in the high school classroom. I also have experience as a youth, Advocate where I worked with Alameda County as a youth, Advocate serving Youth, and Young adults, and their major team d...
+ County Office of Education where I was an instructional assistant in the high school classroom. I also have experience as a youth, Advocate where I worked with Alameda County as a youth, Advocate serving Youth, and Young adults, and their major team decision-making, meetings and foster care and probation, and with the legal system,
+ Demand, their lawyers, social workers, Etc. So yeah, I'm very passionate about serving and guiding the youth and I'm very excited for this opportunity.
 
 **Q4 — Location:** I am located in North Glendale and I'm willing to travel within like 25 mile distance.
 
 **Q5 — Schedule:** My availability is pretty open. Although I'm looking for more of a flexible schedule, I'm open to part-time or full-time. I guess it depends on the availability of the sub jobs in my area.
 
 **Q6 — Conflict Resolution:** Times when I've had to intervene in conflict between two or more children are always remain, calm. I'm a person that I tend to remain calm during hectic or emergency situations. I'm always the using listening ears and empathy and just allowing room for advocacy between the students self-advocacy. And also just
- Making sure everyone's safe first of all and just being able to talk things through, if...
+ Making sure everyone's safe first of all and just being able to talk things through, if need be always being willing and able to ask for help if needed calling for assistance, backup between the staff. As well. As if incident reports have to be made, always following up through following
+ With the paperwork and just you know just conflict resolving the situation. If parents need to be contacted, making sure everyone is informed and aware of the situation and just highlighting the fact that emotions are normal, they're natural and guiding both. Students are all the students and
+ in a way that is appropriate safe and child, level for them to understand what it is that they need. What it is that they are searching for and hopefully come to an agreement or a resolution. And if not understanding that it's okay to just take a break and move on from there.
 
 **Q7 — Why Great:** I will make a great up, kid teacher, because I have experience, I have the empathy and patience to be an asset to the community, as well, as the knowledge, I'm very optimistic and energetic. So I love and have the capacity to work with little kiddos and, as well as the creativity, I am fun. I'm dependable.
- And I just want to make a difference in my community and around the kiddos and be asked tha...
+ And I just want to make a difference in my community and around the kiddos and be asked that in that way. So yeah.
 
 </details>
 
@@ -6499,20 +6717,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+19257888991 APP=+13417661404
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in North Glendale and I'm willing to travel within like 25 mile distance., 25 miles. 17+ years Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. North Glendale and I'm willing to travel within like 25 mile distance, 25 miles. Childcare experience (details in interview). Worked with preschool-age, teens. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #165 — 🟡 FLAG (MEDIUM) — Matt
 
-📧 maestro_me2000@yahoo.com | 📱 (480) 875-8169 | 📍 Arizona
+📧 maestro_me2000@yahoo.com | 📱 (480) 875-8169 | 📍 I am currently live in the 850 28 area code in Phoenix
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 
-**Experience:** Formal
-**Location:** I am currently live in the 850 28 area code in Phoenix, Arizona, I would be willing to travel up to 15 to 20 miles.
-**Schedule:** I'm available for shifts and Monday through Thursday, 7:51 and Friday 7:56.
+**Experience:** Formal — afterschool program, elementary school. Ages: preschool-age, school-age
+**Location:** I am currently live in the 850 28 area code in Phoenix, 15-20 miles
+**Schedule:** flexible
 
-**Summary:** Matt has formal childcare experience (after school). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Matt needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -6539,23 +6757,22 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 🔗 **App Account:** 🟢 Matthew Wellman
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am currently live in the 850 28 area code in Phoenix, Arizona, I would be willing to travel up to 15 to 20 miles., 15-20 miles. after school experience. Looking for available.
+> 03/30 Intro Call Passed. I am currently live in the 850 28 area code in Phoenix, 15-20 miles. afterschool program, elementary school experience. Worked with preschool-age, school-age. Currently studying education/child development. Looking for flexible.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am currently live in the 850 28 area code in Phoenix, Arizona, I would be willing to travel up to 15 to 20 miles.. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. I am currently live in the 850 28 area code in Phoenix. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #166 — 🟡 FLAG (LOW) — Janiya
 
-📧 janiyaivy26@gmail.com | 📱 (706) 690-0908 | 📍 Georgia
+📧 janiyaivy26@gmail.com | 📱 (706) 690-0908 | 📍 Yes, I live in Lithonia, Georgia and I am willing to travel
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
 **Experience:** None
-**Location:** Yes, I live in Lithonia, Georgia and I am willing to travel. 25 miles to work a shift.
-**Schedule:** I am willing to work part-time.
- And my availability is Monday through Sunday.
+**Location:** Yes, I live in Lithonia, Georgia and I am willing to travel, 25 miles
+**Schedule:** part-time
 
-**Summary:** Janiya does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market.
+**Summary:** Janiya needs Erica's review — no childcare experience detected in transcript.
 
 **🚩 Red Flags:**
 - Q3 response very short (6 chars)
@@ -6577,22 +6794,22 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Janiya Ivy
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Yes, I live in Lithonia, Georgia and I am willing to travel. 25 miles to work a shift., 25 miles. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. Yes, I live in Lithonia, Georgia and I am willing to travel, 25 miles. Childcare experience (details in interview). Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Yes, I live in Lithonia, Georgia and I am willing to travel. 25 miles to work a shift.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Yes, I live in Lithonia, Georgia and I am willing to travel. No childcare experience detected in transcript.
 
 ---
 
 ### #167 — ✅ APPROVE (HIGH) — Kailene Meiners
 
-📧 meiners.kailene@gmail.com | 📱 (760) 783-3567 | 📍 Utah
+📧 meiners.kailene@gmail.com | 📱 (760) 783-3567 | 📍 Right now
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Right now, I live in South, Jordan Utah, but in three or so months, I'm moving to Murray Utah. It's not super far but a little bit farther and I'm willing to drive probably up to 30 minutes really any...
-**Schedule:** Okay, so again it's it might change soon. But I survived school Tuesday Thursdays. So I can't do Tuesday Thursdays, sorry. Except over summer which will be like end of May. So I could do like any time during the week until August between May and Augu...
+**Experience:** Formal — Sunday school, middle school. Ages: school-age, teens
+**Location:** Right now, 30 miles
+**Schedule:** flexible (school schedule)
 
-**Summary:** Kailene has formal childcare experience (teacher). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kailene is a strong candidate — Sunday school, middle school experience. Has worked with school-age, teens. Currently college student. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -6600,35 +6817,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Kylie minors. I'm currently a social work student at Utah Valley University. I'll be graduating fall of 26, and I'm hoping to use my degree to work with kids and teens. So that's my eventual goal. So I'm experience I have with childcare is when I was like Middle School age. I was a volunteer. He might Otto was like volunteered teacher's aide for a Sunday school at a Catholic School.
- Cool. So I worked with primarily the four-year-olds just like in like the Sunday classroom setting. I've done volunteer work at the Children's Justice Center in American Fork and I was an ABA therap...
+ Cool. So I worked with primarily the four-year-olds just like in like the Sunday classroom setting. I've done volunteer work at the Children's Justice Center in American Fork and I was an ABA therapists for a few months. I had to leave just for financial reasons. I had to take up a different job, but I'm actually applying to go back to Aba therapy and hopefully do that like nighttime. So, when it
+ Like, you know, intervene with this at all. But yeah, that's some experience I have with kids. I just love being around kids. I think they're so fun. They make me laugh. I just love all the Curiosity and, like, Joy, they bring, and I just like, it's like my happy place being around him.
 
 **Q4 — Location:** Right now, I live in South, Jordan Utah, but in three or so months, I'm moving to Murray Utah. It's not super far but a little bit farther and I'm willing to drive probably up to 30 minutes really anywhere in Salt Lake Valley. Like I'm I'm good.
 
-**Q5 — Schedule:** Okay, so again it's it might change soon. But I survived school Tuesday Thursdays. So I can't do Tuesday Thursdays, sorry. Except over summer which will be like end of May. So I could do like any time during the week until August between May and August. I don't know how many shifts are available for...
+**Q5 — Schedule:** Okay, so again it's it might change soon. But I survived school Tuesday Thursdays. So I can't do Tuesday Thursdays, sorry. Except over summer which will be like end of May. So I could do like any time during the week until August between May and August. I don't know how many shifts are available for summer, but it's something I could do. And then I like, when school starts,
+ Again, in the fall, it'll go back. I'll have class Tuesday, Thursdays, so will be unavailable. And then, like I said, I'm looking towards getting another ABA therapy job. But those ships would be at 4 p.m. so I don't think that would really, okay, I guess I'm just gonna go longer than that. So I'd have to be off by probably like 333 depending on where I'm located for that and then I do have an internship, but it has very flexible.
+ Availability? I just do it when I can really, I would probably need to a lot like one day really per week for that. So it really just kind of depends like, like, if I was picking up shifts, then I would just choose the day. I didn't pick up shifts to go to my internship, kind of thing. Yeah,
 
-**Q6 — Conflict Resolution:** So I think the biggest thing here is, is a lot, as a lot of things you need to hit really because assuming the fact that like both children involved, this is not like a typical problem behavior for them because that's a whole other thing that we need to be worked through. But if this is kind of a typical or maybe just just kids being kids, you know, first things first is separating them and I thin...
+**Q6 — Conflict Resolution:** So I think the biggest thing here is, is a lot, as a lot of things you need to hit really because assuming the fact that like both children involved, this is not like a typical problem behavior for them because that's a whole other thing that we need to be worked through. But if this is kind of a typical or maybe just just kids being kids, you know, first things first is separating them and I think if they're still trying to be physically aggressive,
+ Of kind of bringing us during voice and you don't want to really be too loud and aggressive because I feel like that just kind of promotes more violence into the air, you know. But a Stern voice is good, you know kids know that when you're talking sternly that they done something wrong and then I feel like it kind of turns into a lesson. So this doesn't happen again so explaining why this is wrong but also validating the children's feelings. Like you feel angry, you feel upset kind of thing.
+ And then going into what you should be doing when you feel that way rather than resolving to any. So obviously, first things first is safety, getting the kids away from each other and calming down the situation and then going into why you cannot do this in the future.
 
-**Q7 — Why Great:** I like to think I'd make a great teacher because I just love being around kids. You know, I feel like I can never be bored and I think that's something you need around kids. You know, you need somebody who can kind of remain or maintain. Sorry, like a fun, upbeat stimulating environment for kids, and I have a lot of patience and I with like my studies, I have a pretty good background on just like ...
+**Q7 — Why Great:** I like to think I'd make a great teacher because I just love being around kids. You know, I feel like I can never be bored and I think that's something you need around kids. You know, you need somebody who can kind of remain or maintain. Sorry, like a fun, upbeat stimulating environment for kids, and I have a lot of patience and I with like my studies, I have a pretty good background on just like what kids need and what kids are really communicate.
+ Ting when they maybe aren't verbally communicating because they haven't learned those skills yet. So I like to think I'm pretty intuitive and all-around just want to help.
 
 </details>
 
 🔗 **App Account:** 🟢 Kailene Meiners
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Right now, I live in South, Jordan Utah, but in three or so months, I'm moving to Murray Utah. It's not super far but a little bit farther and I'm wil, 30 miles. teacher experience. Looking for available.
+> 03/30 Intro Call Passed. Right now, 30 miles. Sunday school, middle school experience. Worked with school-age, teens. Currently college student. Looking for flexible (school schedule).
 
 ---
 
 ### #168 — ✅ APPROVE (HIGH) — Rayna Mathaun
 
-📧 raynamathaun@icloud.com | 📱 (878) 377-0034 | 📍 Georgia
+📧 raynamathaun@icloud.com | 📱 (878) 377-0034 | 📍 Cumming Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Cumming Georgia and the amount of time I can willing to commute to different shifts is around at least 35 minutes.
-**Schedule:** So, as a college student, my availability does vary, but I am preferably working towards the week at weekdays and whenever I can, you know, throw in a shift I can do that and whenever I feel like I can, you know, work that day. I will. It just depend...
+**Experience:** Formal — Montessori, elementary school. Ages: school-age
+**Location:** Cumming Georgia, 35 miles
+**Schedule:** part-time (school schedule)
 
-**Summary:** Rayna has formal childcare experience (montessori). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Rayna is a strong candidate — Montessori, elementary school experience. Has worked with school-age. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=raynamathaun@icloud.com APP=raynamathaun@gmail.com
@@ -6640,11 +6863,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q4 — Location:** I live in Cumming Georgia and the amount of time I can willing to commute to different shifts is around at least 35 minutes.
 
-**Q5 — Schedule:** So, as a college student, my availability does vary, but I am preferably working towards the week at weekdays and whenever I can, you know, throw in a shift I can do that and whenever I feel like I can, you know, work that day. I will. It just depends because I'm also a college student as well, but ...
+**Q5 — Schedule:** So, as a college student, my availability does vary, but I am preferably working towards the week at weekdays and whenever I can, you know, throw in a shift I can do that and whenever I feel like I can, you know, work that day. I will. It just depends because I'm also a college student as well, but I'm looking for a part-time.
 
-**Q6 — Conflict Resolution:** We're and that's a type of situation. I'll handle it by calmly and doing it by step by step first. I would separate the kids, so everyone's safe and we can take a moment to make sure like no one is like really, really hurt. And then I would like to talk calmly to the child that has hit and asking them to explain what happened and why so I can understand their actions. So they can even understand t...
+**Q6 — Conflict Resolution:** We're and that's a type of situation. I'll handle it by calmly and doing it by step by step first. I would separate the kids, so everyone's safe and we can take a moment to make sure like no one is like really, really hurt. And then I would like to talk calmly to the child that has hit and asking them to explain what happened and why so I can understand their actions. So they can even understand that they actions do have consequences but also like to reassure the kid who was hit letting them know that they're safe.
+ Safe and that hitting isn't okay. And then I would guy both of the kids resolving the conflict like apologizing or talking about the hurt feelings so they can express themselves without hurting each other. Finally, I would take note to observe them afterward to prevent it happening again.
 
-**Q7 — Why Great:** I want to make a great up, kid teacher, because I have hands-on experience, working with wide, ranges of Ages from young children to the elderly and individuals. I've been a tennis instructor for about two years where I've taught kids ages 3 to 10 at different Elementary and Montessori schools that experience has helped me, learn how to keep kids engaged and stay patient and create a fun. But stru...
+**Q7 — Why Great:** I want to make a great up, kid teacher, because I have hands-on experience, working with wide, ranges of Ages from young children to the elderly and individuals. I've been a tennis instructor for about two years where I've taught kids ages 3 to 10 at different Elementary and Montessori schools that experience has helped me, learn how to keep kids engaged and stay patient and create a fun. But structured environment where they can learn. I'm also comfortable in adopting, two different situations and personalities.
+ Which is more important when you're working with children. I know how to communicate. Clearly handles challenges, calmly and redirect behavior in a positive way. When needed on top of that, my experience with working. The elderly has strengthened my ability to be really carrying an intensive and respectful of how I interact with others as well. Overall, I bring experience patient and strong communication skills and I'd only like working with kids and my me myself I have my own set of siblings that I
+ I've been taking care of ever since they were born and I love helping kids just learn and grow.
 
 </details>
 
@@ -6652,20 +6878,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=raynamathaun@icloud.com APP=raynamathaun@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Cumming Georgia and the amount of time I can willing to commute to different shifts is around at least 35 minutes., 35 miles. montessori experience. Looking for part-time.
+> 03/30 Intro Call Passed. Cumming Georgia, 35 miles. Montessori, elementary school experience. Worked with school-age. Looking for part-time (school schedule).
 
 ---
 
 ### #169 — ✅ APPROVE (MEDIUM) — Jakerra Hudson
 
-📧 destra200@gmail.com | 📱 (762) 438-6052 | 📍 Georgia
+📧 destra200@gmail.com | 📱 (762) 438-6052 | 📍 I'm located in Augusta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Augusta. Georgia, 3.01 area code. I will say I travel up to baby 10 to 15 miles.
-**Schedule:** I would like to start off with part-time for right now, but later down the line, after I get the hang of it, I would love to do full-time and I do have opened a little bility.
+**Experience:** Mixed — afterschool program, church childcare (babysitter). Ages: infants
+**Location:** I'm located in Augusta, 10-15 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Jakerra has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jakerra has a mix of formal (afterschool program, church childcare) and informal (babysitter) experience. Augusta is on the GA/SC border — confirm Upkid has active shifts there.
 
 **Red Flags:** None
 
@@ -6687,21 +6913,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jakerra Hudson
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Augusta. Georgia, 3.01 area code. I will say I travel up to baby 10 to 15 miles., 10-15 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Augusta, 10-15 miles. afterschool program, church childcare experience. Worked with infants. Looking for full-time, part-time.
 
 ---
 
 ### #170 — 🟡 FLAG (LOW) — Jakayla Latimore
 
-📧 jaklat14@gmail.com | 📱 (678) 722-9290 | 📍 Georgia
+📧 jaklat14@gmail.com | 📱 (678) 722-9290 | 📍 I'm located in, Buford Georgia
 Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unknown
-**Location:** I'm located in, Buford Georgia.
- I'll prefer to stay close to Buford Georgia, but if there's just no more than 15 miles away, I'll be more than happy to take them.
-**Schedule:** I'm looking for a part-time because I'm currently in school Monday, Wednesdays and Fridays. I can work until around 4:45 five and Tuesdays and Thursdays. I'm only available until 2:00 2:30 due to have in class.
+**Location:** I'm located in, Buford Georgia, 15 miles
+**Schedule:** part-time (school schedule)
 
-**Summary:** Could not assess Jakayla's experience — transcript may be missing or garbled. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jakayla needs Erica's review — could not evaluate — transcript issue. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -6716,7 +6941,7 @@ Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q5 — Schedule:** I'm looking for a part-time because I'm currently in school Monday, Wednesdays and Fridays. I can work until around 4:45 five and Tuesdays and Thursdays. I'm only available until 2:00 2:30 due to have in class.
 
 **Q6 — Conflict Resolution:** If a tell hit another child, I would immediately step in separate them, and make sure the child who is hit is okay, then I will address the behavior in a car matter and explain why hitting is not okay. Then I would help the child, who hit understand another way or better ways to express their feelings. Then I would further God both children toward
- Solution and reinforce the positive behavior movi...
+ Solution and reinforce the positive behavior moving forward.
 
 **Q7 — Why Great:** I think I'll be a great fit because I genuinely enjoy being around kids and helping them grow impatient and understanding. But I can also keep structure and routines, which I know is very important in a classroom. I like being someone kids can feel comfortable with while still learning and staying on track with their daily tasks.
 
@@ -6725,24 +6950,22 @@ Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jakayla Latimore
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I'm located in, Buford Georgia.
- I'll prefer to stay close to Buford Georgia, but if there's just no more than 15 miles away, I'll be more than happy , 15 miles. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in, Buford Georgia, 15 miles. Childcare experience (details in interview). Looking for part-time (school schedule).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I'm located in, Buford Georgia.
- I'll prefer to stay close to Buford Georgia, but if there's just no more than 15 miles away, I'll be more than happy . Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. I'm located in, Buford Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #171 — ✅ APPROVE (MEDIUM) — Gabrielle Fredrick
 
-📧 gabriellerobinsonfredrick@gmail.com | 📱 (470) 627-2723 | 📍 Georgia
+📧 gabriellerobinsonfredrick@gmail.com | 📱 (470) 627-2723 | 📍 I work and Rick
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I work and Rick. I live in Rick's Georgia. I'm willing to go about 20-25 minutes out. It might change if somebody's like like really need help. Then I might go further, but as of right now 20 25 minut...
-**Schedule:** I'm looking for a mostly full time. My daughter said School most of the time. So I would love to work around her schedule which is like ait's like five or like 78732 five. I would like something that works around her schedule and I really want to be ...
+**Experience:** Mixed (babysitter). Ages: infants, preschool-age, school-age, teens
+**Location:** I work and Rick, 25 miles
+**Schedule:** full-time (school schedule)
 
-**Summary:** Gabrielle has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Gabrielle has a mix of formal and informal childcare experience. ⚠️ Conflict resolution answer has concerning language — Erica should review. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -6750,37 +6973,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Cancel, my name is Gabrielle Fredrik. I don't really have a lot of experience in child care, but I've been babysitting, I had a babysitting job. I'm like the age of 15 to maybe 20 and I have a three-year-old son with a kid all day. I like kids if, you know, 12 like five, the ones who, you know, they
- Eager to learn new things and they happy to get excited when they learn this stuff. The reason why I want to work with kids while of kids. It's because it's just something about little humans that just learning and seeing new things, you know, and then like wanting to actually get up and come to s...
+ Eager to learn new things and they happy to get excited when they learn this stuff. The reason why I want to work with kids while of kids. It's because it's just something about little humans that just learning and seeing new things, you know, and then like wanting to actually get up and come to school and they be excited, you know it just brings Joy.
+ To see somebody excited to come and learn or come and be with their friends and have fun. And I just like working with kids this is something about I think it's because I've been working with kids for so long like I nieces nephews kid like but neighborhood kids stuff like that. I've been watching
+ For so long. And I've helped a lot of kids who ordered them
+ No. And I just feel like with me having my own kid, I have a lot of experience when it comes to like, showing them different things or how to cut with your feelings and stuff like that.
 
 **Q4 — Location:** I work and Rick. I live in Rick's Georgia. I'm willing to go about 20-25 minutes out. It might change if somebody's like like really need help. Then I might go further, but as of right now 20 25 minutes.
 
-**Q5 — Schedule:** I'm looking for a mostly full time. My daughter said School most of the time. So I would love to work around her schedule which is like ait's like five or like 78732 five. I would like something that works around her schedule and I really want to be full-time. Do like if I could be full time. I coul...
+**Q5 — Schedule:** I'm looking for a mostly full time. My daughter said School most of the time. So I would love to work around her schedule which is like ait's like five or like 78732 five. I would like something that works around her schedule and I really want to be full-time. Do like if I could be full time. I could come up with childcare if needed.
+ It, I can always adjust my schedule for whatever shift that I have to take.
 
 **Q6 — Conflict Resolution:** I have a three-year-old and a warrior of nephew whose get each other's. Make 21st at me and I just tell them like, hey, you cannot do that. Like it's not nice to hit people. I make them. I buff apologize and hug it out and then I send them to play together. Just until them like it's you need to get along like there's no point of fighting that's not nice.
  Nice.
 
 **Q7 — Why Great:** I think I will be a grade of kid teach because I've always wanted to be a teacher, a teacher. I always wanted to work with kids on like a higher level. I feel like it's a lot that I can learn from them and it's a lot that they can learn for me. I feel like it's great experience because one day I did I do want to have like my own daycare I feel like it's a great experience you know to learn
- differ...
+ different things about kids and help them grow to be a better person as they get older. I feel like we could most definitely teach each other a lot. I also feel like I have different techniques that I could use that. I use my daughter, that could help them be better in areas where they lack and I can learn techniques from them to help me with my daughter.
 
 </details>
 
 🔗 **App Account:** 🟢 Gabrielle  Fredrick
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I work and Rick. I live in Rick's Georgia. I'm willing to go about 20-25 minutes out. It might change if somebody's like like really need help. Then I, 25 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. I work and Rick, 25 miles. babysitter. Worked with infants, preschool-age, school-age, teens. Looking for full-time (school schedule).
 
 ---
 
 ### #172 — ✅ APPROVE (HIGH) — Rebekah Park
 
-📧 rebekahcpark085@gmail.com | 📱 (770) 568-5244 | 📍 Georgia
+📧 rebekahcpark085@gmail.com | 📱 (770) 568-5244 | 📍 I'm located in Alpharetta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I'm located in Alpharetta, Georgia around the edge of Johns Creek, Georgia, as well, and I would be most comfortable comfortable, or would prefer to work shifts around a 10 to 15 mile radius out of op...
-**Schedule:** Just to get started, I am more interested in part-time shifts. My availability would be from Monday to Friday, mostly during the weekdays. I am pretty most particle day, but no weekends
+**Experience:** Formal — church childcare, elementary school, middle school. Ages: toddlers, preschool-age, school-age, teens
+**Location:** I'm located in Alpharetta, 10-15 miles
+**Schedule:** part-time (weekends available)
 
-**Summary:** Rebekah has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Rebekah is a strong candidate — church childcare, elementary school, middle school experience. Has worked with toddlers, preschool-age, school-age, teens. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=rebekahcpark085@gmail.com APP=
@@ -6789,17 +7016,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Rebecca Park. I have worked as a teacher of my church for both several programs, that Korean school program and arts and crafts, where I worked with kids ages. First grade to middle school, and I've also worked at our summer Academy which is more of a traditional teaching system. I taught Ela math.
- Art again. And I've also worked with children under the ages of first grade. So as young as two to three year olds and I really off always enjoyed being around children just their energy. It can be draining sometimes, I really appreciate the liveliness. Their curiosity and Imaginatio...
+ Art again. And I've also worked with children under the ages of first grade. So as young as two to three year olds and I really off always enjoyed being around children just their energy. It can be draining sometimes, I really appreciate the liveliness. Their curiosity and Imagination. And so I guess my background has allowed me to
+ To interact and pray and work with toddlers. Mostly Elementary schoolers so 2nd 3rd graders, but I've also worked with higher level grades and I would really love to be a part of the up kid program. Thank you.
 
 **Q4 — Location:** I'm located in Alpharetta, Georgia around the edge of Johns Creek, Georgia, as well, and I would be most comfortable comfortable, or would prefer to work shifts around a 10 to 15 mile radius out of operator, may be within 20 30 minutes
 
 **Q5 — Schedule:** Just to get started, I am more interested in part-time shifts. My availability would be from Monday to Friday, mostly during the weekdays. I am pretty most particle day, but no weekends
 
 **Q6 — Conflict Resolution:** Usually, with conflicts between two children, I like to separate them both and listen to both sides of the story. Try to figure out because won't wrong. Listen to both of their sides if a child hits another child while I'm in the classroom. Or when I present and I didn't see that again, I would take them both aside every separately here, what they have,
- If to say what caused this, but before that...
+ If to say what caused this, but before that, I would make sure that the child that got hit is okay. Deescalate the situation. Try to keep the rest of the kids in the classroom. Calm again, make sure the child is okay and listen to what they have to say and then and then I would make any decisions after that. So there was someone at home.
+ Then I will try to explain to them what's going on, help them through feelings, and maybe get to a point where we can apologize, and everything could be good.
 
 **Q7 — Why Great:** I believe I would be a good applicant teacher because I have be qualities of being very, calm and patient. I don't want to have a very scary knowing voice. I always liked to read children, their eye level, whether it's emotionally mentally, or just physically, just kind of bending down to them and seeing where they're at, I love talking.
- Going to children as well as I love hearing what they have ...
+ Going to children as well as I love hearing what they have to say. I'm a good listener. I also give good reactions to what a lot of kids have to say, you know, even if I don't always understand what they're trying to tell me, I always try to give them a good ear. Make sure everyone's happy, safe, healthy and all parts of their lives. And I think,
+ Think I would make a great addition to the upgrade teacher team and being able to help kids have their that Guardian person and they need them and just help schools and preschools out. Thank you.
 
 </details>
 
@@ -6807,20 +7037,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=rebekahcpark085@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Alpharetta, Georgia around the edge of Johns Creek, Georgia, as well, and I would be most comfortable comfortable, or would prefer to w, 10-15 miles. teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Alpharetta, 10-15 miles. church childcare, elementary school, middle school experience. Worked with toddlers, preschool-age, school-age, teens. Looking for part-time (weekends available).
 
 ---
 
 ### #173 — ✅ APPROVE (MEDIUM) — Krystal Pepple
 
-📧 krystalpepple93@gmail.com | 📱 (623) 262-9183 | 📍 Arizona
+📧 krystalpepple93@gmail.com | 📱 (623) 262-9183 | 📍 Phoenix Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (16yr)
-**Location:** I am located in Phoenix Arizona. Well, Avondale Arizona, but just on the outskirts of Phoenix, I'm willing to travel up to 25 miles for shifts.
-**Schedule:** I am looking into part-time as of right now. I have complete open availability until next week when I do start a full-time job. So I would like to keep it part time but I am open to taking shifts up until my new job starts that are full-time shifts.
+**Experience:** Mixed, 16+ years. Ages: teens
+**Location:** Phoenix Arizona, 25 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Krystal has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Krystal has a mix of formal and informal childcare experience.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=krystalpepple93@gmail.com APP=pepplekrystal@aol.com
@@ -6847,20 +7077,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=krystalpepple93@gmail.com APP=pepplekrystal@aol.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Phoenix Arizona. Well, Avondale Arizona, but just on the outskirts of Phoenix, I'm willing to travel up to 25 miles for shifts., 25 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Phoenix Arizona, 25 miles. Mix of formal and informal childcare experience. Worked with teens. Looking for full-time, part-time.
 
 ---
 
 ### #174 — ✅ APPROVE (HIGH) — Victoria McQueen
 
-📧 victoriamcqueenbookings@gmail.com | 📱 (470) 290-9034 | 📍 Georgia
+📧 victoriamcqueenbookings@gmail.com | 📱 (470) 290-9034 | 📍 Hello. Yes
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Hello. Yes, I live in Atlanta Georgia and I live near the airport, like 15 minutes from the airport. Still South Fulton area around Camp Creek and I willing to drive 20 minutes, 25 minutes to the scho...
-**Schedule:** My availability is pretty open and flexible I am looking for a part-time situation. I really liked that a lot of these shifts that I saw our for earlier in the day that works with my schedule. So I'm pretty flexible and open.
+**Experience:** Formal — summer camp. Ages: infants
+**Location:** Hello. Yes, 15 miles
+**Schedule:** part-time
 
-**Summary:** Victoria has formal childcare experience (summer camp). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Victoria is a strong candidate — summer camp experience. Has worked with infants.
 
 **Red Flags:** None
 
@@ -6868,36 +7098,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Victoria McQueen. I love working with kids. I worked at summer camps and assistant kids, and taught kids, and watched over kids of young ages around 10 9, even babies and older kids as well.
- I really love working with kids because I feel like it's just such a beautiful thing. I feel like they're so curious and they have such growing Minds. It's just really beautiful to see and I just love kids, I love babies. If you go my Tick Tock, it's just all types of different videos with kids and babies and kids with special talents. And I just really love, you know, kids and helping t...
+ I really love working with kids because I feel like it's just such a beautiful thing. I feel like they're so curious and they have such growing Minds. It's just really beautiful to see and I just love kids, I love babies. If you go my Tick Tock, it's just all types of different videos with kids and babies and kids with special talents. And I just really love, you know, kids and helping them and enriching.
+ I'm them and I do have experience working with kids, so yeah.
 
 **Q4 — Location:** Hello. Yes, I live in Atlanta Georgia and I live near the airport, like 15 minutes from the airport. Still South Fulton area around Camp Creek and I willing to drive 20 minutes, 25 minutes to the school to assist. So, yeah, I would say around 20, 25, 26, you know, minutes or so.
 
 **Q5 — Schedule:** My availability is pretty open and flexible I am looking for a part-time situation. I really liked that a lot of these shifts that I saw our for earlier in the day that works with my schedule. So I'm pretty flexible and open.
 
-**Q6 — Conflict Resolution:** Yes, I've definitely dealt with conflicts. And with children, I would say the definitely deescalate the situation. And, you know, let the both kids know, let everybody know that, you know, putting our hands on one another is not allowed and it's not acceptable. And that we must be kind to one another and I would definitely check on the table. Make sure the child is okay. Make sure, you know, they ...
+**Q6 — Conflict Resolution:** Yes, I've definitely dealt with conflicts. And with children, I would say the definitely deescalate the situation. And, you know, let the both kids know, let everybody know that, you know, putting our hands on one another is not allowed and it's not acceptable. And that we must be kind to one another and I would definitely check on the table. Make sure the child is okay. Make sure, you know, they are not injured or anything.
+ And I would, you know, definitely separate them and just overall just deescalate the situation and ensure that everybody knows that violence is not tolerated.
 
 **Q7 — Why Great:** I would make a great up kit teacher because like I said, my schedule is flexible and I really do have a heart for kids. I have a heart for children and I just love them. I think they're so adorable. I think you know just they're curious minds and their growing Minds is such a beautiful thing that we should cherish and I think I have a fun nurturing attitude that the children would like but I also
-...
+ You know, know how to regulate, you know, children and you know, conflict and things of that nature. So yeah.
 
 </details>
 
 🔗 **App Account:** 🟢 Victoria McQueen
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hello. Yes, I live in Atlanta Georgia and I live near the airport, like 15 minutes from the airport. Still South Fulton area around Camp Creek and I w, 15 miles. summer camp experience. Looking for part-time.
+> 03/30 Intro Call Passed. Hello. Yes, 15 miles. summer camp experience. Worked with infants. Looking for part-time.
 
 ---
 
 ### #175 — 🟡 FLAG (LOW) — naeja ellis
 
-📧 naejaellis158@gmail.com | 📱 (678) 907-3629 | 📍 Georgia
+📧 naejaellis158@gmail.com | 📱 (678) 907-3629 | 📍 I know I stay here in a
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** None
-**Location:** I know I stay here in a and Georgia and I'm willing to travel
-**Schedule:** I can be part-time 44 pounds and I'm openly available, whatever deeply acceptable.
+**Location:** I know I stay here in a
+**Schedule:** part-time
 
-**Summary:** naeja does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** naeja needs Erica's review — no childcare experience detected in transcript.
 
 **Red Flags:** None
 
@@ -6923,22 +7155,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 naeja ellis
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I know I stay here in a and Georgia and I'm willing to travel. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. I know I stay here in a. Childcare experience (details in interview). Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I know I stay here in a and Georgia and I'm willing to travel. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. I know I stay here in a. No childcare experience detected in transcript.
 
 ---
 
 ### #176 — ✅ APPROVE (MEDIUM) — Khamani White
 
-📧 khamani0024@gmail.com | 📱 (470) 250-5241 | 📍 Georgia
+📧 khamani0024@gmail.com | 📱 (470) 250-5241 | 📍 Atlanta, Georgia and I am willing to travel 15 miles for shifts
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (15yr)
-**Location:** I stay in Atlanta, Georgia and I am willing to travel 15 miles for shifts.
-**Schedule:** I am looking for full-time ability and I am available Monday through Friday.
+**Experience:** Mixed — church childcare (babysitter), 15+ years. Ages: infants, teens
+**Location:** Atlanta, Georgia and I am willing to travel 15 miles for shifts, 15 miles
+**Schedule:** full-time
 
-**Summary:** Khamani has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Khamani has a mix of formal (church childcare) and informal (babysitter) experience. Currently studying education/child development, which shows commitment.
 
 **Red Flags:** None
 
@@ -6951,7 +7183,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I am looking for full-time ability and I am available Monday through Friday.
 
-**Q6 — Conflict Resolution:** How would I solve a conflict between two teachers in the classroom? I would first break up the fight and then I would get on their level. So this would consist of me getting on my knees and basically, I would make eye contact with both and I would have them explain both sides of the stories. And then I would then to deconflict the situation, I would tell them to apologize to each other and then I ...
+**Q6 — Conflict Resolution:** How would I solve a conflict between two teachers in the classroom? I would first break up the fight and then I would get on their level. So this would consist of me getting on my knees and basically, I would make eye contact with both and I would have them explain both sides of the stories. And then I would then to deconflict the situation, I would tell them to apologize to each other and then I will separate them in the classroom.
 
 **Q7 — Why Great:** I will make a great favor of kid because I'm patient. Emotionally aware respectful, responsible, understanding, and child. Loving
 
@@ -6960,20 +7192,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 khamani white
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I stay in Atlanta, Georgia and I am willing to travel 15 miles for shifts., 15 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Atlanta, Georgia and I am willing to travel 15 miles for shifts, 15 miles. 15+ years church childcare experience. Worked with infants, teens. Currently studying education/child development. Looking for full-time.
 
 ---
 
 ### #177 — 🟡 FLAG (LOW) — Jarvis Frazier
 
-📧 jarvisfrazier11@aol.com | 📱 (470) 757-0350 | 📍 Georgia
+📧 jarvisfrazier11@aol.com | 📱 (470) 757-0350 | 📍 Atlanta, Georgia, I would travel 25 miles to the chefs
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** None (24yr)
-**Location:** I stay in Atlanta, Georgia, I would travel 25 miles to the chefs.
-**Schedule:** At this moment, I'm looking for a full-time job.
+**Experience:** None, 24+ years. Ages: preschool-age
+**Location:** Atlanta, Georgia, I would travel 25 miles to the chefs, 25 miles
+**Schedule:** full-time
 
-**Summary:** Jarvis does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jarvis needs Erica's review — no childcare experience detected in transcript.
 
 **Red Flags:** None
 
@@ -6997,22 +7229,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jarvis Frazier
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I stay in Atlanta, Georgia, I would travel 25 miles to the chefs., 25 miles. Experience details not available. Looking for full-time.
+> 03/30 Intro Call Passed. Atlanta, Georgia, I would travel 25 miles to the chefs, 25 miles. Childcare experience (details in interview). Worked with preschool-age. Looking for full-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I stay in Atlanta, Georgia, I would travel 25 miles to the chefs.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Atlanta, Georgia, I would travel 25 miles to the chefs. No childcare experience detected in transcript.
 
 ---
 
 ### #178 — 🟡 FLAG (MEDIUM) — Jessica
 
-📧 jessixo.a@gmail.com | 📱 (678) 939-1150 | 📍 Georgia
+📧 jessixo.a@gmail.com | 📱 (678) 939-1150 | 📍 Stone Mountain, but my daughter Goes to School in Duluth
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (8yr)
-**Location:** I currently reside in Stone Mountain, but my daughter Goes to School in Duluth. So traveling is never a problem for me. I'm willing to travel anywhere.
-**Schedule:** So currently I am in school so I'm looking for both some part-time and some full time shifts so it really just depends on the work around around the schedule in the timing on the schedules as well.
+**Experience:** Informal (babysitter), 8+ years. Ages: infants
+**Location:** Stone Mountain, but my daughter Goes to School in Duluth, anywhere
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Jessica's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Jessica's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -7039,22 +7271,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Jessica Grant
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I currently reside in Stone Mountain, but my daughter Goes to School in Duluth. So traveling is never a problem for me. I'm willing to travel anywhere. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Stone Mountain, but my daughter Goes to School in Duluth, anywhere. 8+ years as babysitter. Worked with infants. Looking for full-time, part-time (school schedule).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I currently reside in Stone Mountain, but my daughter Goes to School in Duluth. So traveling is never a problem for me. I'm willing to travel anywhere. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Stone Mountain, but my daughter Goes to School in Duluth. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #179 — ✅ APPROVE (MEDIUM) — Harmony Fuller
 
-📧 harmonyfuller06@gmail.com | 📱 (404) 731-5994 | 📍 Georgia
+📧 harmonyfuller06@gmail.com | 📱 (404) 731-5994 | 📍 I'm currently located in the Decatur
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (6yr)
-**Location:** I'm currently located in the Decatur, Georgia area, mostly the Belvedere Park area. I'm willing to commute about 15 to 20 minutes for work.
-**Schedule:** I'm currently looking for part-time work. My availability is open on Mondays and Fridays. I'm available on Tuesdays and Thursdays after 12 p.m. and Wednesdays, I'm not available.
+**Experience:** Mixed (babysitter, tutor), 6+ years. Ages: infants
+**Location:** I'm currently located in the Decatur, 15-20 miles
+**Schedule:** part-time
 
-**Summary:** Harmony has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Harmony has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -7077,21 +7309,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Harmony Fuller
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in the Decatur, Georgia area, mostly the Belvedere Park area. I'm willing to commute about 15 to 20 minutes for work., 15-20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm currently located in the Decatur, 15-20 miles. 6+ years as babysitter, tutor. Worked with infants. Looking for part-time.
 
 ---
 
 ### #180 — ✅ APPROVE (HIGH) — Tajanae Thompson
 
-📧 tajanaediamond@gmail.com | 📱 (404) 735-1488 | 📍 Georgia
+📧 tajanaediamond@gmail.com | 📱 (404) 735-1488 | 📍 Georgia, specifically Hampton
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I am in Georgia, specifically Hampton. Georgia. I would say about 20 miles is the farthest. I am willing to try for a shift.
-**Schedule:** I am looking for both full-time and part-time.
- Depending on what is available?
+**Experience:** Formal (tutor)
+**Location:** Georgia, specifically Hampton, 20 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Tajanae has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tajanae is a strong candidate with experience as a tutor. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -7107,30 +7338,32 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  Depending on what is available?
 
 **Q6 — Conflict Resolution:** I have had to dope deal with conflict when I was at a science fair before with students fighting over you, no materials and it was actually pretty simple to just separate them and to acknowledge both of their feelings and what they wanted to do because I know excitement get gets the children riled up but they ended up getting their own.
- Their own materials, and just the process and teaching them ...
+ Their own materials, and just the process and teaching them how to wait and to how to talk out their feelings and what they need. Also, if a child were to hit another student, definitely would have to separate the children. See what what happened from both perspectives, and then get a higher up to come assess the situation if it needs to be assessed,
+ More detailed depending on what happens after and during that whole process.
 
 **Q7 — Why Great:** I believe that I would make a wonderful of cute teacher because my love for kids. My love for education and seeing kids grow and Achieve academically, because this is something that they're going to take for the rest of your life, just basic skills and then those skills are going to have to build upon on depending on where they want to go in life. And also, I feel like with my strong
- background w...
+ background with just not only graduating high school but also graduating college and graduating in a, in a degree field, a field of degree that is rigorous or can be released at times as well. So I know how to assist children that may have a hard time with learning certain subjects. I can take what I have learned from what I had in my room rigorous courses and teach them how to apply them to their
+ Their courses or their subjects?
 
 </details>
 
 🔗 **App Account:** 🟢 Tajanae  Thompson
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am in Georgia, specifically Hampton. Georgia. I would say about 20 miles is the farthest. I am willing to try for a shift., 20 miles. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Georgia, specifically Hampton, 20 miles. tutor. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #181 — ✅ APPROVE (MEDIUM) — London
 
-📧 londondowdle88@gmqil.com | 📱 (909) 360-3150 | 📍 Utah
+📧 londondowdle88@gmqil.com | 📱 (909) 360-3150 | 📍 So I live in Provo
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (10yr)
-**Location:** So I live in Provo, Utah and I'm willing to drive, maybe around 30 minutes, it'd be nice to stay in Utah County but a little bit outside of that is fine as well.
-**Schedule:** I am looking for full-time work, but if only part time available is the only thing available, and that's great as well. But I'm available Monday through Fridays, like an 8 to 5 or 8. To 4 is great whenever I'm needed. And I hope to keep working throu...
+**Experience:** Mixed (nanny), 10+ years. Ages: infants, preschool-age, teens
+**Location:** So I live in Provo, 30 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** London has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** London has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=londondowdle88@gmqil.com APP=londondowdle88@byu.edu
@@ -7139,16 +7372,21 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is London and I'm an undergraduate student at BYU in Provo and I have lots of experience in classrooms because of my major and the things that I'm studying, but I've had a lot of experience with children because I have had previous nanning jobs with up from like infant up until like 9 or 10 years old. So I've had a lot of experience about two or three
- Three years, and then I babysat a lot in high school as well. So I've been around kids, a lot, been in a lot of summer, programs, nannying, things like that. And I enjoy working with children, just because I feel like I learned so mu...
+ Three years, and then I babysat a lot in high school as well. So I've been around kids, a lot, been in a lot of summer, programs, nannying, things like that. And I enjoy working with children, just because I feel like I learned so much from them. There's such a joy to be around and making a career out of it. I just love children and I love helping them learn and I learn from them, and
+ I just think this would be really great job for leading up to the next school year, so that he can continue to being around kids and continuing like my education in a way by being with them and learning with them. So yeah, my name is London.
 
 **Q4 — Location:** So I live in Provo, Utah and I'm willing to drive, maybe around 30 minutes, it'd be nice to stay in Utah County but a little bit outside of that is fine as well.
 
-**Q5 — Schedule:** I am looking for full-time work, but if only part time available is the only thing available, and that's great as well. But I'm available Monday through Fridays, like an 8 to 5 or 8. To 4 is great whenever I'm needed. And I hope to keep working throughout the whole summer. And we'll see about the fa...
+**Q5 — Schedule:** I am looking for full-time work, but if only part time available is the only thing available, and that's great as well. But I'm available Monday through Fridays, like an 8 to 5 or 8. To 4 is great whenever I'm needed. And I hope to keep working throughout the whole summer. And we'll see about the fall with like my school schedule and stuff, but this sounds like a really great job with flexibility, which I really love.
 
 **Q6 — Conflict Resolution:** So, I feel like I've been put in situations where I've had to deal with children getting in fights with each other. Just with, at the public schools.
- Where I'm doing some of my student teaching, and practicum for my major. And so I've dealt with like class-wide issues and also on a personal level with one or two students and it really just depends on the situation. But if they are physically hurt...
+ Where I'm doing some of my student teaching, and practicum for my major. And so I've dealt with like class-wide issues and also on a personal level with one or two students and it really just depends on the situation. But if they are physically hurting each other, I will pull them aside and kind of talk like what's going on and then we in place those values of like, accountability taking responsibility and then, you know, apologizing for whatever.
+ Happened and then learning how to avoid those types of situations in the future. So setting either boundaries or setting some sort of rule that. Okay, we got to keep our hands to ourselves or really just establishing that real from the beginning. So that this isn't even issue in the first place. But things come up and kids still our kids. And so I think just like walking them through like what happened? And the Y and the Y of either the consequence happened or like the why of maybe
+ They're going to sit out on this sit on this fun activity, you know, I think helping kids understand the why has really helped me when it comes to kids and then it doesn't usually occur again because once they understand okay, this is why we're doing this. Then the next time, it's not an issue.
 
-**Q7 — Why Great:** I make a good kid teacher because I am organized just with being in a classroom before and being around kids I just like having things very structured and organized. I think that really helps kids at a young age know what's going on and having expectations so that they're not always wondering what the heck we're doing. I believe I am trustworthy. I've been put in a lot of jobs in in situations whe...
+**Q7 — Why Great:** I make a good kid teacher because I am organized just with being in a classroom before and being around kids I just like having things very structured and organized. I think that really helps kids at a young age know what's going on and having expectations so that they're not always wondering what the heck we're doing. I believe I am trustworthy. I've been put in a lot of jobs in in situations where I've had to be with kids and
+ I, you know, I've been at a very personal level with some of these families that have a need for and I feel like the fact that they've trusted me enough to enter their home and take care of their kids is like a high like honored to me and shows me that you know I'm capable and I honestly just love kids. I just think they're so fun and it being around kids is a great way to show them how to have fun but also to learn and to grow and become just better.
+ Humans in general. And so yeah, I just think I would bring a very good energy. I feel like I get along with all types of kids in all grades, honestly at all ages as well. But yeah, I just really love my career as a teacher and I just want to find a job that's very similar and this seems like a great fit. So
 
 </details>
 
@@ -7156,20 +7394,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=londondowdle88@gmqil.com APP=londondowdle88@byu.edu
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I live in Provo, Utah and I'm willing to drive, maybe around 30 minutes, it'd be nice to stay in Utah County but a little bit outside of that is fi, 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So I live in Provo, 30 miles. 10+ years as nanny. Worked with infants, preschool-age, teens. Currently studying education/child development. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #182 — ✅ APPROVE (MEDIUM) — Briannasanchez
 
-📧 briannasanchez600@gmail.com | 📱 (470) 445-2622 | 📍 Georgia
+📧 briannasanchez600@gmail.com | 📱 (470) 445-2622 | 📍 Clayton County, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (19yr)
-**Location:** I live in Clayton County, Georgia. I'm willing to travel, as far as I need to. I'm just very excited and eager to substitute or whatever the case may be. Yeah, so it doesn't fit, does not really matte...
-**Schedule:** I am very open to part-time or full-time shifts and I'm available Monday through Friday from whatever times that I need to be scheduled for.
+**Experience:** Mixed (babysitter), 19+ years. Ages: infants, toddlers, preschool-age
+**Location:** Clayton County, Georgia
+**Schedule:** full-time, part-time
 
-**Summary:** Briannasanchez has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Briannasanchez has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -7177,37 +7415,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Brianna Sanchez. I'm a 19 year. Old high, school graduate. I don't really have any experience working with children, but that is one of my biggest dreams is to work with children. I like I said, I don't have experience, but I'm a fast learner and I would love to teach children. I promise you will not regret letting me Teach or
- or care about these children a little bit about myself. So I'm very passionate with things that I do, it doesn't matter what I'm doing. I will make sure to get it done. I love children, I've always I've grew up with so many kids are many siblings. Always ...
+ or care about these children a little bit about myself. So I'm very passionate with things that I do, it doesn't matter what I'm doing. I will make sure to get it done. I love children, I've always I've grew up with so many kids are many siblings. Always help my mom take care of my younger siblings.
+ Even if it was just to like cook for them or do their hair or help them with their homework on. So I'm very used to being with children. I have babysat, some children in the past, I do babysit my three-year-old, nephew sometimes or babysit my five-year-old nephew. I'm so I'm very used to, you know, handling toddlers. So it
+ It's in. You know, my I'm not sure what the word is for a, but like, I'm very used to it. I'm sorry if you know, my words are a little bit off, I'm very nervous.
 
 **Q4 — Location:** I live in Clayton County, Georgia. I'm willing to travel, as far as I need to. I'm just very excited and eager to substitute or whatever the case may be. Yeah, so it doesn't fit, does not really matter to me how far I need to travel, but if it's closer than that's best,
 
 **Q5 — Schedule:** I am very open to part-time or full-time shifts and I'm available Monday through Friday from whatever times that I need to be scheduled for.
 
 **Q6 — Conflict Resolution:** So like I said, I don't really have experience in a classroom, but I did grow up taking care of my younger siblings. So, if two of my younger siblings were to fight which it happened a lot, I would just make them, you know, apologize and you know, talk it out sometimes. I would give them some activities to do together and let them Bond and then like I would just
- You know, tell them like, oh, like...
+ You know, tell them like, oh, like, you know, you guys have to work things out. You cannot be fighting. If you guys have a conflict, then you can tell me and we can work it out together.
 
 **Q7 — Why Great:** I would make a really good up kid teacher because I'm very good with children. It does not matter. What age they are. I'm very good with them. And I'll make sure, you know, that they get whatever needs to be done. And I'll make sure what I need to get done as well gets done. And I'm very, like I said, I'm very good with children, all my mom saying that Allah,
- A lot but I'm very passionate about e...
+ A lot but I'm very passionate about everything and I honestly feel like I would be a great you know fit for this. I'm very kind and very patient. I know there's there has to be a lot of patience with kids, especially, you know, with the, you know, the more like bad behaved children, you know, and I always make sure, you know,
+ Like hey like this. This is this and this is the like you cannot be doing this. I can I know how to teach children from. Right and wrong. Yeah. So I feel like I would be a very great teacher. Yeah, so that's little bit about that.
 
 </details>
 
 🔗 **App Account:** 🟢 Brianna Sanchez
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Clayton County, Georgia. I'm willing to travel, as far as I need to. I'm just very excited and eager to substitute or whatever the case may . Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Clayton County, Georgia. 19+ years as babysitter. Worked with infants, toddlers, preschool-age. Looking for full-time, part-time.
 
 ---
 
 ### #183 — 🟡 FLAG (LOW) — Janice Cade
 
-📧 janicecade60@gmail.com | 📱 (404) 509-6885 | 📍 Georgia
+📧 janicecade60@gmail.com | 📱 (404) 509-6885 | 📍 Hey, I'm in Atlanta, Georgia
 Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Unknown
-**Location:** Hey, I'm in Atlanta, Georgia. I'm willing to travel up, to 20 to 25 miles for to work with the children.
-**Schedule:** Hey, I am looking for full-time and I have Monday through anything Monday through Friday and it don't matter. The time I'm available for any time and he shows
+**Location:** Hey, I'm in Atlanta, Georgia, 20-25 miles
+**Schedule:** full-time
 
-**Summary:** Could not assess Janice's experience — transcript may be missing or garbled. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Janice needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -7229,22 +7470,22 @@ Questions: 4/5 — Q3 ❌ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Janice Cade
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Hey, I'm in Atlanta, Georgia. I'm willing to travel up, to 20 to 25 miles for to work with the children., 20-25 miles. Experience details not available. Looking for full-time.
+> 03/30 Intro Call Passed. Hey, I'm in Atlanta, Georgia, 20-25 miles. Childcare experience (details in interview). Looking for full-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Hey, I'm in Atlanta, Georgia. I'm willing to travel up, to 20 to 25 miles for to work with the children.. Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Hey, I'm in Atlanta, Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #184 — ✅ APPROVE (MEDIUM) — Ashley Ratterree-hickey
 
-📧 ashleyhickey87@gmail.com | 📱 (770) 374-2795 | 📍 Georgia
+📧 ashleyhickey87@gmail.com | 📱 (770) 374-2795 | 📍 I'm located in Lithia Springs
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Lithia Springs. Georgia, I am willing to travel within probably about 20 miles from my home which would be Douglasville, Paulding High roamed, Atlas and Carrollton and probably Powder S...
-**Schedule:** I'm currently looking for primarily part-time and I am available from 8:00 a.m. to 5:00 or 6:00 p.m.
+**Experience:** Mixed — daycare
+**Location:** I'm located in Lithia Springs, 20 miles
+**Schedule:** part-time
 
-**Summary:** Ashley has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Ashley has experience in daycare plus informal childcare.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+17703742795 APP=+14703184515
@@ -7269,21 +7510,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+17703742795 APP=+14703184515
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Lithia Springs. Georgia, I am willing to travel within probably about 20 miles from my home which would be Douglasville, Paulding High , 20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm located in Lithia Springs, 20 miles. daycare experience. Looking for part-time.
 
 ---
 
 ### #185 — ✅ APPROVE (HIGH) — Deaja long
 
-📧 divinedecorevnts@gmail.com | 📱 (475) 666-5726 | 📍 Georgia
+📧 divinedecorevnts@gmail.com | 📱 (475) 666-5726 | 📍 I'm located in Atlanta Georgia my address is 500 euro size circle
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (21yr, 6mo)
-**Location:** I'm located in Atlanta Georgia my address is 500 euro size circle and you know Georgia to be sad. My zip code is 3039. I wanted to travel 30 minutes
- to get to a shift 30 to 40 minutes. I'm willing to...
-**Schedule:** I am willing to do part-time or full-time. My billable availability is basically mornings, but I do not mind doing afternoon as well. I like shifts that start at 8 a.m. I also like she's got started to me my like all times. So availability is open.
+**Experience:** Formal — daycare, afterschool program, 21+ years. Ages: preschool-age, teens
+**Location:** I'm located in Atlanta Georgia my address is 500 euro size circle, 30 miles
+**Schedule:** full-time, part-time (mornings/afternoons)
 
-**Summary:** Deaja has formal childcare experience with 21+ years (after school, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Deaja is a strong candidate — daycare, afterschool program experience with 21+ years. Has worked with preschool-age, teens. Currently CPR/First Aid.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=divinedecorevnts@gmail.com APP=
@@ -7292,7 +7532,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Diageo, I am 21 years old, I enjoy working weekends, I've been working with kisses. I was six years old at my grandma's daycare. She ran in House daycare. She had about 8 to 10 kids, every day after school. Monday through Saturday, she had kids from the age of six months to get his with the kids up to the age of 16. My grandma was watching kids. Um, I also watch kid.
- As in my adolescent Years After High School, I watched them from the ages 3 to 10 after school was also an in-house daycare and wasn't really, most of the daycares I worked out more. Well, the daycare side do wo...
+ As in my adolescent Years After High School, I watched them from the ages 3 to 10 after school was also an in-house daycare and wasn't really, most of the daycares I worked out more. Well, the daycare side do worked at they were on paper, they were mostly in host, ran and house so they had plenty of Ages. My grandmother did it goes from 6 months to 10, 16 years?
+ Sold my other day, care dead from three years to 10 years old, After High School. I didn't really work with kids as much. I worked with older adults which is like, kind of the same thing. I so I got my Superior. Um, license. I got my first aid while got my superhero certificate and I got my first East Pickett
+ I love working with kids, I love watching them grow their like the most Innocent, but most Innocent but the smartest human beings are, so yeah.
 
 **Q4 — Location:** I'm located in Atlanta Georgia my address is 500 euro size circle and you know Georgia to be sad. My zip code is 3039. I wanted to travel 30 minutes
  to get to a shift 30 to 40 minutes. I'm willing to travel while 30 30 minutes. Obscure our I wanted to travel to wish it but
@@ -7300,10 +7542,12 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** I am willing to do part-time or full-time. My billable availability is basically mornings, but I do not mind doing afternoon as well. I like shifts that start at 8 a.m. I also like she's got started to me my like all times. So availability is open.
 
-**Q6 — Conflict Resolution:** Dealing dealing with conflict between two, two young kids, I still deal with because of my niece and nephew usually works with having them talk to each other and having them say sorry or sometimes putting them in one t-shirt. But I usually back, what had one person talk to me, one, Chong, talk to me and another child talk to me and then I'll talk to them together and asked them if we could come to...
+**Q6 — Conflict Resolution:** Dealing dealing with conflict between two, two young kids, I still deal with because of my niece and nephew usually works with having them talk to each other and having them say sorry or sometimes putting them in one t-shirt. But I usually back, what had one person talk to me, one, Chong, talk to me and another child talk to me and then I'll talk to them together and asked them if we could come to a resolution,
+ And have them hug it out or shake it out and ask them to ask each other if they can respect each other and not do it again. That's how I resolve conflict.
 
 **Q7 — Why Great:** I will be a great teacher for up kid because I'm energetic. I am fun. I love to watch kids when and honestly I love when kids, teach me things, I love seeing them grow in their environment and seeing kids Happy. And I just want to give them that opportunity to the full potential. Even if I am just a temporary teacher, I want them to remember. I want some time
- At least go home and remember that th...
+ At least go home and remember that they had a fun day and a good day at school because sometimes school can be a release for kids. I know it was a release for me when I was younger as the kid from home. So I know sometimes school can be school or daycare can be that place for kids to let out all of that and I'm the teacher that fits perfectly for that.
+ So that's what makes that is. What makes me a best fit for a kid and I'm so excited.
 
 </details>
 
@@ -7311,21 +7555,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=divinedecorevnts@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Atlanta Georgia my address is 500 euro size circle and you know Georgia to be sad. My zip code is 3039. I wanted to travel 30 minutes
- , 30 miles. 21+ years after school, daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Atlanta Georgia my address is 500 euro size circle, 30 miles. 21+ years daycare, afterschool program experience. Worked with preschool-age, teens. Currently CPR/First Aid. Looking for full-time, part-time (mornings/afternoons).
 
 ---
 
 ### #186 — ✅ APPROVE (HIGH) — alana webb
 
-📧 lana2solid@gmail.com | 📱 (762) 783-1278 | 📍 Georgia
+📧 lana2solid@gmail.com | 📱 (762) 783-1278 | 📍 Hi. I am located in the MLK area Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** Hi. I am located in the MLK area Atlanta, Georgia area, ZIP code 303 11. I would like to travel 10 miles or lesser of that work but whatever comes first, I'm ready to work.
-**Schedule:** Hi, I'm looking for part-time work, preferably Monday through Friday or Tuesday, through Friday, preferably morning times. Get off before 6 p.m.
+**Experience:** Formal — church childcare
+**Location:** Hi. I am located in the MLK area Atlanta, 10 miles
+**Schedule:** part-time (mornings)
 
-**Summary:** alana has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** alana is a strong candidate — church childcare experience.
 
 **Red Flags:** None
 
@@ -7333,38 +7576,42 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, I'm Alana web. I am good with children. I've been working with children for about a year and a half. Now, through June is site me with their different emotions, their different skills. And I love when it's time to party drink, I love working with kids because I have treasure my own and I love working with children. Also, because Not Just Happening Church of my own. I love to create different mindsets for children, get there.
- Brains develop two different standards, two different things they need to learn in life. Not just about all, this is their age level, they have to do this. I'm more o...
+ Brains develop two different standards, two different things they need to learn in life. Not just about all, this is their age level, they have to do this. I'm more of an experienced teacher. I let them perform it. Then I teach
+ Then with teaching, I like to have fun with it. I don't like to be so ongoing with teaching because it's always best to have the kids interest.
+ However some kids might have disabilities, some kids might cry and it's okay. That's when you come in and be the second parent for the child and I love to cope with truth and ask them. What's wrong? We can draw. We can color even convinced to go outside. Children are amazing in different sorts of ways. I also love working with children because you get to see different kind of children. Different kind of behaviors different, kind of cultures.
+ And children are the best of the best of the best of this planet. They make the world complete
 
 **Q4 — Location:** Hi. I am located in the MLK area Atlanta, Georgia area, ZIP code 303 11. I would like to travel 10 miles or lesser of that work but whatever comes first, I'm ready to work.
 
 **Q5 — Schedule:** Hi, I'm looking for part-time work, preferably Monday through Friday or Tuesday, through Friday, preferably morning times. Get off before 6 p.m.
 
 **Q6 — Conflict Resolution:** First, I would just escalate the problem. I will ask both children. What was the issue? If we can't get to a resolution with that?
- I will figure it out myself and I will have one other child apologize because hitting is not allowed and it's not fun to hit on others. And then we would do an activity or a why he didn't is not considered a fun act for children, and then we will recap and I will make...
+ I will figure it out myself and I will have one other child apologize because hitting is not allowed and it's not fun to hit on others. And then we would do an activity or a why he didn't is not considered a fun act for children, and then we will recap and I will make them hug it out. I'm a resolving teacher. I'm not a teacher that I'll go get in the corner. Go do this? No, that's not going to help them. That's not going to solve.
+ The issue that's not going to make that brain develop, how to be around other children, still, even if they don't know them that. Well, you have to develop the kids to be around different children. Some kids might are used to be hitting on kids, but then you have to put in your teacher, obsessive, parent mode, and put no hitting is allowed, hitting is not okay. If we hit, we're going to have a timeout in my time. Out is not time. I go stand in the corner. Timeout is. Let's talk about
+ Let's recap the situation of what happened.
 
 **Q7 — Why Great:** I would make a great teacher for okay because I am willing to be there with the kids, anytime I'm there for them, emotionally physically. I love to do activities with children. I would love to always be their best interest, put them first, no matter, the situation.
- Overall, I just love working with children, they're the best. You make the best memories with children and you're always there. S co-...
+ Overall, I just love working with children, they're the best. You make the best memories with children and you're always there. S co-parent when you're their teacher because if they get close to you then they won't be crying in the morning time like usual. They all like to come to school more and be there to be around their teacher because they love your presence.
 
 </details>
 
 🔗 **App Account:** 🟢 alana webb
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hi. I am located in the MLK area Atlanta, Georgia area, ZIP code 303 11. I would like to travel 10 miles or lesser of that work but whatever comes fir, 10 miles. teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. Hi. I am located in the MLK area Atlanta, 10 miles. church childcare experience. Looking for part-time (mornings).
 
 ---
 
 ### #187 — ✅ APPROVE (HIGH) — Terris
 
-📧 terrismonae8@gmail.com | 📱 (678) 381-5368 | 📍 Georgia
+📧 terrismonae8@gmail.com | 📱 (678) 381-5368 | 📍 yes, I'm located in Marietta Georgia, 300 66
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** yes, I'm located in Marietta Georgia, 300 66 and also on the border of Kennesaw also and also can look, you know, locate
- To anywhere near any cities near Marietta Castle. Also.
-**Schedule:** I'm looking for a full time, preferably Monday through Friday because I know daycares aren't open the weekends. And I'm looking for, possibly like an 82, for a seven-to-three shift or anything longer. It doesn't matter. I can do seven to six or eight...
+**Experience:** Formal — daycare
+**Location:** yes, I'm located in Marietta Georgia, 300 66, anywhere
+**Schedule:** full-time (weekends available)
 
-**Summary:** Terris has formal childcare experience (teacher, daycare). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Terris is a strong candidate — daycare experience.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+16783815368 APP=+16783813568
@@ -7392,8 +7639,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+16783815368 APP=+16783813568
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. yes, I'm located in Marietta Georgia, 300 66 and also on the border of Kennesaw also and also can look, you know, locate
- To anywhere near any cities . teacher, daycare experience. Looking for full-time.
+> 03/30 Intro Call Passed. yes, I'm located in Marietta Georgia, 300 66, anywhere. daycare experience. Looking for full-time (weekends available).
 
 ---
 
@@ -7402,10 +7648,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 lab-inbox@outlook.com | 📱 (605) 222-9043 | 📍 Arizona
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Mixed (28yr, 2mo)
-**Location:** Arizona (inferred from phone area code)
+**Experience:** Mixed — daycare, 28+ years
+**Location:** Arizona
 
-**Summary:** Leslie has a mix of formal and informal childcare experience. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Leslie only answered 1/5 questions, so there's limited data to evaluate.
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -7414,28 +7660,28 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Leslie all Bros and I've had an in-home daycare for the last 10 years. I love the opportunity. I get to have each day with my kiddos especially those special moments like the first steps their first words and in general, just seeing my children learn to navigate the world around them. I've had the opportunity to care for children from 2 months old, 28 years old. And it has been one of the most fulfilling things I've ever done.
- I love our Circle, time our craft time and just a simple things, like lunchtime, and learning to clean up after ourselves. Help with dishes, get ready to tra...
+ I love our Circle, time our craft time and just a simple things, like lunchtime, and learning to clean up after ourselves. Help with dishes, get ready to transition to nap time. It's been just a wonderful wonderful opportunity. We're moving to Mason May. So I have to close my day care here in Pierre. South Dakota. I know that up kids would be a perfect fit for me.
+ as I find new opportunities in Arizona,
 
 </details>
 
 🔗 **App Account:** 🟢 Leslie Aul-Broz
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Arizona (from phone). Mix of formal and informal childcare experience.
+> 03/30 Intro Call Passed. Arizona. 28+ years daycare experience.
 
 ---
 
 ### #189 — ✅ APPROVE (HIGH) — George
 
-📧 shojochan@live.com | 📱 (404) 430-5390 | 📍 Georgia
+📧 shojochan@live.com | 📱 (404) 430-5390 | 📍 Atlanta
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** Formal
-**Location:** I currently live in Atlanta, Georgia as long as the daycare it's on or near the MARTA public transit line. I'm willing to travel pretty far to get to a shift and ultimately I will end up deciding whic...
-**Schedule:** I'm currently looking for full-time work.
- Mostly weekdays and occasional weekend. We will see what the app has to offer and jobs.
+**Location:** Atlanta
+**Schedule:** full-time (weekends available)
 
-**Summary:** George has formal childcare experience (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** George has solid formal childcare experience.
 
 **Red Flags:** None
 
@@ -7453,7 +7699,14 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** The closest experience I have is with it dealing with kids in a grocery store and checkout lane, currently cashier, cloaker and Rick need to transition out of that.
  and normally, the kids are just very
  Curious or they want to help their parents or they're frustrated and upset because they're tired and fussy and so on their kids. So I normally deal with that either. Bye.
- Redirecting them, where ...
+ Redirecting them, where I can.
+ Or.
+ At the end of the transaction. Giving sticker or something in a classroom environment, it would
+ It depend on the age of the kids and the particular situation. Like if it's 25 year olds and they're bickering no more 25 year old server having heart
+ When kids together?
+ Ben.
+ I would probably distract the kid that got hit first and then deal with the kid that hit me up kid. Like hey that's not nice. We don't hit our friends. We need to go see her. Sorry.
+ And then, whatever else, whatever, other discipline measures, the classroom has its own approach.
 
 **Q7 — Why Great:** What would make a good teacher? I can't. Because I'm very kind and caring and compassionate. I'm also very creative. I love arts and crafts and I would love to be able to share that kids. I also
  Want to gain more experience, working with children. So that in the future
@@ -7466,20 +7719,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 George Satterfield
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Atlanta, Georgia as long as the daycare it's on or near the MARTA public transit line. I'm willing to travel pretty far to get to . teacher experience. Looking for full-time.
+> 03/30 Intro Call Passed. Atlanta. Childcare experience (details in interview). Looking for full-time (weekends available).
 
 ---
 
 ### #190 — 🟡 FLAG (MEDIUM) — Kerwine Vorbe
 
-📧 kerwinevorbe2007@gmail.com | 📱 (678) 368-9583 | 📍 Georgia
+📧 kerwinevorbe2007@gmail.com | 📱 (678) 368-9583 | 📍 I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal (19yr)
-**Location:** I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles. It doesn't matter because I have my own car to be able to drive will be for if it is. So in when I'm free and also I have chec...
-**Schedule:** Part-time and full-time, either. Cowork my availability is quite open to the extent. I could work morning or evening or they ship from Monday to Friday, but I'll probably prefer part-time overall because that gives me more flexibility with school.
+**Experience:** Informal (babysitter), 19+ years. Ages: infants, toddlers
+**Location:** I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles, 20-30 miles
+**Schedule:** full-time, part-time (school schedule, mornings/evenings)
 
-**Summary:** Kerwine's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kerwine's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -7489,39 +7742,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello. My name is Cohen warband. I am 19 years old, and I'm currently a college student at JSU. I've experienced with babysitting for family friends. And also, I have also gained experience by working at Sky Zone, trampoline park around somewhere. 20:24 it was very fun experience with allowed me to gain interest to work with children and the main reason.
- I love to work with children is because they have their full of curiosity and I love them to see them explore and ask question and learn new things. And I found it very rewarding to be able to help them from exploring the Curiosity and how to...
+ I love to work with children is because they have their full of curiosity and I love them to see them explore and ask question and learn new things. And I found it very rewarding to be able to help them from exploring the Curiosity and how to play, how to engage and overly. I am quite excited to be able to keep working with children and gain experience from that field because it's very rewarding. And also, I have
+ Year, customer service of experience. So, I for my customer service, I have gained a lot of communication skill, patience, and how to deal with difficult situation and a call me mother. And I'm quite excited to work with up kid, and be able to be exploring and learn more. And to continue working with children from all age, especially toddlers because they tend to be real curiosity and very vocal about it.
+ Pressing themselves which I find quite exciting about them cuz you mind want to be able to, you know, stick here's in life and be vocal about what you're interested in and that's the main reason I love to work around age children age of toddlers or even up to 12. Yeah.
 
 **Q4 — Location:** I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles. It doesn't matter because I have my own car to be able to drive will be for if it is. So in when I'm free and also I have check on the others, why the availability on my area. So location Witnesses really, be a problem per se
 
 **Q5 — Schedule:** Part-time and full-time, either. Cowork my availability is quite open to the extent. I could work morning or evening or they ship from Monday to Friday, but I'll probably prefer part-time overall because that gives me more flexibility with school.
 
-**Q6 — Conflict Resolution:** When I've dealt with conflict between two children, with one hit another first, I stay calm. Then separate them and have a talking Ox each, what happened to be able to understand each of them? What happened in Arkham conclusion? Based on the first just, one story, glad to hear both sides of the story and then make them come together and be able to explain them that would conflict. They cannot just...
+**Q6 — Conflict Resolution:** When I've dealt with conflict between two children, with one hit another first, I stay calm. Then separate them and have a talking Ox each, what happened to be able to understand each of them? What happened in Arkham conclusion? Based on the first just, one story, glad to hear both sides of the story and then make them come together and be able to explain them that would conflict. They cannot just hit each other.
+ Hitting strut is not acceptable behavior per se and after I'm done explaining that I will encourage them to apologize to each other and where they can be friend and then encourage them to do something like a fist bump or explore that they could play together. And yeah,
 
 **Q7 — Why Great:** I'll make a grill up to teacher because I have experience working with children, but both to be sitting and supervising kids at Sky Zone and I have gained a lot of patience, and enjoy, creating safe, and fun environment with children. And I refuse, I have very attentive skill to be able to pay attention to their needs and able to listen to them and can respond to conflict. Call me and
- I'd really ...
+ I'd really enjoy being around children because they're full of curiosity and I'm overly committed to like helping kids and help them have a great experience from early age, that can shape them to whatever did June to become in the future.
 
 </details>
 
 🔗 **App Account:** 🟢 Kerwine  Vorbe
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles. It doesn't matter because I have my own car to be able to drive will be for , 20-30 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles, 20-30 miles. 19+ years as babysitter. Worked with infants, toddlers. Currently college student. Looking for full-time, part-time (school schedule, mornings/evenings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles. It doesn't matter because I have my own car to be able to drive will be for . Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. I'll even stopping Georgia and I'm willing to travel from 20 to 30 miles. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #191 — ✅ APPROVE (MEDIUM) — Marie amavisca
 
-📧 tmamavisca@gmail.com | 📱 (480) 338-9513 | 📍 Arizona
+📧 tmamavisca@gmail.com | 📱 (480) 338-9513 | 📍 Surprise Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I live in Surprise Arizona. I can travel up to 30 miles and
- I'm available 7 days a week.
-**Schedule:** My ability ability is seven days a week, full time part time. It doesn't matter what time it can be overnight, it can be in the morning. I'm blessed with a very flexible schedule.
+**Experience:** Mixed — daycare, kindergarten (counselor). Ages: preschool-age, school-age, teens
+**Location:** Surprise Arizona, 30 miles
+**Schedule:** full-time, part-time (mornings)
 
-**Summary:** Marie has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Marie has experience in daycare, kindergarten plus informal childcare. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -7530,38 +7785,47 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Armory. I have experience in child care, dating back, 30, plus years. My mother owned a licensed daycare facility. And as I was a teenager into my young adult, I helped with her and she got me interested. So I'm a male clinic Alum, and I am also a BHT. Why I worked with children living with ASD and we were there to prepare.
  M4.
- You know, school kindergarten any boundaries at home, anything that we needed to get them, you know, any sports trying to think of everything. I am also a mental health cracka, counselor crisis counselor. And I have six kids, three grandchildren, one living with ASD a...
+ You know, school kindergarten any boundaries at home, anything that we needed to get them, you know, any sports trying to think of everything. I am also a mental health cracka, counselor crisis counselor. And I have six kids, three grandchildren, one living with ASD and I'm able to influence him through ABA therapy.
+ And he's getting ready for his graduation and going to kindergarten. And so, I've pretty much worked with children, all my life. I've homeschooled all six of my children and they are now in law enforcement medical, their nursing and the military. So in combat combat Medics rather. So we all kind of who know, make sure that we're stewards of our future and
+ children.
+ need to be afforded the same opportunities as the rest of us and as they get older, it needs to get easier and we can involve ourselves in the community and make sure that they're
+ Loved and accepted and nurtured. That's, that's pretty much it. They're just their children are amazing. How can you not love them and be in their presence?
 
 **Q4 — Location:** I live in Surprise Arizona. I can travel up to 30 miles and
  I'm available 7 days a week.
 
 **Q5 — Schedule:** My ability ability is seven days a week, full time part time. It doesn't matter what time it can be overnight, it can be in the morning. I'm blessed with a very flexible schedule.
 
-**Q6 — Conflict Resolution:** Conflict between two children by happens quite often in any setting, really playground Care Centers, living facilities, therapy that. I've seen happen all the time it's expected so it kind of depends on what happened right? Before the antecedent like what was happening, something you take it a ball or anything like that, but physically if you're talking physically, you would stand kind of get down...
+**Q6 — Conflict Resolution:** Conflict between two children by happens quite often in any setting, really playground Care Centers, living facilities, therapy that. I've seen happen all the time it's expected so it kind of depends on what happened right? Before the antecedent like what was happening, something you take it a ball or anything like that, but physically if you're talking physically, you would stand kind of get down to their level.
+ Evil. Remove the child, that was actually hit and you place them in a safe area. Make sure they're okay. We turn around. You want to face the other child and say, okay, we don't hit, you don't have to say no, you just say, you know, you put your hands on your, you know, it depends on the situation again, if you see the therapy that we have our own methods, you know, you want to hounds off just calmly. Say hands are for Not For Hitting.
+ Answer for playing be nice. And then you kind of again, you would take the situation, but you would definitely calmly not jump up, not gasp you calmly, walk over and you take the other child out of that situation. The one that was hit. And then the other one I emphasize you turn around and you say, okay, you know what happened? Hands Are Not For Hitting, click view. Can cross their hands on
+ On gently put your hands on their little hands and say put on your knees or have play, you know, emphasize that they at their use for play. They're used for eating.
 
 **Q7 — Why Great:** I'm a wonderful fit with a kid and up, kid is perfect for me. I'm in a position where I can use them. All of my skills. All of my credentials, all of my certifications. All of my expertise and history, and all my circumstances. I have been in and I've been involved in the community and I'm continuing in the community, and this is where I plan to live out my
- Days. Doing I plan on working with yout...
+ Days. Doing I plan on working with youth, even the young adults that they need support. And they need support from someone who literally cares about them as they are met as they are. And we and we want I want to see them flourish. I want to see them change. I want to see them smile. I want to see them be able to get over any obstacles. I like to take care of. I like to support my tears. So if
+ Like having a tough time or they can't make it. I love to cover for everyone. I did it male clinic was always there. I it just it made me excited. I didn't do it because I wanted you know, to feel popular. I did it because I loved it and I loved knowing like a walk away in a person's like. Wow! She helped me. I'm not in a big pickle. I'm in and I'm out of this now. And I just, I love helping others and I love the fact that this is flexible. You cannot argue that it's
+ Wonderful that there's flexibility. You could show up and say, hey I'm here, I'm here to help you out. I-i'm have as happy here as you are me being happier.
+ I just think it's a perfect fit.
 
 </details>
 
 🔗 **App Account:** 🟢 Marie Amavisca
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Surprise Arizona. I can travel up to 30 miles and
- I'm available 7 days a week., 30 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Surprise Arizona, 30 miles. daycare, kindergarten experience. Worked with preschool-age, school-age, teens. Looking for full-time, part-time (mornings).
 
 ---
 
 ### #192 — ✅ APPROVE (HIGH) — Nakeita Clark
 
-📧 nakeitasclark20@gmail.com | 📱 (678) 360-4086 | 📍 Georgia
+📧 nakeitasclark20@gmail.com | 📱 (678) 360-4086 | 📍 Acworth Georgia, I do not mind traveling anywhere
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (26yr)
-**Location:** I currently live in Acworth Georgia, I do not mind traveling anywhere. In Cobb County, Cherokee County, Bartow County. So like areas like Woodstock Kennesaw Atlanta areas as well. I don't mind traveli...
-**Schedule:** Hi. I am looking for full-time and part-time shifts. My availability is open as of now.
+**Experience:** Formal — preschool (lead teacher, assistant teacher), 26+ years. Ages: infants, toddlers, preschool-age, teens
+**Location:** Acworth Georgia, I do not mind traveling anywhere, 40 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Nakeita has formal childcare experience with 26+ years (child development, assistant teacher, early childhood, preschool). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nakeita is a strong candidate — preschool experience with 26+ years. Has worked with infants, toddlers, preschool-age, teens. Currently CPR/First Aid.
 
 **Red Flags:** None
 
@@ -7569,38 +7833,43 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Nikita Clark. I started working in the childcare field in. 2019 I'm 26 years old born and raised in Atlanta Georgia I started out at a preschool Center in Kennesaw Georgia working with infants as an assistant teacher, helping out a Lead Teacher and I worked with one year olds as well as an assistant teacher and I got promoted for elite teacher position for older too.
- Gyros, I did lesson planning, I did potty training. I did the feedings for infants on up to the two year old room. I've created activities through Pinterest. I'm quick on my feet when it comes to creating activitie...
+ Gyros, I did lesson planning, I did potty training. I did the feedings for infants on up to the two year old room. I've created activities through Pinterest. I'm quick on my feet when it comes to creating activities so that way kids don't get bored and they don't get antsy and they, they're not uncomfortable.
+ I have experience creating a structured routine, a structured schedule for a child because I know that helps a child learn better and they look forward to what's coming next of the day. My skills involve, Child Development, classroom management activity. Planning curriculum design Behavior guidance. I also still have my license
+ For first aid, CPR, and AED still active for two years. I graduated from McEachern High School and I am furthering my education and early childhood education at Chattahoochee Tech. Also I'm an enthusiastic lead toddler teacher. Currently what I Look to create my own hours through this app and I work with skilled in creating engaging learning.
 
 **Q4 — Location:** I currently live in Acworth Georgia, I do not mind traveling anywhere. In Cobb County, Cherokee County, Bartow County. So like areas like Woodstock Kennesaw Atlanta areas as well. I don't mind traveling to the city. It's about a 40 minute drive but it's doable Powder Springs, Marietta,
- Has Smyrna I...
+ Has Smyrna I want to say yes Atlanta particularly Fulton County, yes Cobb County and Bartow County or Cherokee County as well. Also I can push Douglasville area as well.
 
 **Q5 — Schedule:** Hi. I am looking for full-time and part-time shifts. My availability is open as of now.
 
 **Q6 — Conflict Resolution:** Working in a classroom setting or center-based environment. We have this happen a lot with biting and hitting and taking toys and a lot of the times they're just being mean to their friends and as teachers have to be the role model or pro-social person to come in and explain to the child that they can really hurt their friend and help them become aware that they are making their friend.
- Cry or yo...
+ Cry or you making your friends feel bad and just talk to them, explain to them and also encouraging them to give a hug at the end or two, you know, Patrick from on the back of tell them you're sorry, just goes a long way with helping children control their emotions and I like having a quiet time. Maybe having them sit, and read a book, the child, who is being a bully, could have a quiet area, maybe they are overwhelmed.
+ Over stimulated. So we like to just clear out the area and help that child become, you know, calm and help them, help their student feel better, giving hugs, and saying, sorry and acknowledging. That their friend is crying at their friend was possibly playing with that toy first. So it's just, it just helping children become aware.
 
 **Q7 — Why Great:** II make a good up kid teacher because I have so much experience. My passion is with childcare. I've always wanted to work with kids when from when I was a kid, I had great teachers who paved the way for me and who gave me the insight and the motivation to be a great teacher. So I would love to be a role model and just watching the kids grow and learn and helping them.
- Be more Curious of the world...
+ Be more Curious of the world. Is my my biggest value. My my value, my morals. When it comes to teaching kids, I love to help them learn how to be Independent, Learning autonomy, looking at the whole child, I love to be a teacher. I love teaching and I love making sure kids are getting that quality care that they need. Also, I provide
+ I was proven ability to implement and engaging age. Ability age-appropriate activities that promote social skills. I'm good at reading children's emotions and reading their behavior and helping them get through. What they're going through. Helping them be resilient, maybe they need that love from a teacher and they need that, they need a teacher that's going to hear them, you know, and listen to them. So I love
+ To give positive guidance and actually listen to the child. So I just I just love being a teacher and putting the putting the smile on a child's face every day and making their day and also helping the parents because they truly have to go to work and they truly have to provide for their family. So just giving them that relief, knowing that their child is safe, is wonderful.
 
 </details>
 
 🔗 **App Account:** 🟢 Nakeita Clark
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Acworth Georgia, I do not mind traveling anywhere. In Cobb County, Cherokee County, Bartow County. So like areas like Woodstock Ke, 40 miles. 26+ years child development, assistant teacher, early childhood, preschool experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Acworth Georgia, I do not mind traveling anywhere, 40 miles. 26+ years preschool experience. Worked with infants, toddlers, preschool-age, teens. Currently CPR/First Aid. Looking for full-time, part-time.
 
 ---
 
 ### #193 — ✅ APPROVE (MEDIUM) — Eliza Bradford
 
-📧 25elizabrad@gmail.com | 📱 (801) 808-7218 | 📍 Utah
+📧 25elizabrad@gmail.com | 📱 (801) 808-7218 | 📍 Orem. Utah. Close to Provo
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I currently live in Orem. Utah. Close to Provo, right? By you view. And I'm willing to travel 25 to 30 miles.
-**Schedule:** I am currently looking for full-time work and I am available from 7 a.m. until 5 p.m. or later depending on the day on Mondays. I'm only available until 5 p.m. on. Tuesdays through Saturdays, I'm available until 8 p.m.
+**Experience:** Mixed — afterschool program (nanny, babysitter). Ages: infants, teens
+**Location:** Orem. Utah. Close to Provo, 25-30 miles
+**Schedule:** full-time
 
-**Summary:** Eliza has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Eliza has a mix of formal (afterschool program) and informal (nanny, babysitter) experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -7609,35 +7878,38 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is Eliza Bradford, my experience in child care is, I grew up in a large family. I spent a lot of time babysitting for my younger siblings, as well, as I babysat for some of my neighbors, I did some tutoring for one of my neighbors after school and I also nannied during the summer, after I graduated, and I also need a need during the summer between my junior and sophomore and junior year. So, I've done a bit of nannying
  I've done some tutoring and some teaching with younger children, I've worked with ages.
- To no one and a half because she just barely turned to. I've worked with ag...
+ To no one and a half because she just barely turned to. I've worked with ages one and a half to up to 15. I I love love kids of all ages. I love how just genuine and happy they are. I love their curiosity and their imagination, their creativity and just how like easy they are to be around and I just enjoy the happiness that they bring me and like the
+ pure like joy that they kind of just like radiates out of themselves.
 
 **Q4 — Location:** I currently live in Orem. Utah. Close to Provo, right? By you view. And I'm willing to travel 25 to 30 miles.
 
 **Q5 — Schedule:** I am currently looking for full-time work and I am available from 7 a.m. until 5 p.m. or later depending on the day on Mondays. I'm only available until 5 p.m. on. Tuesdays through Saturdays, I'm available until 8 p.m.
 
-**Q6 — Conflict Resolution:** I think it's important to separate the children who are in conflict and then go and talk to both of them individually help calm down. So like if the scenario is say one child hit another child we would go and talk to the child. Both of the children are asked them, not why did you do that? But what was the problem more of like less of placing blame and more of. Let's figure out what went wrong so w...
+**Q6 — Conflict Resolution:** I think it's important to separate the children who are in conflict and then go and talk to both of them individually help calm down. So like if the scenario is say one child hit another child we would go and talk to the child. Both of the children are asked them, not why did you do that? But what was the problem more of like less of placing blame and more of. Let's figure out what went wrong so we can make it better and not do it again in the future.
+ I think it's important to make sure that both children feel heard in their experience because one child experience something different from the other child. Maybe child a hit child, be because child be took a toy from Child. A. So we need to get the whole story and then just make sure you stay calm and kind, and use a kind tone. Never jump to anger, especially not with little kids. I'm just make sure that everybody understands that it is a safe place.
 
-**Q7 — Why Great:** I think I would make a great up kid teacher because I have always loved working with kids, I love nannying, I love babysitting, I've Loved tutoring. Doing those things growing up, and I just feel like happy when I'm with little kids just because they like radiates just like positivity and joy out of them. And my dream job is I want to be a stay-at-home mom and raise my own children. And so I feel ...
+**Q7 — Why Great:** I think I would make a great up kid teacher because I have always loved working with kids, I love nannying, I love babysitting, I've Loved tutoring. Doing those things growing up, and I just feel like happy when I'm with little kids just because they like radiates just like positivity and joy out of them. And my dream job is I want to be a stay-at-home mom and raise my own children. And so I feel like a career with children where I'm actively helping out with kids every day.
+ Day would help me. Number one, develop my skills to be a better. Stay at home, mom in the future. And number two, give me just like an idea of what like the environment is. And give me like practice, helping like resolving problems with children and teaching them. And just learning to be a better mom in the future.
 
 </details>
 
 🔗 **App Account:** 🟢 Eliza Bradford
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Orem. Utah. Close to Provo, right? By you view. And I'm willing to travel 25 to 30 miles., 25-30 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Orem. Utah. Close to Provo, 25-30 miles. afterschool program experience. Worked with infants, teens. Looking for full-time.
 
 ---
 
 ### #194 — ✅ APPROVE (HIGH) — Jeanette Stys
 
-📧 jeanettestys@gmail.com | 📱 (321) 877-6223 | 📍 Arizona
+📧 jeanettestys@gmail.com | 📱 (321) 877-6223 | 📍 Mesa Arizona and I'm willing to travel 10 miles any given Direction
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (15yr)
-**Location:** I live in Mesa Arizona and I'm willing to travel 10 miles any given Direction.
-**Schedule:** Hello. My availability is Monday through Friday from 8 a.m. to 6 p.m. unless there's some special need forbidden to work outside of those hours.
+**Experience:** Formal — daycare, afterschool program, 15+ years. Ages: infants, teens
+**Location:** Mesa Arizona and I'm willing to travel 10 miles any given Direction, 10 miles
+**Schedule:** flexible
 
-**Summary:** Jeanette has formal childcare experience with 15+ years (daycare). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution leans toward discipline/timeout — Erica may want to note this.
+**Summary:** Jeanette is a strong candidate — daycare, afterschool program experience with 15+ years. Has worked with infants, teens.
 
 **Red Flags:** None
 
@@ -7654,7 +7926,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** Hi. Well, I actually have this happen once between two little boys, one and hit the other because he wanted the toy.
  Upon me seeing him hit the other child. I went over to him and said, we don't hit we use our words. Now, what are you upset about? And he told me and I spoke to the other child. He said, well, I'm not done with the toy yet, so
- the medium was this, he was going to play with it for ...
+ the medium was this, he was going to play with it for another 10 to 15 minutes and then he could give it over to the other child who has been in timeout for that entire time
 
 **Q7 — Why Great:** Plain and simple. I like to have fun kids, enjoy life in the moment. They see things with fresh eyes. They teach us adults, how to look at the world.
  At least, if we want to keep our sanity, I really do. Like kids. I've always been the Kool-Aid house where all the kids hung out. I'm just out, Mom, I'm just that person.
@@ -7664,20 +7936,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 JEANETTE HUNTER STYS
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Mesa Arizona and I'm willing to travel 10 miles any given Direction., 10 miles. 15+ years daycare experience. Looking for available.
+> 03/30 Intro Call Passed. Mesa Arizona and I'm willing to travel 10 miles any given Direction, 10 miles. 15+ years daycare, afterschool program experience. Worked with infants, teens. Looking for flexible.
 
 ---
 
 ### #195 — ✅ APPROVE (HIGH) — Nevaeh Buskirk
 
-📧 vaeh6395@gmail.com | 📱 (602) 210-8292 | 📍 Arizona
+📧 vaeh6395@gmail.com | 📱 (602) 210-8292 | 📍 So I just moved out to Surprise Arizona around
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (19yr)
-**Location:** So I just moved out to Surprise Arizona around. I want to say a week ago. I'm fairly new to the city. I've been in Arizona my whole life but this city is definitely new. I don't have a vehicle of my o...
-**Schedule:** So as being a college student, I prefer part-time specifically because the other half of that is mainly College. I'm truly okay. With any shift. I don't mind if it's early mornings, afternoons, night, whatever. I'm I'm willing to get up and work for ...
+**Experience:** Formal, 19+ years
+**Location:** So I just moved out to Surprise Arizona around
+**Schedule:** part-time (school schedule, mornings/afternoons)
 
-**Summary:** Nevaeh has formal childcare experience with 19+ years in a professional setting. Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nevaeh has solid formal childcare experience. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -7685,35 +7957,44 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Nevaeh. Buskirk Nevaeh, Renee. Buskirk, I'm also known more as Vella. I'm 19 years old, I just turned 19 years old. The first of March, I currently attend Grand Canyon University. I'm an online student full-time, online student, I study Behavioral Health Science with an emphasis, in trauma, my goal. Career-wise, long term is to work in the fog.
- After system, I grew up in the Foster system. I think it's important to empower children that are in the system specifically, because I know what, it's like to not be empowered while in the system. Overall, I just think children are the ...
+ After system, I grew up in the Foster system. I think it's important to empower children that are in the system specifically, because I know what, it's like to not be empowered while in the system. Overall, I just think children are the most important piece of just Society, in general. And I think it's important to kind of focus and hone in on their education and their
+ Until will be more than we do as a society now. And I believe that, you know, getting into this role of work is going to allow me to see how different children and how different children children's characteristics are and how, you know, I can help them in different ways to each their own. You know every child is different and I feel like this will give me a really good idea of the career that I'm going to be getting into and how to
 
-**Q4 — Location:** So I just moved out to Surprise Arizona around. I want to say a week ago. I'm fairly new to the city. I've been in Arizona my whole life but this city is definitely new. I don't have a vehicle of my own so I'm not wanting to travel in the same lie far but I will you know make the distance especially...
+**Q4 — Location:** So I just moved out to Surprise Arizona around. I want to say a week ago. I'm fairly new to the city. I've been in Arizona my whole life but this city is definitely new. I don't have a vehicle of my own so I'm not wanting to travel in the same lie far but I will you know make the distance especially I'm getting in shifts and I'm getting an experience towards the career that I want and goal.
+ Yeah.
 
-**Q5 — Schedule:** So as being a college student, I prefer part-time specifically because the other half of that is mainly College. I'm truly okay. With any shift. I don't mind if it's early mornings, afternoons, night, whatever. I'm I'm willing to get up and work for it. I just would prefer the Sundays. I just want m...
+**Q5 — Schedule:** So as being a college student, I prefer part-time specifically because the other half of that is mainly College. I'm truly okay. With any shift. I don't mind if it's early mornings, afternoons, night, whatever. I'm I'm willing to get up and work for it. I just would prefer the Sundays. I just want my Sunday's free because those Sunday's are the days where everything is
+ Do like deadline. That's my only real preference. Other than that whatever, schedule. Whatever time I'm willing to put in the work.
 
-**Q6 — Conflict Resolution:** So from personal experience, I'd say the first step in my opinion is to separate the children. I think that it's best to get an idea of what's going on from both situations. How does this child feel? How does this child see it? And how does the other child feel? And how does the other child see? I want to get both perspectives. I want to understand what's going on. The best way I can help it the b...
+**Q6 — Conflict Resolution:** So from personal experience, I'd say the first step in my opinion is to separate the children. I think that it's best to get an idea of what's going on from both situations. How does this child feel? How does this child see it? And how does the other child feel? And how does the other child see? I want to get both perspectives. I want to understand what's going on. The best way I can help it the best way. I can calm the situation down when I do have the
+ Ins and how they're feeling. I think it's important to calm them down enough to either have a conversation with each other and explain like to them. You know, this is how you explain to this person. That this is how it made you feel Etc. I think it's also important to make sure that you pay attention and truly focus and hone in on the aspect of both children are upset. It's not just one children, it's not just the child.
+ Would that got hit that subset? It's both. And I think that's the most important is just remembering that both children matter, both children need to be heard both, two children need to be seen, you know, everybody is equal. We all get upset for different reasons and if one child gets upset for something small, then, so be it something that we need to work on. And we need to figure out how we're going to hone in and
+Be better with each other.
 
-**Q7 — Why Great:** I believe I'd be perfect for this role for so many reasons. Number one, I've always been around children. I'm the oldest of four or three other kids. I was Mama Bear. I've always been the one to help out in arguments. I've always been the one to deal with the conflicts to try to understand each and every position in each and every side. I think me being around that aspect especially is going to he...
+**Q7 — Why Great:** I believe I'd be perfect for this role for so many reasons. Number one, I've always been around children. I'm the oldest of four or three other kids. I was Mama Bear. I've always been the one to help out in arguments. I've always been the one to deal with the conflicts to try to understand each and every position in each and every side. I think me being around that aspect especially is going to help me in this.
+ This, especially with, you know, all walks of life is coming together. There's no saying how people are going to react, how children are going to react with each other. And I believe that I have a strong mindset towards. There's no right or wrong. It's just a misunderstanding and that's it's as simple as that. I also believe that with what I'm studying my career Behavioral Health Science. I know that I can handle conflicts a little bit more. I can read body language, I can
+ Sense. Different things in different areas and different aspects. I know how to hone in on a child that may not be doing well that day. I know how to also not focus on only one child. I understand that. It's important to see every child as equal, which I believe is a strong emphasis, especially in this career choice, you know, everybody is equal, nobody is different, nobody's less than and nobody is more than. And I think that mentality
+ Terrifically is important to this role. Also, just my career choice, long-term lies. I think that this is the perfect position to where I can get that experience with adolescents, without going straight into the traumatic experiences that they have rather. I can just see how they live day-to-day and how I should go about that instead.
 
 </details>
 
 🔗 **App Account:** 🟢 Nevaeh Buskirk
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So I just moved out to Surprise Arizona around. I want to say a week ago. I'm fairly new to the city. I've been in Arizona my whole life but this city. 19+ years Formal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. So I just moved out to Surprise Arizona around. Childcare experience (details in interview). Currently studying education/child development. Looking for part-time (school schedule, mornings/afternoons).
 
 ---
 
 ### #196 — 🟡 FLAG (MEDIUM) — Ariyanna Laster
 
-📧 ariyannalaster13@gmail.com | 📱 (678) 787-8861 | 📍 Georgia
+📧 ariyannalaster13@gmail.com | 📱 (678) 787-8861 | 📍 Hi. I am
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** Hi. I am, I am located in Georgia, Conyers Georgia to be exact and I am willing to travel 20 miles at most out the area.
-**Schedule:** Hi. I'm looking for a full-time position and the schedule. It doesn't matter. I can do any show.
+**Experience:** Informal (babysitter). Ages: infants, toddlers
+**Location:** Hi. I am, 20 miles
+**Schedule:** full-time
 
-**Summary:** Ariyanna's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica.
+**Summary:** Ariyanna's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. ⚠️ Conflict resolution answer has concerning language — Erica should review.
 
 **Red Flags:** None
 
@@ -7740,23 +8021,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Ariyanna  Laster
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Hi. I am, I am located in Georgia, Conyers Georgia to be exact and I am willing to travel 20 miles at most out the area., 20 miles. Informal childcare experience (babysitting/family). Looking for full-time.
+> 03/30 Intro Call Passed. Hi. I am, 20 miles. babysitter. Worked with infants, toddlers. Currently college student. Looking for full-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Hi. I am, I am located in Georgia, Conyers Georgia to be exact and I am willing to travel 20 miles at most out the area.. Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Hi. I am. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #197 — ✅ APPROVE (MEDIUM) — Teanna latimore
 
-📧 latimore547@gmail.com | 📱 (770) 347-9735 | 📍 Georgia
+📧 latimore547@gmail.com | 📱 (770) 347-9735 | 📍 Okay. I am currently in Atlanta. Georgia right now I live li
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (22yr)
-**Location:** Okay. I am currently in Atlanta. Georgia right now I live like 10 minutes from the airport. So I would say like East Point area, I'm willing to travel at least like 15, 20 miles out. If I if I can I'm...
-**Schedule:** I'm honestly looking for both, whichever May suits whether it is full time or part time. Right now, I'm looking for a full time, shifts something in the range from the morning to early afternoon.
- Yeah, Monday through Friday.
+**Experience:** Mixed — daycare, 22+ years. Ages: toddlers
+**Location:** Okay. I am currently in Atlanta. Georgia right now I live li, 10 miles
+**Schedule:** full-time, part-time (mornings/afternoons)
 
-**Summary:** Teanna has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Teanna has experience in daycare plus informal childcare. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+17703479735 APP=+14048295641
@@ -7765,18 +8045,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Tiana Lattimore. I'm 22 years old. And honestly, my experience is like, you know, watching kids in the daycare but I don't really have much experience with working with kids but I love children and I love working with kids and I have a passion for teaching kids know different things that they may not know or just playing with kids you know, just having a good time. I love children. I'm watching.
- My niece's all the time and they have a good time with me. They love me so much and I'm just trying to find like a quick little side. Hustle, just trying to make some quick cash, some m...
+ My niece's all the time and they have a good time with me. They love me so much and I'm just trying to find like a quick little side. Hustle, just trying to make some quick cash, some money and also develop my skills and to working with different ages and getting to know different kids.
 
 **Q4 — Location:** Okay. I am currently in Atlanta. Georgia right now I live like 10 minutes from the airport. So I would say like East Point area, I'm willing to travel at least like 15, 20 miles out. If I if I can I'm willing to travel in the city area.
- Or whatever is available, nothing too far like Alpharetta or D...
+ Or whatever is available, nothing too far like Alpharetta or Duluth, or nothing, but I'm willing to travel like at least 20, 25 miles out from where I am.
 
 **Q5 — Schedule:** I'm honestly looking for both, whichever May suits whether it is full time or part time. Right now, I'm looking for a full time, shifts something in the range from the morning to early afternoon.
  Yeah, Monday through Friday.
 
 **Q6 — Conflict Resolution:** So first I would separate the two kids that are fighting and ask what happened. If the aggressor or the kid who started it, whoever started did Destiny put them like on time. I'll just, you know, like let them sit down and by their self and isolation, not really in a corner or say, but just like sit them down. Let them like reflect have them probably right now.
- Down on a sheet of paper. What caus...
+ Down on a sheet of paper. What caused them to drive to be so angry or - and what made them do those things too. Want to react and hate each other. Try to like write it down and talk about their feelings and express their feelings in a different way rather than putting their hands on each other.
 
-**Q7 — Why Great:** I think personally I would make a good teacher because for one I am pretty young. I'm 22 years old. So I feel like I'm more understanding when it comes to little kids and honestly to be real I'm probably half their parents ages like probably close to their parents age so I feel like it'll be more easier understanding for me to go about different situation with kids whether that's teaching them dif...
+**Q7 — Why Great:** I think personally I would make a good teacher because for one I am pretty young. I'm 22 years old. So I feel like I'm more understanding when it comes to little kids and honestly to be real I'm probably half their parents ages like probably close to their parents age so I feel like it'll be more easier understanding for me to go about different situation with kids whether that's teaching them different things or
+ Cleaning them or just having fun with them trying to dance or do different things with them, that help them feel more and tuned. And like I said, I am kind of close in age so I feel like they'll understand me a little bit more and feel closer and connected to me a little bit more than made the other teachers that are a little bit older than me. And I feel like I would bring
+ a lot of new elements to the table for them to learn different ways.
 
 </details>
 
@@ -7784,20 +8066,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+17703479735 APP=+14048295641
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Okay. I am currently in Atlanta. Georgia right now I live like 10 minutes from the airport. So I would say like East Point area, I'm willing to travel, 10 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Okay. I am currently in Atlanta. Georgia right now I live li, 10 miles. 22+ years daycare experience. Worked with toddlers. Looking for full-time, part-time (mornings/afternoons).
 
 ---
 
 ### #198 — ✅ APPROVE (HIGH) — Milan Wilcher
 
-📧 mkwilcher10@gmail.com | 📱 (470) 473-1265 | 📍 Georgia
+📧 mkwilcher10@gmail.com | 📱 (470) 473-1265 | 📍 Okay. Okay so yeah I live in Atlanta Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (21yr)
-**Location:** Okay. Okay so yeah I live in Atlanta Georgia and South Fulton area but I'm willing to drive at least 28 miles out you know I'm not too picky about where I would possibly working and stuff like that. S...
-**Schedule:** I'm looking for a part-time, like I said, and your advertisement. And also, when I signed up it was very flexible. So being that I am in school, I do want to be, you know, make that the first priority. But also, you know, getting to my money and stuf...
+**Experience:** Formal — elementary school, 21+ years. Ages: preschool-age, school-age, teens
+**Location:** Okay. Okay so yeah I live in Atlanta Georgia, 28 miles
+**Schedule:** part-time (school schedule, mornings/afternoons)
 
-**Summary:** Milan has formal childcare experience with 21+ years (teacher). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Milan is a strong candidate — elementary school experience with 21+ years. Has worked with preschool-age, school-age, teens. Currently college student. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -7805,35 +8087,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Well, hello, first off, my name is Milan wheelchair. I'm 21 years old, and I'm currently a college student at clay and stay in the dental program, but I definitely have experience with children. I have done some internships and Savannah State where I got a Bachelor's degree. I've done some dense her internships with the dental program there where I was like assisting, the dental patients with kids and stuff like that. And also my auntie is a
- Teacher. So during the summer or any time I come home, I volunteer with her, just helping clean up her classroom or talking to the kids and stuff like th...
+ Teacher. So during the summer or any time I come home, I volunteer with her, just helping clean up her classroom or talking to the kids and stuff like that. And also being in a sorority of Alpha Kappa, Alpha sorority Incorporated. We do a lot of volunteer work with the schools that was in Savannah where I was going to school at. We done a lot of volunteer work with the schools like elementary schools and stuff like that. Like reading with the kids playing with the kids, getting to know the kids talk. Some light into the kids, Inspire the kids. So that's
+ Most of the experience I have with kids and stuff like that. I would say the age group range from like 45 on up to like high school. We talked to a couple high school kids so yeah I do have a broad.
+ I guess you can say a broad spectrum of the age. Well, but I saw a little more about me. I did say that I am in a sorority of Alpha Kappa, Alpha sorority Incorporated. I also love to go to the gym in my spare time and right now, I do currently work at Publix where I have been a decorated for four years. And I absolutely love that job. And I also in turn and, you know, a dental office and stuff like that and while going to Clayton State. So, that's just a little bit about me. I'm very busy, but I
+ I also just let see stay busy. So yeah.
 
 **Q4 — Location:** Okay. Okay so yeah I live in Atlanta Georgia and South Fulton area but I'm willing to drive at least 28 miles out you know I'm not too picky about where I would possibly working and stuff like that. So I'm very open.
 
-**Q5 — Schedule:** I'm looking for a part-time, like I said, and your advertisement. And also, when I signed up it was very flexible. So being that I am in school, I do want to be, you know, make that the first priority. But also, you know, getting to my money and stuff like that, and also just seeing different kids. ...
+**Q5 — Schedule:** I'm looking for a part-time, like I said, and your advertisement. And also, when I signed up it was very flexible. So being that I am in school, I do want to be, you know, make that the first priority. But also, you know, getting to my money and stuff like that, and also just seeing different kids. So part-time would be good for me. The days that I don't have school. I can work in the mornings and like, even if I do have school, I get out at a good reasonable time. So if anybody needs being an afternoon and stuff,
+ I'm fine with that as well. So yeah.
 
-**Q6 — Conflict Resolution:** So yeah, don't worry children, you know, sometimes they can become a bit aggressive, not getting their way and stuff. So I tend to come at calm approach and try to talk to them in a commenter, whether then, you know, yelling and stuff. Because for one that's not my child, I don't have permission to do that and I don't want to do that to anyone else child. And in an instance, where a child is hitti...
+**Q6 — Conflict Resolution:** So yeah, don't worry children, you know, sometimes they can become a bit aggressive, not getting their way and stuff. So I tend to come at calm approach and try to talk to them in a commenter, whether then, you know, yelling and stuff. Because for one that's not my child, I don't have permission to do that and I don't want to do that to anyone else child. And in an instance, where a child is hitting another child death, they would pull them to the side or I will definitely
+ present them to whoever is in charge of the classroom. Since I'm just like assisting here and if the teacher is not available, then definitely talk to the truth. The child in a calm Manner and just Express that we don't hit people and yeah.
 
-**Q7 — Why Great:** I believe up, kids teaching will be great for me because I enjoyed teaching and supporting kids in a positive way. Also is very crucial to have a positive energy support of background and stuff when you're young just so you can grow up and you know become a positive person have a good for Winchell person to teach you things is very crucial in your life. So yeah, I would love to be a part of their ...
+**Q7 — Why Great:** I believe up, kids teaching will be great for me because I enjoyed teaching and supporting kids in a positive way. Also is very crucial to have a positive energy support of background and stuff when you're young just so you can grow up and you know become a positive person have a good for Winchell person to teach you things is very crucial in your life. So yeah, I would love to be a part of their developing and provide care for the
+ And since they'll be working and stuff like that, that is great for me.
 
 </details>
 
 🔗 **App Account:** 🟢 milan  wilcher
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Okay. Okay so yeah I live in Atlanta Georgia and South Fulton area but I'm willing to drive at least 28 miles out you know I'm not too picky about whe, 28 miles. 21+ years teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. Okay. Okay so yeah I live in Atlanta Georgia, 28 miles. 21+ years elementary school experience. Worked with preschool-age, school-age, teens. Currently college student. Looking for part-time (school schedule, mornings/afternoons).
 
 ---
 
 ### #199 — ✅ APPROVE (MEDIUM) — Diamond Humphrey
 
-📧 diamondhumphrey13@gmail.com | 📱 (330) 242-0100 | 📍 Arizona
+📧 diamondhumphrey13@gmail.com | 📱 (330) 242-0100 | 📍 I'm located in Tempe, Arizona, I am willing to travel
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I'm located in Tempe, Arizona, I am willing to travel. I saw your shift, you kind of have something Phoenix. There's some and Scottsdale some amazing stuff. I'm going to travel that far. So anywhere t...
-**Schedule:** As I was explaining in the beginning, I do work usually full time at a school. We do have breaks in between or times where we're on break or spring break. So I wasn't kind of a flexibility if that's possible. So maybe like part time I do have full av...
+**Experience:** Mixed — preschool, afterschool program, elementary school (paraprofessional, babysitter). Ages: infants, school-age, teens
+**Location:** I'm located in Tempe, Arizona, I am willing to travel, 50 miles
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Diamond has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Diamond has a mix of formal (preschool, afterschool program) and informal (babysitter) experience. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=diamondhumphrey13@gmail.com APP=diamondhumphrey18@gmail.com
@@ -7844,18 +8132,24 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** Hi, my name is Diamond Humphrey. Um, my background with working with children, I usually work at a school. So I've been doing this for five years, actually, as a paraprofessional, I usually have like a one to one kid or I work in the classroom with kids, with special needs. I've also been a regular Jeanette classrooms, the kids usually,
  Love me.
  As far as like, my experience, I have, like I said, when working at schools, I've worked with all ages from pre-school all the way up to Elementary even up into high school. So I've even had older kids that I've worked with
-They could be funny. They ...
+They could be funny. They have their own personalities. I have four kids of my own. I've been a babysitter before. I I've like I said, worked at schools after school programs. I just love kids in general. I think they are the generation of the world at this point.
+ And I feel like they need people like us to help grow their minds and have a safe environment to explore to learn. So that's my reason, why thank you.
 
 **Q4 — Location:** I'm located in Tempe, Arizona, I am willing to travel. I saw your shift, you kind of have something Phoenix. There's some and Scottsdale some amazing stuff. I'm going to travel that far. So anywhere that's around me really I? You take transit so it'll be fine.
- And time to shift starts, then I shoul...
+ And time to shift starts, then I should be okay to travel. As far as you guys need to, maybe not the 50 miles or like Apache Junction somewhere where Transit doesn't go, but I can travel within transits distance. Let's say that.
 
 **Q5 — Schedule:** As I was explaining in the beginning, I do work usually full time at a school. We do have breaks in between or times where we're on break or spring break. So I wasn't kind of a flexibility if that's possible. So maybe like part time I do have full availability most of the time.
- So anywhere between ...
+ So anywhere between end of May to end of July, I have time to work at the center's if needed also on breaks, like I said, so spring break, fall, break Christmas break, any of those times. I'm usually available or if I'm not at work or school. Usually, I can be
+ Ayla, build there.
 
 **Q6 — Conflict Resolution:** So once again I hate to keep mentioning it but I do work at a school. So this type of thing, happens all the time, another kid hits, another kid and my conflict begins but I'm usually try to break it up pretty quickly if it were me and I've had to deal with conflict like this, usually I try to break the kids up.
- It's away from each other so they can't harm each other and I'll kind of just go over...
+ It's away from each other so they can't harm each other and I'll kind of just go over to one and the other and kind of get their side of the story about what happened, kind of talk to them and say, Hey, you know, what's going on? You know why? I did, we hit something. So, you know, we don't usually we try to use nice hands, so, what's happening? And kind of get their side of the story, listen to what they have to say and then also go to
+ Other child hear them out here, both sides and then at the end of it kind of come together and see if we can get them to apologize to each other, see where things went wrong and maybe deescalate the situation. So most of the time, this is what I would do in that type of situation, try to deescalate the situation, listen to both children and try to come to a common ground.
 
-**Q7 — Why Great:** I think I would make a great up, kid teacher. I love working with kids. Like I said, when I was at the preschool the kids love me. Of course, I don't, I usually don't go by my last name. So most of the kids just call me Miss Diamond. They kind of loved that because like, we got your names diamond. We love that. Like, you know, you have a pretty name and you're pretty person and you're so kind. So,...
+**Q7 — Why Great:** I think I would make a great up, kid teacher. I love working with kids. Like I said, when I was at the preschool the kids love me. Of course, I don't, I usually don't go by my last name. So most of the kids just call me Miss Diamond. They kind of loved that because like, we got your names diamond. We love that. Like, you know, you have a pretty name and you're pretty person and you're so kind. So, you know, I kind of really just
+ Get really good feedback from the kids. They all turn to love me. So I feel like I would be a great teacher. I do give great Direction. I am very known at the school. A lot of the kids look up to me. I'm always imaginative creative. I love to draw my favorite thing to do, so I kind of got the kids at school involved with that.
+ I also love arts and crafts, I love to play games. I'm just all-around fun person so I think I'll be a great addition to up kid with helping with the children and just being there being a help helpful person, you know, taking initiative and just be a great Port role model for just two children. And really people,
+ All around me. So that's why I feel like I'd be a great up kid teacher.
 
 </details>
 
@@ -7863,21 +8157,20 @@ They could be funny. They ...
 ⚠️ email: VA=diamondhumphrey13@gmail.com APP=diamondhumphrey18@gmail.com
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in Tempe, Arizona, I am willing to travel. I saw your shift, you kind of have something Phoenix. There's some and Scottsdale some amazing , 50 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in Tempe, Arizona, I am willing to travel, 50 miles. preschool, afterschool program, elementary school experience. Worked with infants, school-age, teens. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #200 — ✅ APPROVE (MEDIUM) — Ms. Robbie Mitchell
 
-📧 rdmitchell400@gmail.com | 📱 (424) 356-3038 | 📍 Arizona
+📧 rdmitchell400@gmail.com | 📱 (424) 356-3038 | 📍 Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I currently live in Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15. Maybe 20 miles to an individual School. The various schools,
-**Schedule:** I am looking for part-time work for hours a day and I'm looking forward a starting out the early part of the day, the early shift starting at 7 a.m.
- And going into the afternoon. So basically, and I'm also available Mondays through Fridays as I stat...
+**Experience:** Mixed — afterschool program, middle school (substitute teacher). Ages: teens
+**Location:** Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15, 20 miles
+**Schedule:** part-time (afternoons)
 
-**Summary:** Ms. has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Ms. has experience in afterschool program, middle school plus informal childcare. Currently studying education/child development, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -7885,39 +8178,45 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Robbie Mitchell and I have several years working as a paraeducator working with special needs students with the Los Angeles, County Office of Education, grade levels, K through 12 and also in Atlanta Georgia. I served as a substitute teacher for K through middle school. With these school districts were located in the state of Georgia.
- There, I served multiple and multiple schools for Clayton County School District. And also for Cobb County School, District I enjoy working with young students and helping to mold and shape their their minds and / leading them with education an...
+ There, I served multiple and multiple schools for Clayton County School District. And also for Cobb County School, District I enjoy working with young students and helping to mold and shape their their minds and / leading them with education and developing.
+ This is just something I've always is always been a good environment for me. I've enjoyed working with students and also it was an opportunity for me to be home with my own stupid. My own children after school hours as their jobs, never lasted late into the evening. So I'm now pretty close to being retired and I'm looking forward to getting back into this environment and working with young minds and young students and helping to develop them.
 
 **Q4 — Location:** I currently live in Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15. Maybe 20 miles to an individual School. The various schools,
 
 **Q5 — Schedule:** I am looking for part-time work for hours a day and I'm looking forward a starting out the early part of the day, the early shift starting at 7 a.m.
  And going into the afternoon. So basically, and I'm also available Mondays through Fridays as I stated from the early hours of 7:00 a.m.
- Till the noo...
+ Till the noon afternoon shift ends.
 
 **Q6 — Conflict Resolution:** I have dealt with conflict between two children. First of all by acknowledging and noticing that there is a conflict taking place with the monitoring of students. Then by calmly speaking with the two students to intervene with the interaction and separate them. And basically asked them to explain
- Then what is happening and hearing each side and allowing each child to speak and then based on what ...
+ Then what is happening and hearing each side and allowing each child to speak and then based on what I'm hearing then I would make an appropriate assessment as to what the next step should be. If there should be any timeouts or do they need to separate and depending on what was the nature of the conflict? Whether or not, if a parent would need to be contacted most interactions during the day with young students very young students
+ Basically, this disagreement perhaps over a toy or wanting to do something or wanting something that another kid has. But there are those rare occasions depend on the depending on what the issue is, whether or not, if after speaking with the students, in a calm Manner and trying to resolve the issue with them and to get them, perhaps, maybe back to their playtime or whatever activities, should be taking place in the classroom at that time. Most,
+ Conflicts can be addressed that way and resolved where we can give the kids back to a friendly conversation and friendly interaction with one another.
+ But listening is very important.
 
 **Q7 — Why Great:** I think I would make a great up kid teacher, based on my previous experiences with working with young students and children and all there is ground grade levels.
- I raised three children of my own that lends to some of my experience. Not everything was perfect, but I have three College grads that I raised myself. And I enjoy working with young people. I enjoy watching them, develop and learning to...
+ I raised three children of my own that lends to some of my experience. Not everything was perfect, but I have three College grads that I raised myself. And I enjoy working with young people. I enjoy watching them, develop and learning to read, and learn those colors. And I most recently in 2023, I published my first children's book. It's a book based on a humorous.
+ Story about potty training. My book is also located in six Pima County Libraries and that doesn't make me an expert on the subject but it is something that I have enjoyed doing and also enjoy attending events such as the Tucson, Festival of books, and sharing my book with young readers, when young young, young kids and, you know, introducing the potty and the Potty monster in that whole nine yards there. But I just feel like my background is very
+ long in this area and that I would be a good fit working with young students and particularly at this stage in my life where I'm pretty close to retirement and I would like to give back and just be able to have that opportunity again to work with young students and molding their, their young minds and teaching
 
 </details>
 
 🔗 **App Account:** 🟢 Robbie Mitchell
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15. Maybe 20 miles to an individual School. The various schools,, 20 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Tucson, Arizona, ZIP code 85711, and I am willing to travel up to 15, 20 miles. afterschool program, middle school experience. Worked with teens. Currently studying education/child development. Looking for part-time (afternoons).
 
 ---
 
 ### #201 — ✅ APPROVE (MEDIUM) — Lastaysia Barnes
 
-📧 lastaysiabarnes15@gmail.com | 📱 (678) 368-8461 | 📍 Georgia
+📧 lastaysiabarnes15@gmail.com | 📱 (678) 368-8461 | 📍 the Decatur Georgia area and I am willing to travel 20 to 25 minutes for shifts
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (19yr)
-**Location:** I reside in the Decatur Georgia area and I am willing to travel 20 to 25 minutes for shifts.
-**Schedule:** I'm looking for a part-time work. Possibly mornings, but if not mornings, then afternoon would be fine.
+**Experience:** Mixed, 19+ years. Ages: infants
+**Location:** the Decatur Georgia area and I am willing to travel 20 to 25 minutes for shifts, 20-25 miles
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Lastaysia has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Lastaysia has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -7940,20 +8239,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Lastaysia Barnes
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I reside in the Decatur Georgia area and I am willing to travel 20 to 25 minutes for shifts., 20-25 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. the Decatur Georgia area and I am willing to travel 20 to 25 minutes for shifts, 20-25 miles. Mix of formal and informal childcare experience. Worked with infants. Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #202 — 🟡 FLAG (MEDIUM) — Yordanos Alemu
 
-📧 yordanosaa2007@gmail.com | 📱 (770) 530-5042 | 📍 Georgia
+📧 yordanosaa2007@gmail.com | 📱 (770) 530-5042 | 📍 Okay, so I'm located in Loganville, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** Okay, so I'm located in Loganville, Georgia. Personally, I'm going to travel like anywhere, like, around 1s without be like snow bill Grace. My lords for a little burn, like around that type of area, ...
-**Schedule:** Okay, so currently I am looking for full-time work but I'm also open to like part-time also. I do do college fully online. So I do have like a really flexible schedule and I'm really available like any time of the day, any day for any shifts. I'm als...
+**Experience:** Informal (babysitter). Ages: infants, toddlers
+**Location:** Okay, so I'm located in Loganville, Georgia, anywhere
+**Schedule:** full-time, part-time (school schedule, weekends available)
 
-**Summary:** Yordanos's experience is informal — babysitting, family care, or similar. Georgia prefers formal experience — this is a judgment call for Erica. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Yordanos's experience is all informal — babysitting and family care only. Georgia typically prefers formal experience — this is a judgment call for Erica. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -7965,35 +8264,37 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q3 — Experience:** Okay, so my name is your Darkness. I have childcare experience from helping taken care of like my two younger siblings since I'm the oldest in the family. I also babysitter my aunts kids. So like I've worked with children from around like five months, maybe six months to like eight years old. So I'm comfortable like babies, Toddlers and young kids and stuff like that. I really enjoy working with children because it's, like, really fun to me. And I
  Just helping them learn play, you know just being with them. Just makes me happy too.
 
-**Q4 — Location:** Okay, so I'm located in Loganville, Georgia. Personally, I'm going to travel like anywhere, like, around 1s without be like snow bill Grace. My lords for a little burn, like around that type of area, because I do have my own car. So like I'm flexible and open to like travel anywhere, depending on th...
+**Q4 — Location:** Okay, so I'm located in Loganville, Georgia. Personally, I'm going to travel like anywhere, like, around 1s without be like snow bill Grace. My lords for a little burn, like around that type of area, because I do have my own car. So like I'm flexible and open to like travel anywhere, depending on the location, of course.
 
-**Q5 — Schedule:** Okay, so currently I am looking for full-time work but I'm also open to like part-time also. I do do college fully online. So I do have like a really flexible schedule and I'm really available like any time of the day, any day for any shifts. I'm also able to work weekends and weekdays depending on ...
+**Q5 — Schedule:** Okay, so currently I am looking for full-time work but I'm also open to like part-time also. I do do college fully online. So I do have like a really flexible schedule and I'm really available like any time of the day, any day for any shifts. I'm also able to work weekends and weekdays depending on like what the family needs or where I'm going to be working at
 
-**Q6 — Conflict Resolution:** So, for me, like I was saying, I mostly babysat like, children in my family. So, like my younger siblings and like my aunts kids. So, they're really comfortable with me. And I was comfortable with them to obviously, but when conflicts like that happened between them, I usually just stayed calm because I do know, like, you know, it happens, but like I would just listen to both sides of what happene...
+**Q6 — Conflict Resolution:** So, for me, like I was saying, I mostly babysat like, children in my family. So, like my younger siblings and like my aunts kids. So, they're really comfortable with me. And I was comfortable with them to obviously, but when conflicts like that happened between them, I usually just stayed calm because I do know, like, you know, it happens, but like I would just listen to both sides of what happened and I will usually help them talk it out. I'll also like,
+ And them like, you know, to take turns or just be fair, or use kind words because you know, it's not really good to do those kind of things but that's usually what I would do when something like that happens.
 
-**Q7 — Why Great:** Okay, so personally, I think I will make a really good up kid teacher because I'm really patient, I'm carrying, I'm good at explaining things in simple ways. So like, like I said, if something happens between children, I wouldn't yell, I'm just really up. Like, I'm really, I'm just a calm person. And I also like helping children, like I said, I really like, like, I enjoy being with them. I like he...
+**Q7 — Why Great:** Okay, so personally, I think I will make a really good up kid teacher because I'm really patient, I'm carrying, I'm good at explaining things in simple ways. So like, like I said, if something happens between children, I wouldn't yell, I'm just really up. Like, I'm really, I'm just a calm person. And I also like helping children, like I said, I really like, like, I enjoy being with them. I like helping them like learning things and, you know, having fun with them also,
+ While making or creating a safe like environment. So that's why I would think that would be a good teacher.
 
 </details>
 
 🔗 **App Account:** 🟢 Yordanos Alemu
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Okay, so I'm located in Loganville, Georgia. Personally, I'm going to travel like anywhere, like, around 1s without be like snow bill Grace. My lords . Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Okay, so I'm located in Loganville, Georgia, anywhere. babysitter. Worked with infants, toddlers. Looking for full-time, part-time (school schedule, weekends available).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Okay, so I'm located in Loganville, Georgia. Personally, I'm going to travel like anywhere, like, around 1s without be like snow bill Grace. My lords . Only informal experience — Georgia prefers formal.
+> 03/30 Not Hiring — Intro Call. Okay, so I'm located in Loganville, Georgia. Only informal experience — Georgia prefers formal.
 
 ---
 
 ### #203 — 🟡 FLAG (MEDIUM) — Morgan Harmon
 
-📧 harmonmorgan3@gmail.com | 📱 (623) 570-3711 | 📍 Arizona
+📧 harmonmorgan3@gmail.com | 📱 (623) 570-3711 | 📍 Surprise Arizona off of the 303
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** So I am located in Surprise Arizona off of the 303 and Grand but I don't mind traveling to the surrounding cities Goodyear South Peoria. Peoria Glendale those. You know aren't too far from me don't re...
-**Schedule:** Sometimes kids are a lot easier for me and sound more beneficial than doing part-time, but if there is about part-time and full-time ships, I really don't mind doing both. Like I said, I do currently have another job. So I am you know doing both?
+**Experience:** Formal — daycare. Ages: preschool-age
+**Location:** Surprise Arizona off of the 303, 30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Morgan has formal childcare experience in a professional setting. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Morgan needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -8013,35 +8314,35 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q5 — Schedule:** Sometimes kids are a lot easier for me and sound more beneficial than doing part-time, but if there is about part-time and full-time ships, I really don't mind doing both. Like I said, I do currently have another job. So I am you know doing both?
 
-**Q6 — Conflict Resolution:** In situations, like these, you just have to communicate with the kids that it's not, okay, to, for hating, since it does come harm caused harm to the other child and, you know can hurt their feelings. So we always want to communicate with the children and always be at the best practice of, hey, you see, something you say something. And you always want to communicate to the other child like hey I d...
+**Q6 — Conflict Resolution:** In situations, like these, you just have to communicate with the kids that it's not, okay, to, for hating, since it does come harm caused harm to the other child and, you know can hurt their feelings. So we always want to communicate with the children and always be at the best practice of, hey, you see, something you say something. And you always want to communicate to the other child like hey I don't like that. Can you please not hit me.
+ Or can you please not put your hands on me or touch me?
 
 **Q7 — Why Great:** What would make me a great up kid? Teacher is just being able to
  Sit back and watch the costume as well. And people watch is a great thing as well before you interact with each child and get an understanding of what is going on.
  I always like to put think my kids, first, their activities. Anything first before my own needs? Cuz
- I never really had that growing up. So I always put other people be...
+ I never really had that growing up. So I always put other people before myself and always want to make sure others are more satisfied happy and doing about their business more than me.
 
 </details>
 
 🔗 **App Account:** 🟢 Morgan Harmon
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. So I am located in Surprise Arizona off of the 303 and Grand but I don't mind traveling to the surrounding cities Goodyear South Peoria. Peoria Glenda, 30 miles. Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Surprise Arizona off of the 303, 30 miles. daycare experience. Worked with preschool-age. Currently CPR/First Aid. Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. So I am located in Surprise Arizona off of the 303 and Grand but I don't mind traveling to the surrounding cities Goodyear South Peoria. Peoria Glenda. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Surprise Arizona off of the 303. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #204 — ✅ APPROVE (HIGH) — Nicholas Kostiw
 
-📧 nico.kostiw@gmail.com | 📱 (424) 400-9016 | 📍 Utah
+📧 nico.kostiw@gmail.com | 📱 (424) 400-9016 | 📍 Salt Lake City right between like the Mill Creek
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (13yr)
-**Location:** I live in Salt Lake City right between like the Mill Creek and Marie divided willing to travel. Probably up to about 20 miles for shifts anywhere within the probably Salt Lake County.
-**Schedule:** Right now, I'm completely available for full-time work. I just moved to the area, so
- Yeah, full-time. Part-time anything
+**Experience:** Formal — summer camp, kindergarten, elementary school, 13+ years. Ages: preschool-age, school-age, teens
+**Location:** Salt Lake City right between like the Mill Creek, 20 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Nicholas has formal childcare experience with 13+ years (kindergarten, summer camp). Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nicholas is a strong candidate — summer camp, kindergarten, elementary school experience with 13+ years. Has worked with preschool-age, school-age, teens. Currently studying education/child development.
 
 **Red Flags:** None
 
@@ -8049,7 +8350,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Nico costume. I've been working childcare my entire life since I was about 10. I guess my brother and sister are 10 and 13 years younger than me. And so I've always been kind of a third parent in high school. I used to do programs where I would go to the local kindergarten and work, their work in the
- Classrooms there for school credit. Since high school. I worked in summer camps with Elementary schoolers ages 8 to 11 and middle schoolers 12 and 13. I've no need for families with an autistic child children that were between 8 and 11 and I've done several college courses, in elementa...
+ Classrooms there for school credit. Since high school. I worked in summer camps with Elementary schoolers ages 8 to 11 and middle schoolers 12 and 13. I've no need for families with an autistic child children that were between 8 and 11 and I've done several college courses, in elementary education,
+ Station. I was actually going to be n. I was majoring in elementary education before I switch to geology. So I've done some coursework and some work and local schools in Charlotte, North Carolina through college.
+ And I mean I like and working with kids just because it's every day is a little different, you never know what you're going to expect and they keep you kind of hip to Modern things make. Keep me from getting too old too quick. I think
 
 **Q4 — Location:** I live in Salt Lake City right between like the Mill Creek and Marie divided willing to travel. Probably up to about 20 miles for shifts anywhere within the probably Salt Lake County.
 
@@ -8057,7 +8360,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
  Yeah, full-time. Part-time anything
 
 **Q6 — Conflict Resolution:** Best way to solve conflict between two children is to initially separate them, ideally, without causing too much tension with the rest of the children. So as to not embarrass either one and kind of just talk to them each individually and wait for them to see if they're willing to make amends with each other and
- See if they're willing to talk it out, but yeah, definitely, initially separate and tr...
+ See if they're willing to talk it out, but yeah, definitely, initially separate and try to be low-key about it.
 
 **Q7 — Why Great:** I'd make a great up kid teacher, because I'm fun, I'm energetic, I'm intelligent, I know a lot of child care and teaching opportunities. Don't really see a lot of male role models. And so that's some one thing I'm willing to bring to the table, I just love the energy and the atmosphere of working with kids and
  I think that I'm a good role model and a good teacher.
@@ -8067,20 +8370,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Nico Kostiw
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Salt Lake City right between like the Mill Creek and Marie divided willing to travel. Probably up to about 20 miles for shifts anywhere with, 20 miles. 13+ years kindergarten, summer camp experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Salt Lake City right between like the Mill Creek, 20 miles. 13+ years summer camp, kindergarten, elementary school experience. Worked with preschool-age, school-age, teens. Currently studying education/child development. Looking for full-time, part-time.
 
 ---
 
 ### #205 — 🟡 FLAG (MEDIUM) — Avanthika Mekala
 
-📧 av.drithi@gmail.com | 📱 (602) 628-5992 | 📍 Arizona
+📧 av.drithi@gmail.com | 📱 (602) 628-5992 | 📍 Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles.
-**Schedule:** I have part-time availability and ask for the days. I'd be willing to do two days a week and ask for the hours as needed as of now, for me, Tuesdays and Fridays work.
+**Experience:** Formal — afterschool program, middle school (tutor). Ages: teens
+**Location:** Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles, 10 miles
+**Schedule:** part-time
 
-**Summary:** Avanthika has formal childcare experience (after school). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Avanthika needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+16026285992 APP=None
@@ -8091,16 +8394,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is avantika. I have graduated for me. See you Arizona, State University back in May of 2024 and I'm currently in my Gap year, I will begin medical school, this summer. And my experience with children, includes working volunteering for an after school program, that is for underserved children in nightmare in my community. And during this program, I would help during Library time. Pick up books for
- Children, read with them. Help assist them with reading and I would also assist them with homework or various activities, that the program would conduct in the evenings. And secondly, I a...
+ Children, read with them. Help assist them with reading and I would also assist them with homework or various activities, that the program would conduct in the evenings. And secondly, I also tutor students, they're a little older, their High School Middle School students in various subjects such as chemistry algebra science courses math courses and sometimes even accelerated courses. So I do
+ I do have a vast range of experiences that I've been involved in.
 
 **Q4 — Location:** I live in Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles.
 
 **Q5 — Schedule:** I have part-time availability and ask for the days. I'd be willing to do two days a week and ask for the hours as needed as of now, for me, Tuesdays and Fridays work.
 
-**Q6 — Conflict Resolution:** I think that conflict is inevitable and it's important to be patient and understanding for both the parties involved or any parties involved. I think that is first important to calm them down and maybe first a separate them so that they have some distance to kind of think through about what happened. And I would have an open and honest conversation with them individually regarding what happened an...
+**Q6 — Conflict Resolution:** I think that conflict is inevitable and it's important to be patient and understanding for both the parties involved or any parties involved. I think that is first important to calm them down and maybe first a separate them so that they have some distance to kind of think through about what happened. And I would have an open and honest conversation with them individually regarding what happened and will help them reflect on what. Exactly.
+ Only went about what kind of thought processes they had and what actions they took and I would make sure that they reflect on what happened in this way and it's not about who is right or wrong but it's about how they go about their feelings and there's dogs. So if an apology or if an apology is needed towards the end, I would ensure that they both communicate their feelings effectively rather.
+ Rather than going about conflict in the incorrect manner.
 
 **Q7 — Why Great:** I think that I would be a good teacher because I have qualities such as patients. Understanding communication and interpersonal interpersonal. Skills that can be used to resolve conflicts and just ensure that the student is being enriched and supported in the best possible way. I'm very patient and I am always open to having conversations that make sure that
- at the other person is being seen and ...
+ at the other person is being seen and valued rather than just looked over. I think that is very easy for students to feel looked over. I personally remember feeling like that and I want to ensure that each student is accounted for and valued for their presence. And yes, I think that also being able to communicate very effectively and understand their side
+ Ikey, their thoughts is very important and I believe I possess these qualities that can work well with children and students.
 
 </details>
 
@@ -8108,22 +8415,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+16026285992 APP=None
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles. after school experience. Looking for part-time.
+> 03/30 Intro Call Passed. Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles, 10 miles. afterschool program, middle school experience. Worked with teens. Currently studying nursing/medical. Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles.. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Chandler, Arizona, Arizona, and I'm willing to travel up to 10 miles. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #206 — 🟡 FLAG (MEDIUM) — Beverly Cassell
 
-📧 beverlycassell@outlook.com | 📱 (520) 304-3848 | 📍 Arizona
+📧 beverlycassell@outlook.com | 📱 (520) 304-3848 | 📍 the Catalina Foothills District, my specific address is 73
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in the Catalina Foothills District, my specific address is 73. 46, East quiet Mountain place and I am willing to travel at least 10 miles to whatever school or destination.
-**Schedule:** Because I am a student at the University of Arizona, I will have to work part-time but my schedule is extremely flexible on Mondays. And Wednesdays, I have class from 8 to 9. So, from the period of, I'd say 10 to 5:00 in the afternoon, I am free on T...
+**Experience:** Formal — Montessori, summer camp, elementary school. Ages: school-age
+**Location:** the Catalina Foothills District, my specific address is 73, 10 miles
+**Schedule:** part-time (school schedule, mornings/afternoons)
 
-**Summary:** Beverly has formal childcare experience (montessori, summer camp). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Beverly needs Erica's review — arizona requires 6mo formal — duration unclear from transcript. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=beverlycassell@outlook.com APP=beverly.cassell@icloud.com
@@ -8134,16 +8441,23 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Beverly castle, and I want to work with up kid because I really enjoy working with children's. I have vast experience with working with children in the past. Previously I have worked at a school and Elementary School called Hermosa, Montessori Charter School of Tucson. And there, I worked with children from ages of I'd say 8 to 11 and
- and previously, also, I worked at a summer camp in which I worked with children ages, five to six. However, most of my experience comes from working at the charter school and which I helped sot. I helped grade papers. I worked with kids one on ...
+ and previously, also, I worked at a summer camp in which I worked with children ages, five to six. However, most of my experience comes from working at the charter school and which I helped sot. I helped grade papers. I worked with kids one on one, one on one to make sure they understood what they were working on. And yes, so I have vast experience and I enjoy working with kids because it's in my eyes.
+ These early years are extremely impactful on the rest of the child's life and I would like to be there in order to make a good difference to have to bring meaning into the lives of other people. Yes, thank you so much.
 
 **Q4 — Location:** I live in the Catalina Foothills District, my specific address is 73. 46, East quiet Mountain place and I am willing to travel at least 10 miles to whatever school or destination.
 
-**Q5 — Schedule:** Because I am a student at the University of Arizona, I will have to work part-time but my schedule is extremely flexible on Mondays. And Wednesdays, I have class from 8 to 9. So, from the period of, I'd say 10 to 5:00 in the afternoon, I am free on Thursday, on Tuesdays and Thursdays. I have classes...
+**Q5 — Schedule:** Because I am a student at the University of Arizona, I will have to work part-time but my schedule is extremely flexible on Mondays. And Wednesdays, I have class from 8 to 9. So, from the period of, I'd say 10 to 5:00 in the afternoon, I am free on Thursday, on Tuesdays and Thursdays. I have classes from 8 to 10 40
+ So I'd say, I'd be available from, I'd say, 11:30 to the rest of the day and Friday is my busiest schedule. I have a class from
+ Excuse me, out of class from 11 to 150. So I'd be able to work from in the morning too.
+ Two, I'd say 10. And then afterwards from I'd say three to the rest of the day CS a very wide schedule.
 
-**Q6 — Conflict Resolution:** I think it depends on the intensity of the conflict and the ages of the children when I was a camp counselor I worked from with kids age 6 and their conflicts what I would usually do is I would separate the children and talk to them one-on-one to just sort of gain insight as to how the conflict happened and what would be the best thing. However, ultimately with children, very, very young, the easi...
+**Q6 — Conflict Resolution:** I think it depends on the intensity of the conflict and the ages of the children when I was a camp counselor I worked from with kids age 6 and their conflicts what I would usually do is I would separate the children and talk to them one-on-one to just sort of gain insight as to how the conflict happened and what would be the best thing. However, ultimately with children, very, very young, the easiest thing to do is to separate.
+ Them. And usually they forget about it later on but with kids who are usually older, I do something similar where I tried talking to them one on one and then either talk to the Head teacher and and sort of make their conflict known and if it is efficient and and worthwhile, I will take both of the kids and talk to them and talk to them both as a group.
+ To just sort of make sure that they understand where one another is coming from because ultimately I think kids get so wrapped up in their own heads, that they don't understand what the other person is feeling. So understanding that having Insight is into the other person's perspective is key to resolving conflict.
 
 **Q7 — Why Great:** Ultimately, what I think would make me a great up kid teacher, is that? I have a lot of patience for children. I ultimately know what children are thinking. I've take, I'm a Psychology major, and I've taken several developmental psychology in child, psychology classes courses, and in my future career, I want to go into a career that focuses on Child Development and child psychology.
- And because o...
+ And because of that, I sort of had insight as to what children are thinking, and how to, how to handle outbursts, how to handle, how to handle, how children are behaving. And I think that knowledge can help me Resolve conflicts, it can help me relate one-on-one to kids, it can help me become a better teacher and also because of my numerous experience in the past. As a teaching assistant, I am able to, I have the knowledge of how
+ How a lot of teachers manage classrooms and so on. Yes, I think I'd be a perfect fit.
 
 </details>
 
@@ -8151,22 +8465,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=beverlycassell@outlook.com APP=beverly.cassell@icloud.com
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in the Catalina Foothills District, my specific address is 73. 46, East quiet Mountain place and I am willing to travel at least 10 miles to wh, 10 miles. montessori, summer camp experience. Looking for part-time.
+> 03/30 Intro Call Passed. the Catalina Foothills District, my specific address is 73, 10 miles. Montessori, summer camp, elementary school experience. Worked with school-age. Looking for part-time (school schedule, mornings/afternoons).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in the Catalina Foothills District, my specific address is 73. 46, East quiet Mountain place and I am willing to travel at least 10 miles to wh. Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. the Catalina Foothills District, my specific address is 73. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #207 — ✅ APPROVE (HIGH) — Josue Valdez
 
-📧 josue.valdez20007@gmail.com | 📱 (602) 403-6484 | 📍 Arizona
+📧 josue.valdez20007@gmail.com | 📱 (602) 403-6484 | 📍 Yes, I do live in Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (19yr)
-**Location:** Yes, I do live in Arizona. I live in a city called Avondale and I would be willing to commute. I would definitely be willing to commute if definitely like around the Phoenix area, I know Phoenix is pr...
-**Schedule:** Yes I'm availability, I do work for again. I work for re better be better. I only work on Tuesdays and Thursdays so that isn't starts with 15. So maybe a anything before that I do actually have to 15 and then it ends around around 4:30 so maybe anyth...
+**Experience:** Formal — preschool, afterschool program, 19+ years. Ages: preschool-age
+**Location:** Yes, I do live in Arizona
+**Schedule:** flexible (school schedule, mornings, weekends available)
 
-**Summary:** Josue has formal childcare experience with 19+ years (teacher, preschool, after school). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Josue is a strong candidate — preschool, afterschool program experience with 19+ years. Has worked with preschool-age. Currently studying education/child development. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -8174,37 +8488,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello. My name is Josue. I'm 19 years old, I do have some experience working with kids. My first, my first job, I was actually a lifeguard. So I am CPR certified and like, first aid certified, I know I didn't really work. I never really worked with kids. Well, lifeguarding, but I do. It's like it was more experienced like rule enforcement. That's what, you know, that was the main thing. But currently I do work for a nonprofit organization. It's called re better read, better be better.
- I basically work in it and I lament preschool, it's an after-school program. So it's a literacy is a literacy...
+ I basically work in it and I lament preschool, it's an after-school program. So it's a literacy is a literacy program. So it's after school and I get second and third graders and then I get eighth graders and basically, if they're, they're called buddy. So an eighth grader will get a second grader or third grader and they just help them read. So, I'm kind of like the, I'm the teacher in the room basically, and I'm kind of just mentoring everybody. Make sure it is following the rules and doing what they're supposed to be doing, but yes it is a literacy program so they do
+ URI with each other and, you know, I help them out too. Like if they have questions or if you need help at all. But that's my main. That's my main experience with kids. I do work there right now. I work there, Tuesdays and Thursdays, and then I'm also in school right now for my degrees and working towards my associates for secondary education. I do want to be a special education teacher in the future, but yeah, that's my experience. And that's a little bit about Ali.
 
-**Q4 — Location:** Yes, I do live in Arizona. I live in a city called Avondale and I would be willing to commute. I would definitely be willing to commute if definitely like around the Phoenix area, I know Phoenix is pretty big, but I run the Phoenix Glendale Avondale area or even like around Goodyear. Just anything a...
+**Q4 — Location:** Yes, I do live in Arizona. I live in a city called Avondale and I would be willing to commute. I would definitely be willing to commute if definitely like around the Phoenix area, I know Phoenix is pretty big, but I run the Phoenix Glendale Avondale area or even like around Goodyear. Just anything around my City Avondale. Yeah, just like I mean anything around there sounds pretty good to me.
 
-**Q5 — Schedule:** Yes I'm availability, I do work for again. I work for re better be better. I only work on Tuesdays and Thursdays so that isn't starts with 15. So maybe a anything before that I do actually have to 15 and then it ends around around 4:30 so maybe anything. After five ish, we work for me on Tuesdays an...
+**Q5 — Schedule:** Yes I'm availability, I do work for again. I work for re better be better. I only work on Tuesdays and Thursdays so that isn't starts with 15. So maybe a anything before that I do actually have to 15 and then it ends around around 4:30 so maybe anything. After five ish, we work for me on Tuesdays and Thursdays. And then I go to school on Mondays and Wednesdays, and I don't think I'd be able to do the mornings. But anything after, maybe five,
+ Then so yeah, Mondays through Thursdays around 5 what would work for me? But then third Friday through Sunday. I'm pretty much available all day, the weekends are. I'm pretty open for me. Yeah.
 
-**Q6 — Conflict Resolution:** Yeah. So I definitely have seen a lot of situations like this. Again I do work for an elementary school. So I work with a lot of second and third graders and they tend to get a little route up sometimes and they get they get a little, you know, they get annoyed and they get kind of aggressive sometimes we've, I play games with them. So a lot of times they get too excited and they accidentally trip...
+**Q6 — Conflict Resolution:** Yeah. So I definitely have seen a lot of situations like this. Again I do work for an elementary school. So I work with a lot of second and third graders and they tend to get a little route up sometimes and they get they get a little, you know, they get annoyed and they get kind of aggressive sometimes we've, I play games with them. So a lot of times they get too excited and they accidentally trip somebody or bump into somebody that never really, never really seen it on purpose, honestly. But I mean, it does happen.
+ But what I would do, what I usually do when something like that happens when I get it, you know, a kid crying or something. I usually expressed as, you know, separate them the other day. The other day actually I had this kid, he got tripped and he got really sad. He was crying a lot so I separated I separated them. I do have a coach so I usually like any time something like that happens. I have my co-coach. Watch the kids while you know, I take one of the kids and I'll go talk to him like hey what's wrong? Are you
+ What happened? Exactly and I'll just talk them through it. Make sure they're okay. I try to calm them down a lot of times they're like you know freaking out and they're crying in the can't they can't really talk so you know I'm feeling like you know relax and take some deep breaths and and it just talked to me like I don't I don't really trust them into it but yeah I'll definitely make sure to separate them that's like the number-one thing to me separate them and usually if if it's like, you know, somebody's fault, I don't like to like
+ Like blame somebody, but if there is no something, somebody did sue somebody. Somebody else I'll have him, say sorry. And if it was like a both both kids did something, make sure they have them say sorry to each other, you know, to get that, you know. So you know, they have that acceptance and one doesn't feel like a blame but yeah.
 
-**Q7 — Why Great:** Honestly, I think I'd be a pretty good up to you teacher because I think I've always had it like a passion teaching. I really do love working with kids and their job a high right now. I absolutely love. I have a blast every day. I think it's so much fun. I love working with kids, I love teaching the kids. I love helping them out. I love seeing them. Happy I love W. Greeting them and even just like...
+**Q7 — Why Great:** Honestly, I think I'd be a pretty good up to you teacher because I think I've always had it like a passion teaching. I really do love working with kids and their job a high right now. I absolutely love. I have a blast every day. I think it's so much fun. I love working with kids, I love teaching the kids. I love helping them out. I love seeing them. Happy I love W. Greeting them and even just like taking attendance just a small things I have a blast and I have so much fun and I love it a lot. I do think I'm pretty patient with kids.
+ Sometimes I feel like I'm a little bit too patient. It's like something I could be. I should be living more strict. That's something I could definitely learn but I do really have a passion for teaching and and work with kids and I enjoy them a lot and I think I see it in my future and I make mistake really excited for my future and yeah,
 
 </details>
 
 🔗 **App Account:** 🟢 Josue Valdez
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I do live in Arizona. I live in a city called Avondale and I would be willing to commute. I would definitely be willing to commute if definitely . 19+ years teacher, preschool, after school experience. Looking for available.
+> 03/30 Intro Call Passed. Yes, I do live in Arizona. 19+ years preschool, afterschool program experience. Worked with preschool-age. Currently studying education/child development. Looking for flexible (school schedule, mornings, weekends available).
 
 ---
 
 ### #208 — ✅ APPROVE (MEDIUM) — Anihya Jackson
 
-📧 anihyaj2125@gmail.com | 📱 (602) 501-6472 | 📍 Arizona
+📧 anihyaj2125@gmail.com | 📱 (602) 501-6472 | 📍 Phoenix Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (21yr)
-**Location:** I live in Phoenix Arizona and I am willing to travel between the central area or the downtown Phoenix area. My zip code is 850 18. So I'm going to go anywhere that's between 5 to 10 miles away from he...
-**Schedule:** I'm looking more for part-time and as for my shift availability it really depends on my school schedule. So correctly, like right now I can work on Monday.
- In the morning, Tuesday, anytime Wednesday in the morning, Thursday, I have school. So
- I don...
+**Experience:** Mixed — Montessori, YMCA (babysitter), 21+ years. Ages: infants, toddlers, preschool-age, teens
+**Location:** Phoenix Arizona, 5-10 miles
+**Schedule:** part-time (school schedule, mornings)
 
-**Summary:** Anihya has a mix of formal and informal childcare experience. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Anihya has a mix of formal (Montessori, YMCA) and informal (babysitter) experience. Currently studying education/child development, which shows commitment. Conflict resolution answer is thoughtful and shows real classroom awareness. Schedule constrained by school.
 
 **🚩 Red Flags:**
 - Identity mismatch: email: VA=anihyaj2125@gmail.com APP=
@@ -8213,15 +8531,19 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello, my name is Ania Jackson, I'm 21 years old, I am studying health care administration, and also getting my certificate and health, education at Arizona State University. I've been working with children since I was 14 years old babysitting and then currently I am doing an internship at Hushabye with babies that have developed opiates. Some recent childcare experience is Montessori.
- Three where we have two different classrooms and I work with in the infant's, or I work with the toddler's agents One Union. One years old to 10 years old and one classroom. I've also worked at YMCA and I also ...
+ Three where we have two different classrooms and I work with in the infant's, or I work with the toddler's agents One Union. One years old to 10 years old and one classroom. I've also worked at YMCA and I also worked at another clinic that the children had mental health issues. So I have a lot of experience when it comes to working with children with different type of
+ Use or different age ranges. I love working with children because of their different personalities. They have so much to say they're all so Lively and they get to experience the world in different ways that we don't get to experience the world or think the world. So they're literally like a passion of mine, even when I get older and start to run my own Clinic out.
+ To be able to us.
 
 **Q4 — Location:** I live in Phoenix Arizona and I am willing to travel between the central area or the downtown Phoenix area. My zip code is 850 18. So I'm going to go anywhere that's between 5 to 10 miles away from here.
 
 **Q5 — Schedule:** I'm looking more for part-time and as for my shift availability it really depends on my school schedule. So correctly, like right now I can work on Monday.
  In the morning, Tuesday, anytime Wednesday in the morning, Thursday, I have school. So
- I don't really want to work that day and then I can wor...
+ I don't really want to work that day and then I can work Friday Saturday or Sunday.
+ Anytime.
 
-**Q6 — Conflict Resolution:** When it comes to conflicts with children, I try to listen to both sides of the story because nine times out of 10 is just a misunderstanding and or they just want to play with the same toys and they just don't know how to work it out and they need somebody to step it. For instance, if somebody gets hurt in the process I'll you know sit them down, I'll talk to them and then I'll take the toy and we...
+**Q6 — Conflict Resolution:** When it comes to conflicts with children, I try to listen to both sides of the story because nine times out of 10 is just a misunderstanding and or they just want to play with the same toys and they just don't know how to work it out and they need somebody to step it. For instance, if somebody gets hurt in the process I'll you know sit them down, I'll talk to them and then I'll take the toy and we're going on.
+ Be like we're gonna try this again later. And then what we try this again, we're gonna take turns. If the student gets hurt in the process. I'm going to be like, can you say sorry and they're going to say sorry. My time is 10 and then they're going to be the best of friends later on so yeah.
 
 **Q7 — Why Great:** I feel like I'll be a great up kid teacher because I very good time management. I am very adaptable and I am a very energetic person.
 
@@ -8231,21 +8553,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ email: VA=anihyaj2125@gmail.com APP=
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Phoenix Arizona and I am willing to travel between the central area or the downtown Phoenix area. My zip code is 850 18. So I'm going to go , 5-10 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. Phoenix Arizona, 5-10 miles. 21+ years Montessori, YMCA experience. Worked with infants, toddlers, preschool-age, teens. Currently studying education/child development. Looking for part-time (school schedule, mornings).
 
 ---
 
 ### #209 — ✅ APPROVE (HIGH) — Alyssa
 
-📧 alyssaaaron591@gmail.com | 📱 (706) 340-2414 | 📍 Georgia
+📧 alyssaaaron591@gmail.com | 📱 (706) 340-2414 | 📍 Athens, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I stay in Athens, Georgia.
- So I will we be willing to drive, maybe. Oh no, 510 miles, maybe and that's it.
-**Schedule:** I have full time availability.
+**Experience:** Formal. Ages: teens
+**Location:** Athens, Georgia, 510 miles
+**Schedule:** full-time
 
-**Summary:** Alyssa has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Alyssa has solid formal childcare experience. Has worked with teens.
 
 **Red Flags:** None
 
@@ -8272,21 +8593,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Alyssa Nalley
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I stay in Athens, Georgia.
- So I will we be willing to drive, maybe. Oh no, 510 miles, maybe and that's it., 510 miles. Formal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Athens, Georgia, 510 miles. Childcare experience (details in interview). Worked with teens. Looking for full-time.
 
 ---
 
 ### #210 — 🟡 FLAG (LOW) — Nyla Laws
 
-📧 nlaws2003@gmail.com | 📱 (404) 655-1331 | 📍 Georgia
+📧 nlaws2003@gmail.com | 📱 (404) 655-1331 | 📍 North Cross Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** None
-**Location:** I live in North Cross Georgia. I'm willing to travel 15 to 30 minutes max.
-**Schedule:** I'm open to part-time and full-time, and my availability are Wednesday through Friday.
+**Location:** North Cross Georgia, 15-30 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Nyla does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market.
+**Summary:** Nyla needs Erica's review — no childcare experience detected in transcript.
 
 **Red Flags:** None
 
@@ -8310,57 +8630,62 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Nyla  Laws
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in North Cross Georgia. I'm willing to travel 15 to 30 minutes max., 15-30 miles. Experience details not available. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. North Cross Georgia, 15-30 miles. Childcare experience (details in interview). Looking for full-time, part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in North Cross Georgia. I'm willing to travel 15 to 30 minutes max.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. North Cross Georgia. No childcare experience detected in transcript.
 
 ---
 
 ### #211 — ✅ APPROVE (HIGH) — Naomi Asefaw
 
-📧 naomiakahsay@gmail.com | 📱 (470) 909-4736 | 📍 Georgia
+📧 naomiakahsay@gmail.com | 📱 (470) 909-4736 | 📍 Augusta Georgia so probably within 20 to 25 minutes of the c
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Augusta Georgia so probably within 20 to 25 minutes of the city like near like there's a couple schools nearby so I'm sure something will work. But just in that relative area I probably want...
-**Schedule:** So I want to start off part-time, my availability just turns in the day on Mondays, I have longer availability some available from like once a around 92 like three on Tuesdays, I'm available in the afternoon and Thursdays I'm available. Now afternoon...
+**Experience:** Formal — summer camp, camp counselor, elementary school (tutor). Ages: school-age, teens
+**Location:** Augusta Georgia so probably within 20 to 25 minutes of the c, 20-25 miles
+**Schedule:** part-time (mornings/afternoons)
 
-**Summary:** Naomi has formal childcare experience (camp counselor, summer camp). Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Naomi is a strong candidate — summer camp, camp counselor, elementary school experience. Has worked with school-age, teens. Currently studying education/child development. Augusta is on the GA/SC border — confirm Upkid has active shifts there. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
 <details>
 <summary>📝 Full Transcript Excerpts</summary>
 
-**Q3 — Experience:** Hey, my name is Naomi. I'm a college student Augusta. I really enjoy working with kids and helping them learn. I've been tutoring since I was probably around the middle school and since then I've worked with students ranging from like Elementary School all the way till High School mainly helping with subjects like math reading in general homework. I also worked as a summer camp counselor for two years, where I work with elementary and middle school, students just giving them activities to do in the meantime that they're not in classes and in those roles to help supervise activities support stu...
+**Q3 — Experience:** Hey, my name is Naomi. I'm a college student Augusta. I really enjoy working with kids and helping them learn. I've been tutoring since I was probably around the middle school and since then I've worked with students ranging from like Elementary School all the way till High School mainly helping with subjects like math reading in general homework. I also worked as a summer camp counselor for two years, where I work with elementary and middle school, students just giving them activities to do in the meantime that they're not in classes and in those roles to help supervise activities support students and create like a fun environment for them to learn interact,
+ I really enjoy teaching just because being around kids, I like seeing when something clicks for them, is pretty fun and it's really rewarding to help students build their confidence and feel excited about learning and I'm really excited to start a position like this.
 
 **Q4 — Location:** I live in Augusta Georgia so probably within 20 to 25 minutes of the city like near like there's a couple schools nearby so I'm sure something will work. But just in that relative area I probably want to stay in like Richmond County, ish area.
 
-**Q5 — Schedule:** So I want to start off part-time, my availability just turns in the day on Mondays, I have longer availability some available from like once a around 92 like three on Tuesdays, I'm available in the afternoon and Thursdays I'm available. Now afternoon on Fridays, I'm available in the morning up until...
+**Q5 — Schedule:** So I want to start off part-time, my availability just turns in the day on Mondays, I have longer availability some available from like once a around 92 like three on Tuesdays, I'm available in the afternoon and Thursdays I'm available. Now afternoon on Fridays, I'm available in the morning up until around 2 o'clock again as well as Wednesday's available.
+ From.
+ I want to see in the morning. I have a morning block on Wednesdays. Probably around like, 82 like 12-inch time. It just depends on how short, or how long the shifts are in that I can make them work.
 
-**Q6 — Conflict Resolution:** Yeah, so I've dealt with complex with kids before a lot especially the summer camp counselor when conflicts happen. The first thing I'll do is separate the students would think they just need their space from each other for a minute. So I can calm down and then I talk to each child individually to understand what happened from their perspective. So they feel heard. And then after that, I'd bring t...
+**Q6 — Conflict Resolution:** Yeah, so I've dealt with complex with kids before a lot especially the summer camp counselor when conflicts happen. The first thing I'll do is separate the students would think they just need their space from each other for a minute. So I can calm down and then I talk to each child individually to understand what happened from their perspective. So they feel heard. And then after that, I'd bring them together and help them talk through the issues and respectful way and encourage them to explain how they felt. And if they see how like they listen to each other, how they might have not listened to each other in the moment and then we work towards a solution whether that's apologizing or setting boundaries whatever.
+ It is I just walked towards that goal.
 
-**Q7 — Why Great:** I think I'd make a good teacher because I'm patient supportive, and I genuinely enjoy, helping kids, learn and grow. I've been tutoring kids for a long time and working with them from elementary all the way up until high school. So, I've learned how to explain things in different ways, depending on how a student learns best. I've also worked as a summer camp counselor for the past two summers with...
+**Q7 — Why Great:** I think I'd make a good teacher because I'm patient supportive, and I genuinely enjoy, helping kids, learn and grow. I've been tutoring kids for a long time and working with them from elementary all the way up until high school. So, I've learned how to explain things in different ways, depending on how a student learns best. I've also worked as a summer camp counselor for the past two summers with them. So that helped me develop skills in managing groups of kids. Even if they don't have a specific assignment to do and keeping them engaged in creating that positive environment for them and overall, I think I try to make kids feel comfortable by asking questions and building confidence.
+ Confidence in themselves and I enjoy seeing kids understand something new and feel proud of where they're at. And that's a big reason why I enjoy being and working with kids.
 
 </details>
 
 🔗 **App Account:** 🟢 Naomi Asefaw
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Augusta Georgia so probably within 20 to 25 minutes of the city like near like there's a couple schools nearby so I'm sure something will wo, 20-25 miles. camp counselor, summer camp experience. Looking for part-time.
+> 03/30 Intro Call Passed. Augusta Georgia so probably within 20 to 25 minutes of the c, 20-25 miles. summer camp, camp counselor, elementary school experience. Worked with school-age, teens. Currently studying education/child development. Looking for part-time (mornings/afternoons).
 
 ---
 
 ### #212 — ✅ APPROVE (HIGH) — Kimberly Gamboa
 
-📧 kimberlygamboa004@gmail.com | 📱 (404) 890-6322 | 📍 Georgia
+📧 kimberlygamboa004@gmail.com | 📱 (404) 890-6322 | 📍 Roswell, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I am located in Roswell, Georgia. And I am willing to travel 20 miles for shifts.
-**Schedule:** I am looking for a full-time shifts and am available to work the 48 hours so that five days a week.
+**Experience:** Formal (tutor)
+**Location:** Roswell, Georgia, 20 miles
+**Schedule:** full-time
 
-**Summary:** Kimberly has formal childcare experience in a professional setting. Good fit for Georgia's moderate experience requirements.
+**Summary:** Kimberly is a strong candidate with experience as a tutor. Currently studying education/child development.
 
 **Red Flags:** None
 
@@ -8384,23 +8709,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Kimberly  Gamboa
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Roswell, Georgia. And I am willing to travel 20 miles for shifts., 20 miles. Formal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Roswell, Georgia, 20 miles. tutor. Currently studying education/child development. Looking for full-time.
 
 ---
 
 ### #213 — ✅ APPROVE (MEDIUM) — Tina Nguyen
 
-📧 tinavn5@yahoo.com | 📱 (470) 216-2895 | 📍 Georgia
+📧 tinavn5@yahoo.com | 📱 (470) 216-2895 | 📍 I'm currently located in Atlanta, Georgia ZIP code is 30 328
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 
-**Experience:** Mixed (6yr)
-**Location:** I'm currently located in Atlanta, Georgia ZIP code is 30 328. I'm in around the Sandy Springs area and I'm willing to drive up to
- at least 25 miles around this area and up to 45 to an hour drive.
-**Schedule:** I'm currently looking for part-time work only and my availability is Monday through Friday from 7:00 a.m. to
- 7 p.m.
- but I can be flexible as needed.
+**Experience:** Mixed, 6+ years. Ages: toddlers
+**Location:** I'm currently located in Atlanta, Georgia ZIP code is 30 328, 25 miles
+**Schedule:** part-time
 
-**Summary:** Tina has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Tina has a mix of formal and informal childcare experience. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -8408,7 +8730,7 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Tina win, and I'm excited to join up kit because I generally enjoy being around children and helping support them as they learn and grow. I feel like our younger generation will be the future of the world decision making process and I hope to have a hand in helping the younger generation grow into a good capable adult. I have experience.
- Typing care for my younger brother, who was two years younger than me, when I was a kid. And I also help out taking care of my niece, who is now 6 years old. I've been around her since she was born. So I'm very familiar with spending time with ...
+ Typing care for my younger brother, who was two years younger than me, when I was a kid. And I also help out taking care of my niece, who is now 6 years old. I've been around her since she was born. So I'm very familiar with spending time with younger kids and toddlers. I usually help watch her play with her and keep her entertained, and she's keeping a watchful eye. So, I really enjoy a creating, a fun safe environment, where kids feel comfortable and happy.
 
 **Q4 — Location:** I'm currently located in Atlanta, Georgia ZIP code is 30 328. I'm in around the Sandy Springs area and I'm willing to drive up to
  at least 25 miles around this area and up to 45 to an hour drive.
@@ -8417,29 +8739,28 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ❌
  7 p.m.
  but I can be flexible as needed.
 
-**Q6 — Conflict Resolution:** There's a conflict in the classroom, for example, one child hits another. The first thing I would do is to calmly separate the children to make sure that everyone is saying, I will check on the child that was hit and make sure that they're okay. Then I will speak to the child who did hit and explain that hitting is not okay and that we use kind hands, I would help them talk about what happened and...
+**Q6 — Conflict Resolution:** There's a conflict in the classroom, for example, one child hits another. The first thing I would do is to calmly separate the children to make sure that everyone is saying, I will check on the child that was hit and make sure that they're okay. Then I will speak to the child who did hit and explain that hitting is not okay and that we use kind hands, I would help them talk about what happened and encourage them to use their words instead, if appropriate I would guide them to apologize.
+ And help both children, move forward and continue, playing safely. Ultimately, I believe it is important to stay calm, and help children understand their emotions, while teaching them, better ways to express themselves.
 
 </details>
 
 🔗 **App Account:** 🟢 Tina Nguyen
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm currently located in Atlanta, Georgia ZIP code is 30 328. I'm in around the Sandy Springs area and I'm willing to drive up to
- at least 25 miles a, 25 miles. Mix of formal and informal childcare experience. Looking for part-time.
+> 03/30 Intro Call Passed. I'm currently located in Atlanta, Georgia ZIP code is 30 328, 25 miles. Mix of formal and informal childcare experience. Worked with toddlers. Looking for part-time.
 
 ---
 
 ### #214 — ✅ APPROVE (MEDIUM) — Kayla farrow
 
-📧 farrowk342@gmail.com | 📱 (516) 808-8995 | 📍 Georgia
+📧 farrowk342@gmail.com | 📱 (516) 808-8995 | 📍 Conyers, Georgia, and willing to travel at most 25 miles
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I currently live in Conyers, Georgia, and willing to travel at most 25 miles.
- Or 30 miles.
-**Schedule:** I'm available to work, Mondays and Wednesdays. Anytime after two and Tuesdays and Thursdays any time around 1:00. I'll be available and weekends in time.
+**Experience:** Mixed — daycare (babysitter). Ages: infants
+**Location:** Conyers, Georgia, and willing to travel at most 25 miles, 25 miles
+**Schedule:** flexible (weekends available)
 
-**Summary:** Kayla has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Kayla has a mix of formal (daycare) and informal (babysitter) experience.
 
 **Red Flags:** None
 
@@ -8463,21 +8784,20 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Kayla Farrow
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I currently live in Conyers, Georgia, and willing to travel at most 25 miles.
- Or 30 miles., 25 miles. Mix of formal and informal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. Conyers, Georgia, and willing to travel at most 25 miles, 25 miles. daycare experience. Worked with infants. Looking for flexible (weekends available).
 
 ---
 
 ### #215 — ✅ APPROVE (HIGH) — Deyanira Szymanski
 
-📧 translatefirst@yahoo.com | 📱 (480) 529-8032 | 📍 Arizona
+📧 translatefirst@yahoo.com | 📱 (480) 529-8032 | 📍 Queen Creek, Arizona, and that is a sip code
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (10yr)
-**Location:** I live in Queen Creek, Arizona, and that is a sip code. 8514 to, I am willing to travel 20, 25 miles away from from here and I'm available anytime to start.
-**Schedule:** I'm looking for eight hour shifts and I am available as early. As early as you need me, 6:00 shifts in the morning. That's fine with me 7:00. It's fine morning. Shifts are perfect for me. Thank you.
+**Experience:** Formal, 10+ years. Ages: preschool-age
+**Location:** Queen Creek, Arizona, and that is a sip code, 25 miles
+**Schedule:** flexible (mornings)
 
-**Summary:** Deyanira has formal childcare experience with 10+ years in a professional setting. Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Deyanira has solid formal childcare experience. Has worked with preschool-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -8486,37 +8806,41 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hi, my name is the Anita. She manske, I have about 10 years experience, working with kids that are three years old, all the way to sixth graders. I also bilingual English and Spanish and I have a enjoy working with different ages teaching different subjects.
  And also teaching them how to read. I do have plenty of experience with kids traveling to to the zoo and to have different experiences at the science museum, in road trips. So it's also something that I would like to add. I looking for a job here because
- It works with my flexible time in my area. So I am looking forward to being selected...
+ It works with my flexible time in my area. So I am looking forward to being selected to work with different locations. Thank you.
 
 **Q4 — Location:** I live in Queen Creek, Arizona, and that is a sip code. 8514 to, I am willing to travel 20, 25 miles away from from here and I'm available anytime to start.
 
 **Q5 — Schedule:** I'm looking for eight hour shifts and I am available as early. As early as you need me, 6:00 shifts in the morning. That's fine with me 7:00. It's fine morning. Shifts are perfect for me. Thank you.
 
 **Q6 — Conflict Resolution:** Well, the first thing that needs to be done is to acknowledge that they are expressing themselves out of frustration, for something that is happening. So in my experience, for example, if they are fighting for a toy or a book, or maybe a the space, that they are sharing,
- I will come and speak to them. About what is the reason, what they are getting upset or why is this child hitting the other chi...
+ I will come and speak to them. About what is the reason, what they are getting upset or why is this child hitting the other child and express how I understand their frustration. But we need to be respectful to each other and maybe attend to this child's anger.
+ First, of course, making sure the other child is being taken care of too, so he's doesn't feel that he is being attacked. I think that trying to supervise them closer and trying to work with both of them as a leader, it's important. So they see that I understand.
+ What they're going through. But I am also there to protect them and to ensure they are, they feel safe and they continue to enjoy their stay at the, at the, in the classroom or in the activity. It's simple ways important to address the anger or the sporadic outbursts of
 
 **Q7 — Why Great:** I know that I will be a great teacher because I enjoy working with children. I been told that I am very good at dealing with their place and in games and including their language. So I understand them very well. I
- stand how they feel when they are not at home. And I think I also enjoy what each child can bring to the classroom, the value that they can bring to them having a finding themselves in,...
+ stand how they feel when they are not at home. And I think I also enjoy what each child can bring to the classroom, the value that they can bring to them having a finding themselves in, in this community and expressing themselves in learning.
+ Um, through play, I think I enjoy playing with them, and they also teach me how to become a better teacher a better person. I think the passion that I have for working with children is noticeable, not only by the children, but the parents from the very first time they meet me. That's why I think I will not only enjoy working there but I'll so
+ I will become one of the best assets that the center will have coming to to work with their children.
 
 </details>
 
 🔗 **App Account:** 🟢 Deyanira Szymanski
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Queen Creek, Arizona, and that is a sip code. 8514 to, I am willing to travel 20, 25 miles away from from here and I'm available anytime to , 25 miles. 10+ years Formal childcare experience. Looking for available.
+> 03/30 Intro Call Passed. Queen Creek, Arizona, and that is a sip code, 25 miles. Childcare experience (details in interview). Worked with preschool-age. Looking for flexible (mornings).
 
 ---
 
 ### #216 — 🟡 FLAG (LOW) — drue Coats
 
-📧 druekirbycoats@gmail.com | 📱 (425) 770-8482 | 📍 Arizona
+📧 druekirbycoats@gmail.com | 📱 (425) 770-8482 | 📍 Phoenix, Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** None
-**Location:** I live in Phoenix, Arizona.
-**Schedule:** I think I would like part-time point and I might move in with whole time that I ate something new and different for me. So part type, sounds great.
+**Location:** Phoenix, Arizona
+**Schedule:** part-time
 
-**Summary:** drue does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** drue needs Erica's review — no childcare experience detected in transcript.
 
 **Red Flags:** None
 
@@ -8534,29 +8858,29 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** I would separate the two and then explain that you wouldn't want to be hit. And so, you'd be hippie, treat others the way you want to be treated and see if that same thin or not, hopefully it will. Then I think that whoever started this little fight, you need to apologize to the other child and tell them how sorry they are. And then shake hands. We'll see if that would work.
 
 **Q7 — Why Great:** I'm very fun. I have a great sense of fun and I like to make, you know, it has an impact on the kids and hopefully that they will like being in my classroom and that we would learn. And I think one of the best ways to learn things, it's like having fun. So I just think that it would be a good fit for me.
- And that we would enjoy each other. If you will, is be nice to make an impact on some his lif...
+ And that we would enjoy each other. If you will, is be nice to make an impact on some his life, even though they're all. So young, it still would be nice and would be positive with the kids and maybe teach them positivity as well.
 
 </details>
 
 🔗 **App Account:** 🟢 Drue Coats
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Phoenix, Arizona.. Experience details not available. Looking for part-time.
+> 03/30 Intro Call Passed. Phoenix, Arizona. Childcare experience (details in interview). Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Phoenix, Arizona.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Phoenix, Arizona. No childcare experience detected in transcript.
 
 ---
 
 ### #217 — ✅ APPROVE (MEDIUM) — Lady Dréa Kirschenbaum
 
-📧 hidrea@icloud.com | 📱 (470) 786-1009 | 📍 Georgia
+📧 hidrea@icloud.com | 📱 (470) 786-1009 | 📍 Atlanta Georgia and I'm willing to travel up to 15 miles
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 
-**Experience:** Mixed (15yr)
-**Location:** I live in Atlanta Georgia and I'm willing to travel up to 15 miles.
-**Schedule:** I am interested in either part-time or full-time. I'm flexible
+**Experience:** Mixed (nanny, babysitter), 15+ years. Ages: infants, teens
+**Location:** Atlanta Georgia and I'm willing to travel up to 15 miles, 15 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Lady has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements.
+**Summary:** Lady has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -8564,34 +8888,35 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hey there, I'm leading Draya. I'm a working professional and business administration, though I do carry over 15 years of child care under my belt, that includes babysitting nannying personal assistant and tutoring. I really enjoy knowing that I am helping to shape our future generation. We count on our future generation to take care of our Earth, our society, and our community, knowing that I can help teach them to be.
- Become the best versions of themselves, both in their personal lives. And in the classroom, gives me the greatest satisfaction. Some of the ways that I Implement that is by lea...
+ Become the best versions of themselves, both in their personal lives. And in the classroom, gives me the greatest satisfaction. Some of the ways that I Implement that is by learning their communication style. Every child will have a different communication style and it is integral that I learned that from the get-go to be able to implement our teachings together.
+ One other way that I ensure this is to learn their teaching style and learning style as well by learning their learning style. I am able to better assess how to make them the most successful. I really enjoy teaching children and I really enjoyed teaching in general, there's nothing greater than seeing the success of our future generation. I look forward to becoming a part of a kids and I look forward to chatting soon.
 
 **Q4 — Location:** I live in Atlanta Georgia and I'm willing to travel up to 15 miles.
 
 **Q5 — Schedule:** I am interested in either part-time or full-time. I'm flexible
 
-**Q7 — Why Great:** Aside from my passion for teaching, I truly enjoy as I've stated multiple times shaping the future generation. I am a huge believer that the future generation is who we are counting on and we need them to be the best that they can be. And that includes teaching them at a young age how to become that best person. So I would love to be able to say that I'm the best teacher, But ultimately, I'm learn...
+**Q7 — Why Great:** Aside from my passion for teaching, I truly enjoy as I've stated multiple times shaping the future generation. I am a huge believer that the future generation is who we are counting on and we need them to be the best that they can be. And that includes teaching them at a young age how to become that best person. So I would love to be able to say that I'm the best teacher, But ultimately, I'm learning just as much of it as they are and I look forward to learning.
+ I'm from them. Hopefully, as much as I look forward to learning from me.
 
 </details>
 
 🔗 **App Account:** 🟢 Lady Dréa Kirschenbaum
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in Atlanta Georgia and I'm willing to travel up to 15 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Atlanta Georgia and I'm willing to travel up to 15 miles, 15 miles. 15+ years as nanny, babysitter. Worked with infants, teens. Looking for full-time, part-time.
 
 ---
 
 ### #218 — ✅ APPROVE (MEDIUM) — Desire Stuart
 
-📧 stuart.desire91@gmail.com | 📱 (385) 371-8246 | 📍 Utah
+📧 stuart.desire91@gmail.com | 📱 (385) 371-8246 | 📍 they Kearns West Valley area and Utah
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Informal
-**Location:** I live in they Kearns West Valley area and Utah.
- And I'm willing to go about about 20 miles.
-**Schedule:** I'm open for full-time and part-time. I would say, my villa availability would be Monday through Friday about 8 a.m. to 6 p.m.
+**Experience:** Informal (babysitter). Ages: infants
+**Location:** they Kearns West Valley area and Utah, 20 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Desire's experience is informal — babysitting, family care, or similar. Utah is lenient on experience — this should be straightforward. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Desire's experience is informal (babysitting/family) but Utah is lenient on this. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -8615,8 +8940,7 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Desire Stuart
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I live in they Kearns West Valley area and Utah.
- And I'm willing to go about about 20 miles. Informal childcare experience (babysitting/family). Looking for full-time, part-time.
+> 03/30 Intro Call Passed. they Kearns West Valley area and Utah, 20 miles. babysitter. Worked with infants. Looking for full-time, part-time.
 
 ---
 
@@ -8625,10 +8949,10 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 📧 shaonalukomba1@gmail.com | 📱 (325) 665-3896 | 📍 Georgia
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
-**Experience:** Formal (23yr)
-**Location:** Georgia (inferred from phone area code)
+**Experience:** Formal — elementary school, middle school, 23+ years. Ages: preschool-age, school-age, teens
+**Location:** Georgia
 
-**Summary:** Shaona has formal childcare experience with 23+ years in a professional setting. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Shaona only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: My name is Shawna lecomba I'm 23 years old. Currently, I was born in Africa, but I was raised here....
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -8639,29 +8963,30 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** My name is Shawna lecomba I'm 23 years old. Currently, I was born in Africa, but I was raised here. I came here and I was six years old. My parents were trying to give us a better life because of so many wars back in Africa and stuff. I've been here for 16, almost 17 years now, went to elementary middle school, high school, graduated Abilene, High School
- Went to Cisco College took some prereqs with their, for my nursing career didn't finish. But just did the prereqs. I went to Medical Assistant school. Finished. That have my certificate. I did, my seeing sort of certified, nursing assistants ...
+ Went to Cisco College took some prereqs with their, for my nursing career didn't finish. But just did the prereqs. I went to Medical Assistant school. Finished. That have my certificate. I did, my seeing sort of certified, nursing assistants license, but that expired, there were some complications with through renewing its. Oh yeah.
+ I love working with kids. I'm organized, I'm friendly. I'm nice. I'm a good person to work with that actually.
 
 </details>
 
 🔗 **App Account:** 🟢 Shaona  Lukomba
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Georgia (from phone). 23+ years Formal childcare experience.
+> 03/30 Intro Call Passed. Georgia. 23+ years elementary school, middle school experience. Worked with preschool-age, school-age, teens. Currently studying nursing/medical.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Georgia (from phone). Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. Georgia. Could not evaluate — transcript issue.
 
 ---
 
 ### #220 — ✅ APPROVE (HIGH) — Wendy Lozano
 
-📧 wendy.l28813@gmail.com | 📱 (602) 931-6873 | 📍 Arizona
+📧 wendy.l28813@gmail.com | 📱 (602) 931-6873 | 📍 So, the state I live in is Arizona, Phoenix,
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (10yr)
-**Location:** So, the state I live in is Arizona, Phoenix, and I would like to travel 10 to 15 miles.
-**Schedule:** I would love to work full-time and part-time Monday to Thursday.
+**Experience:** Formal — daycare, 10+ years. Ages: infants, preschool-age
+**Location:** So, the state I live in is Arizona, Phoenix,, 10-15 miles
+**Schedule:** full-time, part-time
 
-**Summary:** Wendy has formal childcare experience with 10+ years (daycare). Meets Arizona's strict 6-month formal requirement with room to spare. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Wendy is a strong candidate — daycare experience with 10+ years. Has worked with infants, preschool-age. Conflict resolution answer is thoughtful and shows real classroom awareness.
 
 **Red Flags:** None
 
@@ -8670,24 +8995,27 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q3 — Experience:** Hello. My name is Winnie Luciano and a little bit about me is I have a passion in nurturing and teaching children to become great Learners. I have worked with children for almost three years and I've worked with children ages, infants up to 10 years of age, and a little bit of my experience.
  Audience. I have gained through is working in schools and daycares. And also my internships, I do through my school, which I am attending at ASU and a little bit of my background experience is. I provide developmental support making sure that I'm planning age appropriate activities, for example,
- All game...
+ All games story, arts and crafts to support, social emotional and cognitive growth. Also, a key factor is communication making sure that I'm updating the parents on daily activities and tracking the child's developmental milestones.
+ and also behavioral guidance like implementing positive discipline and managing their social interactions overall just being so being supportive with these children and make sure that children are having a developmental growth
 
 **Q4 — Location:** So, the state I live in is Arizona, Phoenix, and I would like to travel 10 to 15 miles.
 
 **Q5 — Schedule:** I would love to work full-time and part-time Monday to Thursday.
 
 **Q6 — Conflict Resolution:** So with my experience, I would stay calm and neutral approach to conflict calmly, and avoid taking any sides and then I would ensure their safety. Make sure if they're physical fighting, or if they're upset, separate them calmly, and then
- Talk to them using gentle language and then I would help them calm down by taking a few deep breaths or sitting quietly with me. I would then listen to both sid...
+ Talk to them using gentle language and then I would help them calm down by taking a few deep breaths or sitting quietly with me. I would then listen to both sides and have each child, explain, or Express what happened without interrupting interrupting them, and then guide toward a solution, ask problem solving.
+ Questions and overall be fair, then I would reinforce a positive behavior and then lastly I would follow up after things. Have cooled down check and later ask them like how are you two doing now? And this is what I would do overall.
 
 **Q7 — Why Great:** I would be an excellent upca teacher because through my experience and failures I have a grown and learned to become a better version of myself. But as well, a better version as a teacher through my experience and feedback from my mentors and a my co-workers I have gained so much knowledge such as having a better classroom management establishing clear rules maintaining safe.
- Environment and also...
+ Environment and also a positive environment. Also having great communication and collaboration skills regularly communicating with parents co-workers children, and also be professional, professional engaging, in professional in development. And overall just
+ being a positive role model for children.
 
 </details>
 
 🔗 **App Account:** 🟢 Wendy Lozano
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. So, the state I live in is Arizona, Phoenix, and I would like to travel 10 to 15 miles., 10-15 miles. 10+ years daycare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. So, the state I live in is Arizona, Phoenix,, 10-15 miles. 10+ years daycare experience. Worked with infants, preschool-age. Looking for full-time, part-time.
 
 ---
 
@@ -8697,9 +9025,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** None
-**Location:** Arizona (inferred from phone area code)
+**Location:** Arizona
 
-**Summary:** Jasmine does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Jasmine only answered 1/5 content questions — not enough data to properly evaluate. From Q3 alone: Hi, my name is Jasmine....
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -8716,22 +9044,22 @@ Questions: 1/5 — Q3 ✅ Q4 ❌ Q5 ❌ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Jasmine Wright
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Arizona (from phone). Experience details not available.
+> 03/30 Intro Call Passed. Arizona. Childcare experience (details in interview).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Arizona (from phone). No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Arizona. No childcare experience detected in transcript.
 
 ---
 
 ### #222 — 🟡 FLAG (LOW) — Farzi Mirak
 
-📧 farzimkt@yahoo.com | 📱 (520) 437-1681 | 📍 Arizona
+📧 farzimkt@yahoo.com | 📱 (520) 437-1681 | 📍 I am meeting a Tucson Arizona
 Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 
-**Experience:** Formal (22yr)
-**Location:** I am meeting a Tucson Arizona and I wanted started to work in the same city or in was working for last 20 years and is it Tucson Arizona four or five. I think different zip code out could work and I h...
-**Schedule:** I love to work part-time, especially early morning. I can 7 in the morning until 11 or 12. That would be lovely for me. But if there is no chance and then I can work a little bit longer but five hours or maximum six hours is a wonderful time for me. ...
+**Experience:** Formal — Montessori, 22+ years. Ages: toddlers, preschool-age
+**Location:** I am meeting a Tucson Arizona
+**Schedule:** part-time (mornings)
 
-**Summary:** Farzi has formal childcare experience with 22+ years (montessori, teacher).
+**Summary:** Farzi needs Erica's review — could not evaluate — transcript issue.
 
 **Red Flags:** None
 
@@ -8741,9 +9069,13 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** And good morning. My name is Adam fuzzy. Me Reich. And I work with the Kings since 2003, and any age, especially there is small compared to the first grade I worked in a tier. See, I did a lot of value volunteering. I did in a Montessori school and I was lucky to have it in a private school to vote convicted.
- And right now I am working with the kids and I drive them someday home to school and it's good to home. I love to walk to take he's a different age especially dismal mom and dad's last twenties more than 22 years. I was so lucky to work with them and teach them and the same time, I learn...
+ And right now I am working with the kids and I drive them someday home to school and it's good to home. I love to walk to take he's a different age especially dismal mom and dad's last twenties more than 22 years. I was so lucky to work with them and teach them and the same time, I learn it too and will fit a lot of nice people.
+ If that was my opportunity to work with the kids and right now, I'm flying again and I love to work at the same job. I had it for the last 20-something years, as a teacher or teacher, assistant and work with the kids, any age, especially between three years old or older. But it doesn't matter even under two years old, so I can work with them and
+ And I have to use my experience and my knowledge and my education regarding those layers in years. I learn. So I hope I hope I can find a good job and then we'll pretend for rest of the my life because this is the what I love it always to do and I appreciate forties chance to make it through. Thank you so much. Have a good day.
 
-**Q4 — Location:** I am meeting a Tucson Arizona and I wanted started to work in the same city or in was working for last 20 years and is it Tucson Arizona four or five. I think different zip code out could work and I had the chance to walk store item work. The same city and my address is at an end my sides and I'd se...
+**Q4 — Location:** I am meeting a Tucson Arizona and I wanted started to work in the same city or in was working for last 20 years and is it Tucson Arizona four or five. I think different zip code out could work and I had the chance to walk store item work. The same city and my address is at an end my sides and I'd send it to you but if you want my zip code
+ It is at 85, 750, but if you needed more information, I can give it to you. But the Tucson Arizona, is it the best place for me? And I know everyone, and I know their city and their school. So Walker, is it feed me familiar to me and is easy to adjust my tongue on my way to go to work, but that's all I know. I have thank you so much.
+ Have a good day.
 
 **Q5 — Schedule:** I love to work part-time, especially early morning. I can 7 in the morning until 11 or 12. That would be lovely for me. But if there is no chance and then I can work a little bit longer but five hours or maximum six hours is a wonderful time for me. Not more than that. Thank you so much.
 
@@ -8752,22 +9084,22 @@ Questions: 3/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Farzi Mirak
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I am meeting a Tucson Arizona and I wanted started to work in the same city or in was working for last 20 years and is it Tucson Arizona four or five.. 22+ years montessori, teacher experience. Looking for part-time.
+> 03/30 Intro Call Passed. I am meeting a Tucson Arizona. 22+ years Montessori experience. Worked with toddlers, preschool-age. Looking for part-time (mornings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I am meeting a Tucson Arizona and I wanted started to work in the same city or in was working for last 20 years and is it Tucson Arizona four or five.. Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. I am meeting a Tucson Arizona. Could not evaluate — transcript issue.
 
 ---
 
 ### #223 — ✅ APPROVE (HIGH) — Camille Johnson
 
-📧 camsimjohnson@gmail.com | 📱 (770) 256-4936 | 📍 Georgia
+📧 camsimjohnson@gmail.com | 📱 (770) 256-4936 | 📍 Yes, I'm located in Decatur, Georgia
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal (25yr)
-**Location:** Yes, I'm located in Decatur, Georgia.
-**Schedule:** I'm looking for both full-time and part-time work, whatever is available. I definitely prefer a more flexible kind of schedule because I am a musician and I do contract work mainly on the weekends, but my availability ability is open from Monday thro...
+**Experience:** Formal (substitute teacher), 25+ years
+**Location:** Yes, I'm located in Decatur, Georgia
+**Schedule:** full-time, part-time (weekends available)
 
-**Summary:** Camille has formal childcare experience with 25+ years in a professional setting. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Camille is a strong candidate with experience as a substitute teacher. Currently college student.
 
 **Red Flags:** None
 
@@ -8775,38 +9107,40 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hello. Hi, my name is Camille Johnson. My 25 year old musician. I graduated from Columbus State University from the Schwab School of Music in May. 20 2003, I currently am a contract position with different orchestras, locally around, Atlanta Georgia, South Carolina, North Carolina, mainly in the South, I currently reside in Decatur Georgia and I work my day-to-day life guard job. So I'm currently see.
- CPR certified until the end of 2027 when I have to renew. But yeah, I'm just looking for more work and the society where, you know, prices are getting raised and, you know, just I am African-Ame...
+ CPR certified until the end of 2027 when I have to renew. But yeah, I'm just looking for more work and the society where, you know, prices are getting raised and, you know, just I am African-American. So just looking to serve my community and gain more experience and knowledge and different areas, my degree was centered around being a well-rounded person.
+ Well-rounded musician and just centering around creativity. I work for children before with lifeguarding and music. So yeah, I would just love the opportunity to substitute and, you know, meet different people. And yeah, gain new experiences from from that.
 
 **Q4 — Location:** Yes, I'm located in Decatur, Georgia.
 
-**Q5 — Schedule:** I'm looking for both full-time and part-time work, whatever is available. I definitely prefer a more flexible kind of schedule because I am a musician and I do contract work mainly on the weekends, but my availability ability is open from Monday through Friday between I would say, 94, 95 type of thi...
+**Q5 — Schedule:** I'm looking for both full-time and part-time work, whatever is available. I definitely prefer a more flexible kind of schedule because I am a musician and I do contract work mainly on the weekends, but my availability ability is open from Monday through Friday between I would say, 94, 95 type of thing. But just having that flexibility on Fridays Saturdays and Sundays will be great.
+ Eight.
 
-**Q6 — Conflict Resolution:** I will first try to deescalate the situation by talking to them and saying, hey, what's going on? Like, what led you, you know, why did you hit hit him? Because I have two nephews and, you know, their brothers and they fight a lot. So I'm like I, you know, sit one of them down say, hey, what's going on? Like, you know, try not to put your hands on one another, you can just talk about it. So I thin...
+**Q6 — Conflict Resolution:** I will first try to deescalate the situation by talking to them and saying, hey, what's going on? Like, what led you, you know, why did you hit hit him? Because I have two nephews and, you know, their brothers and they fight a lot. So I'm like I, you know, sit one of them down say, hey, what's going on? Like, you know, try not to put your hands on one another, you can just talk about it. So I think mainly just getting them to express themselves verbally than physically.
+ Getting them to learn learn like learning to express themselves that way versus you know, because I mean kids naturally like they're not emotionally regulated, so they don't know to, you know, stop and try to, you know, take a breath but I don't know. Just communicating with them. Like date children are smart and you know, they're there.
+ They are easily susceptible to like learning. So, you know, if I communicate with them. Hey, like, you know, next time, you know, if you need to, you know, if you get angry come to me, or if you get angry, take a breath. And, you know, Express what's going on, like, in your head without using your hands, you know what I mean? So, yeah.
 
 **Q7 — Why Great:** I think I would make a pretty good kid employee because of my diverse background and working with all kinds of different people. Like, I've had all kinds of different jobs. I worked in sales, I'm a musician. So I do contract contracts with all kinds of different people. I've met all kinds of different people as well, and yeah, just, I would just say my background and my over
- were all well-rounded...
+ were all well-rounded education in school and just, yeah.
 
 </details>
 
 🔗 **App Account:** 🟢 Camille Johnson
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Yes, I'm located in Decatur, Georgia.. 25+ years Formal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Yes, I'm located in Decatur, Georgia. 25+ years as substitute teacher. Currently college student. Looking for full-time, part-time (weekends available).
 
 ---
 
 ### #224 — ✅ APPROVE (MEDIUM) — Nerline Cole
 
-📧 nerlinejustin10@gmail.com | 📱 (404) 447-4753 | 📍 Georgia
+📧 nerlinejustin10@gmail.com | 📱 (404) 447-4753 | 📍 Hello, I'm currently located in South Fulton
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** Hello, I'm currently located in South Fulton.
- Georgia near Union City Fayetteville Noonan Palmetto Riverdale. Basically the south side of the airport.
-**Schedule:** I don't have a.
- Preference. I can work part time or full time, it doesn't really matter to me. It's based on the time and the location for me,
+**Experience:** Mixed (babysitter). Ages: infants, preschool-age, teens
+**Location:** Hello, I'm currently located in South Fulton
+**Schedule:** full-time, part-time
 
-**Summary:** Nerline has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Nerline has a mix of formal and informal childcare experience.
 
 **Red Flags:** None
 
@@ -8824,28 +9158,27 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 **Q6 — Conflict Resolution:** First is to separate, both of the children, left over to know what they are wrong. Let them apologize to each other and deflect the conflict and get them to start playing with each other or if they need any more disciplinary action to receive that and calm the situation.
 
 **Q7 — Why Great:** What would make me a great update teacher is because I have to experience for more than five years. I love kids, I'm very Hands-On. I know how to learn how to train, how to feel L, how to be very attentive to the children. I'm Hands-On with computers phones eating. I'm very have a lot of skills, like communicating with parents phones.
- Dude, all kinds of things that has to do with child developmen...
+ Dude, all kinds of things that has to do with child development. I'm very educated on that. So I think I'd be a great love Gucci because I'm reliable. I'm time. I'm bilingual. I'm very Hands-On, and I'm a fast learner
 
 </details>
 
 🔗 **App Account:** 🟢 Nerline Cole
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Hello, I'm currently located in South Fulton.
- Georgia near Union City Fayetteville Noonan Palmetto Riverdale. Basically the south side of the airport. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Hello, I'm currently located in South Fulton. babysitter. Worked with infants, preschool-age, teens. Looking for full-time, part-time.
 
 ---
 
 ### #225 — ✅ APPROVE (MEDIUM) — Iyanna Reynolds
 
-📧 ilovegod7799@icloud.com | 📱 (773) 790-2434 | 📍 Georgia
+📧 ilovegod7799@icloud.com | 📱 (773) 790-2434 | 📍 I'm located in the West End area, which is like 15 minutes from downtown
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed (21yr)
-**Location:** I'm located in the West End area, which is like 15 minutes from downtown. But like I said, I should do have public transportation, personal Transportation because I have my own card, but as long as it...
-**Schedule:** I'm currently looking for a part-time and full-time. I'll take. Whatever is available. I do work Security on weekends, Saturday, and Sunday, from 2 to 10, but from Monday, through Friday, I'm looking to be at work.
+**Experience:** Mixed (substitute teacher), 21+ years. Ages: infants, toddlers, teens
+**Location:** I'm located in the West End area, which is like 15 minutes from downtown, 15 miles
+**Schedule:** full-time, part-time (weekends available)
 
-**Summary:** Iyanna has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Iyanna has a mix of formal and informal childcare experience. Currently studying education/child development, which shows commitment.
 
 **Red Flags:** None
 
@@ -8853,35 +9186,39 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hey, my name is Ayana. Reynolds 21 years old recently. I just moved from Chicago, Illinois. In January, I actually moved to Georgia from me. Be able to pursue my entrepreneurial career as far as helping my businesses as I have and pursuing to get my real estate. But as of right now I do work security. And I've been looking to be like a substitute teacher or gain a second job.
- But I do have multiple siblings. I have about twenty six siblings and a lot of my siblings do have kids. I'm used to working with infants and toddlers. I have a lot of mommy friends. My best friend also has a child and s...
+ But I do have multiple siblings. I have about twenty six siblings and a lot of my siblings do have kids. I'm used to working with infants and toddlers. I have a lot of mommy friends. My best friend also has a child and so it's easy for me to be able to work with kids. Especially since I didn't had to, I'm the oldest on my mom's side. So I, we had to be the mom for my siblings and take care of them. Um,
+ I do live in the West End. I do have pup, I do have transportation, I have a car. I did graduate high school, I did go to college.
+ I'm very good person, I'm kind of shy but like I'm outgoing, I like, I'm very outspoken. When I do get comfortable. I don't like any drama. I'm very chill. I'm very intellectual as well. Um, I'm really just like a good person overall, I like to be on time. I like to do my job. I like to, I like to be at work and I think this would be like a good start for me. So I decided to see about this opportunity.
 
 **Q4 — Location:** I'm located in the West End area, which is like 15 minutes from downtown. But like I said, I should do have public transportation, personal Transportation because I have my own card, but as long as it's not like more than like 30 minutes out, I'm fine.
 
 **Q5 — Schedule:** I'm currently looking for a part-time and full-time. I'll take. Whatever is available. I do work Security on weekends, Saturday, and Sunday, from 2 to 10, but from Monday, through Friday, I'm looking to be at work.
 
-**Q6 — Conflict Resolution:** I'm actually dealt with this a couple of times. If one child in my classroom hits, another child will one, we're going to deescalate the situation and we're going to break them up one. Child would be, the child is getting here. I'm going to make sure that he is he or she is. Okay. And to let me know if there's any serious injuries and the other child we're going to have to have a conversation. I'm...
+**Q6 — Conflict Resolution:** I'm actually dealt with this a couple of times. If one child in my classroom hits, another child will one, we're going to deescalate the situation and we're going to break them up one. Child would be, the child is getting here. I'm going to make sure that he is he or she is. Okay. And to let me know if there's any serious injuries and the other child we're going to have to have a conversation. I'm going to have to let them know that he didn't in this classroom will not be prohibited if you are going to hit students in this classroom.
+ Room, you will be in time out or you will be in trouble and I will have to contact your, your mom or you're dead. Usually children are usually children, listen, and they actually hear you out. So it's easy to just talk to them, but I would say I was separating children, and you feel me? Give them different activities to do. That's keeping them away from each other and to, until the one that's aggressive, it comes down and I know that they're okay to work together again.
 
-**Q7 — Why Great:** I think I would make a great up, kill teacher, especially as an assistant because I feel like that I work well with kids. And when it comes to like, conflicts and issues, I'm I'm very well-spoken and kids usually listen to me because I know I know how to come, I know how to talk to them, what they would feel comfortable where they can hear me, I'm also very good when it comes to activities, when i...
+**Q7 — Why Great:** I think I would make a great up, kill teacher, especially as an assistant because I feel like that I work well with kids. And when it comes to like, conflicts and issues, I'm I'm very well-spoken and kids usually listen to me because I know I know how to come, I know how to talk to them, what they would feel comfortable where they can hear me, I'm also very good when it comes to activities, when it comes to shows, when it comes to teaching them, I can make things fun. I can make his want to be able to keep coming to school.
+ Cool. How you, how we used to want it to be? I feel like I have a good standing when it comes to being an assistant. I'll come in on time. I'll make sure we have what we need. I'll take the stress away from the main teacher who needs to help. Also, I'm good with parents, I'm good with talking. I feel like I can help kids learn and I can help kids become better and I can give them a safe space to be able to learn in like they should have
 
 </details>
 
 🔗 **App Account:** 🟢 Iyanna  Reynolds
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I'm located in the West End area, which is like 15 minutes from downtown. But like I said, I should do have public transportation, personal Transporta, 15 miles. Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. I'm located in the West End area, which is like 15 minutes from downtown, 15 miles. 21+ years as substitute teacher. Worked with infants, toddlers, teens. Currently studying education/child development. Looking for full-time, part-time (weekends available).
 
 ---
 
 ### #226 — ✅ APPROVE (MEDIUM) — Alayna Hannon
 
-📧 alaynajhannon@gmail.com | 📱 (801) 448-9287 | 📍 Utah
+📧 alaynajhannon@gmail.com | 📱 (801) 448-9287 | 📍 Currently, I'm located in Sandy Utah
 Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 
-**Experience:** Mixed
-**Location:** Currently, I'm located in Sandy Utah. It's right. South of Salt Lake City. Yeah. And four shifts, I feel like at most maybe an hour because it's hard to get there really early in the morning if you're...
-**Schedule:** Since I'm still currently in school right now, I would be looking at part-time shifts but if there's any like summer jobs or any summer school jobs that come up during the summer, I'd be willing to take full time for any of those. Um my availability ...
+**Experience:** Mixed (babysitter). Ages: infants, teens
+**Location:** Currently, I'm located in Sandy Utah
+**Schedule:** full-time, part-time (school schedule)
 
-**Summary:** Alayna has a mix of formal and informal childcare experience. Utah is lenient on experience — this should be straightforward.
+**Summary:** Alayna has a mix of formal and informal childcare experience. Currently college student, which shows commitment. Schedule constrained by school.
 
 **Red Flags:** None
 
@@ -8889,35 +9226,40 @@ Questions: 4/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ❌ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi. My name is Alaina, Hannon. I am a senior in high school currently. My last job was a summer job. It was a food service job. It was at a place called Hokulea. Shaved ice where, you know, you should serve shaved ice and it's such a super fun experience. I got to talk to so many customers. It was my favorite part of the experience. I got to learn about so many different stories about why everyone's
- Coming to just one place to share the same tree, like so many different people. And it was so interesting to me, and I also got to learn different skills. Like just your handy skills. Like problem...
+ Coming to just one place to share the same tree, like so many different people. And it was so interesting to me, and I also got to learn different skills. Like just your handy skills. Like problem-solving skills organization skills. Communication skills. Yeah.
+ My experience in child care is that I babysit my aunt's kids every few months weeks. Yeah, sometimes it's like in between I've become fairly skilled at that. I'd become very fluent, you know, like what the language and all that for the past few months, I have been studying and educating myself to become a cn8, which currently
+ I am a licensed CNA. I have also CPR and first aid, certified along with that. My CNAs experience has given me so many different experiences like the patients to understand just like a newfound of carrying and why I want to help teach these kids is because I generally believe kids are
+ The future and I think we need to water and take care of their brains like a flower and it's very delicate and we shouldn't be wasting our time.
 
 **Q4 — Location:** Currently, I'm located in Sandy Utah. It's right. South of Salt Lake City. Yeah. And four shifts, I feel like at most maybe an hour because it's hard to get there really early in the morning if you're like two hours away or
- Yeah like anything longer than an hour just doesn't work for me, I'm also a...
+ Yeah like anything longer than an hour just doesn't work for me, I'm also an hour's pushing it. But you know, sometimes
+ Yeah.
 
-**Q5 — Schedule:** Since I'm still currently in school right now, I would be looking at part-time shifts but if there's any like summer jobs or any summer school jobs that come up during the summer, I'd be willing to take full time for any of those. Um my availability is pretty clean. I'm pretty flexible. I only have ...
+**Q5 — Schedule:** Since I'm still currently in school right now, I would be looking at part-time shifts but if there's any like summer jobs or any summer school jobs that come up during the summer, I'd be willing to take full time for any of those. Um my availability is pretty clean. I'm pretty flexible. I only have a class A day so that makes me free time. Very, very big.
+ I have a lot of free time, so my availability is pretty much constant except for when I have those classes.
 
 **Q7 — Why Great:** I'd be a great teacher here, because I personally think I have a fun fitting personality that will fit right in. I am very easy to get to know their easygoing. So for anyone who's just made me be super easy for them to work with, I'm not very picky. I'm very flexible. I'm very adaptable to I can change environments, quickly, I can
- Get used to environments quickly as well. I also have CNA experien...
+ Get used to environments quickly as well. I also have CNA experience, I have worked being a take a caregiver.
+ I believe I will be able to keep these kids in a safe environment, be able to give them the education that they need, the security that they need and that their parents are paying us to give them so yeah.
 
 </details>
 
 🔗 **App Account:** 🟢 Alayna Hannon
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. Currently, I'm located in Sandy Utah. It's right. South of Salt Lake City. Yeah. And four shifts, I feel like at most maybe an hour because it's hard . Mix of formal and informal childcare experience. Looking for full-time, part-time.
+> 03/30 Intro Call Passed. Currently, I'm located in Sandy Utah. babysitter. Worked with infants, teens. Currently college student. Looking for full-time, part-time (school schedule).
 
 ---
 
 ### #227 — 🟡 FLAG (LOW) — Jacee
 
-📧 jaceebally07@icloud.com | 📱 (480) 791-5339 | 📍 Arizona
+📧 jaceebally07@icloud.com | 📱 (480) 791-5339 | 📍 I'm located in Mesa, but I'm willing to travel to like Queen Creek
 Questions: 1/5 — Q3 ❌ Q4 ✅ Q5 ❌ Q6 ❌ Q7 ❌
 
 **Experience:** Unknown
-**Location:** I'm located in Mesa, but I'm willing to travel to like Queen Creek. Santan Gilbert Chandler.
- Tempe that area, but located in Mesa.
+**Location:** I'm located in Mesa, but I'm willing to travel to like Queen Creek
 
-**Summary:** Could not assess Jacee's experience — transcript may be missing or garbled. Only answered 1/5 questions — limited data to evaluate.
+**Summary:** Jacee only answered 1/5 content questions — not enough data to properly evaluate.
 
 **🚩 Red Flags:**
 - Only 1/5 questions answered
@@ -8935,24 +9277,22 @@ Questions: 1/5 — Q3 ❌ Q4 ✅ Q5 ❌ Q6 ❌ Q7 ❌
 🔗 **App Account:** 🟢 Jacee Ballinger
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I'm located in Mesa, but I'm willing to travel to like Queen Creek. Santan Gilbert Chandler.
- Tempe that area, but located in Mesa.. Experience details not available.
+> 03/30 Intro Call Passed. I'm located in Mesa, but I'm willing to travel to like Queen Creek. Childcare experience (details in interview).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I'm located in Mesa, but I'm willing to travel to like Queen Creek. Santan Gilbert Chandler.
- Tempe that area, but located in Mesa.. Could not evaluate — transcript issue.
+> 03/30 Not Hiring — Intro Call. I'm located in Mesa, but I'm willing to travel to like Queen Creek. Could not evaluate — transcript issue.
 
 ---
 
 ### #228 — 🟡 FLAG (MEDIUM) — Delani
 
-📧 delanihita31@gmail.com | 📱 (602) 301-8856 | 📍 Arizona
+📧 delanihita31@gmail.com | 📱 (602) 301-8856 | 📍 I curling located in Tucson it
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I curling located in Tucson it. Well so I'm going to be relocating within this year to Phoenix back and forth to sow both Tucson and Phoenix Arizona. I'm willing to travel to I believe it be situation...
-**Schedule:** I may be looking for a part-time work. I have a pretty flexible schedule for availability during the week.
+**Experience:** Formal — afterschool program, kindergarten, middle school. Ages: school-age, teens
+**Location:** I curling located in Tucson it
+**Schedule:** part-time
 
-**Summary:** Delani has formal childcare experience (kindergarten). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Delani needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -8976,22 +9316,22 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 🔗 **App Account:** 🟢 Delani Hita
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I curling located in Tucson it. Well so I'm going to be relocating within this year to Phoenix back and forth to sow both Tucson and Phoenix Arizona. . kindergarten experience. Looking for part-time.
+> 03/30 Intro Call Passed. I curling located in Tucson it. afterschool program, kindergarten, middle school experience. Worked with school-age, teens. Looking for part-time.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I curling located in Tucson it. Well so I'm going to be relocating within this year to Phoenix back and forth to sow both Tucson and Phoenix Arizona. . Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. I curling located in Tucson it. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #229 — ✅ APPROVE (MEDIUM) — Janyah
 
-📧 nyahd34@gmail.com | 📱 (470) 682-9792 | 📍 Georgia
+📧 nyahd34@gmail.com | 📱 (470) 682-9792 | 📍 Powder Springs
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Mixed
-**Location:** I am located in Powder Springs. Georgia, my zip code is 30 months 27, and I'm very fun from here. I'm from Marietta, from Cobb County, so, I'm very familiar with Mableton, Smyrna, cop count. I mean, I...
-**Schedule:** I'm definitely looking forward to doing this full time. Um, you know, like I said, I love kids, I love being around them, I love teaching it, you know, just being that person who kids seeing one up to just do naturally a know when I'm gonna be a moth...
+**Experience:** Mixed — daycare (babysitter). Ages: infants, preschool-age
+**Location:** Powder Springs, 25 miles
+**Schedule:** full-time
 
-**Summary:** Janyah has a mix of formal and informal childcare experience. Good fit for Georgia's moderate experience requirements. Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Janyah has a mix of formal (daycare) and informal (babysitter) experience.
 
 **Red Flags:** None
 
@@ -8999,35 +9339,42 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 <summary>📝 Full Transcript Excerpts</summary>
 
 **Q3 — Experience:** Hi, my name is Jeremiah. You can call me, Nyah. I might see it go. You know, I'm just a young adult. Try to figure out alive, Bobby Bobby, Bobby, I literally love kids. I don't understand how people do not love kids. Like they're just so, you know, jeddak, there's no fun. You can always get a good laugh that energy, most important meal of for them for in front of them. I literally love kids. Um, I've worked with
- It mainly infants like I said like three the five little bit of. Yeah. 35 most most mainly and I loved it. I loved working on them, I love being patient with them. I love to you know ...
+ It mainly infants like I said like three the five little bit of. Yeah. 35 most most mainly and I loved it. I loved working on them, I love being patient with them. I love to you know just being around kids teaching me new things. Like I'm a very nurturing person and that's naturally. But they me so that also helps with me being able to be around kids, you know, just you know not only just teach them but if like mother like energy towards them
+ It is, this was the blessing, but my name is actually in my name is /. Grandmother. She's actually in daycare business and been in it for 30 plus years. So, I've actually learned a lot from her since I was literally a high. She's been doing daycare and babysitting and she still in the business. So I've learned a lot from her I've worked with her with kids. I was like seeing a lot. So I'm very very, very comfortable and experience with dealing with kids let alone I had a little
+ Brother, when I was seven, he was one. So that taught me a lot as well, but overall, I love kids, I love hanging with them. I love being around them. I love teaching you things. You know, I have two patients to to be around them unlimited. I just, I really love kids and this list, this is like a great opportunity for me to just be around even more. Get to north of different personalities and teach them a lot and support Lee, it have something.
 
-**Q4 — Location:** I am located in Powder Springs. Georgia, my zip code is 30 months 27, and I'm very fun from here. I'm from Marietta, from Cobb County, so, I'm very familiar with Mableton, Smyrna, cop count. I mean, I've got plenty of Marietta Powder Springs. Etc, etc. So I'm going to drive from light teams of 15 to...
+**Q4 — Location:** I am located in Powder Springs. Georgia, my zip code is 30 months 27, and I'm very fun from here. I'm from Marietta, from Cobb County, so, I'm very familiar with Mableton, Smyrna, cop count. I mean, I've got plenty of Marietta Powder Springs. Etc, etc. So I'm going to drive from light teams of 15 to 20 25 minutes being the most but most importantly to like 15 minutes. Yeah. For sure.
 
-**Q5 — Schedule:** I'm definitely looking forward to doing this full time. Um, you know, like I said, I love kids, I love being around them, I love teaching it, you know, just being that person who kids seeing one up to just do naturally a know when I'm gonna be a mother. So I want as much experience I can get with ki...
+**Q5 — Schedule:** I'm definitely looking forward to doing this full time. Um, you know, like I said, I love kids, I love being around them, I love teaching it, you know, just being that person who kids seeing one up to just do naturally a know when I'm gonna be a mother. So I want as much experience I can get with kids, even though mind my kids would be my own experience, but it's still not too much of a difference from dealing with kids, overall style. Yeah, full-time.
 
-**Q6 — Conflict Resolution:** In the past, in the past, I've definitely did with that. With family with friends, everything I've dealt with kids, who other kids, the first thing. And the most important thing, I feel like teachers and babysitter's, or just adults down watching over children. It's patient, you have to have patience, don't go into like, you know, going to react mold, but react with patients react with just, we ac...
+**Q6 — Conflict Resolution:** In the past, in the past, I've definitely did with that. With family with friends, everything I've dealt with kids, who other kids, the first thing. And the most important thing, I feel like teachers and babysitter's, or just adults down watching over children. It's patient, you have to have patience, don't go into like, you know, going to react mold, but react with patients react with just, we actually care and see what's really going on next question.
+ Is it most importantly, give them a lecture on how this is not what we are doing. Y'all are kids far. You're hating each other while y'all angry while you're mad, you know, just relax have fun and be cool with hug it out. You know. Just remember that we are here to learn have fun you know just relax. Everything's going to be okay if he needs to go sit down, get you a little breath. Get you listening at, get your energy back right for the both of them, you know. Just see where it goes from there. But most importantly, we want everybody to be comfortable and happy and not mad angry and feeling.
+ Like, you know, at a bed, five years old, why are you what come on out.
 
-**Q7 — Why Great:** I feel like I will make a great of kid teaching, because me, just naturally, I'm a great person. I'm a very nurturing caring person, which is great for kids growing up. Like, I've had plenty of times where I didn't had kids way that me didn't even know me, run up to me and give me hugs. So I have that very energetic energy that will attract kids, you know, which is always great for a teacher deali...
+**Q7 — Why Great:** I feel like I will make a great of kid teaching, because me, just naturally, I'm a great person. I'm a very nurturing caring person, which is great for kids growing up. Like, I've had plenty of times where I didn't had kids way that me didn't even know me, run up to me and give me hugs. So I have that very energetic energy that will attract kids, you know, which is always great for a teacher dealing with kids because I only do I naturally attract kids, but I could teach them. I could talk to them. I have
+ Phone with them, I can get to know them, you know, kids are never dumb or not eat to nothing ever, very intelligent. So I will, you know, of course, take the time to not just have fun with the kids, kids was just have fun. Laugh. Get can eat snacks all day of course, that's now a going to do with definitely want some iron and have fun you know we're also going to balance everything out, but most importantly I'm just like I'll be great because I'm that's just who I am as a person. I'm a great person and I attract kids I'm very nurturing a cure.
+ And I'm also a leader in a teacher myself to myself and those around me. So imagine what a child and also feel like I would be a great mother. So why not be, why not getting the experience of being a teacher and being around kids? And most importantly, about I've already had experience with babysitting to help you find it out. So it's kind of like I don't know nothing about it, it's just somewhat more experience and I want to be able to just naturally be random kids and allow them to, you know, just be themselves t-shirt. What they need to know their age, you know, just a lot.
+ Them to be comfortable to have fun and we love school, you know? Because it gets to a point where kids don't want to be in school. So I wanted them to Forever and Always like I love school, I love school.
 
 </details>
 
 🔗 **App Account:** 🟢 Janyah Dunbar
 
 **Zendesk Summary:**
-> 03/30 Intro Call Passed. I am located in Powder Springs. Georgia, my zip code is 30 months 27, and I'm very fun from here. I'm from Marietta, from Cobb County, so, I'm very fa, 25 miles. Mix of formal and informal childcare experience. Looking for full-time.
+> 03/30 Intro Call Passed. Powder Springs, 25 miles. daycare experience. Worked with infants, preschool-age. Looking for full-time.
 
 ---
 
 ### #230 — 🟡 FLAG (MEDIUM) — Sarah Roy
 
-📧 sarahjean_85225@yahoo.com | 📱 (408) 603-4128 | 📍 Arizona
+📧 sarahjean_85225@yahoo.com | 📱 (408) 603-4128 | 📍 Gilbert Arizona
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
-**Experience:** Formal
-**Location:** I live in Gilbert Arizona, my zip code is 85 296, I would be willing to travel 10 to 15 miles of my radius and again my shift time would be afternoon availability at this time.
-**Schedule:** Again, I have shared this previously, I would be available in the afternoons Monday through Friday, and it would probably be anywhere from 12:30 to 1:00 all the way up until 6 p.m. in the evening. If it would be in childcare, I know sometimes you hav...
+**Experience:** Formal — kindergarten, elementary school. Ages: school-age
+**Location:** Gilbert Arizona, 10-15 miles
+**Schedule:** flexible (afternoons/evenings)
 
-**Summary:** Sarah has formal childcare experience (kindergarten). Conflict resolution answer shows awareness of de-escalation techniques.
+**Summary:** Sarah needs Erica's review — arizona requires 6mo formal — duration unclear from transcript.
 
 **Red Flags:** None
 
@@ -9045,32 +9392,32 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Q6 — Conflict Resolution:** With much conflict. I would first apply positive redirection with students that are perhaps hitting or causing A disruption. There would be a positive redirection as much as possible if a child needs to be separated from a group because of
  A fitting incident than that, may be necessary. There would also be a
- Perhaps talking with the child and the child's parents, as well as the situation being p...
+ Perhaps talking with the child and the child's parents, as well as the situation being perhaps, the director for the principal of the school may need to step in as well.
 
 **Q7 — Why Great:** I believe that I would make a good substitute teacher at this time. As I have many years experience working in early childhood development, I have for the last 25 years or 10, first grade and kindergarten classrooms as well as iPad experience in preschool and daycare settings as well. My field
- old of the study was elementary education, as well as Christian education in my Master's Degree and I ha...
+ old of the study was elementary education, as well as Christian education in my Master's Degree and I have had many years of teacher development as well as classes that relate to this. And I have been able to put these to practice within a classroom.
 
 </details>
 
 🔗 **App Account:** 🟢 Sarah Roy
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. I live in Gilbert Arizona, my zip code is 85 296, I would be willing to travel 10 to 15 miles of my radius and again my shift time would be afternoon , 10-15 miles. kindergarten experience. Looking for available.
+> 03/30 Intro Call Passed. Gilbert Arizona, 10-15 miles. kindergarten, elementary school experience. Worked with school-age. Looking for flexible (afternoons/evenings).
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. I live in Gilbert Arizona, my zip code is 85 296, I would be willing to travel 10 to 15 miles of my radius and again my shift time would be afternoon . Arizona requires 6mo formal — duration unclear from transcript.
+> 03/30 Not Hiring — Intro Call. Gilbert Arizona. Arizona requires 6mo formal — duration unclear from transcript.
 
 ---
 
 ### #231 — 🟡 FLAG (LOW) — Brian Walton
 
-📧 brian@upkid.com | 📱 (385) 219-6246 | 📍 Utah
+📧 brian@upkid.com | 📱 (385) 219-6246 | 📍 Still just testing
 Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 
 **Experience:** None
-**Location:** Still just testing.
-**Schedule:** Testing.
+**Location:** Still just testing
+**Schedule:** flexible
 
-**Summary:** Brian does not appear to have childcare experience based on the transcript. No childcare experience is a concern regardless of market.
+**Summary:** Brian needs Erica's review — no childcare experience detected in transcript.
 
 **🚩 Red Flags:**
 - Identity mismatch: phone: VA=+13852196246 APP=None
@@ -9100,9 +9447,9 @@ Questions: 5/5 — Q3 ✅ Q4 ✅ Q5 ✅ Q6 ✅ Q7 ✅
 ⚠️ phone: VA=+13852196246 APP=None
 
 **Zendesk Summary (if approved):**
-> 03/30 Intro Call Passed. Still just testing.. Experience details not available. Looking for available.
+> 03/30 Intro Call Passed. Still just testing. Childcare experience (details in interview). Looking for flexible.
 **Zendesk Summary (if denied):**
-> 03/30 Not Hiring — Intro Call. Still just testing.. No childcare experience detected in transcript.
+> 03/30 Not Hiring — Intro Call. Still just testing. No childcare experience detected in transcript.
 
 ---
 
@@ -9248,6 +9595,7 @@ These teachers have already been marked as interviewed in the app. No action nee
 | 133 | Maddie | maddiebender25@gmail.com | 2026-03-10 | georgia | INTERVIEWED |
 
 ---
+
 
 
 
