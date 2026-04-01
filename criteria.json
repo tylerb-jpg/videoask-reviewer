@@ -1,0 +1,252 @@
+{
+  "version": 2,
+  "updated_at": "2026-03-31",
+  "approve_high": {
+    "description": "Auto-approve with HIGH confidence",
+    "rules": [
+      "Has formal childcare experience (daycare, preschool, classroom teacher, para, substitute, afterschool, Head Start, camp counselor) in any amount",
+      "Located in Utah, Georgia, or Arizona (confirmed by stated location or phone area code)",
+      "Available part-time or full-time",
+      "Willing to drive any reasonable distance",
+      "Completed all VideoAsk questions with substantive answers"
+    ]
+  },
+  "approve_medium": {
+    "description": "Approve with MEDIUM confidence \u2014 Erica should glance",
+    "rules": [
+      "Has formal childcare experience but limited (less than 1 year)",
+      "Located in-market but in a less-served area",
+      "Mixed experience (some formal, some informal)",
+      "Schedule has some constraints but generally available"
+    ]
+  },
+  "flag": {
+    "description": "FLAG for Erica's review \u2014 needs human judgment",
+    "rules": [
+      "Only informal experience (babysitting, nannying, own children \u2014 no formal setting)",
+      "Location unclear or borderline",
+      "Short-term availability (summer only, leaving area)",
+      "Relocating to the area (not there yet)",
+      "Very brief or garbled transcript responses",
+      "Conflict resolution answer raises concerns",
+      "Under-25 with minimal experience",
+      "Out-of-market area code but claims to be in-market",
+      "Arizona candidate with less than 6 months formal experience",
+      "Arizona candidate whose only experience is nannying (does not count as professional experience per AZ regulations — must be child care center, daycare, or preschool)",
+      "Candidate claims experience but gives no specifics \u2014 no employer name, no setting, no concrete details (vague experience)"
+    ]
+  },
+  "never_auto_deny": {
+    "description": "NEVER auto-deny \u2014 always FLAG for human decision",
+    "note": "Denials trigger rejection email + text to teacher. Non-reversible. All denials are human decisions.",
+    "flag_instead": [
+      "No childcare experience at all",
+      "Clearly out of market (different state, no plans to move)",
+      "Under 18 / still in high school",
+      "Mentions inability to pass background check",
+      "Major red flags in conflict resolution answer"
+    ]
+  },
+  "market_rules": {
+    "utah": {
+      "min_experience": "Lenient \u2014 babysitting may qualify",
+      "notes": "Broader acceptance of informal experience"
+    },
+    "georgia": {
+      "min_experience": "Moderate \u2014 prefer formal experience",
+      "notes": "1 year formal daycare is sufficient"
+    },
+    "arizona": {
+      "min_experience": "Strict \u2014 6 months in a child care center, daycare, or preschool required",
+      "notes": "State DHS licensing requirements. Nannying is NOT considered professional experience per AZ regulations. Must be center-based (child care center, daycare, preschool). No babysitting, nannying, or informal care.",
+      "qualifying_settings": ["child care center", "daycare", "preschool"],
+      "does_not_qualify": ["nannying", "babysitting", "own children", "family care"]
+    }
+  },
+  "erica_custom_rules": [
+    {
+      "added": "2026-03-31",
+      "rule": "Arizona candidates must have specifically worked in a child care center, daycare, or preschool to be approved. Nannying is NOT considered professional experience per AZ regulations. This is AZ-specific only.",
+      "source": "Erica via Slack"
+    }
+  ],
+  "placement_flags": {
+    "male_candidates": {
+      "description": "Flag male candidates for placement consideration",
+      "note": "Many childcare centers have gender-based placement policies. Male candidates are not auto-denied but flagged so Erica can factor center preferences into her decision.",
+      "action": "Add \ud83d\udc68 flag to Red Flags column. Erica decides based on available center placements."
+    }
+  },
+  "evaluation_examples": {
+    "description": "Real examples of good vs bad candidates from the 2026-03-30 batch. Use these to calibrate evaluations.",
+    "strong_approve": [
+      {
+        "name": "Chelsea Veal",
+        "market": "georgia",
+        "why": "Bachelor's in ECE (2020), master's in ECE (2023), pursuing ECE specialist degree. Currently a full-time teacher. Three ECE degrees = massively overqualified.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Shana Birchfield",
+        "market": "georgia",
+        "why": "20 years higher education + 5 years elementary. Supply teacher and permanent substitute in Marietta City School District. Overqualified.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Linda Arnold",
+        "market": "utah",
+        "why": "10+ years daycare + 3 years 2nd grade teaching + additional grades. Retired educator. Massively overqualified.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Mia Bland",
+        "market": "arizona",
+        "why": "8+ years ABA behavioral technician (18mo-17yr, clinic/home/school) + 3 years instructional aide. Easily exceeds Arizona's strict 6-month bar.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Kendra Jones",
+        "market": "georgia",
+        "why": "10 years early childhood education + 14 years medical field + currently Boys & Girls Club team coordinator in Lawrenceville.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Oyanioye Eke",
+        "market": "georgia",
+        "why": "Literally grew up in a daycare. 4+ years hands-on experience with all ages up to 14. Jonesboro, GA. Full-time.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Terri Abrams",
+        "market": "georgia",
+        "why": "37 years in childcare. Head Start center director, Early Head Start director, afterschool coordinator, classroom teacher. Exceptional \u2014 only answered Q3 but that's enough.",
+        "rec": "APPROVE HIGH (despite only 1/5 questions)"
+      }
+    ],
+    "solid_approve": [
+      {
+        "name": "Keyonna Anthony",
+        "market": "georgia",
+        "why": "Multiple daycares and preschools (infants through preschool), pursuing elementary education degree. In-market south Atlanta. 10-15mi drive.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Makiya Meredith",
+        "market": "georgia",
+        "why": "4 years early childcare at 2 daycares (1.5yr at one, 2+ years at Pride & Joy). Studying elementary education. Conyers, GA.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Brian Long",
+        "market": "georgia",
+        "why": "Head Start school \u2014 started as floater, worked up to TA, worked with autistic kids ages 3-5. Augusta, GA. \ud83d\udc68 Male but strong formal experience.",
+        "rec": "APPROVE HIGH"
+      },
+      {
+        "name": "Deyanira Szymanski",
+        "market": "arizona",
+        "why": "10 years experience ages 3 through 6th grade, bilingual English/Spanish, field trip experience. Queen Creek, AZ. Easily meets AZ bar.",
+        "rec": "APPROVE HIGH"
+      }
+    ],
+    "judgment_calls_flag": [
+      {
+        "name": "Breanna McGee",
+        "market": "georgia",
+        "why": "Nursing student with years of babysitting since age 12, but NO formal childcare setting. Healthcare background shows responsibility. Georgia prefers formal.",
+        "rec": "FLAG MEDIUM",
+        "note": "Erica might approve based on nursing/healthcare maturity or deny based on no formal setting"
+      },
+      {
+        "name": "Angel Mills",
+        "market": "georgia",
+        "why": "Explicitly says 'I do not currently have any previous childcare experience.' Has healthcare training (medical admin, nurse's aide). Only answered 1/5 questions.",
+        "rec": "FLAG LOW",
+        "note": "No childcare experience + healthcare pivot. Most likely a deny but Erica decides."
+      },
+      {
+        "name": "Jaiden Aliff",
+        "market": "georgia",
+        "why": "7 years as a professional nanny, Mercer University grad. Extensive but technically informal. Georgia prefers formal.",
+        "rec": "FLAG MEDIUM",
+        "note": "7 years of nannying is significant \u2014 Erica might treat professional nannying as formal enough"
+      },
+      {
+        "name": "Jessica Grant",
+        "market": "georgia",
+        "why": "Claims 8+ years caring for 20+ children ages 2mo-8yr, but describes it as 'babysitting and raising a child of my own.' Extensive volume but informal.",
+        "rec": "FLAG MEDIUM",
+        "note": "The volume (8yr, 20+ kids) is notable even if informal"
+      }
+    ],
+    "clear_flags_likely_deny": [
+      {
+        "name": "Drue Coats",
+        "market": "arizona",
+        "why": "Out of work for almost a year, says childcare is 'something kind of fun' and 'new to me.' Zero childcare experience. Arizona requires 6mo formal.",
+        "rec": "FLAG LOW"
+      },
+      {
+        "name": "Jarvis Frazier",
+        "market": "georgia",
+        "why": "24, in police academy, looking for part-time side job. Zero childcare experience mentioned. \ud83d\udc68 Male.",
+        "rec": "FLAG LOW"
+      },
+      {
+        "name": "Naeja Ellis",
+        "market": "georgia",
+        "why": "Q3: 'Maybe I might. Do I want to work?' \u2014 barely coherent, low effort. Not a serious candidate.",
+        "rec": "FLAG LOW (skip)"
+      },
+      {
+        "name": "Hermelind Aguilar",
+        "market": "arizona",
+        "why": "No childcare experience, just has a 16-month-old daughter. Arizona requires 6mo formal \u2014 having your own toddler doesn't count.",
+        "rec": "FLAG HIGH (likely deny)"
+      }
+    ],
+    "data_insufficient": [
+      {
+        "name": "Eila Nambiar",
+        "why": "Zero transcripts \u2014 didn't answer any content questions. Can't evaluate.",
+        "rec": "FLAG LOW \u2014 watch video or skip"
+      },
+      {
+        "name": "Chalika Oliver",
+        "why": "No Q3 transcript, Q4/Q5 are one line each. No experience data.",
+        "rec": "FLAG LOW \u2014 skip"
+      },
+      {
+        "name": "Nyla Laws",
+        "why": "Q3 is 'Testing testing 123, can you hear me?' \u2014 not a real answer.",
+        "rec": "FLAG LOW \u2014 watch video"
+      }
+    ],
+    "arizona_specific": {
+      "note": "Arizona is the strictest market \u2014 must have worked in a child care center, daycare, or preschool. Nannying does NOT count per AZ regulations.",
+      "auto_approve": "Has 6+ months specifically in a child care center, daycare, or preschool",
+      "needs_verification": "Claims center experience but duration unclear, or has education degree but unclear if practicum hours count",
+      "likely_deny": "Only informal (babysitting, nannying, own kids, family). Nannying is explicitly not professional experience in AZ. No exceptions unless Erica overrides.",
+      "qualifying": ["child care center", "daycare", "preschool"],
+      "does_not_qualify": ["nannying", "nanny (even through agency)", "babysitting", "own children", "family care"],
+      "edge_cases": [
+        "Education internship/practicum in a school/center = may count (structured classroom hours)",
+        "Swim instructor / dance teacher = FLAG \u2014 Erica decides (not a childcare center)",
+        "Church Sunday school = FLAG \u2014 Erica decides (not a licensed center)",
+        "School aide / paraprofessional in a school = FLAG \u2014 Erica decides (school, not childcare center)"
+      ]
+    },
+    "georgia_specific": {
+      "note": "Georgia is moderate \u2014 prefers formal experience but not as strict as Arizona",
+      "auto_approve": "Any amount of formal childcare (daycare, school, camp, afterschool program)",
+      "judgment_call": "Extensive informal (5+ years babysitting/nannying), or mix of informal + education major",
+      "likely_flag": "Only babysitting/family care with no professional setting"
+    },
+    "utah_specific": {
+      "note": "Utah is the most lenient \u2014 babysitting and family care can qualify",
+      "auto_approve": "Pretty much anyone with childcare experience of any kind",
+      "judgment_call": "Zero experience at all (no kids, no babysitting, nothing)",
+      "rarely_flag": "Utah almost never flags unless the person has literally zero interaction with children"
+    }
+  }
+}

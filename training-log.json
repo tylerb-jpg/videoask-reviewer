@@ -1,0 +1,44 @@
+{
+  "reviews": [
+    {
+      "date": "2026-03-31",
+      "candidate": "Aiyanna Martin",
+      "row": 209,
+      "ai_recommendation": "APPROVE LOW",
+      "erica_decision": "DENY",
+      "reason": "Lack of explanation of experience \u2014 claims to love kids and mentions classroom but never names employer, setting, or gives concrete details. Vague experience is not enough.",
+      "lesson": "When transcript is vague about experience (no employer, no setting, no specifics), FLAG instead of approving. Vague claims are not evidence of formal experience.",
+      "source": "Tyler relaying Erica feedback"
+    },
+    {
+      "date": "2026-03-31",
+      "candidate": "Anca (popelizabeth2007@gmail.com)",
+      "row": 199,
+      "ai_recommendation": "FLAG LOW",
+      "erica_decision": "DENY",
+      "reason": "Only answered 1 question. Only experience is Sunday school (informal, older kids). Erica wants denial notes to explain WHY \u2014 not just generic location.",
+      "lesson": "Denial notes should include the specific reason for denial, not just city/state. Sunday school alone is informal experience with older kids \u2014 not sufficient for Georgia.",
+      "source": "Erica direct feedback in Slack"
+    }
+  ],
+  "criteria_updates": [
+    {
+      "date": "2026-03-31",
+      "rule": "Flag candidates who claim experience but give no specifics (no employer, no setting, no concrete details)",
+      "source": "Erica feedback on Aiyanna Martin"
+    },
+    {
+      "date": "2026-03-31",
+      "rule": "Denial notes must include specific reason (e.g. \"only teaching Sunday school\") \u2014 not just location",
+      "source": "Erica feedback on Anca/popelizabeth2007"
+    }
+  ],
+  "stats": {
+    "total_reviews": 2,
+    "ai_agree_rate": null,
+    "overrides": 2,
+    "edits": 0,
+    "skips": 0,
+    "escalations": 0
+  }
+}

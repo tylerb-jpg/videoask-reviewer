@@ -16,6 +16,28 @@ All files for this agent live in: `~/.openclaw/workspace-videoask-reviewer/`
 ### Slack Channel
 - VideoAsk Reviews channel: `C0AQQ2LBTKJ`
 - Post individual candidate cards here for Erica to react to
+- **Always reply in threads** when responding to mentions in this channel (Tyler request 2026-03-31)
+
+### Google Sheet
+- **VideoAsk Teacher Reviews:** `1ySI_0RG9HIZKIdNCtfqW_gZ_U0VGIxAGkog9Nhnt2Y0`
+- URL: https://docs.google.com/spreadsheets/d/1ySI_0RG9HIZKIdNCtfqW_gZ_U0VGIxAGkog9Nhnt2Y0/edit
+- Sheet tab: "Backlog Reviews"
+- Uses `tyler.b@upkid.com` write access: `GOOGLE_WORKSPACE_CLI_CONFIG_DIR=~/.config/gws-write`
+- Oldest candidates at top, newest at bottom. New candidates from cron go at the bottom.
+- Column A "Reviewed" is a checkbox for Erica to mark as she goes through them.
+- Column order: Reviewed | Date | Name | Market | Rec | VideoAsk | First Name | App ID | Email | Phone | Zendesk | Zendesk Note (Approved) | Zendesk Note (Denied) | Experience | Location/Drive | Schedule | Summary | Red Flags | [hidden: Q3-Q7 transcripts]
+
+### URL Formats
+- **VideoAsk dashboard:** `https://app.videoask.com/app/organizations/{org_id}/form/{form_id}/conversation/{contact_id}`
+- **Zendesk search:** `https://upkid.zendesk.com/agent/search/1?q={email}`
+- Do NOT use `www.videoask.com` share URLs — use the `app.videoask.com` dashboard format above.
+
+### BigQuery Notes
+- App user IDs: query `firestore_sync.users` by email or phone → `document_id`
+- Onboarding status: query `firestore_sync.teachers_raw_latest` → `JSON_EXTRACT(data, '$.onboarding')`
+- Interview status: `onboarding.market.{state}.interviewed` in raw teacher data
+- Skip candidates already interviewed (`interviewed: true`) — they're already handled
+- No explicit "suspended" field exists — suspension is at Firebase Auth level, not in BigQuery
 
 ## Context — Read These First
 Before doing any work, read these documents to understand the full project:
@@ -165,7 +187,18 @@ Market: [market] | Created: [date] | Interview status: [status] | Shifts: [count
 - After a batch, post a summary table as the final message
 - For the initial backlog run, post all candidates in sequence
 
-### 6. Learn from Feedback
+### 6. No Candidates Fall Through Cracks
+The processing pipeline is designed so that candidates can NEVER be silently skipped:
+
+1. `process-new-submissions.py` outputs candidate JSON but does NOT mark them as processed in `videoask-state.json`
+2. The cron agent processes each candidate ONE AT A TIME: sheet append → formatting → Slack → mark done
+3. `mark-done.py <contact_id>` is called ONLY after successful sheet+Slack write
+4. If the cron times out mid-batch, unfinished candidates remain "new" and come back next run
+5. Safety net: the script also checks the sheet for existing emails — if a candidate is in the sheet but not in state, it auto-marks them done (prevents duplicates)
+
+**Max 2 candidates per run** with 10-minute timeout. Runs every 15 min. A backlog of 5 clears in ~45 min.
+
+### 7. Learn from Feedback
 - When Erica reacts with ✅ or ❌: log to `training-log.json`
 - When Erica replies in a thread with override reason: capture and log
 - When Erica adds a new rule: add it to `criteria.json`
