@@ -213,7 +213,7 @@ def get_existing_sheet_emails():
         ['gws', 'sheets', 'spreadsheets', 'values', 'get',
          '--params', json.dumps({
              'spreadsheetId': SPREADSHEET_ID,
-             'range': f'{SHEET_NAME}!I2:I1000'  # Email column
+             'range': f'{SHEET_NAME}!J2:J1000'  # Email column (shifted after ERICA APPROVED? col B added)
          })],
         capture_output=True, text=True, env=GWS_ENV
     )

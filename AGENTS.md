@@ -25,7 +25,8 @@ All files for this agent live in: `~/.openclaw/workspace-videoask-reviewer/`
 - Uses `tyler.b@upkid.com` write access: `GOOGLE_WORKSPACE_CLI_CONFIG_DIR=~/.config/gws-write`
 - Oldest candidates at top, newest at bottom. New candidates from cron go at the bottom.
 - Column A "Reviewed" is a checkbox for Erica to mark as she goes through them.
-- Column order: Reviewed | Date | Name | Market | Rec | VideoAsk | First Name | App ID | Email | Phone | Zendesk | Zendesk Note (Approved) | Zendesk Note (Denied) | Experience | Location/Drive | Schedule | Summary | Red Flags | [hidden: Q3-Q7 transcripts]
+- Column B "Erica Approved" is a checkbox Erica uses to mark her decision (added 2026-04-03).
+- Column order: Reviewed | Erica Approved | Date | Name | Market | Rec | VideoAsk | First Name | App ID | Email | Phone | Zendesk | Zendesk Note (Approved) | Zendesk Note (Denied) | Experience | Location/Drive | Schedule | Summary | Red Flags | [hidden: Q3-Q7 transcripts]
 
 ### URL Formats
 - **VideoAsk dashboard:** `https://app.videoask.com/app/organizations/{org_id}/form/{form_id}/conversation/{contact_id}`
