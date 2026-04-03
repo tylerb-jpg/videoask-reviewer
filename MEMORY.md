@@ -1,5 +1,28 @@
 # Memory — VideoAsk Reviewer Agent
 
+## Session: 2026-04-03 (Tyler, webchat)
+
+### Column Shift Fix — "Erica Approved" Column B
+- **Erica added "ERICA APPROVED?" as column B** to the Google Sheet (checkbox column).
+- This shifted ALL columns right by 1: Email went from I→J, Phone from J→K, etc.
+- **Fixed `process-new-submissions.py`**: email column reference changed from `I2:I1000` to `J2:J1000`
+- **Fixed cron job instructions**: updated all column references (A-X), checkbox validation now covers both col A and col B
+- **Updated AGENTS.md**: column order documentation updated
+
+### Audit: 154 Completed VideoAsk Contacts NOT in Sheet
+- Cross-referenced VideoAsk API (470 completed) against sheet (276 rows) → 154 completed contacts missing
+- **~139 were correctly skipped** — they were already interviewed in the app (onboardingInterviewedGeorgia/Utah = true). The initial backlog run properly excluded them.
+- **~15 have NO app account at all** (not found in BQ) — these were also correctly skipped by the initial run since they had no app account to match
+- **~3-5 genuinely fell through** — completed VideoAsk, NOT interviewed in app, but marked as processed in state file without sheet write. These are from the initial backlog window. Most notable:
+  - `briannahill06@gmail.com` (Brianna Hill) — completed 4/2, not interviewed, not in sheet
+  - `fayyza88@gmail.com` (Fayyza Khan) — completed 4/2, not interviewed, not in sheet  
+  - `vanstout1e11@gmail.com` (Vontoria Stoutamire) — completed 4/3, not interviewed, not in sheet
+- **Root cause for recent ones (briannahill06, fayyza88, vanstout1e11)**: These are NEW completions from 4/2 and 4/3. The `process-new-submissions.py` script ran and marked them in state, but the cron agent didn't finish writing to sheet/Slack. Same issue as the 4/1 token expiry incident — state marked done before sheet+Slack.
+- **Wait** — actually checked: process-new-submissions.py does NOT mark as done anymore (that was the 3/31 fix). So these should have come back. Need to verify if mark-done.py was called or if the sheet email safety net caught them on a subsequent run.
+
+### New Column Layout (as of 2026-04-03)
+A: Reviewed (checkbox) | B: Erica Approved (checkbox) | C: Date | D: Name | E: Market | F: Rec | G: VideoAsk | H: First Name | I: App ID | J: Email | K: Phone | L: Zendesk | M: Zendesk Note Approved | N: Zendesk Note Denied | O: Experience | P: Location/Drive | Q: Schedule | R: Summary | S: Red Flags | T-X: Q3-Q7 transcripts
+
 ## Session: 2026-04-01 (Tyler, webchat)
 
 ### Token Expiry Incident & Fix
