@@ -134,20 +134,40 @@ def append_row(candidate):
         
         cell_data.append(cell)
     
-    request = {
-        'requests': [{
-            'updateCells': {
-                'range': {
-                    'sheetId': 412743935,
-                    'startRowIndex': next_row - 1,
-                    'endRowIndex': next_row,
-                    'startColumnIndex': 0,
-                    'endColumnIndex': 24,
-                },
-                'rows': [{'values': cell_data}],
-                'fields': 'userEnteredValue',
+    # Set checkbox data validation on columns A and B for this row
+    # Using a single range covering both columns
+    checkbox_validation = {
+        'setDataValidation': {
+            'range': {
+                'sheetId': 412743935,
+                'startRowIndex': next_row - 1,
+                'endRowIndex': next_row,
+                'startColumnIndex': 0,
+                'endColumnIndex': 2,  # Columns A and B (0-indexed)
+            },
+            'rule': {
+                'condition': {'type': 'BOOLEAN'}
             }
-        }]
+        }
+    }
+    
+    request = {
+        'requests': [
+            checkbox_validation,
+            {
+                'updateCells': {
+                    'range': {
+                        'sheetId': 412743935,
+                        'startRowIndex': next_row - 1,
+                        'endRowIndex': next_row,
+                        'startColumnIndex': 0,
+                        'endColumnIndex': 24,
+                    },
+                    'rows': [{'values': cell_data}],
+                    'fields': 'userEnteredValue',
+                }
+            }
+        ]
     }
     
     result = subprocess.run(
