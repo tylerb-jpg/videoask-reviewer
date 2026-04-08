@@ -305,6 +305,34 @@ def extract_sched(q5):
     if any(w in q5_lower for w in ['school','class','student']): parts.append('around school')
     return ', '.join(parts)
 
+def auto_summary(q3, q7, name, exp_type):
+    """Auto-generate a 2-sentence AI summary from Q3 (experience) and Q7 (why great).
+    This is the DEFAULT — the cron model can override, but this ensures useful content.
+    """
+    # Sentence 1: Experience summary
+    if q3:
+        # Take first 2 sentences from Q3, clean up
+        sentences = q3.replace('\n', ' ').split('.')
+        sent1 = sentences[0].strip()
+        sent2 = sentences[1].strip() if len(sentences) > 1 else ''
+        # Truncate to ~120 chars
+        exp_part = sent1 + ('.' if not sent1.endswith('.') else '')
+        if sent2 and len(exp_part) < 120:
+            exp_part += ' ' + sent2 + ('.' if not sent2.endswith('.') else '')
+        exp_part = exp_part[:180]
+    else:
+        exp_part = f"{name or 'Candidate'} has childcare experience."
+
+    # Sentence 2: Why they'd be great (Q7)
+    if q7:
+        sentences = q7.replace('\n', ' ').split('.')
+        why = sentences[0].strip()
+        why = why[:150] + ('.' if not why.endswith('.') else '')
+    else:
+        why = ''
+
+    return f"{exp_part} {why}".strip()
+
 def detect_experience_type(q3):
     if not q3: return 'unknown'
     q3_lower = q3.lower()
@@ -546,6 +574,7 @@ def main():
         drive = extract_drive(transcripts.get('q4'))
         exp_str = extract_exp(transcripts.get('q3'), exp_type)
         sched_str = extract_sched(transcripts.get('q5'))
+        ai_summary = auto_summary(transcripts.get('q3'), transcripts.get('q7'), name, exp_type)
         
         # Red flags
         flags = []
@@ -591,6 +620,7 @@ def main():
             'red_flags': flags,
             'va_link': va_link,
             'zd_link': zd_link,
+            'ai_summary': ai_summary,
             'is_duplicate': is_duplicate,
             'transcripts': transcripts,
             'first_name': app_name.split()[0] if app_name and app_name != 'Not found' else name.split()[0] if name else '',
