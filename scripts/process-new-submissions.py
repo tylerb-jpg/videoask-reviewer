@@ -305,33 +305,68 @@ def extract_sched(q5):
     if any(w in q5_lower for w in ['school','class','student']): parts.append('around school')
     return ', '.join(parts)
 
-def auto_summary(q3, q7, name, exp_type):
-    """Auto-generate a 2-sentence AI summary from Q3 (experience) and Q7 (why great).
-    This is the DEFAULT — the cron model can override, but this ensures useful content.
+def clean_transcript(text):
+    """Clean up video transcription artifacts."""
+    if not text:
+        return ''
+    # Remove newlines, collapse double spaces
+    t = text.replace('\n', ' ').replace('  ', ' ')
+    # Remove common speech artifacts
+    for artifact in [' um ', ' uh ', ' like ', ' you know ', ' basically ', ' honestly ']:
+        t = t.replace(artifact, ' ')
+    return t.strip()
+
+def auto_zendesk_note(q3, q6, q7, va_date, market, city, drive, sched_str, exp_type, name):
+    """Auto-generate a Zendesk-ready note from VideoAsk transcripts.
+    Format Erica can copy-paste directly into Zendesk.
     """
-    # Sentence 1: Experience summary
+    parts = []
+    parts.append(f"{va_date} VideoAsk intro passed. {name or 'Candidate'} ({market.title()}).")
+    
+    # Experience summary (from Q3)
     if q3:
-        # Take first 2 sentences from Q3, clean up
-        sentences = q3.replace('\n', ' ').split('.')
-        sent1 = sentences[0].strip()
-        sent2 = sentences[1].strip() if len(sentences) > 1 else ''
-        # Truncate to ~120 chars
-        exp_part = sent1 + ('.' if not sent1.endswith('.') else '')
-        if sent2 and len(exp_part) < 120:
-            exp_part += ' ' + sent2 + ('.' if not sent2.endswith('.') else '')
-        exp_part = exp_part[:180]
-    else:
-        exp_part = f"{name or 'Candidate'} has childcare experience."
-
-    # Sentence 2: Why they'd be great (Q7)
+        q3_clean = clean_transcript(q3)
+        sentences = [s.strip() for s in q3_clean.split('.') if s.strip() and len(s.strip()) > 10]
+        # Take up to 3 meaningful sentences
+        exp_sentences = sentences[:3]
+        exp_text = '. '.join(exp_sentences).strip()
+        if len(exp_text) > 300:
+            exp_text = exp_text[:297] + '...'
+        if exp_text:
+            parts.append(exp_text)
+    
+    # Location
+    if city or drive:
+        loc = city
+        if drive:
+            loc = f"{loc}, {drive} drive" if loc else f"{drive} drive"
+        parts.append(f"Located in {loc}.")
+    
+    # Schedule
+    if sched_str:
+        parts.append(f"Availability: {sched_str}.")
+    
+    # Conflict resolution (from Q6) - one sentence
+    if q6:
+        q6_clean = clean_transcript(q6)
+        q6_sent = [s.strip() for s in q6_clean.split('.') if s.strip() and len(s.strip()) > 15]
+        if q6_sent:
+            cr = q6_sent[0][:200]
+            if len(q6_sent[0]) > 200:
+                cr = cr[:197] + '...'
+            parts.append(f"Conflict resolution approach: {cr}.")
+    
+    # Why they'd be a great fit (from Q7) - this is key
     if q7:
-        sentences = q7.replace('\n', ' ').split('.')
-        why = sentences[0].strip()
-        why = why[:150] + ('.' if not why.endswith('.') else '')
-    else:
-        why = ''
-
-    return f"{exp_part} {why}".strip()
+        q7_clean = clean_transcript(q7)
+        q7_sent = [s.strip() for s in q7_clean.split('.') if s.strip() and len(s.strip()) > 15]
+        why_text = '. '.join(q7_sent[:2]).strip()
+        if len(why_text) > 250:
+            why_text = why_text[:247] + '...'
+        if why_text:
+            parts.append(f"Why they'd be a great fit: {why_text}.")
+    
+    return ' '.join(parts)
 
 def detect_experience_type(q3):
     if not q3: return 'unknown'
@@ -574,7 +609,10 @@ def main():
         drive = extract_drive(transcripts.get('q4'))
         exp_str = extract_exp(transcripts.get('q3'), exp_type)
         sched_str = extract_sched(transcripts.get('q5'))
-        ai_summary = auto_summary(transcripts.get('q3'), transcripts.get('q7'), name, exp_type)
+        ai_summary = auto_zendesk_note(
+            transcripts.get('q3'), transcripts.get('q6'), transcripts.get('q7'),
+            va_date, market, city, drive, sched_str, exp_type, name
+        )
         
         # Red flags
         flags = []
