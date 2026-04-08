@@ -58,7 +58,7 @@ def append_row(candidate):
     loc_drive = candidate.get('loc_drive', '')
     exp_str = candidate.get('exp_str', '')
     sched_str = candidate.get('sched_str', '')
-    ai_summary = candidate.get('ai_summary', '')
+    zendesk_note = candidate.get('ai_summary', '')
     red_flags = ', '.join(candidate.get('red_flags', []))
     
     # Transcripts
@@ -69,14 +69,12 @@ def append_row(candidate):
     q6 = transcripts.get('q6', '')
     q7 = transcripts.get('q7', '')
     
-    # Build intro call notes
-    today = va_date or ''
-    notes_parts = [today]
+    # Short summary for column R
+    summary = f"{rec} ({conf}) — {exp_str}"
     if loc_drive:
-        notes_parts.append(loc_drive)
-    if exp_str:
-        notes_parts.append(exp_str)
-    intro_notes = ' | '.join(notes_parts)
+        summary += f" | {loc_drive}"
+    if sched_str:
+        summary += f" | {sched_str}"
     
     # Emoji for recommendation
     rec_emoji = '✅' if rec == 'APPROVE' else '🟡' if rec == 'FLAG' else '❌'
@@ -98,12 +96,12 @@ def append_row(candidate):
         email,                          # J: Email
         phone,                          # K: Phone
         f'=HYPERLINK("{zd_link}","Zendesk")',   # L: Zendesk link (formula)
-        intro_notes,                    # M: Intro call notes
-        '',                             # N: Not hiring notes (empty)
+        zendesk_note,                  # M: Zendesk Note (Approved)
+        '',                             # N: Zendesk Note (Denied)
         exp_str,                        # O: Experience
         loc_drive,                      # P: Location/drive
         sched_str,                      # Q: Schedule
-        ai_summary,                     # R: AI summary (2 sentences)
+        summary,                        # R: Summary
         red_flags,                      # S: Red flags
         q3,                             # T: Q3 transcript
         q4,                             # U: Q4 transcript
