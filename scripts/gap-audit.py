@@ -29,9 +29,7 @@ while True:
          '-H', f'organization-id: {ORG_ID}'],
         capture_output=True, text=True, timeout=30
     )
-    import re
-    cleaned = re.sub(rb'[\x00-\x08\x0b\x0c\x0e-\x1f]', b' ', result.stdout)
-    data = json.loads(cleaned)
+    data = json.loads(result.stdout)
     items = data.get('results', data.get('items', []))
     api_contacts.extend(items)
     if not data.get('next') or len(items) == 0:
