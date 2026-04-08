@@ -1,0 +1,71 @@
+{
+  "new_count": 2,
+  "candidates": [
+    {
+      "contact_id": "34a023f3-a9af-4824-b41e-4e9f65c960b6",
+      "name": "Shanel Minniss",
+      "first_name": "Shanel",
+      "email": "S.minniss@gmail.com",
+      "phone": "+16024746727",
+      "phone_formatted": "(602) 474-6727",
+      "market": "arizona",
+      "va_date": "2026-04-05",
+      "rec": "APPROVE",
+      "confidence": "MEDIUM",
+      "exp_type": "formal",
+      "exp_str": "preschool",
+      "city": "Gilbert, AZ",
+      "drive": "20mi",
+      "loc_drive": "Gilbert, AZ, 20mi",
+      "sched_str": "PT",
+      "questions_answered": 5,
+      "app_match": "\ud83d\udfe2",
+      "app_name": "Shanel Minniss",
+      "doc_id": "aPvi3ISgZzUtnkjvmvSWk5nouB52",
+      "mismatches": "",
+      "red_flags": [],
+      "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/34a023f3-a9af-4824-b41e-4e9f65c960b6",
+      "zd_link": "https://upkid.zendesk.com/agent/search/1?q=S.minniss@gmail.com",
+      "transcripts": {
+        "q3": "Hello, my name is Chanel menez. I have childcare experience. Honestly, starting way back in. Since 2009, I worked at different childcare facilities with infants Toddlers and preschool age. Most of the time though, I was, I was with the babies. I'm also certified in adult and infant first aid CPR.",
+        "q4": "So I'm located in Gilbert Arizona and just because of like, heavy traffic and stuff like that, I'd say just to make sure, you know, I'm productive. I would like to go no more than 20 minutes away at most",
+        "q5": "I am looking for a part-time, What attracted me to this position was also the fact that I am able to make my own schedule. And so I'm looking at the four and eight hour shifts typically between like Monday, Tuesdays and Wednesdays, every now, and again, I might pick up a Thursday or Friday, but usually, it'll be Monday, Tuesdays, and Wednesdays, and it'll probably start out as an 8-hour shift.",
+        "q6": "Yes, unfortunately that is a thing with children where, you know, one person might want to play with something that the other one has, you know, they're going personalities. They're learning their own dislikes and likes and stuff like that. So every now and again, there might be a little argument or disagreement between kids but for me I feel like it's the easiest just to redirect, you know, like breakdown the situation redirect.",
+        "q7": "I feel like I am a good fit as a teacher with up, kid, because not only because I have several years experience working in child care facilities and because I'm a mother but I feel like I'm a natural nurturer and I love to see, you know, our youth growing."
+      },
+      "is_duplicate": false
+    },
+    {
+      "contact_id": "127af800-ae38-4e49-af97-7492f875f32e",
+      "name": "cynthia aronson",
+      "first_name": "cynthia",
+      "email": "cindy4952@earthlink.net",
+      "phone": "+14802592005",
+      "phone_formatted": "(480) 259-2005",
+      "market": "arizona",
+      "va_date": "2026-04-05",
+      "rec": "APPROVE",
+      "confidence": "LOW",
+      "exp_type": "unclear",
+      "exp_str": "18yr; healthcare bg",
+      "city": "Arizona",
+      "drive": "",
+      "loc_drive": "Arizona",
+      "sched_str": "",
+      "questions_answered": 3,
+      "app_match": "\ud83d\udfe2",
+      "app_name": "cynthia  aronson",
+      "doc_id": "vjsMOoLnz3fFrwc7HhiGSuPFen62",
+      "mismatches": "",
+      "red_flags": [],
+      "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-8266-3c0b327dba88/conversation/127af800-ae38-4e49-af97-7492f875f32e",
+      "zd_link": "https://upkid.zendesk.com/agent/search/1?q=cindy4952@earthlink.net",
+      "transcripts": {
+        "q3": "I am current with my CPR, my first aid mines, Arizona fingerprint clearance card. I have worked in health care for over 18 years and with children also with children with autism and I'm very interested and working with up kid.",
+        "q6": "And separate them and ask them why they hit them and if they would apologize and, of course, make sure that the child wasn't heard.",
+        "q7": "The smiles, the laughter. The kids of all ages that are just curious and want to learn in my life experience. Hopefully will help them."
+      },
+      "is_duplicate": false
+    }
+  ]
+}
