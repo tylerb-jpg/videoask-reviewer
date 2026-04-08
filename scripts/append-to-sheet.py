@@ -179,9 +179,42 @@ def append_row(candidate):
     
     if result.returncode != 0 or 'error' in result.stdout.lower():
         print(f"Error appending row {next_row}: {result.stdout[:200]}", file=sys.stderr)
-        sys.exit(1)
+        return -1
     
-    print(f"Appended to row {next_row}")
+    # === Post-append verification ===
+    # Read back the row and verify it's correct before confirming
+    verify = subprocess.run(
+        ['gws', 'sheets', 'spreadsheets', 'values', 'get',
+         '--params', json.dumps({
+             'spreadsheetId': SPREADSHEET_ID,
+             'range': f'{SHEET_NAME}!A{next_row}:X{next_row}',
+         })],
+        capture_output=True, text=True, env=GWS_ENV, timeout=15
+    )
+    verified = False
+    if verify.returncode == 0:
+        vdata = json.loads(verify.stdout)
+        vrow = vdata.get('values', [[]])[0]
+        # Check: at least 15 cols, has date in C, has email in J
+        if len(vrow) >= 15 and vrow[2] and vrow[9]:
+            verified = True
+        else:
+            print(f"VERIFY FAIL row {next_row}: only {len(vrow)} cols, date=[{vrow[2] if len(vrow)>2 else '?'}], email=[{vrow[9] if len(vrow)>9 else '?'}]", file=sys.stderr)
+    else:
+        print(f"VERIFY FAIL row {next_row}: could not read back", file=sys.stderr)
+    
+    if not verified:
+        # Delete the bad row
+        subprocess.run(
+            ['gws', 'sheets', 'spreadsheets', 'batchUpdate',
+             '--params', json.dumps({'spreadsheetId': SPREADSHEET_ID}),
+             '--json', json.dumps({'requests': [{'deleteDimension': {'range': {'sheetId': 412743935, 'dimension': 'ROWS', 'startIndex': next_row - 1, 'endIndex': next_row}}}]})],
+            capture_output=True, text=True, env=GWS_ENV, timeout=15
+        )
+        print(f"VERIFY FAIL: deleted bad row {next_row}", file=sys.stderr)
+        return -1
+    
+    print(f"Appended to row {next_row} (verified)")
     return next_row
 
 
@@ -194,6 +227,9 @@ def main():
         candidate = json.load(sys.stdin)
     
     row = append_row(candidate)
+    if row == -1:
+        print(json.dumps({"status": "error", "message": "Append failed verification"}))
+        sys.exit(1)
     print(json.dumps({"status": "ok", "row": row}))
 
 

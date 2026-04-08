@@ -28,6 +28,8 @@ QUESTION_IDS = {
     'q7': '2f9acb14-72d1-474c-a559-be5df35d6dd9',
 }
 
+TRANSCRIPT_CACHE_PATH = f'{WORKSPACE}/transcript-cache.json'
+
 AREA_CODE_MARKET = {
     '801': 'utah', '385': 'utah', '435': 'utah',
     '404': 'georgia', '470': 'georgia', '678': 'georgia', '770': 'georgia',
@@ -470,22 +472,32 @@ def main():
         is_duplicate = email.lower() in existing_sheet_emails if email else False
         
         # Pull transcripts for Q3-Q7
+        # Try local cache first (much faster), fall back to API
         transcripts = {}
-        for qkey, qid in QUESTION_IDS.items():
-            # Search answers for this contact
-            data, err = va_api(
-                f'https://api.videoask.com/questions/{qid}/answers?limit=50',
-                token
-            )
-            if err:
-                continue
-            items = data.get('results', data.get('items', []))
-            for ans in items:
-                if ans.get('contact_id') == cid:
-                    t = ans.get('transcription', '')
-                    if t and t.strip():
-                        transcripts[qkey] = t.strip()
-                    break
+        if os.path.exists(TRANSCRIPT_CACHE_PATH):
+            try:
+                with open(TRANSCRIPT_CACHE_PATH) as f:
+                    tcache = json.load(f)
+                if cid in tcache:
+                    transcripts = tcache[cid]
+            except (json.JSONDecodeError, KeyError):
+                pass
+        
+        if not transcripts:
+            for qkey, qid in QUESTION_IDS.items():
+                data, err = va_api(
+                    f'https://api.videoask.com/questions/{qid}/answers?limit=50',
+                    token
+                )
+                if err:
+                    continue
+                items = data.get('results', data.get('items', []))
+                for ans in items:
+                    if ans.get('contact_id') == cid:
+                        t = ans.get('transcription', '')
+                        if t and t.strip():
+                            transcripts[qkey] = t.strip()
+                        break
         
         q_count = sum(1 for q in ['q3','q4','q5','q6','q7'] if transcripts.get(q))
         
