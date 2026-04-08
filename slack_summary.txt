@@ -1,0 +1,6 @@
+Batch processing complete — 2 candidates reviewed:
+
+| # | Name | Rec | Confidence | App Match | Key Issue |
+|---|---|---|---|---|
+| 1 | Verrie Sullivan | ✅ | HIGH | 🟢 Exact | None |
+| 2 | Aria Green | ✅ | MEDIUM | 🟢 Exact | Phone area code 808 (Hawaii) but claims UT location — verify phone contact |

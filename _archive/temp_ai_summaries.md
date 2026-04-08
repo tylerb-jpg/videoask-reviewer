@@ -1,0 +1,5 @@
+## Destiny Scott
+Destiny has 2 years of experience working with kids but her transcript is vague and incomplete. She mentions her CPR certificate expired but she can get it again. Her conflict resolution answer is practical (taking turns with toys), but she only answered 4/5 questions and didn't answer "Why Great." Georgia prefers formal experience, and her vague "working with kids" doesn't specify setting. This is a judgment call for Erica — could be approved as entry-level, but confidence is LOW due to lack of specifics.
+
+## Lyric Ransom
+Lyric is a strong candidate with formal classroom experience as a classroom aide in an inclusive undergrad setting and current research work at the Marcus Autism Center. She demonstrates excellent conflict resolution skills ("understanding the why") and shows deep understanding of child development, cultural representation, and community support. Her schedule is flexible (Tuesdays/Thursdays now, adding Wednesdays/Fridays in May). She's a clear APPROVE with HIGH confidence — exactly the type of thoughtful, experienced candidate Erica wants in Georgia.

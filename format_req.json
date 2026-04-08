@@ -1,0 +1,67 @@
+{
+  "requests": [
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 357,
+          "endRowIndex": 358,
+          "startColumnIndex": 0,
+          "endColumnIndex": 24
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "backgroundColor": {
+              "red": 1.0,
+              "green": 0.92,
+              "blue": 0.8
+            }
+          }
+        },
+        "fields": "userEnteredFormat.backgroundColor"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 357,
+          "endRowIndex": 358,
+          "startColumnIndex": 0,
+          "endColumnIndex": 1
+        },
+        "cell": {
+          "dataValidation": {
+            "condition": {
+              "type": "BOOLEAN"
+            },
+            "strict": true,
+            "showCustomUi": true
+          }
+        },
+        "fields": "dataValidation"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 357,
+          "endRowIndex": 358,
+          "startColumnIndex": 1,
+          "endColumnIndex": 2
+        },
+        "cell": {
+          "dataValidation": {
+            "condition": {
+              "type": "BOOLEAN"
+            },
+            "strict": true,
+            "showCustomUi": true
+          }
+        },
+        "fields": "dataValidation"
+      }
+    }
+  ]
+}

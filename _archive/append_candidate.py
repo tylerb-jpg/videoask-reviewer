@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+import json, subprocess, os, sys
+
+GWS_ENV = {**os.environ, 'GOOGLE_WORKSPACE_CLI_CONFIG_DIR': '/Users/tylerbot/.config/gws-write'}
+SPREADSHEET_ID = '1ySI_0RG9HIZKIdNCtfqW_gZ_U0VGIxAGkog9Nhnt2Y0'
+SHEET_NAME = 'Backlog Reviews'
+
+# Candidate 1: Whitney Wilson
+values = [
+    "FALSE",
+    "FALSE",
+    "2026-04-06",
+    "🟢 whitley wilson",
+    "UT",
+    "🟡 LOW",
+    '=HYPERLINK("https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/1d3264f9-b2f9-4f25-9f12-c415cd7417ac","▶️ Watch")',
+    "whitley",
+    "H0vVZFbnaEaKoWZRemza41qdRpF3",
+    "whitney94wilson@gmail.com",
+    "(801) 427-5657",
+    '=HYPERLINK("https://upkid.zendesk.com/agent/search/1?q=whitney94wilson@gmail.com","🔍")',
+    "04/06 Intro Call Passed. Payson, UT, 20mi. Mentions kids exp, vague. FT, PT, around school.",
+    "04/06 Not Hiring — Intro Call. Payson, UT. Transcript vague, experience unclear.",
+    "Mentions kids exp, vague",
+    "Payson, UT, 20mi",
+    "FT, PT, around school",
+    "Whitney (listed as \"whitley\" in app) has experience with her own children (son 2, daughter in school) but transcript is vague about professional childcare experience — she mentions loving children and wanting to learn more. Based in Payson, UT with 20-minute drive radius. Available part-time until May 21, then full-time after kids in daycare. Transcript quality is poor with incomplete sentences. Confidence is LOW because experience is unclear and transcript is garbled.",
+    "",
+    "I love children and would love to be able to possibly take my children and learn more about ages and things boys, do and girls do and\n All that fun stuff. My son is 2 and my daughter sudden.",
+    "I am ready to go.\n Travel about 20 minutes from Payson Utah, 846 for nope.\n It 4651 sorry.\n I think it would be a great opportunity for me.",
+    "I am available to do part-time shifts until my daughter gets out of school on May 21st. And then after that, I'm going to be putting both of them in daycare so that my can work full time.",
+    "I take both children and tell them that it's not okay to fight, or hit or bite, and then you separate them. So then they can have their space for a minute. And if they choose to go play with that,\n Other child again. Then we just notify them and let them know that it's okay to play with each other, but we've got to be home.",
+    "Anyone? I love children and I love to make them happy and teach them new things and watch. I'm surprised.\n It's amazing."
+]
+
+# Escape newlines for JSON
+for i in range(len(values)):
+    if isinstance(values[i], str):
+        values[i] = values[i].replace('\n', '\\n')
+
+body = {
+    "values": [values]
+}
+
+params = {
+    "spreadsheetId": SPREADSHEET_ID,
+    "range": f"{SHEET_NAME}!A1:Z1",
+    "valueInputOption": "USER_ENTERED"
+}
+
+cmd = [
+    'gws', 'sheets', 'spreadsheets', 'values', 'append',
+    '--params', json.dumps(params),
+    '--json', json.dumps(body)
+]
+
+print(f"Running command: {' '.join(cmd[:5])}...")
+result = subprocess.run(cmd, capture_output=True, text=True, env=GWS_ENV)
+print(f"Return code: {result.returncode}")
+if result.returncode == 0:
+    print(f"Success: {result.stdout[:200]}")
+else:
+    print(f"Error: {result.stderr[:200]}")

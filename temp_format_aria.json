@@ -1,0 +1,45 @@
+{
+  "requests": [
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 1004,
+          "endRowIndex": 1005,
+          "startColumnIndex": 0,
+          "endColumnIndex": 24
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "backgroundColor": {
+              "red": 0.92941177,
+              "green": 0.9764706,
+              "blue": 1.0
+            }
+          }
+        },
+        "fields": "userEnteredFormat.backgroundColor"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 1004,
+          "endRowIndex": 1005,
+          "startColumnIndex": 0,
+          "endColumnIndex": 2
+        },
+        "cell": {
+          "dataValidation": {
+            "condition": {
+              "type": "BOOLEAN"
+            },
+            "strict": true
+          }
+        },
+        "fields": "dataValidation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "values": [
+    [
+      "FALSE",
+      "FALSE",
+      "2026-04-06",
+      "🔴 Not found",
+      "GA",
+      "✅ HIGH",
+      "=HYPERLINK(\"https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/17a8343f-fd2b-4d88-a07d-07aae3759509\", \"▶️ Watch\")",
+      "Malaysia",
+      "",
+      "the.malaysiajanel@gmail.com",
+      "(757) 269-1385",
+      "=HYPERLINK(\"https://upkid.zendesk.com/agent/search/1?q=the.malaysiajanel%40gmail.com\", \"🔍\")",
+      "=TEXT(TODAY(),\"MM/DD\") & \" Intro Call Passed. \" & \"Sandy Springs, GA, willing to travel. 10+ years teaching and coaching children. Full-time, open availability.\"",
+      "=TEXT(TODAY(),\"MM/DD\") & \" Not Hiring — Intro Call. \" & \"Sandy Springs, GA — Virginia area code mismatch needs verification.\"",
+      "Formal childcare experience",
+      "Sandy Springs, GA, willing to travel",
+      "Full-time, open availability",
+      "Malaysia has 10+ years of teaching and coaching experience with children, showing strong formal background. She's located in Sandy Springs, Georgia (in-market) with open availability for full-time work. The Virginia area code is a minor flag but she's clearly in Georgia. Strong candidate for approval.",
+      "📞 Area code = Virginia",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

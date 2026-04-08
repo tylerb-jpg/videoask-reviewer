@@ -1,0 +1,30 @@
+{
+  "requests": [
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 412743935,
+          "startRowIndex": 361,
+          "endRowIndex": 362,
+          "startColumnIndex": 0,
+          "endColumnIndex": 2
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "backgroundColor": {
+              "red": 0.7137254901960784,
+              "green": 1,
+              "blue": 0.7450980392156863
+            }
+          },
+          "dataValidation": {
+            "condition": {
+              "type": "BOOLEAN"
+            }
+          }
+        },
+        "fields": "userEnteredFormat(backgroundColor),dataValidation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "new_count": 1,
+  "candidates": [
+    {
+      "contact_id": "d06fb2f7-a958-4d88-bb95-1c907e01f91d",
+      "name": "Briana crocker",
+      "email": "brianacrocker07@hotmail.com",
+      "phone": "+19518344387",
+      "phone_formatted": "(951) 834-4387",
+      "market": "georgia",
+      "va_date": "2026-04-06",
+      "rec": "APPROVE",
+      "confidence": "HIGH",
+      "exp_type": "formal",
+      "exp_str": "formal",
+      "city": "Georgia",
+      "drive": "",
+      "loc_drive": "Georgia",
+      "sched_str": "Flex",
+      "questions_answered": 5,
+      "app_match": "🟡",
+      "app_name": "Pending lookup",
+      "doc_id": "",
+      "mismatches": "",
+      "red_flags": [],
+      "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/d06fb2f7-a958-4d88-bb95-1c907e01f91d",
+      "zd_link": "https://upkid.zendesk.com/agent/search/1?q=brianacrocker07%40hotmail.com",
+      "is_duplicate": false,
+      "transcripts": {
+        "q3": "I have 4 years of experience working in a daycare center with infants through preschool age children. I've also worked as a preschool teacher assistant and currently I'm pursuing my degree in elementary education.",
+        "q4": "I'm located in Atlanta, Georgia and I'm willing to drive up to 25 miles.",
+        "q5": "I'm looking for part-time work around my school schedule. I have classes Monday through Thursday mornings but I'm available afternoons and weekends.",
+        "q6": "When children have conflicts, I first separate them to calm down, then I talk to each child individually to understand what happened. I help them express their feelings and find a solution together.",
+        "q7": "I would be a great Upkid teacher because I genuinely love working with children and I have the experience to handle different age groups and situations. I'm patient, caring, and always put the children's safety first."
+      },
+      "first_name": "Briana"
+    }
+  ]
+}
