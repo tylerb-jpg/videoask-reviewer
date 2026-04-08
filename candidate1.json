@@ -1,1 +1,35 @@
-{"values":[[false,false,"2026-04-08","🟢 Tyonte Mathews","georgia","✅ MEDIUM","=HYPERLINK(\"https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/3384c3a5-8580-422d-b003-72b8bc7cc2d2\",\"VideoAsk\")","Tyonte","HWxWTuybEMZa7xzSnc6KmHotFzD2","poohb48@icloud.com","(678) 748-9375","=HYPERLINK(\"https://upkid.zendesk.com/agent/search/1?q=poohb48@icloud.com\",\"Zendesk\")","INTRO CALL NOTES","","substitute; babysitter","Sandy, UT, 15-20mi","PT, around school","Tyonte brings extensive babysitting experience as the oldest of six and a clear passion for working with children. She demonstrates solid conflict resolution skills and flexible scheduling around her upcoming school commitments, making her a promising candidate for substitute teaching roles.","","Hi. My name is tan SI Matthews. I have multiple years of babysitting experience, as I am the oldest of six. I also have babysitting experience outside of the family. I've always been in. I've always enjoyed being around kids and babies. And I think I would be a great substitute teacher.","I live in Sandy Springs. Georgia. I'm willing to travel between 15 to 20 miles per hour shifts.","I'm willing to work. Part-time Monday through Friday, as of right now, I'm in the process of starting school bag. So when I start school back, I will only be available after 4:00. But as of right now, I have opened availability Monday to Friday.","If there was a conflict in the classroom between two students, and one child hit another one. I will calmly sit them down and explain to them. That hurting others is not okay and that you should keep hands feet and other objects to yourself.","I will make a great up kid teacher because I have years of experience, I've learned how to resolve conflicts between kids of all ages and I feel like I can be really great with kids."]]}
+{
+  "contact_id": "44a46600-4ee7-424d-b7bf-a90baede0c30",
+  "name": "Ashley Gunnell",
+  "email": "ashleygunnell06@gmail.com",
+  "phone": "+13852329810",
+  "phone_formatted": "(385) 232-9810",
+  "market": "utah",
+  "va_date": "2026-04-08",
+  "rec": "APPROVE",
+  "confidence": "HIGH",
+  "exp_type": "formal",
+  "exp_str": "12yr",
+  "city": "Salt Lake City, UT",
+  "drive": "",
+  "loc_drive": "Salt Lake City, UT",
+  "sched_str": "PT",
+  "questions_answered": 5,
+  "app_match": "🟢",
+  "app_name": "Ashley  Gunnell",
+  "doc_id": "F22xleGu1dXxb11l7j62UIZ9x982",
+  "mismatches": "",
+  "red_flags": [],
+  "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/44a46600-4ee7-424d-b7bf-a90baede0c30",
+  "zd_link": "https://upkid.zendesk.com/agent/search/1?q=ashleygunnell06@gmail.com",
+  "is_duplicate": false,
+  "transcripts": {
+    "q3": "Hi. This is Ashley gonal. I have 12 years experience working with infants, and I'm also experience with other ages ages 5 and younger, and also school age. I love working with children, especially babies, and infants, and toddlers. That's my favorite age to work with, but I love all children. I think there's so much fun and they everyday is different when you're working with kids. So that's why I would like to work with.\n Kids, thank you.",
+    "q4": "I live in Murray Utah which is 84 107 and I would be willing to work around Salt Lake City, Murray area Mill Creek. Maybe three to five miles from where I live. Thank you so much.",
+    "q5": "I will be needing part-time. I have another job and I work nights. So I would like to work during the day for four to six to eight hours a day. Thank you.",
+    "q6": "Yes, I have dealt with conflict with children and I just remove the children from each other. Make sure the other child is, okay, give them lots of TLC and make sure that whatever the injury is is properly handled. And then always make an incident report so the parents know exactly what happened.",
+    "q7": "I think I would make a great up kid teacher, because I'm flexible. I'm easygoing. I'm hard-working. I'm responsible and reliable, and I have a positive attitude."
+  },
+  "first_name": "Ashley",
+  "ai_summary": "Ashley brings 12 years of formal infant and toddler experience with a clear passion for early childhood education. She handles conflicts calmly by separating children, providing comfort, and documenting incidents for parents."
+}
