@@ -1,0 +1,1 @@
+{"type":"memory.recall.recorded","timestamp":"2026-04-09T22:01:46.957Z","query":"slack tool usage OpenClaw","resultCount":2,"results":[{"path":"memory/2026-04-04.md","startLine":55,"endLine":66,"score":0.744953067935624},{"path":"memory/2026-04-03.md","startLine":42,"endLine":61,"score":0.7007384811073254}]}

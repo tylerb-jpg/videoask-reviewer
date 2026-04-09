@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09T22:01:46.957Z",
+  "entries": {
+    "memory:memory/2026-04-04.md:55:66": {
+      "key": "memory:memory/2026-04-04.md:55:66",
+      "path": "memory/2026-04-04.md",
+      "startLine": 55,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "- **ZD Notes field selector:** Target `el.previousElementSibling.textContent.trim() === 'Notes'` — NOT the first visible contenteditable. - **Close all ZD tabs** after each candidate: `document.querySelectorAll('button[aria-label=\"Close this tab\"]').forEach(b => b.click())` - **Tyler preference:** Skip discrepancies, flag them, come back later. Don't get stuck searching for mismatched accounts. ### Session Timing - Started: 08:13 MDT - Tyler logged into ZD + Retool in OpenClaw browser - ZD session had expired overnight — Tyler re-logged in - Retool stayed logged in from previous session - Tyler stepped away multiple times; told me to keep grinding - Processing rate: ~3-4 min per candidate (",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.744953067935624,
+      "maxScore": 0.744953067935624,
+      "firstRecalledAt": "2026-04-09T22:01:46.957Z",
+      "lastRecalledAt": "2026-04-09T22:01:46.957Z",
+      "queryHashes": [
+        "200ea05ca4ac"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "document.queryselectorall",
+        "aria-label",
+        "b.click",
+        "re-logged",
+        "3-4",
+        "field",
+        "selector",
+        "target"
+      ]
+    },
+    "memory:memory/2026-04-03.md:42:61": {
+      "key": "memory:memory/2026-04-03.md:42:61",
+      "path": "memory/2026-04-03.md",
+      "startLine": 42,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "- The correct state tab (UT/GA/AZ) should already be selected - Check the **Interviewed** checkbox - Auto-saves on check ### Test Candidates Completed - **Lily Yocca** (lily.yocca@gmail.com) — Tyler did this one manually as demo. GA market. Zendesk + Retool both done. - **Piper Black** (piperblack2@icloud.com) — I did this one with Tyler watching. - Zendesk: Teacher Status → \"Intro Call - Passed\" ✅, Notes pasted ✅, confirmed saved after refresh ✅ - Retool: Found via App ID `Up48BjkxAFgue9MmdomdX7eS3fc2` ✅, View opened ✅, Utah tab selected ✅ - Retool interviewed checkbox: was about to scroll down to find it when session compacted ### Browser Setup Notes - Using OpenClaw manag",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7007384811073254,
+      "maxScore": 0.7007384811073254,
+      "firstRecalledAt": "2026-04-09T22:01:46.957Z",
+      "lastRecalledAt": "2026-04-09T22:01:46.957Z",
+      "queryHashes": [
+        "200ea05ca4ac"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "ut/ga/az",
+        "auto-saves",
+        "lily.yocca",
+        "gmail.com",
+        "icloud.com",
+        "the",
+        "correct",
+        "state"
+      ]
+    }
+  }
+}
