@@ -1,0 +1,42 @@
+{
+  "new_count": 1,
+  "total_checked": 722,
+  "candidates": [
+    {
+      "contact_id": "02c94078-0c9a-48fe-9630-4a2c92250d1f",
+      "name": "Katie George",
+      "email": "katieg2003@outlook.com",
+      "phone": "+13854982406",
+      "phone_formatted": "(385) 498-2406",
+      "market": "utah",
+      "va_date": "2026-04-12",
+      "rec": "APPROVE",
+      "confidence": "HIGH",
+      "exp_type": "formal",
+      "exp_str": "7yr; preschool; elementary; education student",
+      "city": "Pleasant, Grove Utah",
+      "drive": "15mi",
+      "loc_drive": "Pleasant, Grove Utah, 15mi",
+      "sched_str": "FT, PT",
+      "questions_answered": 5,
+      "app_match": "\ud83d\udfe2",
+      "app_name": "Katie George",
+      "doc_id": "zezdNqKOMbUnABpqbJyFBMNsIWH3",
+      "mismatches": "",
+      "red_flags": [],
+      "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/02c94078-0c9a-48fe-9630-4a2c92250d1f",
+      "zd_link": "https://upkid.zendesk.com/agent/search/1?q=katieg2003@outlook.com",
+      "ai_summary": "Katie George is a certified Utah teacher with 14 years of lead teaching experience, specializing in early childhood and elementary education. She is available full-time or part-time within a 15-mile radius of Pleasant Grove, Utah, and employs a restorative approach to conflict resolution.",
+      "is_duplicate": false,
+      "transcripts": {
+        "q3": "Hi, my name is Katie George. I'm a certified teacher for the state of Utah. I have a bachelor's degree in elementary education and the dual major in early childhood education. I predominantly work with children between the ages of 3, to 7 years old. And I especially enjoy working with preschool age children because it's such a critical stage of development. And it's such a pleasure to make learning fun, and meaningful for them and see student grow academically. And personally,",
+        "q4": "I live in Pleasant, Grove Utah, and I'm willing to travel about 15 miles each day.",
+        "q5": "I'm open to part-time or full-time. I'm available Monday through Friday, from about 8, a.m. to 5 p.m.",
+        "q6": "In regard to two children fighting with one another, I would immediately intervene and talk to them about why their behavior was unacceptable and the importance of kindness and respect. I would help the students self-regulate and explain that it's important to take time to calm down and come back to talk about what happened and find their own solutions. To the problem, I would be sure to acknowledge any efforts that were made and use positive reinforcement.",
+        "q7": "I have 14 years of experience working as a lead teacher at Early Learning Essentials formerly known as Head. Start, I taught kindergarten for a year and I feel comfortable and confident working with preschool age children, and Phil, I'd be a good asset to the team."
+      },
+      "first_name": "Katie"
+    }
+  ],
+  "pending_match_count": 1
+}
