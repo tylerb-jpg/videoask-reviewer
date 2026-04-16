@@ -1,0 +1,31 @@
+{
+  "contact_id": "ad3377da-5ea2-4cad-8065-92f774ddee72",
+  "name": "Bessie Hightower",
+  "email": "bessiehightower@icloud.com",
+  "phone": "+16789396070",
+  "phone_formatted": "(678) 939-6070",
+  "market": "georgia",
+  "va_date": "2026-04-16",
+  "rec": "FLAG",
+  "confidence": "LOW",
+  "exp_type": "unknown",
+  "exp_str": "No transcript",
+  "city": "Meijer",
+  "drive": "",
+  "loc_drive": "Meijer",
+  "sched_str": "",
+  "questions_answered": 1,
+  "app_match": "🟢",
+  "app_name": "Bessie  Hightower ",
+  "doc_id": "FkUFXakQomdmRJQB7mJufELe9ue2",
+  "mismatches": "",
+  "red_flags": [],
+  "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/ad3377da-5ea2-4cad-8065-92f774ddee72",
+  "zd_link": "https://upkid.zendesk.com/agent/search/1?q=bessiehightower@icloud.com",
+  "ai_summary": "Bessie Hightower from Georgia completed the VideoAsk intro on 2026-04-16. She is located in Meijer but provided no transcript details.",
+  "is_duplicate": false,
+  "transcripts": {
+    "q4": "Meijer."
+  },
+  "first_name": "Bessie"
+}
