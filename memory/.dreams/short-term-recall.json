@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T23:30:35.785Z",
+  "updatedAt": "2026-04-16T14:33:32.259Z",
   "entries": {
     "memory:memory/2026-04-04.md:55:66": {
       "key": "memory:memory/2026-04-04.md:55:66",
@@ -71,18 +71,20 @@
       "endLine": 48,
       "source": "memory",
       "snippet": "- `briannahill06@gmail.com` (Brianna Hill) — completed 4/2 - `fayyza88@gmail.com` (Fayyza Khan) — completed 4/2 - `vanstout1e11@gmail.com` (Vontoria Stoutamire) — completed 4/3 - Removed these 3 from `videoask-state.json` processed list so cron will re-process them ## Approval Workflow — Phase 2 Training (Browser-Based) Tyler wants to train me to process Erica-approved candidates end-to-end: Zendesk + Retool updates. ### Workflow Spec (documented in `docs/approval-workflow-spec.md`) For each Erica-approved candidate: 1. **Sheet** → Get email (col J), App ID (col I), Zendesk approved note (col M) 2. **Zendesk** (upkid.zendesk.com/agent): - Search by email (Cmd+K or search icon)",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7347355412805119,
-      "maxScore": 0.7347355412805119,
+      "totalScore": 1.697426485301728,
+      "maxScore": 0.9626909440212161,
       "firstRecalledAt": "2026-04-09T23:30:35.785Z",
-      "lastRecalledAt": "2026-04-09T23:30:35.785Z",
+      "lastRecalledAt": "2026-04-16T14:33:32.259Z",
       "queryHashes": [
-        "0c969b6c7f7e"
+        "0c969b6c7f7e",
+        "c7ff635bdd17"
       ],
       "recallDays": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-16"
       ],
       "conceptTags": [
         "gmail.com",
@@ -102,18 +104,20 @@
       "endLine": 25,
       "source": "memory",
       "snippet": "# Memory — 2026-04-03 ## Column Shift Fix — \"Erica Approved\" Column B - Erica added \"ERICA APPROVED?\" as column B to the Google Sheet (checkbox column) - All columns shifted right by 1: Email I→J, Phone J→K, App ID H→I, etc. - Fixed `process-new-submissions.py`: email column reference `I2:I1000` → `J2:J1000` - Fixed cron job instructions: full column layout updated A-X, checkbox validation now covers col A + col B - Updated AGENTS.md column order documentation ### New Column Layout (as of 2026-04-03) A: Reviewed | B: Erica Approved | C: Date | D: Name | E: Market | F: Rec | G: VideoAsk | H: First Name | I: App ID | J: Email | K: Phone | L: Zendesk | M: Zendesk Note Approved | N: Zendesk No",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.5348113865510028,
-      "maxScore": 0.5348113865510028,
+      "totalScore": 1.4965755497308053,
+      "maxScore": 0.9617641631798026,
       "firstRecalledAt": "2026-04-09T23:30:35.785Z",
-      "lastRecalledAt": "2026-04-09T23:30:35.785Z",
+      "lastRecalledAt": "2026-04-16T14:33:32.259Z",
       "queryHashes": [
-        "0c969b6c7f7e"
+        "0c969b6c7f7e",
+        "c7ff635bdd17"
       ],
       "recallDays": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-16"
       ],
       "conceptTags": [
         "process-new-submissions.py",
