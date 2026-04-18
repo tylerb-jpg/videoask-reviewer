@@ -1,0 +1,33 @@
+{
+  "contact_id": "94cd64cf-9eb8-4d34-9bfc-f2d3b0a8ca67",
+  "name": "Laquita Wooten",
+  "email": "laquitawooten04@gmail.com",
+  "phone": "+14045136471",
+  "phone_formatted": "(404) 513-6471",
+  "market": "georgia",
+  "va_date": "2026-04-18",
+  "rec": "APPROVE",
+  "confidence": "LOW",
+  "exp_type": "unclear",
+  "exp_str": "Mentions kids exp, vague",
+  "city": "Atlanta, GA",
+  "drive": "10-15mi",
+  "loc_drive": "Atlanta, GA, 10-15mi",
+  "sched_str": "FT, PT",
+  "questions_answered": 3,
+  "app_match": "🟢",
+  "app_name": "Laquita Wooten",
+  "doc_id": "rhmxbUgyeeRr5lv1yFLVJOb0Ze83",
+  "mismatches": "",
+  "red_flags": [],
+  "va_link": "https://app.videoask.com/app/organizations/3f29b255-68a4-45c3-9cf7-883383e01bcc/form/c44b53b4-ec5e-4da7-8266-3c0b327dba88/conversation/94cd64cf-9eb8-4d34-9bfc-f2d3b0a8ca67",
+  "zd_link": "https://upkid.zendesk.com/agent/search/1?q=laquitawooten04@gmail.com",
+  "ai_summary": "Laquita Wooten is a stay-at-home mom of a two-year-old and eight-month-old with a passion for working with children. She is located in Atlanta, GA and available for both full-time and part-time positions, willing to travel up to 15 miles.",
+  "is_duplicate": false,
+  "transcripts": {
+    "q3": "Hello, my name is repeatable in. I'm a mom to a two-year-old and eight-month-old. I've always loved kids. I've been a stay-at-home mom for the last two years, and I want to expand and venture out. I want to work around kids, the idea of being able to help and give kids what they need to grow. And develop is something I'm very passionate about",
+    "q4": "I am located in Atlanta, Georgia and I'll travel up to 10 to 15 Mile to pick up shoes.",
+    "q5": "I am looking for both part-time and full-time positions."
+  },
+  "first_name": "Laquita"
+}
